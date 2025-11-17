@@ -1,0 +1,7 @@
+1750142160.8093128 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-06-17-06-36-00-807355-demulab-kohei-1668
+1750142160.8094804 [INFO] [launch]: Default logging verbosity is set to INFO
+1750142160.8646021 [INFO] [livox_ros_driver2_node-1]: process started with pid [1670]
+1750142160.8647130 [INFO] [rviz2-2]: process started with pid [1672]
+1750143000.1575403 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1750143000.4500456 [INFO] [rviz2-2]: process has finished cleanly [pid 1672]
+1750143001.2283688 [INFO] [livox_ros_driver2_node-1]: process has finished cleanly [pid 1670]

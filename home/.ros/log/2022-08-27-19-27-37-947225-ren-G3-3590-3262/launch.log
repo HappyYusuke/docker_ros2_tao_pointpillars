@@ -1,0 +1,21 @@
+1661628457.9490054 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-27-19-27-37-947225-ren-G3-3590-3262
+1661628457.9492068 [INFO] [launch]: Default logging verbosity is set to INFO
+1661628458.2624295 [INFO] [map_server-1]: process started with pid [3267]
+1661628458.2626755 [INFO] [amcl-2]: process started with pid [3269]
+1661628458.2627888 [INFO] [lifecycle_manager-3]: process started with pid [3271]
+1661628458.2629049 [INFO] [controller_server-4]: process started with pid [3273]
+1661628458.2630084 [INFO] [planner_server-5]: process started with pid [3275]
+1661628458.2630985 [INFO] [recoveries_server-6]: process started with pid [3277]
+1661628458.2631757 [INFO] [bt_navigator-7]: process started with pid [3279]
+1661628458.2632518 [INFO] [waypoint_follower-8]: process started with pid [3281]
+1661628458.2633262 [INFO] [lifecycle_manager-9]: process started with pid [3283]
+1661628648.0648832 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661628648.0835171 [INFO] [recoveries_server-6]: process has finished cleanly [pid 3277]
+1661628648.0839448 [INFO] [planner_server-5]: process has finished cleanly [pid 3275]
+1661628648.0850339 [INFO] [controller_server-4]: process has finished cleanly [pid 3273]
+1661628648.0960777 [INFO] [map_server-1]: process has finished cleanly [pid 3267]
+1661628648.0970430 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 3271]
+1661628648.1009548 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 3281]
+1661628648.1016693 [INFO] [amcl-2]: process has finished cleanly [pid 3269]
+1661628648.1076882 [INFO] [bt_navigator-7]: process has finished cleanly [pid 3279]
+1661628648.1730001 [ERROR] [lifecycle_manager-9]: process has died [pid 3283, exit code -6, cmd '/opt/ros/foxy/lib/nav2_lifecycle_manager/lifecycle_manager --ros-args -r __node:=lifecycle_manager_navigation --params-file /tmp/launch_params_4bv2ijfq --params-file /tmp/launch_params_uktoh4t3 --params-file /tmp/launch_params_lflo9cvp'].

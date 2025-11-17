@@ -1,0 +1,33 @@
+[INFO] [1661629199.529866587] [bt_navigator]: 
+	bt_navigator lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661629199.533170573] [bt_navigator]: Creating
+[INFO] [1661629199.676989940] [bt_navigator]: Configuring
+[INFO] [1661629199.701707208] [bt_navigator_rclcpp_node]: Waiting for "compute_path_to_pose" action server
+[INFO] [1661629199.701939935] [bt_navigator_rclcpp_node]: "ComputePathToPose" BtActionNode initialized
+[INFO] [1661629199.702464152] [bt_navigator_rclcpp_node]: Waiting for "global_costmap/clear_entirely_global_costmap" service
+[INFO] [1661629199.702523202] [bt_navigator_rclcpp_node]: "ClearGlobalCostmap-Context" BtServiceNode initialized
+[INFO] [1661629199.709121636] [bt_navigator_rclcpp_node]: Waiting for "follow_path" action server
+[INFO] [1661629199.709391261] [bt_navigator_rclcpp_node]: "FollowPath" BtActionNode initialized
+[INFO] [1661629199.709864133] [bt_navigator_rclcpp_node]: Waiting for "local_costmap/clear_entirely_local_costmap" service
+[INFO] [1661629199.709936610] [bt_navigator_rclcpp_node]: "ClearLocalCostmap-Context" BtServiceNode initialized
+[INFO] [1661629199.710435816] [bt_navigator_rclcpp_node]: Waiting for "local_costmap/clear_entirely_local_costmap" service
+[INFO] [1661629199.710493491] [bt_navigator_rclcpp_node]: "ClearLocalCostmap-Subtree" BtServiceNode initialized
+[INFO] [1661629199.710945137] [bt_navigator_rclcpp_node]: Waiting for "global_costmap/clear_entirely_global_costmap" service
+[INFO] [1661629199.710996750] [bt_navigator_rclcpp_node]: "ClearGlobalCostmap-Subtree" BtServiceNode initialized
+[INFO] [1661629199.713640079] [bt_navigator_rclcpp_node]: Waiting for "spin" action server
+[INFO] [1661629199.713791065] [bt_navigator_rclcpp_node]: "Spin" BtActionNode initialized
+[INFO] [1661629199.716443226] [bt_navigator_rclcpp_node]: Waiting for "wait" action server
+[INFO] [1661629199.716678681] [bt_navigator_rclcpp_node]: "Wait" BtActionNode initialized
+[INFO] [1661629225.282160084] [bt_navigator]: Activating
+[INFO] [1661629246.329574939] [bt_navigator]: Begin navigating from current location to (2.01, 0.30)
+[INFO] [1661629270.470281358] [bt_navigator]: Navigation succeeded
+[INFO] [1661629271.079088748] [bt_navigator]: Begin navigating from current location to (-1.59, -1.86)
+[INFO] [1661629282.529652220] [bt_navigator]: Received goal preemption request
+[INFO] [1661629282.529715467] [bt_navigator]: Begin navigating from current location to (-0.06, 1.74)
+[INFO] [1661629307.139577475] [bt_navigator]: Navigation succeeded
+[INFO] [1661629345.684792290] [bt_navigator]: Begin navigating from current location to (-1.77, -1.65)
+[INFO] [1661629367.795254673] [bt_navigator]: Navigation succeeded
+[INFO] [1661629710.735267749] [bt_navigator]: Begin navigating from current location to (0.14, 0.57)
+[INFO] [1661629720.939838138] [rclcpp]: signal_handler(signal_value=2)

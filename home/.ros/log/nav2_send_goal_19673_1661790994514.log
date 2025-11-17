@@ -1,0 +1,8 @@
+[INFO] [1661790994.603435176] [nav2_send_goal]: Distance remaininf = 0.209575
+[INFO] [1661790994.613044040] [nav2_send_goal]: Distance remaininf = 0.209575
+[INFO] [1661790994.623511858] [nav2_send_goal]: Distance remaininf = 0.209575
+[INFO] [1661790994.633040351] [nav2_send_goal]: Distance remaininf = 0.209575
+[INFO] [1661790994.643078286] [nav2_send_goal]: Distance remaininf = 0.209575
+[INFO] [1661790994.653176788] [nav2_send_goal]: Distance remaininf = 0.209575
+[INFO] [1661790994.663135931] [nav2_send_goal]: Success!!!
+[INFO] [1661791000.493293294] [rclcpp]: signal_handler(signal_value=2)

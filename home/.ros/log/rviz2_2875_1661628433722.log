@@ -1,0 +1,34 @@
+[INFO] [1661628434.215115587] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1661628434.215204519] [rviz2]: OpenGl version: 4.6 (GLSL 4.6)
+[INFO] [1661628434.240595373] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1661628434.359239593] [lifecycle_manager_navigation_service_client]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661628434.359411666] [lifecycle_manager_navigation_service_client]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661628434.394222129] [rviz2]: Trying to create a map of size 384 x 384 using 1 swatches
+[INFO] [1661628435.359678127] [lifecycle_manager_navigation_service_client]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661628435.359809415] [lifecycle_manager_navigation_service_client]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661628436.360009638] [lifecycle_manager_navigation_service_client]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661628436.360237208] [lifecycle_manager_navigation_service_client]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661628436.505798877] [rviz]: Message Filter dropping message: frame 'odom' at time 74.907 for reason 'Unknown'
+[INFO] [1661628436.537709532] [rviz]: Message Filter dropping message: frame 'base_scan' at time 75.000 for reason 'Unknown'
+[INFO] [1661628436.697628367] [rviz]: Message Filter dropping message: frame 'odom' at time 75.105 for reason 'Unknown'
+[INFO] [1661628436.729524434] [rviz]: Message Filter dropping message: frame 'base_scan' at time 75.201 for reason 'Unknown'
+[INFO] [1661628436.890197809] [rviz]: Message Filter dropping message: frame 'odom' at time 75.304 for reason 'Unknown'
+[INFO] [1661628436.953206594] [rviz]: Message Filter dropping message: frame 'base_scan' at time 75.401 for reason 'Unknown'
+[INFO] [1661628437.081961615] [rviz]: Message Filter dropping message: frame 'odom' at time 75.504 for reason 'Unknown'
+[INFO] [1661628437.146159222] [rviz]: Message Filter dropping message: frame 'base_scan' at time 75.601 for reason 'Unknown'
+[INFO] [1661628437.305240558] [rviz]: Message Filter dropping message: frame 'odom' at time 75.703 for reason 'Unknown'
+[INFO] [1661628437.337735682] [rviz]: Message Filter dropping message: frame 'base_scan' at time 75.801 for reason 'Unknown'
+[INFO] [1661628437.360515641] [lifecycle_manager_navigation_service_client]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661628437.360670563] [lifecycle_manager_navigation_service_client]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661628437.497881915] [rviz]: Message Filter dropping message: frame 'odom' at time 75.901 for reason 'Unknown'
+[INFO] [1661628437.530108664] [rviz]: Message Filter dropping message: frame 'base_scan' at time 76.001 for reason 'Unknown'
+[INFO] [1661628437.689696869] [rviz]: Message Filter dropping message: frame 'odom' at time 76.102 for reason 'Unknown'
+[INFO] [1661628437.753378530] [rviz]: Message Filter dropping message: frame 'base_scan' at time 76.201 for reason 'Unknown'
+[INFO] [1661628437.881470344] [rviz]: Message Filter dropping message: frame 'odom' at time 76.302 for reason 'Unknown'
+[INFO] [1661628437.946037410] [rviz]: Message Filter dropping message: frame 'base_scan' at time 76.401 for reason 'Unknown'
+[INFO] [1661628438.105432962] [rviz]: Message Filter dropping message: frame 'odom' at time 76.502 for reason 'Unknown'
+[INFO] [1661628438.137685748] [rviz]: Message Filter dropping message: frame 'base_scan' at time 76.601 for reason 'Unknown'
+[INFO] [1661628438.297634982] [rviz]: Message Filter dropping message: frame 'odom' at time 76.701 for reason 'Unknown'
+[INFO] [1661628438.360933514] [lifecycle_manager_navigation_service_client]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661628438.361096742] [lifecycle_manager_navigation_service_client]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661628438.361756750] [rviz]: Message Filter dropping message: frame 'base_scan' at time 76.801

@@ -1,0 +1,21 @@
+Dbg [parser.cc:574] Converting a deprecated source[/home/ren/colcon_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/worlds/turtlebot3_worlds/burger.model].
+Dbg [Converter.cc:68] Version[1.6] to Version[1.7]
+  Please use the gz sdf tool to update your SDF files.
+    $ gz sdf -c [sdf_file]
+Dbg [parser.cc:574] Converting a deprecated source[/home/ren/.gazebo/models/ground_plane/model.sdf].
+Dbg [Converter.cc:68] Version[1.5] to Version[1.7]
+  Please use the gz sdf tool to update your SDF files.
+    $ gz sdf -c [sdf_file]
+Dbg [parser.cc:574] Converting a deprecated source[/home/ren/.gazebo/models/sun/model.sdf].
+Dbg [Converter.cc:68] Version[1.5] to Version[1.7]
+  Please use the gz sdf tool to update your SDF files.
+    $ gz sdf -c [sdf_file]
+Dbg [parser.cc:574] Converting a deprecated source[/home/ren/colcon_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/models/turtlebot3_world/model.sdf].
+Dbg [Converter.cc:68] Version[1.5] to Version[1.7]
+  Please use the gz sdf tool to update your SDF files.
+    $ gz sdf -c [sdf_file]
+Warning [parser.cc:833] XML Attribute[version] in element[sdf] not defined in SDF, ignoring.
+Dbg [parser.cc:574] Converting a deprecated source[/home/ren/colcon_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/models/turtlebot3_burger/model.sdf].
+Dbg [Converter.cc:68] Version[1.5] to Version[1.7]
+  Please use the gz sdf tool to update your SDF files.
+    $ gz sdf -c [sdf_file]

@@ -1,0 +1,168 @@
+[INFO] [1661791199.285607904] [controller_server]: 
+	controller_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661791199.292000183] [controller_server]: Creating controller server
+[INFO] [1661791199.311322489] [local_costmap.local_costmap]: 
+	local_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661791199.312223749] [local_costmap.local_costmap]: Creating Costmap
+[INFO] [1661791199.318194666] [controller_server]: Configuring controller interface
+[INFO] [1661791199.318259218] [controller_server]: Controller frequency set to 20.0000Hz
+[INFO] [1661791199.318282043] [local_costmap.local_costmap]: Configuring
+[INFO] [1661791199.321737035] [local_costmap.local_costmap]: Using plugin "voxel_layer"
+[INFO] [1661791199.325452735] [local_costmap.local_costmap]: Subscribed to Topics: scan
+[INFO] [1661791199.332631769] [local_costmap.local_costmap]: Initialized plugin "voxel_layer"
+[INFO] [1661791199.332658220] [local_costmap.local_costmap]: Using plugin "inflation_layer"
+[INFO] [1661791199.333710652] [local_costmap.local_costmap]: Initialized plugin "inflation_layer"
+[INFO] [1661791199.339874121] [controller_server]: Created progress_checker : progress_checker of type nav2_controller::SimpleProgressChecker
+[INFO] [1661791199.340822314] [controller_server]: Created goal_checker : goal_checker of type nav2_controller::SimpleGoalChecker
+[INFO] [1661791199.343824571] [controller_server]: Created controller : FollowPath of type dwb_core::DWBLocalPlanner
+[INFO] [1661791199.344058575] [controller_server]: Setting transform_tolerance to 0.200000
+[INFO] [1661791199.354172665] [controller_server]: Using critic "RotateToGoal" (dwb_critics::RotateToGoalCritic)
+[INFO] [1661791199.354919375] [controller_server]: Critic plugin initialized
+[INFO] [1661791199.355089260] [controller_server]: Using critic "Oscillation" (dwb_critics::OscillationCritic)
+[INFO] [1661791199.355726412] [controller_server]: Critic plugin initialized
+[INFO] [1661791199.355933358] [controller_server]: Using critic "BaseObstacle" (dwb_critics::BaseObstacleCritic)
+[INFO] [1661791199.356044405] [controller_server]: Critic plugin initialized
+[INFO] [1661791199.356296359] [controller_server]: Using critic "GoalAlign" (dwb_critics::GoalAlignCritic)
+[INFO] [1661791199.356736269] [controller_server]: Critic plugin initialized
+[INFO] [1661791199.356985250] [controller_server]: Using critic "PathAlign" (dwb_critics::PathAlignCritic)
+[INFO] [1661791199.357274581] [controller_server]: Critic plugin initialized
+[INFO] [1661791199.357443712] [controller_server]: Using critic "PathDist" (dwb_critics::PathDistCritic)
+[INFO] [1661791199.357739967] [controller_server]: Critic plugin initialized
+[INFO] [1661791199.357883786] [controller_server]: Using critic "GoalDist" (dwb_critics::GoalDistCritic)
+[INFO] [1661791199.358321470] [controller_server]: Critic plugin initialized
+[INFO] [1661791199.358336787] [controller_server]: Controller Server has FollowPath  controllers available.
+[INFO] [1661791199.429635030] [controller_server]: Activating
+[INFO] [1661791199.429661683] [local_costmap.local_costmap]: Activating
+[INFO] [1661791199.429671955] [local_costmap.local_costmap]: Checking transform
+[INFO] [1661791199.429699208] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791199.929748238] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791200.429796978] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791200.929847070] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791201.429848286] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791201.929918705] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791202.429902753] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791202.929785171] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791203.429781224] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791203.929779154] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791204.429781947] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1661791204.929805751] [local_costmap.local_costmap]: start
+[INFO] [1661791220.894717095] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1661791221.945036029] [controller_server]: Passing new path to controller.
+[INFO] [1661791222.945038005] [controller_server]: Passing new path to controller.
+[INFO] [1661791223.995069746] [controller_server]: Passing new path to controller.
+[INFO] [1661791225.045037299] [controller_server]: Passing new path to controller.
+[INFO] [1661791226.045125234] [controller_server]: Passing new path to controller.
+[INFO] [1661791227.095035086] [controller_server]: Passing new path to controller.
+[INFO] [1661791228.095000721] [controller_server]: Passing new path to controller.
+[INFO] [1661791229.145047691] [controller_server]: Passing new path to controller.
+[INFO] [1661791230.195010024] [controller_server]: Passing new path to controller.
+[INFO] [1661791231.195045182] [controller_server]: Passing new path to controller.
+[INFO] [1661791232.245033679] [controller_server]: Passing new path to controller.
+[INFO] [1661791233.245095168] [controller_server]: Passing new path to controller.
+[INFO] [1661791234.295060693] [controller_server]: Passing new path to controller.
+[INFO] [1661791235.295038240] [controller_server]: Passing new path to controller.
+[INFO] [1661791236.345100426] [controller_server]: Passing new path to controller.
+[INFO] [1661791237.345003090] [controller_server]: Passing new path to controller.
+[INFO] [1661791238.395004194] [controller_server]: Passing new path to controller.
+[INFO] [1661791239.049357877] [controller_server]: Reached the goal!
+[INFO] [1661791327.486108034] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1661791327.486298898] [controller_server]: Passing new path to controller.
+[INFO] [1661791328.536361052] [controller_server]: Passing new path to controller.
+[INFO] [1661791329.536364654] [controller_server]: Passing new path to controller.
+[INFO] [1661791330.586387564] [controller_server]: Passing new path to controller.
+[ERROR] [1661791330.939887221] [DWBLocalPlanner]: No valid trajectories out of 419! 
+[ERROR] [1661791330.939935793] [DWBLocalPlanner]: 1.00: BaseObstacle/Trajectory Hits Obstacle.
+[ERROR] [1661791330.940093029] [controller_server]: No valid trajectories out of 419! 
+[WARN] [1661791330.940133336] [controller_server_rclcpp_node]: [follow_path] [ActionServer] Aborting handle.
+[INFO] [1661791330.955965751] [local_costmap.local_costmap]: Received request to clear entirely the local_costmap
+[INFO] [1661791330.956653334] [controller_server]: Received a goal, begin computing control effort.
+[ERROR] [1661791331.360605818] [DWBLocalPlanner]: No valid trajectories out of 419! 
+[ERROR] [1661791331.360637522] [DWBLocalPlanner]: 1.00: BaseObstacle/Trajectory Hits Obstacle.
+[ERROR] [1661791331.360831856] [controller_server]: No valid trajectories out of 419! 
+[WARN] [1661791331.360876954] [controller_server_rclcpp_node]: [follow_path] [ActionServer] Aborting handle.
+[INFO] [1661791331.375964725] [local_costmap.local_costmap]: Received request to clear entirely the local_costmap
+[INFO] [1661791337.256049974] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1661791337.256266472] [controller_server]: Passing new path to controller.
+[ERROR] [1661791337.815469980] [DWBLocalPlanner]: No valid trajectories out of 419! 
+[ERROR] [1661791337.815506552] [DWBLocalPlanner]: 1.00: BaseObstacle/Trajectory Hits Obstacle.
+[ERROR] [1661791337.815712155] [controller_server]: No valid trajectories out of 419! 
+[WARN] [1661791337.815774649] [controller_server_rclcpp_node]: [follow_path] [ActionServer] Aborting handle.
+[INFO] [1661791337.835839043] [local_costmap.local_costmap]: Received request to clear entirely the local_costmap
+[INFO] [1661791344.815964930] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1661791344.816220744] [controller_server]: Passing new path to controller.
+[INFO] [1661791345.866329707] [controller_server]: Passing new path to controller.
+[INFO] [1661791346.916281036] [controller_server]: Passing new path to controller.
+[INFO] [1661791347.916281965] [controller_server]: Passing new path to controller.
+[INFO] [1661791348.966281515] [controller_server]: Passing new path to controller.
+[INFO] [1661791349.966315304] [controller_server]: Passing new path to controller.
+[INFO] [1661791351.016280775] [controller_server]: Passing new path to controller.
+[INFO] [1661791352.066283166] [controller_server]: Passing new path to controller.
+[INFO] [1661791353.066280702] [controller_server]: Passing new path to controller.
+[INFO] [1661791354.116304896] [controller_server]: Passing new path to controller.
+[INFO] [1661791355.116281523] [controller_server]: Passing new path to controller.
+[INFO] [1661791356.166281663] [controller_server]: Passing new path to controller.
+[INFO] [1661791357.166279997] [controller_server]: Passing new path to controller.
+[INFO] [1661791358.216312604] [controller_server]: Passing new path to controller.
+[INFO] [1661791359.216283079] [controller_server]: Passing new path to controller.
+[INFO] [1661791360.266306468] [controller_server]: Passing new path to controller.
+[INFO] [1661791361.266345166] [controller_server]: Passing new path to controller.
+[INFO] [1661791362.316281497] [controller_server]: Passing new path to controller.
+[INFO] [1661791362.519724877] [controller_server]: Reached the goal!
+[INFO] [1661791369.316550601] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1661791369.366772045] [controller_server]: Passing new path to controller.
+[INFO] [1661791370.366808824] [controller_server]: Passing new path to controller.
+[INFO] [1661791371.416772750] [controller_server]: Passing new path to controller.
+[INFO] [1661791372.416806416] [controller_server]: Passing new path to controller.
+[INFO] [1661791373.466806724] [controller_server]: Passing new path to controller.
+[INFO] [1661791374.466772836] [controller_server]: Passing new path to controller.
+[INFO] [1661791375.516809627] [controller_server]: Passing new path to controller.
+[INFO] [1661791376.566808784] [controller_server]: Passing new path to controller.
+[INFO] [1661791377.566802520] [controller_server]: Passing new path to controller.
+[INFO] [1661791378.616811927] [controller_server]: Passing new path to controller.
+[INFO] [1661791379.616845198] [controller_server]: Passing new path to controller.
+[INFO] [1661791380.666809123] [controller_server]: Passing new path to controller.
+[INFO] [1661791381.666771815] [controller_server]: Passing new path to controller.
+[INFO] [1661791382.716807255] [controller_server]: Passing new path to controller.
+[INFO] [1661791383.716802917] [controller_server]: Passing new path to controller.
+[INFO] [1661791384.766775502] [controller_server]: Passing new path to controller.
+[INFO] [1661791385.766810213] [controller_server]: Passing new path to controller.
+[INFO] [1661791386.816807044] [controller_server]: Passing new path to controller.
+[INFO] [1661791387.816808215] [controller_server]: Passing new path to controller.
+[INFO] [1661791388.866813661] [controller_server]: Passing new path to controller.
+[INFO] [1661791389.866770257] [controller_server]: Passing new path to controller.
+[INFO] [1661791390.870053158] [controller_server]: Reached the goal!
+[INFO] [1661791396.757662822] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1661791396.807952441] [controller_server]: Passing new path to controller.
+[INFO] [1661791397.807921067] [controller_server]: Passing new path to controller.
+[INFO] [1661791398.857965835] [controller_server]: Passing new path to controller.
+[INFO] [1661791399.857930620] [controller_server]: Passing new path to controller.
+[INFO] [1661791400.907922383] [controller_server]: Passing new path to controller.
+[INFO] [1661791401.907918863] [controller_server]: Passing new path to controller.
+[INFO] [1661791402.957923447] [controller_server]: Passing new path to controller.
+[INFO] [1661791404.007920917] [controller_server]: Passing new path to controller.
+[INFO] [1661791405.007922423] [controller_server]: Passing new path to controller.
+[INFO] [1661791406.057925343] [controller_server]: Passing new path to controller.
+[INFO] [1661791407.058032970] [controller_server]: Passing new path to controller.
+[INFO] [1661791408.107926991] [controller_server]: Passing new path to controller.
+[INFO] [1661791409.107942363] [controller_server]: Passing new path to controller.
+[INFO] [1661791410.157920702] [controller_server]: Passing new path to controller.
+[INFO] [1661791411.157922611] [controller_server]: Passing new path to controller.
+[INFO] [1661791412.158053934] [controller_server]: Passing new path to controller.
+[INFO] [1661791413.207923364] [controller_server]: Passing new path to controller.
+[INFO] [1661791414.258065489] [controller_server]: Passing new path to controller.
+[INFO] [1661791415.257957260] [controller_server]: Passing new path to controller.
+[INFO] [1661791416.308118959] [controller_server]: Passing new path to controller.
+[INFO] [1661791417.307988884] [controller_server]: Passing new path to controller.
+[INFO] [1661791417.411442473] [controller_server]: Reached the goal!
+[INFO] [1661791590.802374051] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1661791590.852593706] [controller_server]: Passing new path to controller.
+[INFO] [1661791591.852596900] [controller_server]: Passing new path to controller.
+[INFO] [1661791592.902642252] [controller_server]: Passing new path to controller.
+[INFO] [1661791593.902598788] [controller_server]: Passing new path to controller.
+[INFO] [1661791594.952624889] [controller_server]: Passing new path to controller.
+[INFO] [1661791595.952634365] [controller_server]: Passing new path to controller.
+[INFO] [1661791596.430078983] [rclcpp]: signal_handler(signal_value=2)

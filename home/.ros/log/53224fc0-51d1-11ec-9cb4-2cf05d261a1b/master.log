@@ -1,0 +1,57 @@
+[rosmaster.main][INFO] 2021-11-30 11:33:23,227: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2021-11-30 11:33:23,227: Starting ROS Master Node
+[xmlrpc][INFO] 2021-11-30 11:33:23,228: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2021-11-30 11:33:23,228: Started XML-RPC server [http://demulab-MS-7B51:11311/]
+[xmlrpc][INFO] 2021-11-30 11:33:23,228: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2021-11-30 11:33:23,228: Master initialized: port[11311], uri[http://demulab-MS-7B51:11311/]
+[rosmaster.master][INFO] 2021-11-30 11:33:23,296: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2021-11-30 11:33:23,297: +PARAM [/roslaunch/uris/host_demulab_ms_7b51__36487] by /roslaunch
+[rosmaster.master][INFO] 2021-11-30 11:33:23,388: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2021-11-30 11:33:23,388: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2021-11-30 11:33:23,403: +SERVICE [/rosout/get_loggers] /rosout http://demulab-MS-7B51:45107/
+[rosmaster.master][INFO] 2021-11-30 11:33:23,403: +SERVICE [/rosout/set_logger_level] /rosout http://demulab-MS-7B51:45107/
+[rosmaster.master][INFO] 2021-11-30 11:33:23,404: +PUB [/rosout_agg] /rosout http://demulab-MS-7B51:45107/
+[rosmaster.master][INFO] 2021-11-30 11:33:23,405: +SUB [/rosout] /rosout http://demulab-MS-7B51:45107/
+[rosmaster.master][INFO] 2021-11-30 11:33:25,986: +PUB [/rosout] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:25,986: +SERVICE [/rviz_1638272005981675460/get_loggers] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:25,986: +SERVICE [/rviz_1638272005981675460/set_logger_level] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:25,987: +CACHEDPARAM [/rosout_disable_topics_generation] by /rviz_1638272005981675460
+[rosmaster.master][INFO] 2021-11-30 11:33:26,034: publisherUpdate[/rosout] -> http://demulab-MS-7B51:45107/ ['http://demulab-MS-7B51:45265/']
+[rosmaster.master][INFO] 2021-11-30 11:33:26,050: publisherUpdate[/rosout] -> http://demulab-MS-7B51:45107/ ['http://demulab-MS-7B51:45265/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-11-30 11:33:26,251: +CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.master][INFO] 2021-11-30 11:33:26,513: +SUB [/tf] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,514: +SUB [/tf_static] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,590: +PUB [/initialpose] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,591: +PUB [/goal] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,593: -PUB [/goal] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,593: -PUB [/initialpose] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,595: +PUB [/initialpose] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,596: +PUB [/goal] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,596: +PUB [/move_base_simple/goal] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,596: -PUB [/goal] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,597: +PUB [/clicked_point] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,623: +SERVICE [/rviz_1638272005981675460/reload_shaders] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,624: +SERVICE [/rviz_1638272005981675460/load_config] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:26,624: +SERVICE [/rviz_1638272005981675460/save_config] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:32,161: -PUB [/rosout] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:32,162: -PUB [/initialpose] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:32,162: -PUB [/move_base_simple/goal] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:32,162: -PUB [/clicked_point] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:32,163: -SUB [/tf] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:32,163: -SUB [/tf_static] /rviz_1638272005981675460 http://demulab-MS-7B51:45265/
+[rosmaster.master][INFO] 2021-11-30 11:33:32,163: -SERVICE [/rviz_1638272005981675460/get_loggers] /rviz_1638272005981675460 rosrpc://demulab-MS-7B51:48953
+[rosmaster.master][INFO] 2021-11-30 11:33:32,163: -SERVICE [/rviz_1638272005981675460/set_logger_level] /rviz_1638272005981675460 rosrpc://demulab-MS-7B51:48953
+[rosmaster.master][INFO] 2021-11-30 11:33:32,164: -SERVICE [/rviz_1638272005981675460/reload_shaders] /rviz_1638272005981675460 rosrpc://demulab-MS-7B51:48953
+[rosmaster.master][INFO] 2021-11-30 11:33:32,164: -SERVICE [/rviz_1638272005981675460/load_config] /rviz_1638272005981675460 rosrpc://demulab-MS-7B51:48953
+[rosmaster.master][INFO] 2021-11-30 11:33:32,164: -SERVICE [/rviz_1638272005981675460/save_config] /rviz_1638272005981675460 rosrpc://demulab-MS-7B51:48953
+[rosmaster.master][INFO] 2021-11-30 11:33:32,164: -CACHEDPARAM [/rosout_disable_topics_generation] by /rviz_1638272005981675460
+[rosmaster.master][INFO] 2021-11-30 11:33:32,245: publisherUpdate[/rosout] -> http://demulab-MS-7B51:45107/ []
+[rosmaster.master][INFO] 2021-11-30 11:33:32,262: publisherUpdate[/rosout] -> http://demulab-MS-7B51:45107/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-11-30 11:33:32,963: -PUB [/rosout_agg] /rosout http://demulab-MS-7B51:45107/
+[rosmaster.master][INFO] 2021-11-30 11:33:32,963: -SUB [/rosout] /rosout http://demulab-MS-7B51:45107/
+[rosmaster.master][INFO] 2021-11-30 11:33:32,964: -SERVICE [/rosout/get_loggers] /rosout rosrpc://demulab-MS-7B51:35147
+[rosmaster.master][INFO] 2021-11-30 11:33:32,964: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://demulab-MS-7B51:35147
+[rosmaster.master][INFO] 2021-11-30 11:33:32,964: -CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.main][INFO] 2021-11-30 11:33:33,030: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2021-11-30 11:33:33,030: stopping master...
+[rospy.core][INFO] 2021-11-30 11:33:33,030: signal_shutdown [atexit]

@@ -1,0 +1,4 @@
+1750233962.5902812 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-06-18-08-06-02-584953-demulab-kohei-155
+1750233962.5904627 [INFO] [launch]: Default logging verbosity is set to INFO
+1750233962.6802280 [INFO] [livox_ros_driver2_node-1]: process started with pid [157]
+1750233962.6803308 [INFO] [rviz2-2]: process started with pid [159]

@@ -1,0 +1,10 @@
+1751356816.1594036 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-07-01-17-00-16-154141-demulab-kohei-346
+1751356816.1595519 [INFO] [launch]: Default logging verbosity is set to INFO
+1751356816.2112279 [INFO] [pp_infer-1]: process started with pid [348]
+1751356816.2382188 [pp_infer-1] 1751356816.237966 [0]   pp_infer: using network interface enp3s0 (udp/202.13.162.116) selected arbitrarily from: enp3s0, docker0
+1751356816.4457414 [pp_infer-1] Loading Model: /home/demulab-kohei/colcon_ws/src/ros2_tao_pointpillars/include/pointpillars_deployable.onnx
+1751356816.4458101 [pp_infer-1] Building TRT engine from the model.
+1751356873.1149783 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1751356873.1177855 [pp_infer-1] [INFO] [1751356873.114510744] [rclcpp]: signal_handler(signal_value=2)
+1751356873.6675742 [pp_infer-1] Unexpected Internal Error: [virtualMemoryBuffer.cpp::~StdVirtualMemoryBufferImpl::121] Error Code 1: Cuda Runtime (driver shutting down)
+1751356873.8461297 [INFO] [pp_infer-1]: process has finished cleanly [pid 348]

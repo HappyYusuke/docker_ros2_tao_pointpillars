@@ -1,0 +1,9 @@
+1661626909.1523430 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-27-19-01-49-150501-ren-G3-3590-1895
+1661626909.1525478 [INFO] [launch]: Default logging verbosity is set to INFO
+1661626909.2184770 [INFO] [cartographer_node-1]: process started with pid [1898]
+1661626909.2186360 [INFO] [occupancy_grid_node-2]: process started with pid [1900]
+1661626909.2187421 [INFO] [rviz2-3]: process started with pid [1902]
+1661626952.7271721 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661626952.7429130 [INFO] [occupancy_grid_node-2]: process has finished cleanly [pid 1900]
+1661626952.7474408 [INFO] [cartographer_node-1]: process has finished cleanly [pid 1898]
+1661626952.7927537 [INFO] [rviz2-3]: process has finished cleanly [pid 1902]

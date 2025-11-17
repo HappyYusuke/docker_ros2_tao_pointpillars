@@ -1,0 +1,42 @@
+[INFO] [1661629722.685335740] [controller_server]: 
+	controller_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661629722.688867078] [controller_server]: Creating controller server
+[INFO] [1661629722.721815680] [local_costmap.local_costmap]: 
+	local_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661629722.722185441] [local_costmap.local_costmap]: Creating Costmap
+[INFO] [1661629722.732336080] [controller_server]: Configuring controller interface
+[INFO] [1661629722.732420834] [controller_server]: Controller frequency set to 20.0000Hz
+[INFO] [1661629722.732441838] [local_costmap.local_costmap]: Configuring
+[INFO] [1661629722.740642044] [local_costmap.local_costmap]: Using plugin "voxel_layer"
+[INFO] [1661629722.744849870] [local_costmap.local_costmap]: Subscribed to Topics: scan
+[INFO] [1661629722.749511943] [local_costmap.local_costmap]: Initialized plugin "voxel_layer"
+[INFO] [1661629722.749549719] [local_costmap.local_costmap]: Using plugin "inflation_layer"
+[INFO] [1661629722.750077784] [local_costmap.local_costmap]: Initialized plugin "inflation_layer"
+[INFO] [1661629722.756537711] [controller_server]: Created progress_checker : progress_checker of type nav2_controller::SimpleProgressChecker
+[INFO] [1661629722.757084099] [controller_server]: Created goal_checker : goal_checker of type nav2_controller::SimpleGoalChecker
+[INFO] [1661629722.759720400] [controller_server]: Created controller : FollowPath of type dwb_core::DWBLocalPlanner
+[INFO] [1661629722.760778403] [controller_server]: Setting transform_tolerance to 0.200000
+[INFO] [1661629722.776524336] [controller_server]: Using critic "RotateToGoal" (dwb_critics::RotateToGoalCritic)
+[INFO] [1661629722.777315965] [controller_server]: Critic plugin initialized
+[INFO] [1661629722.777543763] [controller_server]: Using critic "Oscillation" (dwb_critics::OscillationCritic)
+[INFO] [1661629722.778520854] [controller_server]: Critic plugin initialized
+[INFO] [1661629722.778805602] [controller_server]: Using critic "BaseObstacle" (dwb_critics::BaseObstacleCritic)
+[INFO] [1661629722.779072160] [controller_server]: Critic plugin initialized
+[INFO] [1661629722.779559297] [controller_server]: Using critic "GoalAlign" (dwb_critics::GoalAlignCritic)
+[INFO] [1661629722.780477345] [controller_server]: Critic plugin initialized
+[INFO] [1661629722.780725932] [controller_server]: Using critic "PathAlign" (dwb_critics::PathAlignCritic)
+[INFO] [1661629722.781287075] [controller_server]: Critic plugin initialized
+[INFO] [1661629722.781494108] [controller_server]: Using critic "PathDist" (dwb_critics::PathDistCritic)
+[INFO] [1661629722.782003427] [controller_server]: Critic plugin initialized
+[INFO] [1661629722.782207913] [controller_server]: Using critic "GoalDist" (dwb_critics::GoalDistCritic)
+[INFO] [1661629722.782562673] [controller_server]: Critic plugin initialized
+[INFO] [1661629722.782587182] [controller_server]: Controller Server has FollowPath  controllers available.
+[INFO] [1661629722.879870207] [controller_server]: Activating
+[INFO] [1661629722.879892037] [local_costmap.local_costmap]: Activating
+[INFO] [1661629722.879901386] [local_costmap.local_costmap]: Checking transform
+[INFO] [1661629722.879970958] [local_costmap.local_costmap]: start
+[INFO] [1661629771.887808689] [rclcpp]: signal_handler(signal_value=2)

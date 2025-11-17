@@ -1,0 +1,23 @@
+1661790797.9159381 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-29-16-33-17-912743-ren-G3-3590-12206
+1661790797.9162736 [INFO] [launch]: Default logging verbosity is set to INFO
+1661790798.3176098 [INFO] [map_server-1]: process started with pid [12239]
+1661790798.3178811 [INFO] [amcl-2]: process started with pid [12241]
+1661790798.3180087 [INFO] [lifecycle_manager-3]: process started with pid [12243]
+1661790798.3181109 [INFO] [controller_server-4]: process started with pid [12245]
+1661790798.3182063 [INFO] [planner_server-5]: process started with pid [12247]
+1661790798.3183010 [INFO] [recoveries_server-6]: process started with pid [12249]
+1661790798.3183916 [INFO] [bt_navigator-7]: process started with pid [12251]
+1661790798.3184848 [INFO] [waypoint_follower-8]: process started with pid [12253]
+1661790798.3185763 [INFO] [lifecycle_manager-9]: process started with pid [12255]
+1661790798.3186669 [INFO] [rviz2-10]: process started with pid [12257]
+1661791098.1649184 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661791098.1778071 [INFO] [planner_server-5]: process has finished cleanly [pid 12247]
+1661791098.1780298 [INFO] [controller_server-4]: process has finished cleanly [pid 12245]
+1661791098.1783311 [INFO] [recoveries_server-6]: process has finished cleanly [pid 12249]
+1661791098.1784599 [INFO] [map_server-1]: process has finished cleanly [pid 12239]
+1661791098.1825204 [INFO] [amcl-2]: process has finished cleanly [pid 12241]
+1661791098.1830640 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 12243]
+1661791098.1857729 [INFO] [lifecycle_manager-9]: process has finished cleanly [pid 12255]
+1661791098.1860008 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 12253]
+1661791098.2883577 [INFO] [rviz2-10]: process has finished cleanly [pid 12257]
+1661791098.3005896 [ERROR] [bt_navigator-7]: process has died [pid 12251, exit code -6, cmd '/home/ren/colcon_ws/install/nav2_bt_navigator/lib/nav2_bt_navigator/bt_navigator --ros-args -r __node:=bt_navigator --params-file /tmp/tmpqwsmn7or -r /tf:=tf -r /tf_static:=tf_static'].

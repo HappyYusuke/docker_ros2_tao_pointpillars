@@ -1,0 +1,9 @@
+1661790300.6935492 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-29-16-25-00-690073-ren-G3-3590-5845
+1661790300.6938674 [INFO] [launch]: Default logging verbosity is set to INFO
+1661790301.8650312 [INFO] [gzserver-1]: process started with pid [5948]
+1661790301.8652623 [INFO] [gzclient   -2]: process started with pid [5950]
+1661790301.8653972 [INFO] [robot_state_publisher-3]: process started with pid [5952]
+1661790792.6139688 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661790792.6235232 [INFO] [robot_state_publisher-3]: process has finished cleanly [pid 5952]
+1661790792.6894672 [ERROR] [gzserver-1]: process has died [pid 5948, exit code -2, cmd 'gzserver /home/ren/colcon_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/worlds/turtlebot3_worlds/burger.model                                                                      -s libgazebo_ros_init.so   -s libgazebo_ros_factory.so   -s libgazebo_ros_force_system.so       '].
+1661790792.7676680 [ERROR] [gzclient   -2]: process has died [pid 5950, exit code -2, cmd 'gzclient   '].

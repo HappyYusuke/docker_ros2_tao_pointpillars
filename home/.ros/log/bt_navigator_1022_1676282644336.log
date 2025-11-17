@@ -1,0 +1,26 @@
+[INFO] [1676282644.430961505] [bt_navigator]: 
+	bt_navigator lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1676282644.431272304] [bt_navigator]: Creating
+[INFO] [1676282644.749990735] [bt_navigator]: Configuring
+[INFO] [1676282644.850365368] [bt_navigator_rclcpp_node]: Waiting for "compute_path_to_pose" action server
+[INFO] [1676282644.850629796] [bt_navigator_rclcpp_node]: "ComputePathToPose" BtActionNode initialized
+[INFO] [1676282644.851880710] [bt_navigator_rclcpp_node]: Waiting for "global_costmap/clear_entirely_global_costmap" service
+[INFO] [1676282644.851990241] [bt_navigator_rclcpp_node]: "ClearGlobalCostmap-Context" BtServiceNode initialized
+[INFO] [1676282644.856751130] [bt_navigator_rclcpp_node]: Waiting for "follow_path" action server
+[INFO] [1676282644.856966675] [bt_navigator_rclcpp_node]: "FollowPath" BtActionNode initialized
+[INFO] [1676282644.858029512] [bt_navigator_rclcpp_node]: Waiting for "local_costmap/clear_entirely_local_costmap" service
+[INFO] [1676282644.858131781] [bt_navigator_rclcpp_node]: "ClearLocalCostmap-Context" BtServiceNode initialized
+[INFO] [1676282644.860220185] [bt_navigator_rclcpp_node]: Waiting for "local_costmap/clear_entirely_local_costmap" service
+[INFO] [1676282644.860330628] [bt_navigator_rclcpp_node]: "ClearLocalCostmap-Subtree" BtServiceNode initialized
+[INFO] [1676282644.861372466] [bt_navigator_rclcpp_node]: Waiting for "global_costmap/clear_entirely_global_costmap" service
+[INFO] [1676282644.861473484] [bt_navigator_rclcpp_node]: "ClearGlobalCostmap-Subtree" BtServiceNode initialized
+[INFO] [1676282644.866499719] [bt_navigator_rclcpp_node]: Waiting for "spin" action server
+[INFO] [1676282644.866824437] [bt_navigator_rclcpp_node]: "Spin" BtActionNode initialized
+[INFO] [1676282644.872410334] [bt_navigator_rclcpp_node]: Waiting for "wait" action server
+[INFO] [1676282644.872676623] [bt_navigator_rclcpp_node]: "Wait" BtActionNode initialized
+[INFO] [1676282654.954551573] [bt_navigator]: Activating
+[INFO] [1676282663.941328402] [bt_navigator]: Begin navigating from current location to (1.73, 0.29)
+[INFO] [1676282683.212516907] [bt_navigator]: Navigation succeeded
+[INFO] [1676282698.533975620] [rclcpp]: signal_handler(signal_value=2)

@@ -1,0 +1,23 @@
+1661791615.1420453 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-29-16-46-55-139642-ren-G3-3590-28195
+1661791615.1422608 [INFO] [launch]: Default logging verbosity is set to INFO
+1661791615.4945159 [INFO] [map_server-1]: process started with pid [28220]
+1661791615.4947603 [INFO] [amcl-2]: process started with pid [28222]
+1661791615.4948940 [INFO] [lifecycle_manager-3]: process started with pid [28224]
+1661791615.4950094 [INFO] [controller_server-4]: process started with pid [28226]
+1661791615.4951229 [INFO] [planner_server-5]: process started with pid [28228]
+1661791615.4952312 [INFO] [recoveries_server-6]: process started with pid [28230]
+1661791615.4953382 [INFO] [bt_navigator-7]: process started with pid [28232]
+1661791615.4954476 [INFO] [waypoint_follower-8]: process started with pid [28234]
+1661791615.4955544 [INFO] [lifecycle_manager-9]: process started with pid [28236]
+1661791615.4956598 [INFO] [rviz2-10]: process started with pid [28238]
+1661792316.8367379 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661792316.8424261 [INFO] [recoveries_server-6]: process has finished cleanly [pid 28230]
+1661792316.8426306 [INFO] [controller_server-4]: process has finished cleanly [pid 28226]
+1661792316.8433890 [INFO] [planner_server-5]: process has finished cleanly [pid 28228]
+1661792316.8514888 [INFO] [map_server-1]: process has finished cleanly [pid 28220]
+1661792316.8516943 [INFO] [lifecycle_manager-9]: process has finished cleanly [pid 28236]
+1661792316.8518355 [INFO] [amcl-2]: process has finished cleanly [pid 28222]
+1661792316.8529527 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 28234]
+1661792316.8567388 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 28224]
+1661792316.8580899 [INFO] [bt_navigator-7]: process has finished cleanly [pid 28232]
+1661792316.8882442 [INFO] [rviz2-10]: process has finished cleanly [pid 28238]

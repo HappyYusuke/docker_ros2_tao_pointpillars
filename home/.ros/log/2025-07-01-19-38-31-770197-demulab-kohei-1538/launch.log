@@ -1,0 +1,17 @@
+1751366311.7721596 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-07-01-19-38-31-770197-demulab-kohei-1538
+1751366311.7723100 [INFO] [launch]: Default logging verbosity is set to INFO
+1751366311.8237090 [INFO] [pp_infer-1]: process started with pid [1540]
+1751366311.8505321 [pp_infer-1] 1751366311.850267 [0]   pp_infer: using network interface enp3s0 (udp/202.13.162.116) selected arbitrarily from: enp3s0, docker0
+1751366312.0924158 [pp_infer-1] Loading Model: /home/demulab-kohei/colcon_ws/src/ros2_tao_pointpillars/include/pointpillars_deployable.onnx
+1751366312.0924830 [pp_infer-1] Building TRT engine from the model.
+1751366312.9280982 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1751366312.9288292 [pp_infer-1] [INFO] [1751366312.927977726] [rclcpp]: signal_handler(signal_value=2)
+1751366314.9431148 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1751366314.9433467 [pp_infer-1] [INFO] [1751366314.942893760] [rclcpp]: signal_handler(signal_value=2)
+1751366315.1381721 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1751366315.1383746 [pp_infer-1] [INFO] [1751366315.138063668] [rclcpp]: signal_handler(signal_value=2)
+1751366315.3169010 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1751366315.3171809 [pp_infer-1] [INFO] [1751366315.316809720] [rclcpp]: signal_handler(signal_value=2)
+1751366317.4916580 [pp_infer-1] terminate called after throwing an instance of 'rclcpp::exceptions::RCLError'
+1751366317.4917562 [pp_infer-1]   what():  could not create publisher: rcl node's context is invalid, at /tmp/binarydeb/ros-foxy-rcl-1.1.14/src/rcl/node.c:441
+1751366317.6913242 [ERROR] [pp_infer-1]: process has died [pid 1540, exit code -6, cmd '/home/demulab-kohei/colcon_ws/install/pp_infer/lib/pp_infer/pp_infer --ros-args --params-file /tmp/launch_params_2y8wzs6_ -r /point_cloud:=/livox/lidar'].

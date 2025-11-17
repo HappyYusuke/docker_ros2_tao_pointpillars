@@ -1,0 +1,23 @@
+1661791597.6224124 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-29-16-46-37-619832-ren-G3-3590-27875
+1661791597.6226270 [INFO] [launch]: Default logging verbosity is set to INFO
+1661791597.9777255 [INFO] [map_server-1]: process started with pid [27877]
+1661791597.9779592 [INFO] [amcl-2]: process started with pid [27879]
+1661791597.9780962 [INFO] [lifecycle_manager-3]: process started with pid [27881]
+1661791597.9782238 [INFO] [controller_server-4]: process started with pid [27883]
+1661791597.9783370 [INFO] [planner_server-5]: process started with pid [27885]
+1661791597.9784448 [INFO] [recoveries_server-6]: process started with pid [27887]
+1661791597.9785480 [INFO] [bt_navigator-7]: process started with pid [27889]
+1661791597.9786763 [INFO] [waypoint_follower-8]: process started with pid [27891]
+1661791597.9787881 [INFO] [lifecycle_manager-9]: process started with pid [27893]
+1661791597.9788785 [INFO] [rviz2-10]: process started with pid [27895]
+1661791612.4345634 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661791612.4461758 [INFO] [recoveries_server-6]: process has finished cleanly [pid 27887]
+1661791612.4463377 [INFO] [controller_server-4]: process has finished cleanly [pid 27883]
+1661791612.4506421 [INFO] [planner_server-5]: process has finished cleanly [pid 27885]
+1661791612.4520185 [INFO] [map_server-1]: process has finished cleanly [pid 27877]
+1661791612.4542739 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 27891]
+1661791612.4543829 [INFO] [amcl-2]: process has finished cleanly [pid 27879]
+1661791612.4553699 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 27881]
+1661791612.4593389 [INFO] [bt_navigator-7]: process has finished cleanly [pid 27889]
+1661791612.5279782 [ERROR] [lifecycle_manager-9]: process has died [pid 27893, exit code -6, cmd '/home/ren/colcon_ws/install/nav2_lifecycle_manager/lib/nav2_lifecycle_manager/lifecycle_manager --ros-args -r __node:=lifecycle_manager_navigation --params-file /tmp/launch_params_y5tqb7ua --params-file /tmp/launch_params_mq3fw073 --params-file /tmp/launch_params_ni13alsa'].
+1661791612.5393846 [ERROR] [rviz2-10]: process has died [pid 27895, exit code -6, cmd '/opt/ros/foxy/lib/rviz2/rviz2 -d /home/ren/colcon_ws/install/nav2_bringup/share/nav2_bringup/rviz/nav2_default_view.rviz --ros-args -r __node:=rviz2 -r __node:=rviz2 --params-file /tmp/launch_params_xdxd0uji'].

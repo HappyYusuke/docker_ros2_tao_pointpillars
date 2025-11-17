@@ -1,0 +1,12 @@
+[INFO] [1661789379.617876510] [recoveries_server]: 
+	recoveries_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661789379.741493592] [recoveries_server]: Configuring
+[INFO] [1661789379.744441002] [recoveries_server]: Creating recovery plugin spin of type nav2_recoveries/Spin
+[INFO] [1661789379.745586308] [recoveries_server]: Configuring spin
+[INFO] [1661789379.748376880] [recoveries_server]: Creating recovery plugin back_up of type nav2_recoveries/BackUp
+[INFO] [1661789379.749379419] [recoveries_server]: Configuring back_up
+[INFO] [1661789379.752232666] [recoveries_server]: Creating recovery plugin wait of type nav2_recoveries/Wait
+[INFO] [1661789379.753192873] [recoveries_server]: Configuring wait
+[INFO] [1661789561.362160684] [rclcpp]: signal_handler(signal_value=2)

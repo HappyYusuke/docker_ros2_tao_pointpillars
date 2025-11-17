@@ -1,0 +1,7 @@
+[INFO] [1750140831.317723716] [livox_lidar_publisher]: Livox Ros Driver2 Version: 1.2.4
+[INFO] [1750140831.317926077] [livox_lidar_publisher]: Data Source is raw lidar.
+[INFO] [1750140831.317937775] [livox_lidar_publisher]: Config file : /home/demulab-kohei/colcon_ws/install/livox_ros_driver2/share/livox_ros_driver2/launch_ROS2/../config/MID360_config.json
+[INFO] [1750140831.319395888] [livox_lidar_publisher]: Init lds lidar success!
+[INFO] [1750140834.319610000] [livox_lidar_publisher]: livox/imu publish use imu format
+[INFO] [1750140834.321067660] [livox_lidar_publisher]: livox/lidar publish use PointCloud2 format
+[INFO] [1750141635.822932218] [rclcpp]: signal_handler(signal_value=2)

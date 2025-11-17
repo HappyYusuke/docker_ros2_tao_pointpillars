@@ -1,0 +1,40 @@
+1751366333.5485532 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-07-01-19-38-53-546608-demulab-kohei-1560
+1751366333.5487001 [INFO] [launch]: Default logging verbosity is set to INFO
+1751366333.6005082 [INFO] [pp_infer-1]: process started with pid [1562]
+1751366333.6271074 [pp_infer-1] 1751366333.626868 [0]   pp_infer: using network interface enp3s0 (udp/202.13.162.116) selected arbitrarily from: enp3s0, docker0
+1751366333.8763046 [pp_infer-1] Loading Model: /home/demulab-kohei/colcon_ws/src/ros2_tao_pointpillars/include/pointpillars_deployable.onnx
+1751366333.8763723 [pp_infer-1] Building TRT engine from the model.
+1751366339.6231968 [pp_infer-1] TIME: doinfer: 11.2985 ms.
+1751366339.6243124 [pp_infer-1] [INFO] [1751366339.624159850] [minimal_publisher]: TIME: 12.436480 ms, Objects detected: 69
+1751366340.0655961 [pp_infer-1] TIME: doinfer: 5.4743 ms.
+1751366340.0667534 [pp_infer-1] [INFO] [1751366340.066612290] [minimal_publisher]: TIME: 6.689472 ms, Objects detected: 86
+1751366340.4769320 [pp_infer-1] TIME: doinfer: 5.87334 ms.
+1751366340.4782145 [pp_infer-1] [INFO] [1751366340.478050783] [minimal_publisher]: TIME: 7.198560 ms, Objects detected: 76
+1751366340.8810980 [pp_infer-1] TIME: doinfer: 5.40979 ms.
+1751366340.8819175 [pp_infer-1] [INFO] [1751366340.881796671] [minimal_publisher]: TIME: 6.313984 ms, Objects detected: 68
+1751366341.3139224 [pp_infer-1] TIME: doinfer: 5.48864 ms.
+1751366341.3145719 [pp_infer-1] [INFO] [1751366341.314417077] [minimal_publisher]: TIME: 6.181888 ms, Objects detected: 57
+1751366341.7041688 [pp_infer-1] TIME: doinfer: 5.49786 ms.
+1751366341.7050896 [pp_infer-1] [INFO] [1751366341.704947016] [minimal_publisher]: TIME: 6.473728 ms, Objects detected: 76
+1751366342.0525601 [pp_infer-1] TIME: doinfer: 5.53242 ms.
+1751366342.0534818 [pp_infer-1] [INFO] [1751366342.053369316] [minimal_publisher]: TIME: 6.541056 ms, Objects detected: 76
+1751366342.4329188 [pp_infer-1] TIME: doinfer: 6.15322 ms.
+1751366342.4383202 [pp_infer-1] [INFO] [1751366342.437796287] [minimal_publisher]: TIME: 11.789184 ms, Objects detected: 69
+1751366342.7988563 [pp_infer-1] TIME: doinfer: 5.56502 ms.
+1751366342.7996271 [pp_infer-1] [INFO] [1751366342.799486069] [minimal_publisher]: TIME: 6.395104 ms, Objects detected: 67
+1751366343.1990776 [pp_infer-1] TIME: doinfer: 6.57101 ms.
+1751366343.2049420 [pp_infer-1] [INFO] [1751366343.204442124] [minimal_publisher]: TIME: 12.538048 ms, Objects detected: 78
+1751366343.5572093 [pp_infer-1] TIME: doinfer: 5.50195 ms.
+1751366343.5578494 [pp_infer-1] [INFO] [1751366343.557736082] [minimal_publisher]: TIME: 6.226944 ms, Objects detected: 59
+1751366343.9184680 [pp_infer-1] TIME: doinfer: 5.68525 ms.
+1751366343.9215262 [pp_infer-1] [INFO] [1751366343.921033978] [minimal_publisher]: TIME: 8.891232 ms, Objects detected: 50
+1751366344.2505972 [pp_infer-1] TIME: doinfer: 5.69338 ms.
+1751366344.2552729 [pp_infer-1] [INFO] [1751366344.254648850] [minimal_publisher]: TIME: 10.365632 ms, Objects detected: 62
+1751366344.5976143 [pp_infer-1] TIME: doinfer: 6.07334 ms.
+1751366344.5985043 [pp_infer-1] [INFO] [1751366344.598392476] [minimal_publisher]: TIME: 7.062400 ms, Objects detected: 69
+1751366344.9136896 [pp_infer-1] TIME: doinfer: 6.03238 ms.
+1751366344.9198866 [pp_infer-1] [INFO] [1751366344.919348837] [minimal_publisher]: TIME: 12.284000 ms, Objects detected: 78
+1751366345.1085582 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1751366345.1117966 [pp_infer-1] [INFO] [1751366345.108192885] [rclcpp]: signal_handler(signal_value=2)
+1751366345.5939691 [pp_infer-1] Unexpected Internal Error: [virtualMemoryBuffer.cpp::~StdVirtualMemoryBufferImpl::121] Error Code 1: Cuda Runtime (driver shutting down)
+1751366345.7485955 [INFO] [pp_infer-1]: process has finished cleanly [pid 1562]

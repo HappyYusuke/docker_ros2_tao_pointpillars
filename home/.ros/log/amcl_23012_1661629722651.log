@@ -1,0 +1,17 @@
+[INFO] [1661629722.680521143] [amcl]: 
+	amcl lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661629722.680679683] [amcl]: Creating
+[INFO] [1661629722.826395625] [amcl]: Configuring
+[INFO] [1661629722.826497065] [amcl]: initTransforms
+[INFO] [1661629722.833910715] [amcl]: initPubSub
+[INFO] [1661629722.835996198] [amcl]: Subscribed to map topic.
+[INFO] [1661629722.841663658] [amcl]: Received a 384 X 384 map @ 0.050 m/pix
+[INFO] [1661629722.843163770] [amcl]: Activating
+[WARN] [1661629722.843185793] [amcl]: Publishing the particle cloud as geometry_msgs/PoseArray msg is deprecated, will be published as nav2_msgs/ParticleCloud in the future
+[INFO] [1661629737.372613861] [amcl]: initialPoseReceived
+[INFO] [1661629737.372923758] [amcl]: Setting pose (1661629737.372923): -0.929 -1.718 -0.035
+[INFO] [1661629743.210472731] [amcl]: initialPoseReceived
+[INFO] [1661629743.210559748] [amcl]: Setting pose (1661629743.210560): -0.728 -1.782 0.065
+[INFO] [1661629771.887792760] [rclcpp]: signal_handler(signal_value=2)

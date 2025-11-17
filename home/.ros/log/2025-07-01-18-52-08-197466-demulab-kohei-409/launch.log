@@ -1,0 +1,2050 @@
+1751363528.2025461 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-07-01-18-52-08-197466-demulab-kohei-409
+1751363528.2027113 [INFO] [launch]: Default logging verbosity is set to INFO
+1751363528.2621529 [INFO] [pp_infer-1]: process started with pid [411]
+1751363528.4133494 [pp_infer-1] 1751363528.412988 [0]   pp_infer: using network interface enp3s0 (udp/202.13.162.116) selected arbitrarily from: enp3s0, docker0
+1751363528.6379659 [pp_infer-1] Loading Model: /home/demulab-kohei/colcon_ws/src/ros2_tao_pointpillars/include/pointpillars_deployable.onnx
+1751363528.6380317 [pp_infer-1] Building TRT engine from the model.
+1751363672.1331575 [pp_infer-1] TIME: doinfer: 46.5028 ms.
+1751363672.1333773 [pp_infer-1] [INFO] [1751363672.133298718] [minimal_publisher]: TIME: 46.888962 ms, Objects detected: 7
+1751363672.1791370 [pp_infer-1] TIME: doinfer: 5.56093 ms.
+1751363672.1795084 [pp_infer-1] [INFO] [1751363672.179329928] [minimal_publisher]: TIME: 5.963904 ms, Objects detected: 9
+1751363672.2825885 [pp_infer-1] TIME: doinfer: 5.69763 ms.
+1751363672.2837822 [pp_infer-1] [INFO] [1751363672.283300733] [minimal_publisher]: TIME: 6.914048 ms, Objects detected: 10
+1751363672.3802917 [pp_infer-1] TIME: doinfer: 6.0457 ms.
+1751363672.3813806 [pp_infer-1] [INFO] [1751363672.380871597] [minimal_publisher]: TIME: 7.161408 ms, Objects detected: 10
+1751363672.4794781 [pp_infer-1] TIME: doinfer: 5.68115 ms.
+1751363672.4803035 [pp_infer-1] [INFO] [1751363672.479930386] [minimal_publisher]: TIME: 6.652512 ms, Objects detected: 10
+1751363672.5827093 [pp_infer-1] TIME: doinfer: 5.67296 ms.
+1751363672.5835488 [pp_infer-1] [INFO] [1751363672.583221166] [minimal_publisher]: TIME: 6.675424 ms, Objects detected: 9
+1751363672.6844711 [pp_infer-1] TIME: doinfer: 5.67485 ms.
+1751363672.6856122 [pp_infer-1] [INFO] [1751363672.685130009] [minimal_publisher]: TIME: 6.863872 ms, Objects detected: 10
+1751363672.7815859 [pp_infer-1] TIME: doinfer: 5.67078 ms.
+1751363672.7824018 [pp_infer-1] [INFO] [1751363672.782028554] [minimal_publisher]: TIME: 6.614880 ms, Objects detected: 7
+1751363672.8829095 [pp_infer-1] TIME: doinfer: 5.64429 ms.
+1751363672.8837407 [pp_infer-1] [INFO] [1751363672.883347217] [minimal_publisher]: TIME: 6.587360 ms, Objects detected: 9
+1751363672.9804373 [pp_infer-1] TIME: doinfer: 5.92282 ms.
+1751363672.9805763 [pp_infer-1] [INFO] [1751363672.980467113] [minimal_publisher]: TIME: 6.095872 ms, Objects detected: 9
+1751363673.0796947 [pp_infer-1] TIME: doinfer: 5.51245 ms.
+1751363673.0798616 [pp_infer-1] [INFO] [1751363673.079795529] [minimal_publisher]: TIME: 5.739584 ms, Objects detected: 7
+1751363673.1829937 [pp_infer-1] TIME: doinfer: 5.66886 ms.
+1751363673.1840494 [pp_infer-1] [INFO] [1751363673.183566571] [minimal_publisher]: TIME: 6.737920 ms, Objects detected: 12
+1751363673.2828701 [pp_infer-1] TIME: doinfer: 5.66262 ms.
+1751363673.2840183 [pp_infer-1] [INFO] [1751363673.283531100] [minimal_publisher]: TIME: 6.833152 ms, Objects detected: 13
+1751363673.3840194 [pp_infer-1] TIME: doinfer: 5.67398 ms.
+1751363673.3848684 [pp_infer-1] [INFO] [1751363673.384521149] [minimal_publisher]: TIME: 6.694912 ms, Objects detected: 9
+1751363673.4839866 [pp_infer-1] TIME: doinfer: 5.68003 ms.
+1751363673.4851518 [pp_infer-1] [INFO] [1751363673.484641637] [minimal_publisher]: TIME: 6.857728 ms, Objects detected: 12
+1751363673.5818260 [pp_infer-1] TIME: doinfer: 5.61459 ms.
+1751363673.5826707 [pp_infer-1] [INFO] [1751363673.582338749] [minimal_publisher]: TIME: 6.619136 ms, Objects detected: 10
+1751363673.6838074 [pp_infer-1] TIME: doinfer: 5.62688 ms.
+1751363673.6851697 [pp_infer-1] [INFO] [1751363673.684664479] [minimal_publisher]: TIME: 6.971712 ms, Objects detected: 15
+1751363673.7841763 [pp_infer-1] TIME: doinfer: 5.68618 ms.
+1751363673.7850766 [pp_infer-1] [INFO] [1751363673.784700205] [minimal_publisher]: TIME: 6.761568 ms, Objects detected: 10
+1751363673.8827522 [pp_infer-1] TIME: doinfer: 5.65443 ms.
+1751363673.8838620 [pp_infer-1] [INFO] [1751363673.883377982] [minimal_publisher]: TIME: 6.786048 ms, Objects detected: 13
+1751363673.9841359 [pp_infer-1] TIME: doinfer: 5.70774 ms.
+1751363673.9849405 [pp_infer-1] [INFO] [1751363673.984830771] [minimal_publisher]: TIME: 6.982624 ms, Objects detected: 14
+1751363674.0817578 [pp_infer-1] TIME: doinfer: 5.68013 ms.
+1751363674.0830138 [pp_infer-1] [INFO] [1751363674.082529969] [minimal_publisher]: TIME: 6.958080 ms, Objects detected: 11
+1751363674.1804280 [pp_infer-1] TIME: doinfer: 6.37747 ms.
+1751363674.1816368 [pp_infer-1] [INFO] [1751363674.181152042] [minimal_publisher]: TIME: 7.626752 ms, Objects detected: 10
+1751363674.2828801 [pp_infer-1] TIME: doinfer: 5.65146 ms.
+1751363674.2837358 [pp_infer-1] [INFO] [1751363674.283364242] [minimal_publisher]: TIME: 6.665216 ms, Objects detected: 9
+1751363674.3819020 [pp_infer-1] TIME: doinfer: 5.69242 ms.
+1751363674.3831668 [pp_infer-1] [INFO] [1751363674.382646325] [minimal_publisher]: TIME: 6.957408 ms, Objects detected: 11
+1751363674.4807165 [pp_infer-1] TIME: doinfer: 5.65555 ms.
+1751363674.4815452 [pp_infer-1] [INFO] [1751363674.481040660] [minimal_publisher]: TIME: 6.480896 ms, Objects detected: 8
+1751363674.5817008 [pp_infer-1] TIME: doinfer: 5.68013 ms.
+1751363674.5824840 [pp_infer-1] [INFO] [1751363674.581952154] [minimal_publisher]: TIME: 6.435904 ms, Objects detected: 10
+1751363674.6819043 [pp_infer-1] TIME: doinfer: 5.68483 ms.
+1751363674.6831095 [pp_infer-1] [INFO] [1751363674.682605305] [minimal_publisher]: TIME: 6.877184 ms, Objects detected: 9
+1751363674.7790082 [pp_infer-1] TIME: doinfer: 6.05082 ms.
+1751363674.7791991 [pp_infer-1] [INFO] [1751363674.779032902] [minimal_publisher]: TIME: 6.211936 ms, Objects detected: 10
+1751363674.8790979 [pp_infer-1] TIME: doinfer: 5.8839 ms.
+1751363674.8793142 [pp_infer-1] [INFO] [1751363674.879129872] [minimal_publisher]: TIME: 6.088064 ms, Objects detected: 9
+1751363674.9818482 [pp_infer-1] TIME: doinfer: 5.62483 ms.
+1751363674.9826777 [pp_infer-1] [INFO] [1751363674.982323262] [minimal_publisher]: TIME: 6.592672 ms, Objects detected: 10
+1751363675.0817671 [pp_infer-1] TIME: doinfer: 5.6569 ms.
+1751363675.0825911 [pp_infer-1] [INFO] [1751363675.082195806] [minimal_publisher]: TIME: 6.588448 ms, Objects detected: 10
+1751363675.1826062 [pp_infer-1] TIME: doinfer: 5.66477 ms.
+1751363675.1844356 [pp_infer-1] [INFO] [1751363675.183919032] [minimal_publisher]: TIME: 7.490240 ms, Objects detected: 13
+1751363675.2816246 [pp_infer-1] TIME: doinfer: 5.66272 ms.
+1751363675.2825003 [pp_infer-1] [INFO] [1751363675.282150993] [minimal_publisher]: TIME: 6.729728 ms, Objects detected: 12
+1751363675.3808205 [pp_infer-1] TIME: doinfer: 5.67949 ms.
+1751363675.3816507 [pp_infer-1] [INFO] [1751363675.381314222] [minimal_publisher]: TIME: 6.672640 ms, Objects detected: 12
+1751363675.4816937 [pp_infer-1] TIME: doinfer: 5.67005 ms.
+1751363675.4827442 [pp_infer-1] [INFO] [1751363675.482252903] [minimal_publisher]: TIME: 6.730592 ms, Objects detected: 11
+1751363675.5796428 [pp_infer-1] TIME: doinfer: 6.05184 ms.
+1751363675.5807250 [pp_infer-1] [INFO] [1751363675.580240645] [minimal_publisher]: TIME: 7.144448 ms, Objects detected: 11
+1751363675.6816449 [pp_infer-1] TIME: doinfer: 5.6688 ms.
+1751363675.6828525 [pp_infer-1] [INFO] [1751363675.682369843] [minimal_publisher]: TIME: 6.892640 ms, Objects detected: 14
+1751363675.7826500 [pp_infer-1] TIME: doinfer: 5.66995 ms.
+1751363675.7834864 [pp_infer-1] [INFO] [1751363675.783060760] [minimal_publisher]: TIME: 6.566912 ms, Objects detected: 10
+1751363675.8818977 [pp_infer-1] TIME: doinfer: 5.69754 ms.
+1751363675.8831468 [pp_infer-1] [INFO] [1751363675.882634190] [minimal_publisher]: TIME: 6.943072 ms, Objects detected: 14
+1751363675.9789200 [pp_infer-1] TIME: doinfer: 5.85114 ms.
+1751363675.9790745 [pp_infer-1] [INFO] [1751363675.979000416] [minimal_publisher]: TIME: 6.062272 ms, Objects detected: 11
+1751363676.0827758 [pp_infer-1] TIME: doinfer: 5.65248 ms.
+1751363676.0836523 [pp_infer-1] [INFO] [1751363676.083305099] [minimal_publisher]: TIME: 6.686560 ms, Objects detected: 10
+1751363676.1812601 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363676.1820626 [pp_infer-1] [INFO] [1751363676.181709327] [minimal_publisher]: TIME: 6.663456 ms, Objects detected: 9
+1751363676.2818754 [pp_infer-1] TIME: doinfer: 5.65146 ms.
+1751363676.2827244 [pp_infer-1] [INFO] [1751363676.282279005] [minimal_publisher]: TIME: 6.567104 ms, Objects detected: 9
+1751363676.3801107 [pp_infer-1] TIME: doinfer: 6.05149 ms.
+1751363676.3812859 [pp_infer-1] [INFO] [1751363676.380763975] [minimal_publisher]: TIME: 7.251232 ms, Objects detected: 12
+1751363676.4786284 [pp_infer-1] TIME: doinfer: 5.78662 ms.
+1751363676.4787841 [pp_infer-1] [INFO] [1751363676.478710652] [minimal_publisher]: TIME: 6.004384 ms, Objects detected: 14
+1751363676.5799417 [pp_infer-1] TIME: doinfer: 6.03462 ms.
+1751363676.5811732 [pp_infer-1] [INFO] [1751363676.580658053] [minimal_publisher]: TIME: 7.252544 ms, Objects detected: 14
+1751363676.6820292 [pp_infer-1] TIME: doinfer: 5.6105 ms.
+1751363676.6831486 [pp_infer-1] [INFO] [1751363676.682640159] [minimal_publisher]: TIME: 6.746112 ms, Objects detected: 11
+1751363676.7811303 [pp_infer-1] TIME: doinfer: 6.01702 ms.
+1751363676.7824163 [pp_infer-1] [INFO] [1751363676.781902875] [minimal_publisher]: TIME: 7.313632 ms, Objects detected: 15
+1751363676.8827870 [pp_infer-1] TIME: doinfer: 5.67501 ms.
+1751363676.8840742 [pp_infer-1] [INFO] [1751363676.883590515] [minimal_publisher]: TIME: 6.977536 ms, Objects detected: 15
+1751363676.9838445 [pp_infer-1] TIME: doinfer: 5.65453 ms.
+1751363676.9850562 [pp_infer-1] [INFO] [1751363676.984566608] [minimal_publisher]: TIME: 6.870016 ms, Objects detected: 15
+1751363677.0819857 [pp_infer-1] TIME: doinfer: 5.70381 ms.
+1751363677.0835009 [pp_infer-1] [INFO] [1751363677.082991603] [minimal_publisher]: TIME: 7.209568 ms, Objects detected: 16
+1751363677.1821315 [pp_infer-1] TIME: doinfer: 5.6943 ms.
+1751363677.1836436 [pp_infer-1] [INFO] [1751363677.183157975] [minimal_publisher]: TIME: 7.234400 ms, Objects detected: 16
+1751363677.2799706 [pp_infer-1] TIME: doinfer: 6.01658 ms.
+1751363677.2813573 [pp_infer-1] [INFO] [1751363677.280840890] [minimal_publisher]: TIME: 7.389120 ms, Objects detected: 14
+1751363677.3821132 [pp_infer-1] TIME: doinfer: 6.04954 ms.
+1751363677.3835778 [pp_infer-1] [INFO] [1751363677.383079413] [minimal_publisher]: TIME: 7.536480 ms, Objects detected: 15
+1751363677.4823396 [pp_infer-1] TIME: doinfer: 6.08768 ms.
+1751363677.4837430 [pp_infer-1] [INFO] [1751363677.483259191] [minimal_publisher]: TIME: 7.535616 ms, Objects detected: 15
+1751363677.5820799 [pp_infer-1] TIME: doinfer: 6.01907 ms.
+1751363677.5833006 [pp_infer-1] [INFO] [1751363677.582793633] [minimal_publisher]: TIME: 7.229696 ms, Objects detected: 14
+1751363677.6837423 [pp_infer-1] TIME: doinfer: 5.69347 ms.
+1751363677.6851816 [pp_infer-1] [INFO] [1751363677.684676800] [minimal_publisher]: TIME: 7.133088 ms, Objects detected: 13
+1751363677.7821860 [pp_infer-1] TIME: doinfer: 6.04979 ms.
+1751363677.7836397 [pp_infer-1] [INFO] [1751363677.783152167] [minimal_publisher]: TIME: 7.535616 ms, Objects detected: 13
+1751363677.8820407 [pp_infer-1] TIME: doinfer: 6.03648 ms.
+1751363677.8833745 [pp_infer-1] [INFO] [1751363677.882865623] [minimal_publisher]: TIME: 7.357536 ms, Objects detected: 17
+1751363677.9808731 [pp_infer-1] TIME: doinfer: 6.01702 ms.
+1751363677.9817944 [pp_infer-1] [INFO] [1751363677.981441520] [minimal_publisher]: TIME: 7.076160 ms, Objects detected: 10
+1751363678.0823545 [pp_infer-1] TIME: doinfer: 6.0672 ms.
+1751363678.0835423 [pp_infer-1] [INFO] [1751363678.083049938] [minimal_publisher]: TIME: 7.286784 ms, Objects detected: 12
+1751363678.1815333 [pp_infer-1] TIME: doinfer: 6.10918 ms.
+1751363678.1818373 [pp_infer-1] [INFO] [1751363678.181691584] [minimal_publisher]: TIME: 6.443008 ms, Objects detected: 15
+1751363678.2799642 [pp_infer-1] TIME: doinfer: 5.97501 ms.
+1751363678.2810152 [pp_infer-1] [INFO] [1751363678.280532609] [minimal_publisher]: TIME: 7.045120 ms, Objects detected: 10
+1751363678.3821144 [pp_infer-1] TIME: doinfer: 6.0457 ms.
+1751363678.3833981 [pp_infer-1] [INFO] [1751363678.382899072] [minimal_publisher]: TIME: 7.350048 ms, Objects detected: 12
+1751363678.4823134 [pp_infer-1] TIME: doinfer: 6.02624 ms.
+1751363678.4834716 [pp_infer-1] [INFO] [1751363678.482964461] [minimal_publisher]: TIME: 7.236672 ms, Objects detected: 13
+1751363678.5823331 [pp_infer-1] TIME: doinfer: 6.04666 ms.
+1751363678.5833039 [pp_infer-1] [INFO] [1751363678.582927721] [minimal_publisher]: TIME: 7.176192 ms, Objects detected: 12
+1751363678.6823928 [pp_infer-1] TIME: doinfer: 6.02922 ms.
+1751363678.6834166 [pp_infer-1] [INFO] [1751363678.683043162] [minimal_publisher]: TIME: 7.196960 ms, Objects detected: 12
+1751363678.7825165 [pp_infer-1] TIME: doinfer: 6.3079 ms.
+1751363678.7839935 [pp_infer-1] [INFO] [1751363678.783512886] [minimal_publisher]: TIME: 7.832288 ms, Objects detected: 14
+1751363678.8799050 [pp_infer-1] TIME: doinfer: 5.98016 ms.
+1751363678.8811166 [pp_infer-1] [INFO] [1751363678.880605360] [minimal_publisher]: TIME: 7.171008 ms, Objects detected: 12
+1751363678.9808102 [pp_infer-1] TIME: doinfer: 5.94838 ms.
+1751363678.9820709 [pp_infer-1] [INFO] [1751363678.981586533] [minimal_publisher]: TIME: 7.227264 ms, Objects detected: 15
+1751363679.0810120 [pp_infer-1] TIME: doinfer: 5.87469 ms.
+1751363679.0821972 [pp_infer-1] [INFO] [1751363679.081688488] [minimal_publisher]: TIME: 7.053536 ms, Objects detected: 13
+1751363679.1811771 [pp_infer-1] TIME: doinfer: 5.90598 ms.
+1751363679.1821332 [pp_infer-1] [INFO] [1751363679.181768516] [minimal_publisher]: TIME: 7.015360 ms, Objects detected: 10
+1751363679.2832885 [pp_infer-1] TIME: doinfer: 6.02813 ms.
+1751363679.2844019 [pp_infer-1] [INFO] [1751363679.283893280] [minimal_publisher]: TIME: 7.156800 ms, Objects detected: 12
+1751363679.3823810 [pp_infer-1] TIME: doinfer: 6.19008 ms.
+1751363679.3835237 [pp_infer-1] [INFO] [1751363679.383010092] [minimal_publisher]: TIME: 7.345760 ms, Objects detected: 12
+1751363679.4811902 [pp_infer-1] TIME: doinfer: 5.96384 ms.
+1751363679.4823864 [pp_infer-1] [INFO] [1751363679.481881169] [minimal_publisher]: TIME: 7.172448 ms, Objects detected: 12
+1751363679.5831659 [pp_infer-1] TIME: doinfer: 6.03229 ms.
+1751363679.5844440 [pp_infer-1] [INFO] [1751363679.583935508] [minimal_publisher]: TIME: 7.329792 ms, Objects detected: 15
+1751363679.6819727 [pp_infer-1] TIME: doinfer: 5.98208 ms.
+1751363679.6830683 [pp_infer-1] [INFO] [1751363679.682585381] [minimal_publisher]: TIME: 7.094272 ms, Objects detected: 13
+1751363679.7796500 [pp_infer-1] TIME: doinfer: 5.70122 ms.
+1751363679.7807426 [pp_infer-1] [INFO] [1751363679.780260910] [minimal_publisher]: TIME: 6.803104 ms, Objects detected: 11
+1751363679.8818738 [pp_infer-1] TIME: doinfer: 5.92352 ms.
+1751363679.8831093 [pp_infer-1] [INFO] [1751363679.882605208] [minimal_publisher]: TIME: 7.144448 ms, Objects detected: 13
+1751363679.9819746 [pp_infer-1] TIME: doinfer: 5.87453 ms.
+1751363679.9830613 [pp_infer-1] [INFO] [1751363679.982574006] [minimal_publisher]: TIME: 6.970368 ms, Objects detected: 11
+1751363680.0819764 [pp_infer-1] TIME: doinfer: 5.87981 ms.
+1751363680.0828145 [pp_infer-1] [INFO] [1751363680.082434755] [minimal_publisher]: TIME: 6.848448 ms, Objects detected: 9
+1751363680.1829033 [pp_infer-1] TIME: doinfer: 6.05562 ms.
+1751363680.1840696 [pp_infer-1] [INFO] [1751363680.183584605] [minimal_publisher]: TIME: 7.234880 ms, Objects detected: 14
+1751363680.2844110 [pp_infer-1] TIME: doinfer: 6.03034 ms.
+1751363680.2858160 [pp_infer-1] [INFO] [1751363680.285330133] [minimal_publisher]: TIME: 7.464064 ms, Objects detected: 16
+1751363680.3794754 [pp_infer-1] TIME: doinfer: 5.66544 ms.
+1751363680.3806543 [pp_infer-1] [INFO] [1751363680.380171221] [minimal_publisher]: TIME: 6.886528 ms, Objects detected: 14
+1751363680.4828351 [pp_infer-1] TIME: doinfer: 5.96253 ms.
+1751363680.4837432 [pp_infer-1] [INFO] [1751363680.483378892] [minimal_publisher]: TIME: 7.014400 ms, Objects detected: 11
+1751363680.5830646 [pp_infer-1] TIME: doinfer: 6.00064 ms.
+1751363680.5841401 [pp_infer-1] [INFO] [1751363680.583633015] [minimal_publisher]: TIME: 7.074912 ms, Objects detected: 10
+1751363680.6818624 [pp_infer-1] TIME: doinfer: 5.90141 ms.
+1751363680.6829567 [pp_infer-1] [INFO] [1751363680.682474180] [minimal_publisher]: TIME: 7.012768 ms, Objects detected: 12
+1751363680.7800226 [pp_infer-1] TIME: doinfer: 5.66352 ms.
+1751363680.7812202 [pp_infer-1] [INFO] [1751363680.780708082] [minimal_publisher]: TIME: 6.872352 ms, Objects detected: 12
+1751363680.8829975 [pp_infer-1] TIME: doinfer: 5.93894 ms.
+1751363680.8841190 [pp_infer-1] [INFO] [1751363680.883614356] [minimal_publisher]: TIME: 7.059456 ms, Objects detected: 14
+1751363680.9837551 [pp_infer-1] TIME: doinfer: 6.33446 ms.
+1751363680.9848869 [pp_infer-1] [INFO] [1751363680.984407071] [minimal_publisher]: TIME: 7.478272 ms, Objects detected: 13
+1751363681.0826993 [pp_infer-1] TIME: doinfer: 6.33754 ms.
+1751363681.0835538 [pp_infer-1] [INFO] [1751363681.083224573] [minimal_publisher]: TIME: 7.384128 ms, Objects detected: 10
+1751363681.1784084 [pp_infer-1] TIME: doinfer: 5.64192 ms.
+1751363681.1792724 [pp_infer-1] [INFO] [1751363681.178898212] [minimal_publisher]: TIME: 6.648128 ms, Objects detected: 12
+1751363681.2829888 [pp_infer-1] TIME: doinfer: 5.98528 ms.
+1751363681.2842562 [pp_infer-1] [INFO] [1751363681.283747740] [minimal_publisher]: TIME: 7.239680 ms, Objects detected: 12
+1751363681.3805900 [pp_infer-1] TIME: doinfer: 5.67104 ms.
+1751363681.3818362 [pp_infer-1] [INFO] [1751363681.381350069] [minimal_publisher]: TIME: 6.954880 ms, Objects detected: 11
+1751363681.4806325 [pp_infer-1] TIME: doinfer: 5.68218 ms.
+1751363681.4818528 [pp_infer-1] [INFO] [1751363681.481370586] [minimal_publisher]: TIME: 6.920192 ms, Objects detected: 12
+1751363681.5796061 [pp_infer-1] TIME: doinfer: 5.65043 ms.
+1751363681.5809779 [pp_infer-1] [INFO] [1751363681.580495567] [minimal_publisher]: TIME: 7.043232 ms, Objects detected: 14
+1751363681.6828129 [pp_infer-1] TIME: doinfer: 5.96131 ms.
+1751363681.6836529 [pp_infer-1] [INFO] [1751363681.683265508] [minimal_publisher]: TIME: 6.911392 ms, Objects detected: 12
+1751363681.7796185 [pp_infer-1] TIME: doinfer: 5.66384 ms.
+1751363681.7807949 [pp_infer-1] [INFO] [1751363681.780304929] [minimal_publisher]: TIME: 6.845440 ms, Objects detected: 12
+1751363681.8805504 [pp_infer-1] TIME: doinfer: 5.63421 ms.
+1751363681.8818588 [pp_infer-1] [INFO] [1751363681.881379424] [minimal_publisher]: TIME: 6.962368 ms, Objects detected: 14
+1751363681.9828064 [pp_infer-1] TIME: doinfer: 5.89005 ms.
+1751363681.9839537 [pp_infer-1] [INFO] [1751363681.983470469] [minimal_publisher]: TIME: 7.047168 ms, Objects detected: 12
+1751363682.0803070 [pp_infer-1] TIME: doinfer: 5.63405 ms.
+1751363682.0817630 [pp_infer-1] [INFO] [1751363682.081270952] [minimal_publisher]: TIME: 7.120128 ms, Objects detected: 14
+1751363682.1795194 [pp_infer-1] TIME: doinfer: 5.65238 ms.
+1751363682.1807983 [pp_infer-1] [INFO] [1751363682.180318596] [minimal_publisher]: TIME: 6.965536 ms, Objects detected: 12
+1751363682.2841678 [pp_infer-1] TIME: doinfer: 5.97504 ms.
+1751363682.2854414 [pp_infer-1] [INFO] [1751363682.284936037] [minimal_publisher]: TIME: 7.267360 ms, Objects detected: 15
+1751363682.3828213 [pp_infer-1] TIME: doinfer: 5.86752 ms.
+1751363682.3841097 [pp_infer-1] [INFO] [1751363682.383604351] [minimal_publisher]: TIME: 7.139328 ms, Objects detected: 15
+1751363682.4840312 [pp_infer-1] TIME: doinfer: 5.96851 ms.
+1751363682.4853940 [pp_infer-1] [INFO] [1751363682.484890380] [minimal_publisher]: TIME: 7.319552 ms, Objects detected: 14
+1751363682.5828319 [pp_infer-1] TIME: doinfer: 5.99232 ms.
+1751363682.5844448 [pp_infer-1] [INFO] [1751363682.583931423] [minimal_publisher]: TIME: 7.577376 ms, Objects detected: 16
+1751363682.6805902 [pp_infer-1] TIME: doinfer: 5.64326 ms.
+1751363682.6819837 [pp_infer-1] [INFO] [1751363682.681495227] [minimal_publisher]: TIME: 7.033856 ms, Objects detected: 15
+1751363682.7792771 [pp_infer-1] TIME: doinfer: 5.6617 ms.
+1751363682.7805007 [pp_infer-1] [INFO] [1751363682.780000785] [minimal_publisher]: TIME: 6.901760 ms, Objects detected: 13
+1751363682.8825419 [pp_infer-1] TIME: doinfer: 5.66272 ms.
+1751363682.8838444 [pp_infer-1] [INFO] [1751363682.883356785] [minimal_publisher]: TIME: 6.975488 ms, Objects detected: 12
+1751363682.9831753 [pp_infer-1] TIME: doinfer: 5.87162 ms.
+1751363682.9845874 [pp_infer-1] [INFO] [1751363682.984079843] [minimal_publisher]: TIME: 7.284000 ms, Objects detected: 13
+1751363683.0793879 [pp_infer-1] TIME: doinfer: 5.6279 ms.
+1751363683.0805092 [pp_infer-1] [INFO] [1751363683.080005070] [minimal_publisher]: TIME: 6.754240 ms, Objects detected: 12
+1751363683.1785192 [pp_infer-1] TIME: doinfer: 5.64 ms.
+1751363683.1799092 [pp_infer-1] [INFO] [1751363683.179417339] [minimal_publisher]: TIME: 7.060384 ms, Objects detected: 12
+1751363683.2811849 [pp_infer-1] TIME: doinfer: 5.53334 ms.
+1751363683.2814660 [pp_infer-1] [INFO] [1751363683.281348710] [minimal_publisher]: TIME: 5.895168 ms, Objects detected: 13
+1751363683.3799191 [pp_infer-1] TIME: doinfer: 5.61798 ms.
+1751363683.3807926 [pp_infer-1] [INFO] [1751363683.380386510] [minimal_publisher]: TIME: 6.554208 ms, Objects detected: 14
+1751363683.4815874 [pp_infer-1] TIME: doinfer: 5.65277 ms.
+1751363683.4828424 [pp_infer-1] [INFO] [1751363683.482358592] [minimal_publisher]: TIME: 6.923264 ms, Objects detected: 12
+1751363683.5828784 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363683.5842669 [pp_infer-1] [INFO] [1751363683.583764630] [minimal_publisher]: TIME: 7.065152 ms, Objects detected: 14
+1751363683.6839690 [pp_infer-1] TIME: doinfer: 5.86957 ms.
+1751363683.6851270 [pp_infer-1] [INFO] [1751363683.684619053] [minimal_publisher]: TIME: 7.014784 ms, Objects detected: 13
+1751363683.7815328 [pp_infer-1] TIME: doinfer: 5.63898 ms.
+1751363683.7828691 [pp_infer-1] [INFO] [1751363683.782387987] [minimal_publisher]: TIME: 6.988448 ms, Objects detected: 14
+1751363683.8815176 [pp_infer-1] TIME: doinfer: 5.62029 ms.
+1751363683.8825727 [pp_infer-1] [INFO] [1751363683.882070828] [minimal_publisher]: TIME: 6.682624 ms, Objects detected: 10
+1751363683.9826002 [pp_infer-1] TIME: doinfer: 5.64429 ms.
+1751363683.9839089 [pp_infer-1] [INFO] [1751363683.983427912] [minimal_publisher]: TIME: 6.979456 ms, Objects detected: 11
+1751363684.0773089 [pp_infer-1] TIME: doinfer: 5.4999 ms.
+1751363684.0774884 [pp_infer-1] [INFO] [1751363684.077356602] [minimal_publisher]: TIME: 5.773312 ms, Objects detected: 12
+1751363684.1808145 [pp_infer-1] TIME: doinfer: 5.50995 ms.
+1751363684.1809680 [pp_infer-1] [INFO] [1751363684.180836251] [minimal_publisher]: TIME: 5.677344 ms, Objects detected: 10
+1751363684.2794931 [pp_infer-1] TIME: doinfer: 5.63405 ms.
+1751363684.2805800 [pp_infer-1] [INFO] [1751363684.280078740] [minimal_publisher]: TIME: 6.772832 ms, Objects detected: 13
+1751363684.3793554 [pp_infer-1] TIME: doinfer: 5.64829 ms.
+1751363684.3805678 [pp_infer-1] [INFO] [1751363684.380072931] [minimal_publisher]: TIME: 6.897664 ms, Objects detected: 12
+1751363684.4826589 [pp_infer-1] TIME: doinfer: 5.68019 ms.
+1751363684.4840271 [pp_infer-1] [INFO] [1751363684.483540008] [minimal_publisher]: TIME: 7.061536 ms, Objects detected: 14
+1751363684.5815337 [pp_infer-1] TIME: doinfer: 5.6361 ms.
+1751363684.5826211 [pp_infer-1] [INFO] [1751363684.582127185] [minimal_publisher]: TIME: 6.720544 ms, Objects detected: 12
+1751363684.6756351 [pp_infer-1] TIME: doinfer: 5.51514 ms.
+1751363684.6758640 [pp_infer-1] [INFO] [1751363684.675749431] [minimal_publisher]: TIME: 5.800000 ms, Objects detected: 10
+1751363684.7826755 [pp_infer-1] TIME: doinfer: 5.65658 ms.
+1751363684.7839696 [pp_infer-1] [INFO] [1751363684.783490663] [minimal_publisher]: TIME: 6.961184 ms, Objects detected: 11
+1751363684.8825955 [pp_infer-1] TIME: doinfer: 5.62688 ms.
+1751363684.8834350 [pp_infer-1] [INFO] [1751363684.883081250] [minimal_publisher]: TIME: 6.634176 ms, Objects detected: 9
+1751363684.9827366 [pp_infer-1] TIME: doinfer: 5.63098 ms.
+1751363684.9836156 [pp_infer-1] [INFO] [1751363684.983267335] [minimal_publisher]: TIME: 6.671488 ms, Objects detected: 9
+1751363685.0827496 [pp_infer-1] TIME: doinfer: 5.64317 ms.
+1751363685.0839398 [pp_infer-1] [INFO] [1751363685.083453839] [minimal_publisher]: TIME: 6.854144 ms, Objects detected: 11
+1751363685.1815238 [pp_infer-1] TIME: doinfer: 5.62688 ms.
+1751363685.1823657 [pp_infer-1] [INFO] [1751363685.182011016] [minimal_publisher]: TIME: 6.631008 ms, Objects detected: 11
+1751363685.2807608 [pp_infer-1] TIME: doinfer: 5.63277 ms.
+1751363685.2818396 [pp_infer-1] [INFO] [1751363685.281356638] [minimal_publisher]: TIME: 6.723584 ms, Objects detected: 13
+1751363685.3826470 [pp_infer-1] TIME: doinfer: 5.64941 ms.
+1751363685.3839025 [pp_infer-1] [INFO] [1751363685.383420756] [minimal_publisher]: TIME: 6.923936 ms, Objects detected: 12
+1751363685.4826756 [pp_infer-1] TIME: doinfer: 5.66067 ms.
+1751363685.4839392 [pp_infer-1] [INFO] [1751363685.483454807] [minimal_publisher]: TIME: 6.924128 ms, Objects detected: 14
+1751363685.5804157 [pp_infer-1] TIME: doinfer: 5.64826 ms.
+1751363685.5815856 [pp_infer-1] [INFO] [1751363685.581104933] [minimal_publisher]: TIME: 6.835264 ms, Objects detected: 12
+1751363685.6805835 [pp_infer-1] TIME: doinfer: 6.05798 ms.
+1751363685.6807258 [pp_infer-1] [INFO] [1751363685.680631080] [minimal_publisher]: TIME: 6.252640 ms, Objects detected: 9
+1751363685.7815197 [pp_infer-1] TIME: doinfer: 5.63891 ms.
+1751363685.7827442 [pp_infer-1] [INFO] [1751363685.782267201] [minimal_publisher]: TIME: 6.875424 ms, Objects detected: 14
+1751363685.8817012 [pp_infer-1] TIME: doinfer: 5.6504 ms.
+1751363685.8828349 [pp_infer-1] [INFO] [1751363685.882358809] [minimal_publisher]: TIME: 6.809728 ms, Objects detected: 13
+1751363685.9817452 [pp_infer-1] TIME: doinfer: 5.64906 ms.
+1751363685.9829950 [pp_infer-1] [INFO] [1751363685.982512780] [minimal_publisher]: TIME: 6.897504 ms, Objects detected: 15
+1751363686.0817378 [pp_infer-1] TIME: doinfer: 5.63168 ms.
+1751363686.0831618 [pp_infer-1] [INFO] [1751363686.082644829] [minimal_publisher]: TIME: 7.026688 ms, Objects detected: 16
+1751363686.1832762 [pp_infer-1] TIME: doinfer: 5.8071 ms.
+1751363686.1844778 [pp_infer-1] [INFO] [1751363686.183976230] [minimal_publisher]: TIME: 7.044096 ms, Objects detected: 13
+1751363686.2777419 [pp_infer-1] TIME: doinfer: 5.64838 ms.
+1751363686.2788620 [pp_infer-1] [INFO] [1751363686.278378752] [minimal_publisher]: TIME: 6.786048 ms, Objects detected: 14
+1751363686.3825977 [pp_infer-1] TIME: doinfer: 5.64224 ms.
+1751363686.3834505 [pp_infer-1] [INFO] [1751363686.383074675] [minimal_publisher]: TIME: 6.651552 ms, Objects detected: 10
+1751363686.4814594 [pp_infer-1] TIME: doinfer: 5.65677 ms.
+1751363686.4827492 [pp_infer-1] [INFO] [1751363686.482257342] [minimal_publisher]: TIME: 6.975296 ms, Objects detected: 12
+1751363686.5818443 [pp_infer-1] TIME: doinfer: 5.63798 ms.
+1751363686.5826273 [pp_infer-1] [INFO] [1751363686.582125236] [minimal_publisher]: TIME: 6.398976 ms, Objects detected: 8
+1751363686.6817465 [pp_infer-1] TIME: doinfer: 5.65126 ms.
+1751363686.6826293 [pp_infer-1] [INFO] [1751363686.682282232] [minimal_publisher]: TIME: 6.692224 ms, Objects detected: 10
+1751363686.7817478 [pp_infer-1] TIME: doinfer: 5.64122 ms.
+1751363686.7831461 [pp_infer-1] [INFO] [1751363686.782643031] [minimal_publisher]: TIME: 7.020544 ms, Objects detected: 16
+1751363686.8827550 [pp_infer-1] TIME: doinfer: 5.65542 ms.
+1751363686.8842812 [pp_infer-1] [INFO] [1751363686.883765656] [minimal_publisher]: TIME: 7.175840 ms, Objects detected: 18
+1751363686.9783232 [pp_infer-1] TIME: doinfer: 5.64349 ms.
+1751363686.9794233 [pp_infer-1] [INFO] [1751363686.978915471] [minimal_publisher]: TIME: 6.752448 ms, Objects detected: 12
+1751363687.0805500 [pp_infer-1] TIME: doinfer: 5.66272 ms.
+1751363687.0819056 [pp_infer-1] [INFO] [1751363687.081426138] [minimal_publisher]: TIME: 7.026016 ms, Objects detected: 16
+1751363687.1837246 [pp_infer-1] TIME: doinfer: 5.65421 ms.
+1751363687.1852181 [pp_infer-1] [INFO] [1751363687.184711000] [minimal_publisher]: TIME: 7.129984 ms, Objects detected: 14
+1751363687.2815850 [pp_infer-1] TIME: doinfer: 5.65043 ms.
+1751363687.2826648 [pp_infer-1] [INFO] [1751363687.282184658] [minimal_publisher]: TIME: 6.739104 ms, Objects detected: 14
+1751363687.3826399 [pp_infer-1] TIME: doinfer: 5.64326 ms.
+1751363687.3838122 [pp_infer-1] [INFO] [1751363687.383328373] [minimal_publisher]: TIME: 6.837024 ms, Objects detected: 12
+1751363687.4816167 [pp_infer-1] TIME: doinfer: 5.66899 ms.
+1751363687.4824729 [pp_infer-1] [INFO] [1751363687.482128459] [minimal_publisher]: TIME: 6.664192 ms, Objects detected: 10
+1751363687.5793252 [pp_infer-1] TIME: doinfer: 5.65453 ms.
+1751363687.5805779 [pp_infer-1] [INFO] [1751363687.580098389] [minimal_publisher]: TIME: 6.931520 ms, Objects detected: 13
+1751363687.6793633 [pp_infer-1] TIME: doinfer: 5.64326 ms.
+1751363687.6806302 [pp_infer-1] [INFO] [1751363687.680142633] [minimal_publisher]: TIME: 6.939744 ms, Objects detected: 14
+1751363687.7812285 [pp_infer-1] TIME: doinfer: 5.65014 ms.
+1751363687.7825351 [pp_infer-1] [INFO] [1751363687.782047156] [minimal_publisher]: TIME: 6.988000 ms, Objects detected: 14
+1751363687.8838563 [pp_infer-1] TIME: doinfer: 5.63712 ms.
+1751363687.8850098 [pp_infer-1] [INFO] [1751363687.884523705] [minimal_publisher]: TIME: 6.806816 ms, Objects detected: 13
+1751363687.9817514 [pp_infer-1] TIME: doinfer: 5.69238 ms.
+1751363687.9830236 [pp_infer-1] [INFO] [1751363687.982541404] [minimal_publisher]: TIME: 6.991744 ms, Objects detected: 12
+1751363688.0817132 [pp_infer-1] TIME: doinfer: 5.66035 ms.
+1751363688.0829079 [pp_infer-1] [INFO] [1751363688.082420258] [minimal_publisher]: TIME: 6.876512 ms, Objects detected: 13
+1751363688.1818438 [pp_infer-1] TIME: doinfer: 5.69754 ms.
+1751363688.1831400 [pp_infer-1] [INFO] [1751363688.182622677] [minimal_publisher]: TIME: 6.987776 ms, Objects detected: 13
+1751363688.2818182 [pp_infer-1] TIME: doinfer: 5.65366 ms.
+1751363688.2830083 [pp_infer-1] [INFO] [1751363688.282525733] [minimal_publisher]: TIME: 6.861824 ms, Objects detected: 12
+1751363688.3825088 [pp_infer-1] TIME: doinfer: 5.64838 ms.
+1751363688.3836086 [pp_infer-1] [INFO] [1751363688.383118000] [minimal_publisher]: TIME: 6.756576 ms, Objects detected: 11
+1751363688.4815083 [pp_infer-1] TIME: doinfer: 5.64502 ms.
+1751363688.4828200 [pp_infer-1] [INFO] [1751363688.482335625] [minimal_publisher]: TIME: 6.977664 ms, Objects detected: 12
+1751363688.5783088 [pp_infer-1] TIME: doinfer: 5.65658 ms.
+1751363688.5794446 [pp_infer-1] [INFO] [1751363688.578929825] [minimal_publisher]: TIME: 6.801408 ms, Objects detected: 11
+1751363688.6796126 [pp_infer-1] TIME: doinfer: 5.67398 ms.
+1751363688.6804407 [pp_infer-1] [INFO] [1751363688.679927927] [minimal_publisher]: TIME: 6.476800 ms, Objects detected: 7
+1751363688.7797177 [pp_infer-1] TIME: doinfer: 5.66131 ms.
+1751363688.7808411 [pp_infer-1] [INFO] [1751363688.780361555] [minimal_publisher]: TIME: 6.790880 ms, Objects detected: 12
+1751363688.8815594 [pp_infer-1] TIME: doinfer: 5.64634 ms.
+1751363688.8823965 [pp_infer-1] [INFO] [1751363688.881915244] [minimal_publisher]: TIME: 6.497088 ms, Objects detected: 9
+1751363688.9825943 [pp_infer-1] TIME: doinfer: 5.6361 ms.
+1751363688.9834292 [pp_infer-1] [INFO] [1751363688.983033388] [minimal_publisher]: TIME: 6.586368 ms, Objects detected: 9
+1751363689.0790377 [pp_infer-1] TIME: doinfer: 5.65642 ms.
+1751363689.0801282 [pp_infer-1] [INFO] [1751363689.079623750] [minimal_publisher]: TIME: 6.733824 ms, Objects detected: 11
+1751363689.1804688 [pp_infer-1] TIME: doinfer: 5.64118 ms.
+1751363689.1816354 [pp_infer-1] [INFO] [1751363689.181148992] [minimal_publisher]: TIME: 6.834944 ms, Objects detected: 12
+1751363689.2808247 [pp_infer-1] TIME: doinfer: 5.65626 ms.
+1751363689.2822201 [pp_infer-1] [INFO] [1751363689.281699608] [minimal_publisher]: TIME: 7.030784 ms, Objects detected: 12
+1751363689.3804798 [pp_infer-1] TIME: doinfer: 5.64531 ms.
+1751363689.3817604 [pp_infer-1] [INFO] [1751363689.381280231] [minimal_publisher]: TIME: 6.953984 ms, Objects detected: 13
+1751363689.4794490 [pp_infer-1] TIME: doinfer: 5.64736 ms.
+1751363689.4803114 [pp_infer-1] [INFO] [1751363689.479930941] [minimal_publisher]: TIME: 6.644608 ms, Objects detected: 9
+1751363689.5795226 [pp_infer-1] TIME: doinfer: 5.64714 ms.
+1751363689.5807409 [pp_infer-1] [INFO] [1751363689.580259044] [minimal_publisher]: TIME: 6.887392 ms, Objects detected: 15
+1751363689.6791139 [pp_infer-1] TIME: doinfer: 5.63712 ms.
+1751363689.6799057 [pp_infer-1] [INFO] [1751363689.679552092] [minimal_publisher]: TIME: 6.580096 ms, Objects detected: 11
+1751363689.7826445 [pp_infer-1] TIME: doinfer: 5.66045 ms.
+1751363689.7838309 [pp_infer-1] [INFO] [1751363689.783343871] [minimal_publisher]: TIME: 6.841664 ms, Objects detected: 12
+1751363689.8805587 [pp_infer-1] TIME: doinfer: 5.65318 ms.
+1751363689.8816984 [pp_infer-1] [INFO] [1751363689.881215913] [minimal_publisher]: TIME: 6.808576 ms, Objects detected: 12
+1751363689.9815845 [pp_infer-1] TIME: doinfer: 5.65235 ms.
+1751363689.9827602 [pp_infer-1] [INFO] [1751363689.982271619] [minimal_publisher]: TIME: 6.856416 ms, Objects detected: 11
+1751363690.0792742 [pp_infer-1] TIME: doinfer: 5.64726 ms.
+1751363690.0803552 [pp_infer-1] [INFO] [1751363690.079845101] [minimal_publisher]: TIME: 6.739104 ms, Objects detected: 9
+1751363690.1804938 [pp_infer-1] TIME: doinfer: 5.6408 ms.
+1751363690.1813047 [pp_infer-1] [INFO] [1751363690.180888868] [minimal_publisher]: TIME: 6.560576 ms, Objects detected: 8
+1751363690.2795205 [pp_infer-1] TIME: doinfer: 5.68397 ms.
+1751363690.2805738 [pp_infer-1] [INFO] [1751363690.280076831] [minimal_publisher]: TIME: 6.761504 ms, Objects detected: 7
+1751363690.3825431 [pp_infer-1] TIME: doinfer: 5.63914 ms.
+1751363690.3835783 [pp_infer-1] [INFO] [1751363690.383071181] [minimal_publisher]: TIME: 6.657952 ms, Objects detected: 10
+1751363690.4826453 [pp_infer-1] TIME: doinfer: 5.6576 ms.
+1751363690.4837387 [pp_infer-1] [INFO] [1751363690.483252313] [minimal_publisher]: TIME: 6.754304 ms, Objects detected: 12
+1751363690.5815086 [pp_infer-1] TIME: doinfer: 5.63405 ms.
+1751363690.5825310 [pp_infer-1] [INFO] [1751363690.582044674] [minimal_publisher]: TIME: 6.677792 ms, Objects detected: 12
+1751363690.6815004 [pp_infer-1] TIME: doinfer: 5.63581 ms.
+1751363690.6825156 [pp_infer-1] [INFO] [1751363690.682019002] [minimal_publisher]: TIME: 6.663456 ms, Objects detected: 11
+1751363690.7825232 [pp_infer-1] TIME: doinfer: 5.64426 ms.
+1751363690.7836132 [pp_infer-1] [INFO] [1751363690.783131729] [minimal_publisher]: TIME: 6.746112 ms, Objects detected: 13
+1751363690.8804302 [pp_infer-1] TIME: doinfer: 5.66339 ms.
+1751363690.8816912 [pp_infer-1] [INFO] [1751363690.881197605] [minimal_publisher]: TIME: 6.946816 ms, Objects detected: 12
+1751363690.9828191 [pp_infer-1] TIME: doinfer: 5.68214 ms.
+1751363690.9838452 [pp_infer-1] [INFO] [1751363690.983349259] [minimal_publisher]: TIME: 6.715392 ms, Objects detected: 13
+1751363691.0781143 [pp_infer-1] TIME: doinfer: 5.65453 ms.
+1751363691.0792124 [pp_infer-1] [INFO] [1751363691.078712963] [minimal_publisher]: TIME: 6.764832 ms, Objects detected: 11
+1751363691.1784532 [pp_infer-1] TIME: doinfer: 5.65546 ms.
+1751363691.1796567 [pp_infer-1] [INFO] [1751363691.179176479] [minimal_publisher]: TIME: 6.860800 ms, Objects detected: 11
+1751363691.2826180 [pp_infer-1] TIME: doinfer: 5.66374 ms.
+1751363691.2838163 [pp_infer-1] [INFO] [1751363691.283321095] [minimal_publisher]: TIME: 6.858752 ms, Objects detected: 12
+1751363691.3814769 [pp_infer-1] TIME: doinfer: 5.6617 ms.
+1751363691.3827674 [pp_infer-1] [INFO] [1751363691.382288707] [minimal_publisher]: TIME: 6.971392 ms, Objects detected: 13
+1751363691.4813950 [pp_infer-1] TIME: doinfer: 5.65226 ms.
+1751363691.4825730 [pp_infer-1] [INFO] [1751363691.482063375] [minimal_publisher]: TIME: 6.835200 ms, Objects detected: 12
+1751363691.5795877 [pp_infer-1] TIME: doinfer: 5.66435 ms.
+1751363691.5809522 [pp_infer-1] [INFO] [1751363691.580462494] [minimal_publisher]: TIME: 7.019072 ms, Objects detected: 13
+1751363691.6815259 [pp_infer-1] TIME: doinfer: 5.67046 ms.
+1751363691.6829898 [pp_infer-1] [INFO] [1751363691.682501461] [minimal_publisher]: TIME: 7.131232 ms, Objects detected: 12
+1751363691.7816787 [pp_infer-1] TIME: doinfer: 5.66374 ms.
+1751363691.7824855 [pp_infer-1] [INFO] [1751363691.782124104] [minimal_publisher]: TIME: 6.594560 ms, Objects detected: 9
+1751363691.8817992 [pp_infer-1] TIME: doinfer: 5.67091 ms.
+1751363691.8830140 [pp_infer-1] [INFO] [1751363691.882528673] [minimal_publisher]: TIME: 6.880256 ms, Objects detected: 13
+1751363691.9817698 [pp_infer-1] TIME: doinfer: 5.68522 ms.
+1751363691.9832544 [pp_infer-1] [INFO] [1751363691.982749335] [minimal_publisher]: TIME: 7.145888 ms, Objects detected: 13
+1751363692.0825262 [pp_infer-1] TIME: doinfer: 5.64518 ms.
+1751363692.0837502 [pp_infer-1] [INFO] [1751363692.083269959] [minimal_publisher]: TIME: 6.905696 ms, Objects detected: 13
+1751363692.1817131 [pp_infer-1] TIME: doinfer: 5.66538 ms.
+1751363692.1827459 [pp_infer-1] [INFO] [1751363692.182270301] [minimal_publisher]: TIME: 6.730112 ms, Objects detected: 13
+1751363692.2828679 [pp_infer-1] TIME: doinfer: 5.65043 ms.
+1751363692.2840478 [pp_infer-1] [INFO] [1751363692.283556021] [minimal_publisher]: TIME: 6.839136 ms, Objects detected: 14
+1751363692.3803728 [pp_infer-1] TIME: doinfer: 5.74771 ms.
+1751363692.3819375 [pp_infer-1] [INFO] [1751363692.381463007] [minimal_publisher]: TIME: 7.360160 ms, Objects detected: 15
+1751363692.4814811 [pp_infer-1] TIME: doinfer: 5.67501 ms.
+1751363692.4825816 [pp_infer-1] [INFO] [1751363692.482105793] [minimal_publisher]: TIME: 6.793984 ms, Objects detected: 12
+1751363692.5817027 [pp_infer-1] TIME: doinfer: 5.67155 ms.
+1751363692.5829394 [pp_infer-1] [INFO] [1751363692.582454388] [minimal_publisher]: TIME: 6.903776 ms, Objects detected: 14
+1751363692.6790309 [pp_infer-1] TIME: doinfer: 6.27923 ms.
+1751363692.6802490 [pp_infer-1] [INFO] [1751363692.679741400] [minimal_publisher]: TIME: 7.495680 ms, Objects detected: 11
+1751363692.7816353 [pp_infer-1] TIME: doinfer: 5.66579 ms.
+1751363692.7827375 [pp_infer-1] [INFO] [1751363692.782249523] [minimal_publisher]: TIME: 6.769600 ms, Objects detected: 11
+1751363692.8817484 [pp_infer-1] TIME: doinfer: 5.69446 ms.
+1751363692.8830569 [pp_infer-1] [INFO] [1751363692.882537486] [minimal_publisher]: TIME: 6.991648 ms, Objects detected: 15
+1751363692.9833839 [pp_infer-1] TIME: doinfer: 6.39283 ms.
+1751363692.9846857 [pp_infer-1] [INFO] [1751363692.984198296] [minimal_publisher]: TIME: 7.751520 ms, Objects detected: 16
+1751363693.0823097 [pp_infer-1] TIME: doinfer: 5.70038 ms.
+1751363693.0837309 [pp_infer-1] [INFO] [1751363693.083247191] [minimal_publisher]: TIME: 7.159392 ms, Objects detected: 16
+1751363693.1816416 [pp_infer-1] TIME: doinfer: 5.6791 ms.
+1751363693.1829116 [pp_infer-1] [INFO] [1751363693.182426243] [minimal_publisher]: TIME: 6.961920 ms, Objects detected: 13
+1751363693.2815881 [pp_infer-1] TIME: doinfer: 5.66074 ms.
+1751363693.2827547 [pp_infer-1] [INFO] [1751363693.282268727] [minimal_publisher]: TIME: 6.843072 ms, Objects detected: 14
+1751363693.3825080 [pp_infer-1] TIME: doinfer: 5.66374 ms.
+1751363693.3834131 [pp_infer-1] [INFO] [1751363693.383008843] [minimal_publisher]: TIME: 6.676096 ms, Objects detected: 11
+1751363693.4813759 [pp_infer-1] TIME: doinfer: 5.65315 ms.
+1751363693.4822805 [pp_infer-1] [INFO] [1751363693.481877819] [minimal_publisher]: TIME: 6.666240 ms, Objects detected: 11
+1751363693.5816464 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363693.5827470 [pp_infer-1] [INFO] [1751363693.582266266] [minimal_publisher]: TIME: 6.803584 ms, Objects detected: 10
+1751363693.6815462 [pp_infer-1] TIME: doinfer: 5.65958 ms.
+1751363693.6824179 [pp_infer-1] [INFO] [1751363693.682043971] [minimal_publisher]: TIME: 6.658272 ms, Objects detected: 11
+1751363693.7815814 [pp_infer-1] TIME: doinfer: 5.65555 ms.
+1751363693.7828939 [pp_infer-1] [INFO] [1751363693.782409579] [minimal_publisher]: TIME: 6.983616 ms, Objects detected: 11
+1751363693.8826797 [pp_infer-1] TIME: doinfer: 5.68115 ms.
+1751363693.8835289 [pp_infer-1] [INFO] [1751363693.883074980] [minimal_publisher]: TIME: 6.593536 ms, Objects detected: 10
+1751363693.9820802 [pp_infer-1] TIME: doinfer: 5.66154 ms.
+1751363693.9829972 [pp_infer-1] [INFO] [1751363693.982647627] [minimal_publisher]: TIME: 6.734048 ms, Objects detected: 10
+1751363694.0820487 [pp_infer-1] TIME: doinfer: 5.6889 ms.
+1751363694.0829282 [pp_infer-1] [INFO] [1751363694.082580156] [minimal_publisher]: TIME: 6.712256 ms, Objects detected: 11
+1751363694.1798480 [pp_infer-1] TIME: doinfer: 6.05987 ms.
+1751363694.1806610 [pp_infer-1] [INFO] [1751363694.180202956] [minimal_publisher]: TIME: 6.912736 ms, Objects detected: 9
+1751363694.2826805 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363694.2834992 [pp_infer-1] [INFO] [1751363694.283069911] [minimal_publisher]: TIME: 6.571168 ms, Objects detected: 10
+1751363694.3798747 [pp_infer-1] TIME: doinfer: 6.02806 ms.
+1751363694.3809533 [pp_infer-1] [INFO] [1751363694.380468998] [minimal_publisher]: TIME: 7.119072 ms, Objects detected: 12
+1751363694.4815476 [pp_infer-1] TIME: doinfer: 5.67562 ms.
+1751363694.4824178 [pp_infer-1] [INFO] [1751363694.482037259] [minimal_publisher]: TIME: 6.681952 ms, Objects detected: 11
+1751363694.5808122 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363694.5822184 [pp_infer-1] [INFO] [1751363694.581705533] [minimal_publisher]: TIME: 7.067392 ms, Objects detected: 11
+1751363694.6818078 [pp_infer-1] TIME: doinfer: 5.7057 ms.
+1751363694.6827037 [pp_infer-1] [INFO] [1751363694.682345142] [minimal_publisher]: TIME: 6.754016 ms, Objects detected: 10
+1751363694.7818305 [pp_infer-1] TIME: doinfer: 5.68013 ms.
+1751363694.7826722 [pp_infer-1] [INFO] [1751363694.782329463] [minimal_publisher]: TIME: 6.683552 ms, Objects detected: 10
+1751363694.8817563 [pp_infer-1] TIME: doinfer: 5.66374 ms.
+1751363694.8826327 [pp_infer-1] [INFO] [1751363694.882273452] [minimal_publisher]: TIME: 6.668288 ms, Objects detected: 12
+1751363694.9818218 [pp_infer-1] TIME: doinfer: 5.65968 ms.
+1751363694.9828539 [pp_infer-1] [INFO] [1751363694.982367617] [minimal_publisher]: TIME: 6.699008 ms, Objects detected: 11
+1751363695.0816736 [pp_infer-1] TIME: doinfer: 5.68518 ms.
+1751363695.0828643 [pp_infer-1] [INFO] [1751363695.082375559] [minimal_publisher]: TIME: 6.875104 ms, Objects detected: 13
+1751363695.1797175 [pp_infer-1] TIME: doinfer: 6.03978 ms.
+1751363695.1808486 [pp_infer-1] [INFO] [1751363695.180361659] [minimal_publisher]: TIME: 7.187264 ms, Objects detected: 14
+1751363695.2815855 [pp_infer-1] TIME: doinfer: 5.68054 ms.
+1751363695.2829189 [pp_infer-1] [INFO] [1751363695.282435171] [minimal_publisher]: TIME: 7.023616 ms, Objects detected: 16
+1751363695.3812058 [pp_infer-1] TIME: doinfer: 6.05184 ms.
+1751363695.3826971 [pp_infer-1] [INFO] [1751363695.382216356] [minimal_publisher]: TIME: 7.572544 ms, Objects detected: 19
+1751363695.4818678 [pp_infer-1] TIME: doinfer: 5.66467 ms.
+1751363695.4834576 [pp_infer-1] [INFO] [1751363695.482955937] [minimal_publisher]: TIME: 7.247488 ms, Objects detected: 18
+1751363695.5818138 [pp_infer-1] TIME: doinfer: 5.66454 ms.
+1751363695.5830343 [pp_infer-1] [INFO] [1751363695.582552438] [minimal_publisher]: TIME: 6.897728 ms, Objects detected: 14
+1751363695.6762595 [pp_infer-1] TIME: doinfer: 5.53005 ms.
+1751363695.6764417 [pp_infer-1] [INFO] [1751363695.676363413] [minimal_publisher]: TIME: 5.884640 ms, Objects detected: 12
+1751363695.7789338 [pp_infer-1] TIME: doinfer: 5.80688 ms.
+1751363695.7791710 [pp_infer-1] [INFO] [1751363695.778992090] [minimal_publisher]: TIME: 6.050816 ms, Objects detected: 14
+1751363695.8825042 [pp_infer-1] TIME: doinfer: 6.09891 ms.
+1751363695.8826654 [pp_infer-1] [INFO] [1751363695.882583255] [minimal_publisher]: TIME: 6.330656 ms, Objects detected: 13
+1751363695.9822497 [pp_infer-1] TIME: doinfer: 5.68323 ms.
+1751363695.9834049 [pp_infer-1] [INFO] [1751363695.983036604] [minimal_publisher]: TIME: 6.992896 ms, Objects detected: 16
+1751363696.0826101 [pp_infer-1] TIME: doinfer: 5.68832 ms.
+1751363696.0837677 [pp_infer-1] [INFO] [1751363696.083283524] [minimal_publisher]: TIME: 6.887872 ms, Objects detected: 12
+1751363696.1819136 [pp_infer-1] TIME: doinfer: 6.07238 ms.
+1751363696.1831932 [pp_infer-1] [INFO] [1751363696.182677168] [minimal_publisher]: TIME: 7.325856 ms, Objects detected: 12
+1751363696.2785840 [pp_infer-1] TIME: doinfer: 5.94166 ms.
+1751363696.2796710 [pp_infer-1] [INFO] [1751363696.279188933] [minimal_publisher]: TIME: 7.048192 ms, Objects detected: 11
+1751363696.3827488 [pp_infer-1] TIME: doinfer: 5.69549 ms.
+1751363696.3839941 [pp_infer-1] [INFO] [1751363696.383514786] [minimal_publisher]: TIME: 6.952640 ms, Objects detected: 13
+1751363696.4820693 [pp_infer-1] TIME: doinfer: 6.05184 ms.
+1751363696.4834073 [pp_infer-1] [INFO] [1751363696.482895981] [minimal_publisher]: TIME: 7.370656 ms, Objects detected: 14
+1751363696.5797479 [pp_infer-1] TIME: doinfer: 5.92835 ms.
+1751363696.5809169 [pp_infer-1] [INFO] [1751363696.580433986] [minimal_publisher]: TIME: 7.115776 ms, Objects detected: 12
+1751363696.6789269 [pp_infer-1] TIME: doinfer: 5.82349 ms.
+1751363696.6792059 [pp_infer-1] [INFO] [1751363696.679045144] [minimal_publisher]: TIME: 6.083584 ms, Objects detected: 14
+1751363696.7807379 [pp_infer-1] TIME: doinfer: 6.05245 ms.
+1751363696.7819445 [pp_infer-1] [INFO] [1751363696.781462078] [minimal_publisher]: TIME: 7.273216 ms, Objects detected: 12
+1751363696.8818152 [pp_infer-1] TIME: doinfer: 6.04973 ms.
+1751363696.8829579 [pp_infer-1] [INFO] [1751363696.882474407] [minimal_publisher]: TIME: 7.207744 ms, Objects detected: 13
+1751363696.9795976 [pp_infer-1] TIME: doinfer: 6.02829 ms.
+1751363696.9811771 [pp_infer-1] [INFO] [1751363696.980656384] [minimal_publisher]: TIME: 7.583040 ms, Objects detected: 15
+1751363697.0807714 [pp_infer-1] TIME: doinfer: 6.00454 ms.
+1751363697.0819073 [pp_infer-1] [INFO] [1751363697.081417327] [minimal_publisher]: TIME: 7.168096 ms, Objects detected: 12
+1751363697.1830249 [pp_infer-1] TIME: doinfer: 5.94086 ms.
+1751363697.1843050 [pp_infer-1] [INFO] [1751363697.183790905] [minimal_publisher]: TIME: 7.202496 ms, Objects detected: 14
+1751363697.2819328 [pp_infer-1] TIME: doinfer: 6.0416 ms.
+1751363697.2828724 [pp_infer-1] [INFO] [1751363697.282478556] [minimal_publisher]: TIME: 7.089440 ms, Objects detected: 10
+1751363697.3819234 [pp_infer-1] TIME: doinfer: 6.03632 ms.
+1751363697.3830090 [pp_infer-1] [INFO] [1751363697.382514614] [minimal_publisher]: TIME: 7.133376 ms, Objects detected: 12
+1751363697.4814229 [pp_infer-1] TIME: doinfer: 5.93002 ms.
+1751363697.4815595 [pp_infer-1] [INFO] [1751363697.481498713] [minimal_publisher]: TIME: 6.138880 ms, Objects detected: 9
+1751363697.5829136 [pp_infer-1] TIME: doinfer: 6.07949 ms.
+1751363697.5841994 [pp_infer-1] [INFO] [1751363697.583690810] [minimal_publisher]: TIME: 7.359328 ms, Objects detected: 12
+1751363697.6793337 [pp_infer-1] TIME: doinfer: 5.92477 ms.
+1751363697.6804488 [pp_infer-1] [INFO] [1751363697.679939858] [minimal_publisher]: TIME: 7.074048 ms, Objects detected: 12
+1751363697.7819402 [pp_infer-1] TIME: doinfer: 6.04342 ms.
+1751363697.7830219 [pp_infer-1] [INFO] [1751363697.782523780] [minimal_publisher]: TIME: 7.122240 ms, Objects detected: 11
+1751363697.8824446 [pp_infer-1] TIME: doinfer: 6.11328 ms.
+1751363697.8837547 [pp_infer-1] [INFO] [1751363697.883276028] [minimal_publisher]: TIME: 7.461120 ms, Objects detected: 14
+1751363697.9819567 [pp_infer-1] TIME: doinfer: 7.23046 ms.
+1751363697.9832892 [pp_infer-1] [INFO] [1751363697.982779333] [minimal_publisher]: TIME: 8.595200 ms, Objects detected: 10
+1751363698.0820184 [pp_infer-1] TIME: doinfer: 6.05309 ms.
+1751363698.0833509 [pp_infer-1] [INFO] [1751363698.082828458] [minimal_publisher]: TIME: 7.365632 ms, Objects detected: 13
+1751363698.1823030 [pp_infer-1] TIME: doinfer: 6.05322 ms.
+1751363698.1835775 [pp_infer-1] [INFO] [1751363698.183095307] [minimal_publisher]: TIME: 7.347200 ms, Objects detected: 11
+1751363698.2822473 [pp_infer-1] TIME: doinfer: 6.06077 ms.
+1751363698.2837832 [pp_infer-1] [INFO] [1751363698.283301751] [minimal_publisher]: TIME: 7.621632 ms, Objects detected: 14
+1751363698.3822479 [pp_infer-1] TIME: doinfer: 6.03443 ms.
+1751363698.3833740 [pp_infer-1] [INFO] [1751363698.382866518] [minimal_publisher]: TIME: 7.183360 ms, Objects detected: 13
+1751363698.4774623 [pp_infer-1] TIME: doinfer: 5.55315 ms.
+1751363698.4778678 [pp_infer-1] [INFO] [1751363698.477733482] [minimal_publisher]: TIME: 6.052864 ms, Objects detected: 13
+1751363698.5823429 [pp_infer-1] TIME: doinfer: 6.04774 ms.
+1751363698.5838947 [pp_infer-1] [INFO] [1751363698.583397323] [minimal_publisher]: TIME: 7.704896 ms, Objects detected: 19
+1751363698.6821244 [pp_infer-1] TIME: doinfer: 5.98733 ms.
+1751363698.6834457 [pp_infer-1] [INFO] [1751363698.682942481] [minimal_publisher]: TIME: 7.342912 ms, Objects detected: 14
+1751363698.7770784 [pp_infer-1] TIME: doinfer: 5.56237 ms.
+1751363698.7776756 [pp_infer-1] [INFO] [1751363698.777441664] [minimal_publisher]: TIME: 6.242304 ms, Objects detected: 18
+1751363698.8807607 [pp_infer-1] TIME: doinfer: 5.95347 ms.
+1751363698.8821588 [pp_infer-1] [INFO] [1751363698.881653023] [minimal_publisher]: TIME: 7.331808 ms, Objects detected: 14
+1751363698.9807408 [pp_infer-1] TIME: doinfer: 5.91437 ms.
+1751363698.9821610 [pp_infer-1] [INFO] [1751363698.981664415] [minimal_publisher]: TIME: 7.319744 ms, Objects detected: 15
+1751363699.0818651 [pp_infer-1] TIME: doinfer: 5.90758 ms.
+1751363699.0829668 [pp_infer-1] [INFO] [1751363699.082486602] [minimal_publisher]: TIME: 7.034496 ms, Objects detected: 10
+1751363699.1793263 [pp_infer-1] TIME: doinfer: 5.68525 ms.
+1751363699.1806626 [pp_infer-1] [INFO] [1751363699.180180571] [minimal_publisher]: TIME: 7.084960 ms, Objects detected: 12
+1751363699.2827315 [pp_infer-1] TIME: doinfer: 5.92384 ms.
+1751363699.2838879 [pp_infer-1] [INFO] [1751363699.283405055] [minimal_publisher]: TIME: 7.103200 ms, Objects detected: 13
+1751363699.3829336 [pp_infer-1] TIME: doinfer: 6.00371 ms.
+1751363699.3839960 [pp_infer-1] [INFO] [1751363699.383502954] [minimal_publisher]: TIME: 7.063968 ms, Objects detected: 10
+1751363699.4785290 [pp_infer-1] TIME: doinfer: 5.50486 ms.
+1751363699.4788649 [pp_infer-1] [INFO] [1751363699.478754691] [minimal_publisher]: TIME: 5.908480 ms, Objects detected: 13
+1751363699.5788040 [pp_infer-1] TIME: doinfer: 5.5255 ms.
+1751363699.5791464 [pp_infer-1] [INFO] [1751363699.579001119] [minimal_publisher]: TIME: 5.920384 ms, Objects detected: 16
+1751363699.6795461 [pp_infer-1] TIME: doinfer: 5.54608 ms.
+1751363699.6797762 [pp_infer-1] [INFO] [1751363699.679685074] [minimal_publisher]: TIME: 5.841056 ms, Objects detected: 12
+1751363699.7796066 [pp_infer-1] TIME: doinfer: 5.5743 ms.
+1751363699.7797856 [pp_infer-1] [INFO] [1751363699.779689562] [minimal_publisher]: TIME: 5.839520 ms, Objects detected: 8
+1751363699.8786454 [pp_infer-1] TIME: doinfer: 5.52141 ms.
+1751363699.8788557 [pp_infer-1] [INFO] [1751363699.878727724] [minimal_publisher]: TIME: 5.794816 ms, Objects detected: 12
+1751363699.9819613 [pp_infer-1] TIME: doinfer: 5.94534 ms.
+1751363699.9827921 [pp_infer-1] [INFO] [1751363699.982409425] [minimal_publisher]: TIME: 6.904832 ms, Objects detected: 7
+1751363700.0829437 [pp_infer-1] TIME: doinfer: 6.00125 ms.
+1751363700.0841384 [pp_infer-1] [INFO] [1751363700.083621854] [minimal_publisher]: TIME: 7.192736 ms, Objects detected: 11
+1751363700.1818256 [pp_infer-1] TIME: doinfer: 5.89312 ms.
+1751363700.1826596 [pp_infer-1] [INFO] [1751363700.182279269] [minimal_publisher]: TIME: 6.852672 ms, Objects detected: 10
+1751363700.2820811 [pp_infer-1] TIME: doinfer: 5.96173 ms.
+1751363700.2834666 [pp_infer-1] [INFO] [1751363700.282949716] [minimal_publisher]: TIME: 7.321792 ms, Objects detected: 13
+1751363700.3792593 [pp_infer-1] TIME: doinfer: 5.66067 ms.
+1751363700.3804610 [pp_infer-1] [INFO] [1751363700.379957228] [minimal_publisher]: TIME: 6.878208 ms, Objects detected: 11
+1751363700.4817920 [pp_infer-1] TIME: doinfer: 5.91462 ms.
+1751363700.4830029 [pp_infer-1] [INFO] [1751363700.482508537] [minimal_publisher]: TIME: 7.134208 ms, Objects detected: 11
+1751363700.5815938 [pp_infer-1] TIME: doinfer: 5.69686 ms.
+1751363700.5829318 [pp_infer-1] [INFO] [1751363700.582449208] [minimal_publisher]: TIME: 7.065600 ms, Objects detected: 13
+1751363700.6822953 [pp_infer-1] TIME: doinfer: 5.99238 ms.
+1751363700.6831238 [pp_infer-1] [INFO] [1751363700.682702746] [minimal_publisher]: TIME: 6.935328 ms, Objects detected: 8
+1751363700.7817311 [pp_infer-1] TIME: doinfer: 5.69242 ms.
+1751363700.7829280 [pp_infer-1] [INFO] [1751363700.782442566] [minimal_publisher]: TIME: 6.897664 ms, Objects detected: 12
+1751363700.8827670 [pp_infer-1] TIME: doinfer: 5.90746 ms.
+1751363700.8839893 [pp_infer-1] [INFO] [1751363700.883501247] [minimal_publisher]: TIME: 7.127072 ms, Objects detected: 10
+1751363700.9815302 [pp_infer-1] TIME: doinfer: 5.6855 ms.
+1751363700.9827578 [pp_infer-1] [INFO] [1751363700.982276451] [minimal_publisher]: TIME: 6.926432 ms, Objects detected: 12
+1751363701.0793447 [pp_infer-1] TIME: doinfer: 5.66272 ms.
+1751363701.0801802 [pp_infer-1] [INFO] [1751363701.079822535] [minimal_publisher]: TIME: 6.676928 ms, Objects detected: 11
+1751363701.1805458 [pp_infer-1] TIME: doinfer: 5.66234 ms.
+1751363701.1817918 [pp_infer-1] [INFO] [1751363701.181302719] [minimal_publisher]: TIME: 6.920896 ms, Objects detected: 11
+1751363701.2814825 [pp_infer-1] TIME: doinfer: 5.6713 ms.
+1751363701.2823091 [pp_infer-1] [INFO] [1751363701.281915473] [minimal_publisher]: TIME: 6.633472 ms, Objects detected: 9
+1751363701.3829260 [pp_infer-1] TIME: doinfer: 6.0097 ms.
+1751363701.3840570 [pp_infer-1] [INFO] [1751363701.383567269] [minimal_publisher]: TIME: 7.140352 ms, Objects detected: 11
+1751363701.4816201 [pp_infer-1] TIME: doinfer: 5.69856 ms.
+1751363701.4828448 [pp_infer-1] [INFO] [1751363701.482353676] [minimal_publisher]: TIME: 6.924288 ms, Objects detected: 12
+1751363701.5816519 [pp_infer-1] TIME: doinfer: 5.73542 ms.
+1751363701.5831132 [pp_infer-1] [INFO] [1751363701.582606226] [minimal_publisher]: TIME: 7.170528 ms, Objects detected: 14
+1751363701.6825140 [pp_infer-1] TIME: doinfer: 5.67674 ms.
+1751363701.6837595 [pp_infer-1] [INFO] [1751363701.683278855] [minimal_publisher]: TIME: 6.971808 ms, Objects detected: 13
+1751363701.7815371 [pp_infer-1] TIME: doinfer: 5.62074 ms.
+1751363701.7829838 [pp_infer-1] [INFO] [1751363701.782499481] [minimal_publisher]: TIME: 7.104448 ms, Objects detected: 15
+1751363701.8826241 [pp_infer-1] TIME: doinfer: 5.70982 ms.
+1751363701.8838942 [pp_infer-1] [INFO] [1751363701.883408059] [minimal_publisher]: TIME: 6.985824 ms, Objects detected: 12
+1751363701.9824493 [pp_infer-1] TIME: doinfer: 5.74285 ms.
+1751363701.9838147 [pp_infer-1] [INFO] [1751363701.983330599] [minimal_publisher]: TIME: 7.169312 ms, Objects detected: 12
+1751363702.0828502 [pp_infer-1] TIME: doinfer: 5.71699 ms.
+1751363702.0844967 [pp_infer-1] [INFO] [1751363702.083984270] [minimal_publisher]: TIME: 7.354784 ms, Objects detected: 14
+1751363702.1794932 [pp_infer-1] TIME: doinfer: 5.67494 ms.
+1751363702.1806283 [pp_infer-1] [INFO] [1751363702.180143100] [minimal_publisher]: TIME: 6.836224 ms, Objects detected: 9
+1751363702.2825887 [pp_infer-1] TIME: doinfer: 5.70035 ms.
+1751363702.2839622 [pp_infer-1] [INFO] [1751363702.283476173] [minimal_publisher]: TIME: 7.098048 ms, Objects detected: 10
+1751363702.3826978 [pp_infer-1] TIME: doinfer: 5.71904 ms.
+1751363702.3841209 [pp_infer-1] [INFO] [1751363702.383621287] [minimal_publisher]: TIME: 7.129088 ms, Objects detected: 12
+1751363702.4803350 [pp_infer-1] TIME: doinfer: 5.65616 ms.
+1751363702.4815941 [pp_infer-1] [INFO] [1751363702.481103681] [minimal_publisher]: TIME: 6.915168 ms, Objects detected: 12
+1751363702.5803390 [pp_infer-1] TIME: doinfer: 5.66762 ms.
+1751363702.5816300 [pp_infer-1] [INFO] [1751363702.581141801] [minimal_publisher]: TIME: 6.980608 ms, Objects detected: 12
+1751363702.6814988 [pp_infer-1] TIME: doinfer: 5.6655 ms.
+1751363702.6829896 [pp_infer-1] [INFO] [1751363702.682503558] [minimal_publisher]: TIME: 7.184544 ms, Objects detected: 12
+1751363702.7825432 [pp_infer-1] TIME: doinfer: 5.65696 ms.
+1751363702.7840621 [pp_infer-1] [INFO] [1751363702.783581199] [minimal_publisher]: TIME: 7.189984 ms, Objects detected: 14
+1751363702.8795869 [pp_infer-1] TIME: doinfer: 5.6576 ms.
+1751363702.8808391 [pp_infer-1] [INFO] [1751363702.880340873] [minimal_publisher]: TIME: 6.909568 ms, Objects detected: 14
+1751363702.9815946 [pp_infer-1] TIME: doinfer: 5.66886 ms.
+1751363702.9829082 [pp_infer-1] [INFO] [1751363702.982424527] [minimal_publisher]: TIME: 6.994016 ms, Objects detected: 13
+1751363703.0825837 [pp_infer-1] TIME: doinfer: 6.02522 ms.
+1751363703.0828981 [pp_infer-1] [INFO] [1751363703.082790360] [minimal_publisher]: TIME: 6.349984 ms, Objects detected: 12
+1751363703.1815541 [pp_infer-1] TIME: doinfer: 5.68288 ms.
+1751363703.1830792 [pp_infer-1] [INFO] [1751363703.182600649] [minimal_publisher]: TIME: 7.242848 ms, Objects detected: 13
+1751363703.2817957 [pp_infer-1] TIME: doinfer: 5.67398 ms.
+1751363703.2832203 [pp_infer-1] [INFO] [1751363703.282703198] [minimal_publisher]: TIME: 7.071744 ms, Objects detected: 12
+1751363703.3804262 [pp_infer-1] TIME: doinfer: 5.65146 ms.
+1751363703.3815176 [pp_infer-1] [INFO] [1751363703.381028097] [minimal_publisher]: TIME: 6.764128 ms, Objects detected: 12
+1751363703.4825516 [pp_infer-1] TIME: doinfer: 5.69562 ms.
+1751363703.4839094 [pp_infer-1] [INFO] [1751363703.483424743] [minimal_publisher]: TIME: 7.077728 ms, Objects detected: 12
+1751363703.5793633 [pp_infer-1] TIME: doinfer: 5.52528 ms.
+1751363703.5795500 [pp_infer-1] [INFO] [1751363703.579461052] [minimal_publisher]: TIME: 5.753024 ms, Objects detected: 10
+1751363703.6796033 [pp_infer-1] TIME: doinfer: 5.54045 ms.
+1751363703.6798975 [pp_infer-1] [INFO] [1751363703.679752122] [minimal_publisher]: TIME: 5.838240 ms, Objects detected: 12
+1751363703.7783074 [pp_infer-1] TIME: doinfer: 5.54701 ms.
+1751363703.7784812 [pp_infer-1] [INFO] [1751363703.778384520] [minimal_publisher]: TIME: 5.758112 ms, Objects detected: 9
+1751363703.8791642 [pp_infer-1] TIME: doinfer: 5.68013 ms.
+1751363703.8802905 [pp_infer-1] [INFO] [1751363703.879776393] [minimal_publisher]: TIME: 6.809856 ms, Objects detected: 11
+1751363703.9799032 [pp_infer-1] TIME: doinfer: 5.68234 ms.
+1751363703.9810457 [pp_infer-1] [INFO] [1751363703.980557222] [minimal_publisher]: TIME: 6.839296 ms, Objects detected: 11
+1751363704.0816689 [pp_infer-1] TIME: doinfer: 5.70275 ms.
+1751363704.0825014 [pp_infer-1] [INFO] [1751363704.082076985] [minimal_publisher]: TIME: 6.598688 ms, Objects detected: 8
+1751363704.1793909 [pp_infer-1] TIME: doinfer: 5.53062 ms.
+1751363704.1795685 [pp_infer-1] [INFO] [1751363704.179472941] [minimal_publisher]: TIME: 5.747712 ms, Objects detected: 11
+1751363704.2761700 [pp_infer-1] TIME: doinfer: 5.54246 ms.
+1751363704.2763460 [pp_infer-1] [INFO] [1751363704.276254266] [minimal_publisher]: TIME: 5.799936 ms, Objects detected: 11
+1751363704.3794830 [pp_infer-1] TIME: doinfer: 5.57875 ms.
+1751363704.3801806 [pp_infer-1] [INFO] [1751363704.379857041] [minimal_publisher]: TIME: 6.266240 ms, Objects detected: 13
+1751363704.4797878 [pp_infer-1] TIME: doinfer: 5.52858 ms.
+1751363704.4800777 [pp_infer-1] [INFO] [1751363704.479962140] [minimal_publisher]: TIME: 5.911136 ms, Objects detected: 11
+1751363704.5794709 [pp_infer-1] TIME: doinfer: 5.66579 ms.
+1751363704.5803022 [pp_infer-1] [INFO] [1751363704.579841201] [minimal_publisher]: TIME: 6.564160 ms, Objects detected: 8
+1751363704.6814420 [pp_infer-1] TIME: doinfer: 5.6535 ms.
+1751363704.6822851 [pp_infer-1] [INFO] [1751363704.681912124] [minimal_publisher]: TIME: 6.645088 ms, Objects detected: 9
+1751363704.7826729 [pp_infer-1] TIME: doinfer: 5.6791 ms.
+1751363704.7834964 [pp_infer-1] [INFO] [1751363704.783110830] [minimal_publisher]: TIME: 6.588160 ms, Objects detected: 11
+1751363704.8803296 [pp_infer-1] TIME: doinfer: 5.66666 ms.
+1751363704.8814685 [pp_infer-1] [INFO] [1751363704.880950019] [minimal_publisher]: TIME: 6.796416 ms, Objects detected: 10
+1751363704.9825528 [pp_infer-1] TIME: doinfer: 5.65341 ms.
+1751363704.9836426 [pp_infer-1] [INFO] [1751363704.983138221] [minimal_publisher]: TIME: 6.737632 ms, Objects detected: 11
+1751363705.0810552 [pp_infer-1] TIME: doinfer: 5.67501 ms.
+1751363705.0822167 [pp_infer-1] [INFO] [1751363705.081702654] [minimal_publisher]: TIME: 6.822816 ms, Objects detected: 11
+1751363705.1826658 [pp_infer-1] TIME: doinfer: 5.68627 ms.
+1751363705.1838710 [pp_infer-1] [INFO] [1751363705.183378781] [minimal_publisher]: TIME: 6.903136 ms, Objects detected: 12
+1751363705.2792590 [pp_infer-1] TIME: doinfer: 5.67952 ms.
+1751363705.2800758 [pp_infer-1] [INFO] [1751363705.279722304] [minimal_publisher]: TIME: 6.666112 ms, Objects detected: 8
+1751363705.3815982 [pp_infer-1] TIME: doinfer: 5.65939 ms.
+1751363705.3824377 [pp_infer-1] [INFO] [1751363705.382043412] [minimal_publisher]: TIME: 6.601376 ms, Objects detected: 8
+1751363705.4823954 [pp_infer-1] TIME: doinfer: 6.20646 ms.
+1751363705.4826412 [pp_infer-1] [INFO] [1751363705.482485096] [minimal_publisher]: TIME: 6.432768 ms, Objects detected: 11
+1751363705.5783288 [pp_infer-1] TIME: doinfer: 5.52205 ms.
+1751363705.5784950 [pp_infer-1] [INFO] [1751363705.578429720] [minimal_publisher]: TIME: 5.762304 ms, Objects detected: 13
+1751363705.6783974 [pp_infer-1] TIME: doinfer: 5.53062 ms.
+1751363705.6785698 [pp_infer-1] [INFO] [1751363705.678484256] [minimal_publisher]: TIME: 5.751808 ms, Objects detected: 11
+1751363705.7784123 [pp_infer-1] TIME: doinfer: 5.676 ms.
+1751363705.7796075 [pp_infer-1] [INFO] [1751363705.779121641] [minimal_publisher]: TIME: 6.900544 ms, Objects detected: 11
+1751363705.8793776 [pp_infer-1] TIME: doinfer: 5.6719 ms.
+1751363705.8807125 [pp_infer-1] [INFO] [1751363705.880221331] [minimal_publisher]: TIME: 7.027712 ms, Objects detected: 11
+1751363705.9795904 [pp_infer-1] TIME: doinfer: 5.5511 ms.
+1751363705.9797719 [pp_infer-1] [INFO] [1751363705.979687608] [minimal_publisher]: TIME: 5.831744 ms, Objects detected: 15
+1751363710.7053530 [pp_infer-1] TIME: doinfer: 5.52653 ms.
+1751363710.7055557 [pp_infer-1] [INFO] [1751363710.705474043] [minimal_publisher]: TIME: 5.837536 ms, Objects detected: 7
+1751363710.8084848 [pp_infer-1] TIME: doinfer: 6.03226 ms.
+1751363710.8096631 [pp_infer-1] [INFO] [1751363710.809143887] [minimal_publisher]: TIME: 7.220512 ms, Objects detected: 9
+1751363710.9075673 [pp_infer-1] TIME: doinfer: 5.86547 ms.
+1751363710.9077513 [pp_infer-1] [INFO] [1751363710.907664824] [minimal_publisher]: TIME: 6.097920 ms, Objects detected: 8
+1751363711.0026972 [pp_infer-1] TIME: doinfer: 5.49498 ms.
+1751363711.0028651 [pp_infer-1] [INFO] [1751363711.002785867] [minimal_publisher]: TIME: 5.728928 ms, Objects detected: 10
+1751363711.1024952 [pp_infer-1] TIME: doinfer: 5.50374 ms.
+1751363711.1026733 [pp_infer-1] [INFO] [1751363711.102569246] [minimal_publisher]: TIME: 5.712896 ms, Objects detected: 11
+1751363711.2087696 [pp_infer-1] TIME: doinfer: 5.96992 ms.
+1751363711.2099171 [pp_infer-1] [INFO] [1751363711.209391505] [minimal_publisher]: TIME: 7.096000 ms, Objects detected: 9
+1751363711.3077526 [pp_infer-1] TIME: doinfer: 5.92778 ms.
+1751363711.3081424 [pp_infer-1] [INFO] [1751363711.307985859] [minimal_publisher]: TIME: 6.337920 ms, Objects detected: 10
+1751363711.4082916 [pp_infer-1] TIME: doinfer: 5.89926 ms.
+1751363711.4093819 [pp_infer-1] [INFO] [1751363711.408822563] [minimal_publisher]: TIME: 6.965248 ms, Objects detected: 7
+1751363711.5088232 [pp_infer-1] TIME: doinfer: 5.79334 ms.
+1751363711.5089955 [pp_infer-1] [INFO] [1751363711.508882937] [minimal_publisher]: TIME: 5.982368 ms, Objects detected: 8
+1751363711.6068864 [pp_infer-1] TIME: doinfer: 5.67981 ms.
+1751363711.6079783 [pp_infer-1] [INFO] [1751363711.607461277] [minimal_publisher]: TIME: 6.747008 ms, Objects detected: 9
+1751363711.7092581 [pp_infer-1] TIME: doinfer: 5.89414 ms.
+1751363711.7101562 [pp_infer-1] [INFO] [1751363711.709753761] [minimal_publisher]: TIME: 6.908256 ms, Objects detected: 8
+1751363711.8094943 [pp_infer-1] TIME: doinfer: 5.98528 ms.
+1751363711.8106673 [pp_infer-1] [INFO] [1751363711.810142906] [minimal_publisher]: TIME: 7.148544 ms, Objects detected: 12
+1751363711.9093800 [pp_infer-1] TIME: doinfer: 5.8872 ms.
+1751363711.9105446 [pp_infer-1] [INFO] [1751363711.909999566] [minimal_publisher]: TIME: 7.046144 ms, Objects detected: 12
+1751363712.0106897 [pp_infer-1] TIME: doinfer: 6.00371 ms.
+1751363712.0115774 [pp_infer-1] [INFO] [1751363712.011214274] [minimal_publisher]: TIME: 7.015840 ms, Objects detected: 10
+1751363712.1107543 [pp_infer-1] TIME: doinfer: 6.00269 ms.
+1751363712.1119013 [pp_infer-1] [INFO] [1751363712.111409832] [minimal_publisher]: TIME: 7.161856 ms, Objects detected: 12
+1751363712.2087615 [pp_infer-1] TIME: doinfer: 6.5065 ms.
+1751363712.2099714 [pp_infer-1] [INFO] [1751363712.209483411] [minimal_publisher]: TIME: 7.741088 ms, Objects detected: 11
+1751363712.3106422 [pp_infer-1] TIME: doinfer: 6.02205 ms.
+1751363712.3118730 [pp_infer-1] [INFO] [1751363712.311372169] [minimal_publisher]: TIME: 7.244992 ms, Objects detected: 14
+1751363712.4102402 [pp_infer-1] TIME: doinfer: 5.89309 ms.
+1751363712.4104104 [pp_infer-1] [INFO] [1751363712.410318943] [minimal_publisher]: TIME: 6.149536 ms, Objects detected: 10
+1751363712.5093794 [pp_infer-1] TIME: doinfer: 5.9983 ms.
+1751363712.5106795 [pp_infer-1] [INFO] [1751363712.510187762] [minimal_publisher]: TIME: 7.345088 ms, Objects detected: 14
+1751363712.6105289 [pp_infer-1] TIME: doinfer: 5.93034 ms.
+1751363712.6119339 [pp_infer-1] [INFO] [1751363712.611446436] [minimal_publisher]: TIME: 7.362560 ms, Objects detected: 14
+1751363712.7081690 [pp_infer-1] TIME: doinfer: 5.69475 ms.
+1751363712.7096078 [pp_infer-1] [INFO] [1751363712.709118612] [minimal_publisher]: TIME: 7.161856 ms, Objects detected: 11
+1751363712.8059685 [pp_infer-1] TIME: doinfer: 5.6791 ms.
+1751363712.8073111 [pp_infer-1] [INFO] [1751363712.806796134] [minimal_publisher]: TIME: 6.992864 ms, Objects detected: 10
+1751363712.9062512 [pp_infer-1] TIME: doinfer: 5.55107 ms.
+1751363712.9064236 [pp_infer-1] [INFO] [1751363712.906299504] [minimal_publisher]: TIME: 5.775232 ms, Objects detected: 9
+1751363713.0050757 [pp_infer-1] TIME: doinfer: 5.53859 ms.
+1751363713.0053508 [pp_infer-1] [INFO] [1751363713.005160387] [minimal_publisher]: TIME: 5.797920 ms, Objects detected: 10
+1751363713.1041343 [pp_infer-1] TIME: doinfer: 5.52448 ms.
+1751363713.1044049 [pp_infer-1] [INFO] [1751363713.104205753] [minimal_publisher]: TIME: 5.812224 ms, Objects detected: 9
+1751363713.2081342 [pp_infer-1] TIME: doinfer: 5.6576 ms.
+1751363713.2089329 [pp_infer-1] [INFO] [1751363713.208585259] [minimal_publisher]: TIME: 6.631424 ms, Objects detected: 11
+1751363713.3081872 [pp_infer-1] TIME: doinfer: 5.68531 ms.
+1751363713.3095291 [pp_infer-1] [INFO] [1751363713.309042513] [minimal_publisher]: TIME: 7.070432 ms, Objects detected: 9
+1751363713.4080639 [pp_infer-1] TIME: doinfer: 5.59206 ms.
+1751363713.4089119 [pp_infer-1] [INFO] [1751363713.408530027] [minimal_publisher]: TIME: 6.561760 ms, Objects detected: 9
+1751363713.5082443 [pp_infer-1] TIME: doinfer: 5.64224 ms.
+1751363713.5090532 [pp_infer-1] [INFO] [1751363713.508670153] [minimal_publisher]: TIME: 6.605536 ms, Objects detected: 10
+1751363713.6083257 [pp_infer-1] TIME: doinfer: 5.66307 ms.
+1751363713.6094272 [pp_infer-1] [INFO] [1751363713.608877939] [minimal_publisher]: TIME: 6.744224 ms, Objects detected: 9
+1751363713.7081561 [pp_infer-1] TIME: doinfer: 5.65309 ms.
+1751363713.7093015 [pp_infer-1] [INFO] [1751363713.708783914] [minimal_publisher]: TIME: 6.807200 ms, Objects detected: 11
+1751363713.8086138 [pp_infer-1] TIME: doinfer: 5.55622 ms.
+1751363713.8089349 [pp_infer-1] [INFO] [1751363713.808791839] [minimal_publisher]: TIME: 5.867232 ms, Objects detected: 12
+1751363713.9080737 [pp_infer-1] TIME: doinfer: 5.64736 ms.
+1751363713.9092045 [pp_infer-1] [INFO] [1751363713.908694413] [minimal_publisher]: TIME: 6.772736 ms, Objects detected: 10
+1751363714.0069649 [pp_infer-1] TIME: doinfer: 5.66784 ms.
+1751363714.0081708 [pp_infer-1] [INFO] [1751363714.007616798] [minimal_publisher]: TIME: 6.811040 ms, Objects detected: 13
+1751363714.1081383 [pp_infer-1] TIME: doinfer: 5.6577 ms.
+1751363714.1092384 [pp_infer-1] [INFO] [1751363714.108694302] [minimal_publisher]: TIME: 6.729792 ms, Objects detected: 11
+1751363714.2056479 [pp_infer-1] TIME: doinfer: 5.69133 ms.
+1751363714.2068293 [pp_infer-1] [INFO] [1751363714.206316923] [minimal_publisher]: TIME: 6.856160 ms, Objects detected: 10
+1751363714.3080297 [pp_infer-1] TIME: doinfer: 5.65619 ms.
+1751363714.3094354 [pp_infer-1] [INFO] [1751363714.308891740] [minimal_publisher]: TIME: 7.017728 ms, Objects detected: 14
+1751363714.4091244 [pp_infer-1] TIME: doinfer: 5.65658 ms.
+1751363714.4102008 [pp_infer-1] [INFO] [1751363714.409653146] [minimal_publisher]: TIME: 6.719712 ms, Objects detected: 9
+1751363714.5076275 [pp_infer-1] TIME: doinfer: 5.56067 ms.
+1751363714.5078027 [pp_infer-1] [INFO] [1751363714.507724325] [minimal_publisher]: TIME: 5.778880 ms, Objects detected: 14
+1751363714.6080713 [pp_infer-1] TIME: doinfer: 5.6577 ms.
+1751363714.6094370 [pp_infer-1] [INFO] [1751363714.608905844] [minimal_publisher]: TIME: 6.992896 ms, Objects detected: 11
+1751363714.7092707 [pp_infer-1] TIME: doinfer: 5.66886 ms.
+1751363714.7104921 [pp_infer-1] [INFO] [1751363714.709945273] [minimal_publisher]: TIME: 6.880736 ms, Objects detected: 11
+1751363714.8071785 [pp_infer-1] TIME: doinfer: 5.65475 ms.
+1751363714.8080165 [pp_infer-1] [INFO] [1751363714.807622514] [minimal_publisher]: TIME: 6.616512 ms, Objects detected: 10
+1751363714.9091239 [pp_infer-1] TIME: doinfer: 6.48496 ms.
+1751363714.9100003 [pp_infer-1] [INFO] [1751363714.909616061] [minimal_publisher]: TIME: 7.521280 ms, Objects detected: 9
+1751363715.0059400 [pp_infer-1] TIME: doinfer: 5.68253 ms.
+1751363715.0071831 [pp_infer-1] [INFO] [1751363715.006624350] [minimal_publisher]: TIME: 6.863744 ms, Objects detected: 12
+1751363715.1078725 [pp_infer-1] TIME: doinfer: 5.65658 ms.
+1751363715.1091788 [pp_infer-1] [INFO] [1751363715.108621370] [minimal_publisher]: TIME: 6.903008 ms, Objects detected: 14
+1751363715.2058930 [pp_infer-1] TIME: doinfer: 5.67408 ms.
+1751363715.2071576 [pp_infer-1] [INFO] [1751363715.206599911] [minimal_publisher]: TIME: 6.883328 ms, Objects detected: 12
+1751363715.3076336 [pp_infer-1] TIME: doinfer: 5.59395 ms.
+1751363715.3078172 [pp_infer-1] [INFO] [1751363715.307714865] [minimal_publisher]: TIME: 5.833728 ms, Objects detected: 10
+1751363715.4040458 [pp_infer-1] TIME: doinfer: 5.55418 ms.
+1751363715.4043007 [pp_infer-1] [INFO] [1751363715.404174640] [minimal_publisher]: TIME: 5.859328 ms, Objects detected: 14
+1751363715.5062599 [pp_infer-1] TIME: doinfer: 5.49158 ms.
+1751363715.5102112 [pp_infer-1] [INFO] [1751363715.506605923] [minimal_publisher]: TIME: 6.242304 ms, Objects detected: 14
+1751363715.6071784 [pp_infer-1] TIME: doinfer: 5.5175 ms.
+1751363715.6075420 [pp_infer-1] [INFO] [1751363715.607423140] [minimal_publisher]: TIME: 5.945344 ms, Objects detected: 15
+1751363715.7050428 [pp_infer-1] TIME: doinfer: 5.51936 ms.
+1751363715.7053194 [pp_infer-1] [INFO] [1751363715.705234784] [minimal_publisher]: TIME: 5.886976 ms, Objects detected: 17
+1751363715.8055699 [pp_infer-1] TIME: doinfer: 5.50093 ms.
+1751363715.8063140 [pp_infer-1] [INFO] [1751363715.805882604] [minimal_publisher]: TIME: 6.345728 ms, Objects detected: 18
+1751363715.9037392 [pp_infer-1] TIME: doinfer: 6.20307 ms.
+1751363715.9039254 [pp_infer-1] [INFO] [1751363715.903826272] [minimal_publisher]: TIME: 6.470848 ms, Objects detected: 13
+1751363716.0081747 [pp_infer-1] TIME: doinfer: 5.65965 ms.
+1751363716.0097201 [pp_infer-1] [INFO] [1751363716.009228900] [minimal_publisher]: TIME: 7.253088 ms, Objects detected: 15
+1751363716.1083367 [pp_infer-1] TIME: doinfer: 5.66112 ms.
+1751363716.1098309 [pp_infer-1] [INFO] [1751363716.109347945] [minimal_publisher]: TIME: 7.216320 ms, Objects detected: 14
+1751363716.2081797 [pp_infer-1] TIME: doinfer: 5.66848 ms.
+1751363716.2090571 [pp_infer-1] [INFO] [1751363716.208707293] [minimal_publisher]: TIME: 6.739840 ms, Objects detected: 11
+1751363716.3100438 [pp_infer-1] TIME: doinfer: 5.65549 ms.
+1751363716.3115981 [pp_infer-1] [INFO] [1751363716.311119619] [minimal_publisher]: TIME: 7.199744 ms, Objects detected: 13
+1751363716.4056246 [pp_infer-1] TIME: doinfer: 5.56954 ms.
+1751363716.4060955 [pp_infer-1] [INFO] [1751363716.405894452] [minimal_publisher]: TIME: 6.103968 ms, Objects detected: 12
+1751363716.5079572 [pp_infer-1] TIME: doinfer: 5.53869 ms.
+1751363716.5081658 [pp_infer-1] [INFO] [1751363716.508077402] [minimal_publisher]: TIME: 5.792064 ms, Objects detected: 16
+1751363716.6068873 [pp_infer-1] TIME: doinfer: 5.66989 ms.
+1751363716.6081123 [pp_infer-1] [INFO] [1751363716.607609065] [minimal_publisher]: TIME: 6.873088 ms, Objects detected: 11
+1751363716.7081630 [pp_infer-1] TIME: doinfer: 5.66477 ms.
+1751363716.7095425 [pp_infer-1] [INFO] [1751363716.709056706] [minimal_publisher]: TIME: 7.079616 ms, Objects detected: 13
+1751363716.8102601 [pp_infer-1] TIME: doinfer: 5.65453 ms.
+1751363716.8116055 [pp_infer-1] [INFO] [1751363716.811126213] [minimal_publisher]: TIME: 7.056384 ms, Objects detected: 14
+1751363716.9059436 [pp_infer-1] TIME: doinfer: 5.65338 ms.
+1751363716.9071977 [pp_infer-1] [INFO] [1751363716.906684235] [minimal_publisher]: TIME: 6.891520 ms, Objects detected: 12
+1751363717.0058475 [pp_infer-1] TIME: doinfer: 5.58989 ms.
+1751363717.0066288 [pp_infer-1] [INFO] [1751363717.006323251] [minimal_publisher]: TIME: 6.376576 ms, Objects detected: 12
+1751363717.1081557 [pp_infer-1] TIME: doinfer: 5.65034 ms.
+1751363717.1092803 [pp_infer-1] [INFO] [1751363717.108887993] [minimal_publisher]: TIME: 6.903936 ms, Objects detected: 12
+1751363717.2076945 [pp_infer-1] TIME: doinfer: 5.53843 ms.
+1751363717.2078605 [pp_infer-1] [INFO] [1751363717.207775107] [minimal_publisher]: TIME: 5.753856 ms, Objects detected: 12
+1751363717.3083305 [pp_infer-1] TIME: doinfer: 5.67702 ms.
+1751363717.3093739 [pp_infer-1] [INFO] [1751363717.309007424] [minimal_publisher]: TIME: 6.910880 ms, Objects detected: 12
+1751363717.4081817 [pp_infer-1] TIME: doinfer: 5.66365 ms.
+1751363717.4093950 [pp_infer-1] [INFO] [1751363717.409033935] [minimal_publisher]: TIME: 7.036096 ms, Objects detected: 13
+1751363717.5059094 [pp_infer-1] TIME: doinfer: 5.67091 ms.
+1751363717.5071778 [pp_infer-1] [INFO] [1751363717.506659284] [minimal_publisher]: TIME: 6.927360 ms, Objects detected: 12
+1751363717.6067493 [pp_infer-1] TIME: doinfer: 5.65565 ms.
+1751363717.6081455 [pp_infer-1] [INFO] [1751363717.607642631] [minimal_publisher]: TIME: 7.048896 ms, Objects detected: 15
+1751363717.7069798 [pp_infer-1] TIME: doinfer: 5.64531 ms.
+1751363717.7082708 [pp_infer-1] [INFO] [1751363717.707755964] [minimal_publisher]: TIME: 6.913056 ms, Objects detected: 13
+1751363717.8073013 [pp_infer-1] TIME: doinfer: 5.68627 ms.
+1751363717.8083584 [pp_infer-1] [INFO] [1751363717.807990275] [minimal_publisher]: TIME: 6.898304 ms, Objects detected: 10
+1751363717.9089184 [pp_infer-1] TIME: doinfer: 5.65453 ms.
+1751363717.9101746 [pp_infer-1] [INFO] [1751363717.909672245] [minimal_publisher]: TIME: 6.918144 ms, Objects detected: 13
+1751363718.0079746 [pp_infer-1] TIME: doinfer: 5.64704 ms.
+1751363718.0092342 [pp_infer-1] [INFO] [1751363718.008707803] [minimal_publisher]: TIME: 6.876160 ms, Objects detected: 11
+1751363718.1067626 [pp_infer-1] TIME: doinfer: 5.57363 ms.
+1751363718.1069641 [pp_infer-1] [INFO] [1751363718.106878783] [minimal_publisher]: TIME: 5.819584 ms, Objects detected: 13
+1751363718.2097192 [pp_infer-1] TIME: doinfer: 6.18086 ms.
+1751363718.2112384 [pp_infer-1] [INFO] [1751363718.210732406] [minimal_publisher]: TIME: 7.692480 ms, Objects detected: 15
+1751363718.3080328 [pp_infer-1] TIME: doinfer: 5.66035 ms.
+1751363718.3091388 [pp_infer-1] [INFO] [1751363718.308624031] [minimal_publisher]: TIME: 6.742016 ms, Objects detected: 11
+1751363718.4029222 [pp_infer-1] TIME: doinfer: 5.51936 ms.
+1751363718.4031620 [pp_infer-1] [INFO] [1751363718.402982258] [minimal_publisher]: TIME: 5.755904 ms, Objects detected: 11
+1751363718.5049605 [pp_infer-1] TIME: doinfer: 5.5175 ms.
+1751363718.5051868 [pp_infer-1] [INFO] [1751363718.505030849] [minimal_publisher]: TIME: 5.763840 ms, Objects detected: 12
+1751363718.6053233 [pp_infer-1] TIME: doinfer: 5.53296 ms.
+1751363718.6056137 [pp_infer-1] [INFO] [1751363718.605494889] [minimal_publisher]: TIME: 5.911840 ms, Objects detected: 11
+1751363718.7075162 [pp_infer-1] TIME: doinfer: 5.54685 ms.
+1751363718.7077253 [pp_infer-1] [INFO] [1751363718.707594008] [minimal_publisher]: TIME: 5.778144 ms, Objects detected: 10
+1751363718.8088841 [pp_infer-1] TIME: doinfer: 5.67318 ms.
+1751363718.8101063 [pp_infer-1] [INFO] [1751363718.809596881] [minimal_publisher]: TIME: 6.871680 ms, Objects detected: 14
+1751363718.9104507 [pp_infer-1] TIME: doinfer: 5.6576 ms.
+1751363718.9119456 [pp_infer-1] [INFO] [1751363718.911453628] [minimal_publisher]: TIME: 7.187616 ms, Objects detected: 16
+1751363719.0057385 [pp_infer-1] TIME: doinfer: 5.65555 ms.
+1751363719.0070024 [pp_infer-1] [INFO] [1751363719.006511047] [minimal_publisher]: TIME: 6.925600 ms, Objects detected: 15
+1751363719.1088135 [pp_infer-1] TIME: doinfer: 5.65248 ms.
+1751363719.1099782 [pp_infer-1] [INFO] [1751363719.109487553] [minimal_publisher]: TIME: 6.816416 ms, Objects detected: 12
+1751363719.2091560 [pp_infer-1] TIME: doinfer: 5.66682 ms.
+1751363719.2102156 [pp_infer-1] [INFO] [1751363719.209697098] [minimal_publisher]: TIME: 6.749568 ms, Objects detected: 9
+1751363719.3079486 [pp_infer-1] TIME: doinfer: 5.65322 ms.
+1751363719.3091881 [pp_infer-1] [INFO] [1751363719.308662805] [minimal_publisher]: TIME: 6.874784 ms, Objects detected: 13
+1751363719.4069505 [pp_infer-1] TIME: doinfer: 5.64723 ms.
+1751363719.4081516 [pp_infer-1] [INFO] [1751363719.407629466] [minimal_publisher]: TIME: 6.840352 ms, Objects detected: 11
+1751363719.5090423 [pp_infer-1] TIME: doinfer: 5.6535 ms.
+1751363719.5102119 [pp_infer-1] [INFO] [1751363719.509691415] [minimal_publisher]: TIME: 6.804416 ms, Objects detected: 13
+1751363719.6092885 [pp_infer-1] TIME: doinfer: 5.66538 ms.
+1751363719.6103086 [pp_infer-1] [INFO] [1751363719.609932524] [minimal_publisher]: TIME: 6.848736 ms, Objects detected: 13
+1751363719.7081177 [pp_infer-1] TIME: doinfer: 5.64819 ms.
+1751363719.7089629 [pp_infer-1] [INFO] [1751363719.708610248] [minimal_publisher]: TIME: 6.669408 ms, Objects detected: 9
+1751363719.8047793 [pp_infer-1] TIME: doinfer: 5.65245 ms.
+1751363719.8058615 [pp_infer-1] [INFO] [1751363719.805370807] [minimal_publisher]: TIME: 6.752256 ms, Objects detected: 12
+1751363719.9090652 [pp_infer-1] TIME: doinfer: 5.6768 ms.
+1751363719.9105101 [pp_infer-1] [INFO] [1751363719.909992405] [minimal_publisher]: TIME: 7.092096 ms, Objects detected: 13
+1751363720.0069230 [pp_infer-1] TIME: doinfer: 5.64637 ms.
+1751363720.0082510 [pp_infer-1] [INFO] [1751363720.007734250] [minimal_publisher]: TIME: 6.956032 ms, Objects detected: 12
+1751363720.1065211 [pp_infer-1] TIME: doinfer: 5.55418 ms.
+1751363720.1067138 [pp_infer-1] [INFO] [1751363720.106627759] [minimal_publisher]: TIME: 5.793888 ms, Objects detected: 13
+1751363720.2059760 [pp_infer-1] TIME: doinfer: 5.67091 ms.
+1751363720.2074127 [pp_infer-1] [INFO] [1751363720.206904765] [minimal_publisher]: TIME: 7.094304 ms, Objects detected: 14
+1751363720.3059044 [pp_infer-1] TIME: doinfer: 5.52141 ms.
+1751363720.3061504 [pp_infer-1] [INFO] [1751363720.305957173] [minimal_publisher]: TIME: 5.747648 ms, Objects detected: 11
+1751363720.4029944 [pp_infer-1] TIME: doinfer: 5.56339 ms.
+1751363720.4032609 [pp_infer-1] [INFO] [1751363720.403086823] [minimal_publisher]: TIME: 5.820160 ms, Objects detected: 14
+1751363720.5047898 [pp_infer-1] TIME: doinfer: 5.50195 ms.
+1751363720.5054235 [pp_infer-1] [INFO] [1751363720.504985721] [minimal_publisher]: TIME: 6.659072 ms, Objects detected: 12
+1751363720.6063194 [pp_infer-1] TIME: doinfer: 5.55315 ms.
+1751363720.6065907 [pp_infer-1] [INFO] [1751363720.606479991] [minimal_publisher]: TIME: 5.940224 ms, Objects detected: 12
+1751363720.7067688 [pp_infer-1] TIME: doinfer: 5.68832 ms.
+1751363720.7082100 [pp_infer-1] [INFO] [1751363720.707718399] [minimal_publisher]: TIME: 7.134848 ms, Objects detected: 14
+1751363720.8058455 [pp_infer-1] TIME: doinfer: 5.65862 ms.
+1751363720.8071401 [pp_infer-1] [INFO] [1751363720.806626979] [minimal_publisher]: TIME: 6.926144 ms, Objects detected: 11
+1751363720.9102850 [pp_infer-1] TIME: doinfer: 5.6791 ms.
+1751363720.9116499 [pp_infer-1] [INFO] [1751363720.911166437] [minimal_publisher]: TIME: 7.087104 ms, Objects detected: 15
+1751363721.0090492 [pp_infer-1] TIME: doinfer: 5.65472 ms.
+1751363721.0104592 [pp_infer-1] [INFO] [1751363721.009944644] [minimal_publisher]: TIME: 7.037888 ms, Objects detected: 15
+1751363721.1102824 [pp_infer-1] TIME: doinfer: 5.67706 ms.
+1751363721.1116986 [pp_infer-1] [INFO] [1751363721.111217330] [minimal_publisher]: TIME: 7.119968 ms, Objects detected: 14
+1751363721.2088768 [pp_infer-1] TIME: doinfer: 5.6791 ms.
+1751363721.2105956 [pp_infer-1] [INFO] [1751363721.210136120] [minimal_publisher]: TIME: 7.411712 ms, Objects detected: 17
+1751363721.3069084 [pp_infer-1] TIME: doinfer: 5.66262 ms.
+1751363721.3083558 [pp_infer-1] [INFO] [1751363721.307846174] [minimal_publisher]: TIME: 7.082624 ms, Objects detected: 15
+1751363721.4055068 [pp_infer-1] TIME: doinfer: 5.67498 ms.
+1751363721.4067664 [pp_infer-1] [INFO] [1751363721.406272724] [minimal_publisher]: TIME: 6.971392 ms, Objects detected: 12
+1751363721.5088894 [pp_infer-1] TIME: doinfer: 5.65027 ms.
+1751363721.5102704 [pp_infer-1] [INFO] [1751363721.509751708] [minimal_publisher]: TIME: 7.001088 ms, Objects detected: 12
+1751363721.6085978 [pp_infer-1] TIME: doinfer: 5.5593 ms.
+1751363721.6088226 [pp_infer-1] [INFO] [1751363721.608745482] [minimal_publisher]: TIME: 5.844992 ms, Objects detected: 13
+1751363721.7057130 [pp_infer-1] TIME: doinfer: 5.65248 ms.
+1751363721.7069774 [pp_infer-1] [INFO] [1751363721.706482359] [minimal_publisher]: TIME: 6.908896 ms, Objects detected: 13
+1751363721.8029492 [pp_infer-1] TIME: doinfer: 6.11738 ms.
+1751363721.8031955 [pp_infer-1] [INFO] [1751363721.803064575] [minimal_publisher]: TIME: 6.393024 ms, Objects detected: 12
+1751363721.9050031 [pp_infer-1] TIME: doinfer: 5.53472 ms.
+1751363721.9052320 [pp_infer-1] [INFO] [1751363721.905091115] [minimal_publisher]: TIME: 5.794016 ms, Objects detected: 13
+1751363722.0065722 [pp_infer-1] TIME: doinfer: 5.50912 ms.
+1751363722.0072277 [pp_infer-1] [INFO] [1751363722.006787806] [minimal_publisher]: TIME: 6.964224 ms, Objects detected: 15
+1751363722.1060486 [pp_infer-1] TIME: doinfer: 5.90336 ms.
+1751363722.1062329 [pp_infer-1] [INFO] [1751363722.106111091] [minimal_publisher]: TIME: 6.144544 ms, Objects detected: 12
+1751363722.2092500 [pp_infer-1] TIME: doinfer: 5.66886 ms.
+1751363722.2104294 [pp_infer-1] [INFO] [1751363722.210060832] [minimal_publisher]: TIME: 7.020672 ms, Objects detected: 13
+1751363722.3102007 [pp_infer-1] TIME: doinfer: 5.67664 ms.
+1751363722.3114228 [pp_infer-1] [INFO] [1751363722.310911738] [minimal_publisher]: TIME: 6.915264 ms, Objects detected: 13
+1751363722.4078770 [pp_infer-1] TIME: doinfer: 5.65258 ms.
+1751363722.4092484 [pp_infer-1] [INFO] [1751363722.408737772] [minimal_publisher]: TIME: 7.003072 ms, Objects detected: 14
+1751363722.5079632 [pp_infer-1] TIME: doinfer: 5.65862 ms.
+1751363722.5089068 [pp_infer-1] [INFO] [1751363722.508559512] [minimal_publisher]: TIME: 6.739968 ms, Objects detected: 10
+1751363722.6057966 [pp_infer-1] TIME: doinfer: 5.51197 ms.
+1751363722.6059949 [pp_infer-1] [INFO] [1751363722.605907032] [minimal_publisher]: TIME: 5.761024 ms, Objects detected: 11
+1751363722.7042339 [pp_infer-1] TIME: doinfer: 5.87443 ms.
+1751363722.7044749 [pp_infer-1] [INFO] [1751363722.704319676] [minimal_publisher]: TIME: 6.147936 ms, Objects detected: 12
+1751363722.8090003 [pp_infer-1] TIME: doinfer: 5.67398 ms.
+1751363722.8099041 [pp_infer-1] [INFO] [1751363722.809554857] [minimal_publisher]: TIME: 6.732416 ms, Objects detected: 11
+1751363722.9060695 [pp_infer-1] TIME: doinfer: 5.66477 ms.
+1751363722.9070561 [pp_infer-1] [INFO] [1751363722.906708411] [minimal_publisher]: TIME: 6.812672 ms, Objects detected: 13
+1751363723.0029714 [pp_infer-1] TIME: doinfer: 5.76822 ms.
+1751363723.0034235 [pp_infer-1] [INFO] [1751363723.003293817] [minimal_publisher]: TIME: 6.247104 ms, Objects detected: 13
+1751363723.1088524 [pp_infer-1] TIME: doinfer: 5.64736 ms.
+1751363723.1102548 [pp_infer-1] [INFO] [1751363723.109748332] [minimal_publisher]: TIME: 7.029728 ms, Objects detected: 14
+1751363723.2055209 [pp_infer-1] TIME: doinfer: 6.09075 ms.
+1751363723.2057083 [pp_infer-1] [INFO] [1751363723.205623111] [minimal_publisher]: TIME: 6.349792 ms, Objects detected: 12
+1751363723.3048377 [pp_infer-1] TIME: doinfer: 6.05901 ms.
+1751363723.3059695 [pp_infer-1] [INFO] [1751363723.305486657] [minimal_publisher]: TIME: 7.206784 ms, Objects detected: 10
+1751363723.4062521 [pp_infer-1] TIME: doinfer: 5.53434 ms.
+1751363723.4066567 [pp_infer-1] [INFO] [1751363723.406481171] [minimal_publisher]: TIME: 5.959968 ms, Objects detected: 12
+1751363723.5087671 [pp_infer-1] TIME: doinfer: 5.68422 ms.
+1751363723.5098379 [pp_infer-1] [INFO] [1751363723.509358706] [minimal_publisher]: TIME: 6.788096 ms, Objects detected: 10
+1751363723.6091626 [pp_infer-1] TIME: doinfer: 5.6617 ms.
+1751363723.6100779 [pp_infer-1] [INFO] [1751363723.609725848] [minimal_publisher]: TIME: 6.785600 ms, Objects detected: 10
+1751363723.7069113 [pp_infer-1] TIME: doinfer: 6.24496 ms.
+1751363723.7072608 [pp_infer-1] [INFO] [1751363723.707101803] [minimal_publisher]: TIME: 6.635520 ms, Objects detected: 12
+1751363723.8077579 [pp_infer-1] TIME: doinfer: 5.66816 ms.
+1751363723.8088343 [pp_infer-1] [INFO] [1751363723.808337817] [minimal_publisher]: TIME: 6.759648 ms, Objects detected: 11
+1751363723.9051566 [pp_infer-1] TIME: doinfer: 6.2617 ms.
+1751363723.9055328 [pp_infer-1] [INFO] [1751363723.905369830] [minimal_publisher]: TIME: 6.656000 ms, Objects detected: 12
+1751363724.0086024 [pp_infer-1] TIME: doinfer: 5.56781 ms.
+1751363724.0087676 [pp_infer-1] [INFO] [1751363724.008695938] [minimal_publisher]: TIME: 5.815296 ms, Objects detected: 13
+1751363724.1091261 [pp_infer-1] TIME: doinfer: 5.67706 ms.
+1751363724.1103921 [pp_infer-1] [INFO] [1751363724.109863821] [minimal_publisher]: TIME: 6.962144 ms, Objects detected: 14
+1751363724.2050438 [pp_infer-1] TIME: doinfer: 6.15424 ms.
+1751363724.2054439 [pp_infer-1] [INFO] [1751363724.205255003] [minimal_publisher]: TIME: 6.658048 ms, Objects detected: 12
+1751363724.3069646 [pp_infer-1] TIME: doinfer: 6.07949 ms.
+1751363724.3081734 [pp_infer-1] [INFO] [1751363724.307615132] [minimal_publisher]: TIME: 7.223264 ms, Objects detected: 10
+1751363724.4079914 [pp_infer-1] TIME: doinfer: 5.66989 ms.
+1751363724.4092875 [pp_infer-1] [INFO] [1751363724.408727887] [minimal_publisher]: TIME: 6.900736 ms, Objects detected: 12
+1751363724.5080338 [pp_infer-1] TIME: doinfer: 5.67091 ms.
+1751363724.5094452 [pp_infer-1] [INFO] [1751363724.508883285] [minimal_publisher]: TIME: 7.012032 ms, Objects detected: 15
+1751363724.6080518 [pp_infer-1] TIME: doinfer: 5.66774 ms.
+1751363724.6094539 [pp_infer-1] [INFO] [1751363724.608905524] [minimal_publisher]: TIME: 7.013120 ms, Objects detected: 14
+1751363724.7081368 [pp_infer-1] TIME: doinfer: 5.67712 ms.
+1751363724.7095575 [pp_infer-1] [INFO] [1751363724.709021397] [minimal_publisher]: TIME: 7.079936 ms, Objects detected: 15
+1751363724.8088138 [pp_infer-1] TIME: doinfer: 5.67466 ms.
+1751363724.8100724 [pp_infer-1] [INFO] [1751363724.809542847] [minimal_publisher]: TIME: 6.897280 ms, Objects detected: 13
+1751363724.9050677 [pp_infer-1] TIME: doinfer: 5.97715 ms.
+1751363724.9062510 [pp_infer-1] [INFO] [1751363724.905812403] [minimal_publisher]: TIME: 7.222080 ms, Objects detected: 13
+1751363725.0085878 [pp_infer-1] TIME: doinfer: 5.54742 ms.
+1751363725.0087900 [pp_infer-1] [INFO] [1751363725.008664448] [minimal_publisher]: TIME: 5.762080 ms, Objects detected: 9
+1751363725.1078153 [pp_infer-1] TIME: doinfer: 5.65248 ms.
+1751363725.1091466 [pp_infer-1] [INFO] [1751363725.108591594] [minimal_publisher]: TIME: 6.911840 ms, Objects detected: 11
+1751363725.2072773 [pp_infer-1] TIME: doinfer: 6.04195 ms.
+1751363725.2080245 [pp_infer-1] [INFO] [1751363725.207525575] [minimal_publisher]: TIME: 6.821984 ms, Objects detected: 9
+1751363725.3081758 [pp_infer-1] TIME: doinfer: 5.6832 ms.
+1751363725.3092697 [pp_infer-1] [INFO] [1751363725.308707329] [minimal_publisher]: TIME: 6.756352 ms, Objects detected: 10
+1751363725.4081547 [pp_infer-1] TIME: doinfer: 5.6881 ms.
+1751363725.4095619 [pp_infer-1] [INFO] [1751363725.409023532] [minimal_publisher]: TIME: 7.079744 ms, Objects detected: 15
+1751363725.5089393 [pp_infer-1] TIME: doinfer: 5.65837 ms.
+1751363725.5105362 [pp_infer-1] [INFO] [1751363725.509970898] [minimal_publisher]: TIME: 7.174144 ms, Objects detected: 17
+1751363725.6049280 [pp_infer-1] TIME: doinfer: 5.98016 ms.
+1751363725.6061740 [pp_infer-1] [INFO] [1751363725.605618340] [minimal_publisher]: TIME: 7.157440 ms, Objects detected: 12
+1751363725.7074287 [pp_infer-1] TIME: doinfer: 6.01536 ms.
+1751363725.7089171 [pp_infer-1] [INFO] [1751363725.708387116] [minimal_publisher]: TIME: 7.530208 ms, Objects detected: 17
+1751363725.8095345 [pp_infer-1] TIME: doinfer: 5.54998 ms.
+1751363725.8097985 [pp_infer-1] [INFO] [1751363725.809681337] [minimal_publisher]: TIME: 5.827456 ms, Objects detected: 13
+1751363725.9083283 [pp_infer-1] TIME: doinfer: 5.65043 ms.
+1751363725.9094095 [pp_infer-1] [INFO] [1751363725.908962140] [minimal_publisher]: TIME: 7.034784 ms, Objects detected: 13
+1751363726.0090206 [pp_infer-1] TIME: doinfer: 5.6688 ms.
+1751363726.0103726 [pp_infer-1] [INFO] [1751363726.009811166] [minimal_publisher]: TIME: 6.947840 ms, Objects detected: 12
+1751363726.1084468 [pp_infer-1] TIME: doinfer: 6.05354 ms.
+1751363726.1095388 [pp_infer-1] [INFO] [1751363726.109079420] [minimal_publisher]: TIME: 7.227392 ms, Objects detected: 10
+1751363726.2059639 [pp_infer-1] TIME: doinfer: 5.87878 ms.
+1751363726.2073233 [pp_infer-1] [INFO] [1751363726.206756145] [minimal_publisher]: TIME: 7.184288 ms, Objects detected: 13
+1751363726.3059909 [pp_infer-1] TIME: doinfer: 5.90848 ms.
+1751363726.3074572 [pp_infer-1] [INFO] [1751363726.306920028] [minimal_publisher]: TIME: 7.317312 ms, Objects detected: 14
+1751363726.4079485 [pp_infer-1] TIME: doinfer: 6.0375 ms.
+1751363726.4093564 [pp_infer-1] [INFO] [1751363726.408787452] [minimal_publisher]: TIME: 7.378592 ms, Objects detected: 13
+1751363726.5102792 [pp_infer-1] TIME: doinfer: 5.67706 ms.
+1751363726.5114019 [pp_infer-1] [INFO] [1751363726.510973936] [minimal_publisher]: TIME: 6.909248 ms, Objects detected: 12
+1751363726.6084628 [pp_infer-1] TIME: doinfer: 6.0889 ms.
+1751363726.6098230 [pp_infer-1] [INFO] [1751363726.609290398] [minimal_publisher]: TIME: 7.427072 ms, Objects detected: 11
+1751363726.7084095 [pp_infer-1] TIME: doinfer: 6.03546 ms.
+1751363726.7097974 [pp_infer-1] [INFO] [1751363726.709265761] [minimal_publisher]: TIME: 7.413376 ms, Objects detected: 14
+1751363726.8079638 [pp_infer-1] TIME: doinfer: 5.93014 ms.
+1751363726.8083003 [pp_infer-1] [INFO] [1751363726.808087032] [minimal_publisher]: TIME: 6.185760 ms, Objects detected: 13
+1751363726.9085782 [pp_infer-1] TIME: doinfer: 6.03325 ms.
+1751363726.9097736 [pp_infer-1] [INFO] [1751363726.909242627] [minimal_publisher]: TIME: 7.234720 ms, Objects detected: 11
+1751363727.0093038 [pp_infer-1] TIME: doinfer: 6.05491 ms.
+1751363727.0104346 [pp_infer-1] [INFO] [1751363727.010010772] [minimal_publisher]: TIME: 7.296000 ms, Objects detected: 11
+1751363727.1094213 [pp_infer-1] TIME: doinfer: 6.33981 ms.
+1751363727.1108119 [pp_infer-1] [INFO] [1751363727.110275854] [minimal_publisher]: TIME: 7.766016 ms, Objects detected: 12
+1751363727.2017958 [pp_infer-1] TIME: doinfer: 5.51834 ms.
+1751363727.2020426 [pp_infer-1] [INFO] [1751363727.201898039] [minimal_publisher]: TIME: 5.829728 ms, Objects detected: 11
+1751363727.3028879 [pp_infer-1] TIME: doinfer: 5.49581 ms.
+1751363727.3030937 [pp_infer-1] [INFO] [1751363727.302880469] [minimal_publisher]: TIME: 5.684224 ms, Objects detected: 8
+1751363727.4028249 [pp_infer-1] TIME: doinfer: 5.48678 ms.
+1751363727.4030077 [pp_infer-1] [INFO] [1751363727.402893373] [minimal_publisher]: TIME: 5.740480 ms, Objects detected: 13
+1751363727.5047805 [pp_infer-1] TIME: doinfer: 5.48659 ms.
+1751363727.5050001 [pp_infer-1] [INFO] [1751363727.504817425] [minimal_publisher]: TIME: 5.664768 ms, Objects detected: 9
+1751363727.6062024 [pp_infer-1] TIME: doinfer: 5.85933 ms.
+1751363727.6064093 [pp_infer-1] [INFO] [1751363727.606232428] [minimal_publisher]: TIME: 6.067776 ms, Objects detected: 9
+1751363727.7030997 [pp_infer-1] TIME: doinfer: 5.83987 ms.
+1751363727.7033129 [pp_infer-1] [INFO] [1751363727.703226263] [minimal_publisher]: TIME: 6.138752 ms, Objects detected: 11
+1751363727.8040314 [pp_infer-1] TIME: doinfer: 5.73872 ms.
+1751363727.8042300 [pp_infer-1] [INFO] [1751363727.804156620] [minimal_publisher]: TIME: 6.069056 ms, Objects detected: 10
+1751363727.9039125 [pp_infer-1] TIME: doinfer: 5.3207 ms.
+1751363727.9041841 [pp_infer-1] [INFO] [1751363727.904091612] [minimal_publisher]: TIME: 5.659648 ms, Objects detected: 10
+1751363728.0041533 [pp_infer-1] TIME: doinfer: 5.92589 ms.
+1751363728.0044482 [pp_infer-1] [INFO] [1751363728.004341363] [minimal_publisher]: TIME: 6.276288 ms, Objects detected: 13
+1751363728.1079803 [pp_infer-1] TIME: doinfer: 8.16538 ms.
+1751363728.1083860 [pp_infer-1] [INFO] [1751363728.108303505] [minimal_publisher]: TIME: 8.714944 ms, Objects detected: 9
+1751363728.2030702 [pp_infer-1] TIME: doinfer: 5.76205 ms.
+1751363728.2032781 [pp_infer-1] [INFO] [1751363728.203167268] [minimal_publisher]: TIME: 6.009856 ms, Objects detected: 14
+1751363728.3024230 [pp_infer-1] TIME: doinfer: 5.57021 ms.
+1751363728.3025904 [pp_infer-1] [INFO] [1751363728.302490043] [minimal_publisher]: TIME: 5.766848 ms, Objects detected: 10
+1751363728.4062350 [pp_infer-1] TIME: doinfer: 5.69667 ms.
+1751363728.4065485 [pp_infer-1] [INFO] [1751363728.406446819] [minimal_publisher]: TIME: 6.074144 ms, Objects detected: 11
+1751363728.5042615 [pp_infer-1] TIME: doinfer: 5.89414 ms.
+1751363728.5045447 [pp_infer-1] [INFO] [1751363728.504461615] [minimal_publisher]: TIME: 6.250688 ms, Objects detected: 12
+1751363728.6049316 [pp_infer-1] TIME: doinfer: 5.61459 ms.
+1751363728.6052325 [pp_infer-1] [INFO] [1751363728.605144227] [minimal_publisher]: TIME: 5.973824 ms, Objects detected: 11
+1751363728.7026453 [pp_infer-1] TIME: doinfer: 5.63098 ms.
+1751363728.7028277 [pp_infer-1] [INFO] [1751363728.702765113] [minimal_publisher]: TIME: 5.876736 ms, Objects detected: 11
+1751363728.8034883 [pp_infer-1] TIME: doinfer: 5.32438 ms.
+1751363728.8036587 [pp_infer-1] [INFO] [1751363728.803549889] [minimal_publisher]: TIME: 5.521440 ms, Objects detected: 8
+1751363728.9024935 [pp_infer-1] TIME: doinfer: 5.34086 ms.
+1751363728.9026756 [pp_infer-1] [INFO] [1751363728.902609074] [minimal_publisher]: TIME: 5.579456 ms, Objects detected: 10
+1751363729.0056288 [pp_infer-1] TIME: doinfer: 5.36883 ms.
+1751363729.0059688 [pp_infer-1] [INFO] [1751363729.005804824] [minimal_publisher]: TIME: 5.668416 ms, Objects detected: 10
+1751363729.1097889 [pp_infer-1] TIME: doinfer: 6.15622 ms.
+1751363729.1109717 [pp_infer-1] [INFO] [1751363729.110482458] [minimal_publisher]: TIME: 7.387840 ms, Objects detected: 9
+1751363729.2082365 [pp_infer-1] TIME: doinfer: 5.83373 ms.
+1751363729.2093370 [pp_infer-1] [INFO] [1751363729.208815294] [minimal_publisher]: TIME: 6.999040 ms, Objects detected: 11
+1751363729.3080659 [pp_infer-1] TIME: doinfer: 5.71466 ms.
+1751363729.3091159 [pp_infer-1] [INFO] [1751363729.308727411] [minimal_publisher]: TIME: 6.908736 ms, Objects detected: 11
+1751363729.4098575 [pp_infer-1] TIME: doinfer: 6.33315 ms.
+1751363729.4109337 [pp_infer-1] [INFO] [1751363729.410452821] [minimal_publisher]: TIME: 7.449408 ms, Objects detected: 11
+1751363729.5074072 [pp_infer-1] TIME: doinfer: 6.11533 ms.
+1751363729.5087266 [pp_infer-1] [INFO] [1751363729.508240717] [minimal_publisher]: TIME: 7.511712 ms, Objects detected: 12
+1751363729.6094675 [pp_infer-1] TIME: doinfer: 6.00474 ms.
+1751363729.6106479 [pp_infer-1] [INFO] [1751363729.610163508] [minimal_publisher]: TIME: 7.266144 ms, Objects detected: 13
+1751363729.7045856 [pp_infer-1] TIME: doinfer: 5.64429 ms.
+1751363729.7057531 [pp_infer-1] [INFO] [1751363729.705271699] [minimal_publisher]: TIME: 6.858016 ms, Objects detected: 11
+1751363729.8050337 [pp_infer-1] TIME: doinfer: 5.6617 ms.
+1751363729.8062558 [pp_infer-1] [INFO] [1751363729.805871034] [minimal_publisher]: TIME: 7.057792 ms, Objects detected: 11
+1751363729.9093177 [pp_infer-1] TIME: doinfer: 5.95763 ms.
+1751363729.9100206 [pp_infer-1] [INFO] [1751363729.909765695] [minimal_publisher]: TIME: 6.884480 ms, Objects detected: 12
+1751363730.0048676 [pp_infer-1] TIME: doinfer: 5.50707 ms.
+1751363730.0050695 [pp_infer-1] [INFO] [1751363730.004939782] [minimal_publisher]: TIME: 5.770240 ms, Objects detected: 13
+1751363730.1046438 [pp_infer-1] TIME: doinfer: 5.49555 ms.
+1751363730.1048193 [pp_infer-1] [INFO] [1751363730.104725904] [minimal_publisher]: TIME: 5.746624 ms, Objects detected: 12
+1751363730.2060149 [pp_infer-1] TIME: doinfer: 5.65555 ms.
+1751363730.2075067 [pp_infer-1] [INFO] [1751363730.207002016] [minimal_publisher]: TIME: 7.164864 ms, Objects detected: 11
+1751363730.3083975 [pp_infer-1] TIME: doinfer: 6.01869 ms.
+1751363730.3098524 [pp_infer-1] [INFO] [1751363730.309367957] [minimal_publisher]: TIME: 7.538592 ms, Objects detected: 12
+1751363730.4059584 [pp_infer-1] TIME: doinfer: 5.57568 ms.
+1751363730.4066617 [pp_infer-1] [INFO] [1751363730.406353297] [minimal_publisher]: TIME: 6.311104 ms, Objects detected: 10
+1751363730.5084023 [pp_infer-1] TIME: doinfer: 5.94637 ms.
+1751363730.5096200 [pp_infer-1] [INFO] [1751363730.509145080] [minimal_publisher]: TIME: 7.221152 ms, Objects detected: 13
+1751363730.6084356 [pp_infer-1] TIME: doinfer: 5.95043 ms.
+1751363730.6099837 [pp_infer-1] [INFO] [1751363730.609498246] [minimal_publisher]: TIME: 7.553248 ms, Objects detected: 12
+1751363730.7091641 [pp_infer-1] TIME: doinfer: 5.88045 ms.
+1751363730.7104890 [pp_infer-1] [INFO] [1751363730.709983294] [minimal_publisher]: TIME: 7.245824 ms, Objects detected: 13
+1751363730.8081303 [pp_infer-1] TIME: doinfer: 5.68867 ms.
+1751363730.8093498 [pp_infer-1] [INFO] [1751363730.808833217] [minimal_publisher]: TIME: 6.935168 ms, Objects detected: 12
+1751363730.9095073 [pp_infer-1] TIME: doinfer: 5.89107 ms.
+1751363730.9105968 [pp_infer-1] [INFO] [1751363730.910117854] [minimal_publisher]: TIME: 7.086240 ms, Objects detected: 13
+1751363731.0069506 [pp_infer-1] TIME: doinfer: 5.81325 ms.
+1751363731.0084774 [pp_infer-1] [INFO] [1751363731.008076688] [minimal_publisher]: TIME: 7.505920 ms, Objects detected: 15
+1751363731.1078632 [pp_infer-1] TIME: doinfer: 5.65936 ms.
+1751363731.1091795 [pp_infer-1] [INFO] [1751363731.108672419] [minimal_publisher]: TIME: 6.972448 ms, Objects detected: 14
+1751363731.2065511 [pp_infer-1] TIME: doinfer: 5.47533 ms.
+1751363731.2068105 [pp_infer-1] [INFO] [1751363731.206745931] [minimal_publisher]: TIME: 5.817056 ms, Objects detected: 14
+1751363731.3015351 [pp_infer-1] TIME: doinfer: 5.49888 ms.
+1751363731.3016956 [pp_infer-1] [INFO] [1751363731.301629875] [minimal_publisher]: TIME: 5.740896 ms, Objects detected: 11
+1751363731.4080703 [pp_infer-1] TIME: doinfer: 5.65648 ms.
+1751363731.4093668 [pp_infer-1] [INFO] [1751363731.408859665] [minimal_publisher]: TIME: 6.953408 ms, Objects detected: 11
+1751363731.5079103 [pp_infer-1] TIME: doinfer: 5.65555 ms.
+1751363731.5092702 [pp_infer-1] [INFO] [1751363731.508769949] [minimal_publisher]: TIME: 7.006336 ms, Objects detected: 14
+1751363731.6092644 [pp_infer-1] TIME: doinfer: 5.97299 ms.
+1751363731.6106091 [pp_infer-1] [INFO] [1751363731.610132125] [minimal_publisher]: TIME: 7.348320 ms, Objects detected: 15
+1751363731.7078874 [pp_infer-1] TIME: doinfer: 5.67501 ms.
+1751363731.7095289 [pp_infer-1] [INFO] [1751363731.709025947] [minimal_publisher]: TIME: 7.315008 ms, Objects detected: 17
+1751363731.8079071 [pp_infer-1] TIME: doinfer: 5.63699 ms.
+1751363731.8093317 [pp_infer-1] [INFO] [1751363731.808791669] [minimal_publisher]: TIME: 7.012864 ms, Objects detected: 11
+1751363731.9079781 [pp_infer-1] TIME: doinfer: 5.64394 ms.
+1751363731.9091790 [pp_infer-1] [INFO] [1751363731.908803960] [minimal_publisher]: TIME: 6.973504 ms, Objects detected: 13
+1751363732.0088398 [pp_infer-1] TIME: doinfer: 5.65853 ms.
+1751363732.0100038 [pp_infer-1] [INFO] [1751363732.009523364] [minimal_publisher]: TIME: 6.860032 ms, Objects detected: 12
+1751363732.1078403 [pp_infer-1] TIME: doinfer: 5.67456 ms.
+1751363732.1090350 [pp_infer-1] [INFO] [1751363732.108551338] [minimal_publisher]: TIME: 6.880256 ms, Objects detected: 11
+1751363732.2079768 [pp_infer-1] TIME: doinfer: 5.6617 ms.
+1751363732.2091250 [pp_infer-1] [INFO] [1751363732.208758211] [minimal_publisher]: TIME: 6.944768 ms, Objects detected: 10
+1751363732.3078446 [pp_infer-1] TIME: doinfer: 5.62762 ms.
+1751363732.3089905 [pp_infer-1] [INFO] [1751363732.308513773] [minimal_publisher]: TIME: 6.791904 ms, Objects detected: 11
+1751363732.4079821 [pp_infer-1] TIME: doinfer: 5.68013 ms.
+1751363732.4093428 [pp_infer-1] [INFO] [1751363732.408951064] [minimal_publisher]: TIME: 7.151680 ms, Objects detected: 10
+1751363732.5085273 [pp_infer-1] TIME: doinfer: 5.57219 ms.
+1751363732.5087476 [pp_infer-1] [INFO] [1751363732.508655625] [minimal_publisher]: TIME: 5.861376 ms, Objects detected: 12
+1751363732.6080322 [pp_infer-1] TIME: doinfer: 5.6504 ms.
+1751363732.6092544 [pp_infer-1] [INFO] [1751363732.608858740] [minimal_publisher]: TIME: 6.971840 ms, Objects detected: 12
+1751363732.7081749 [pp_infer-1] TIME: doinfer: 5.64736 ms.
+1751363732.7092934 [pp_infer-1] [INFO] [1751363732.708776316] [minimal_publisher]: TIME: 6.811456 ms, Objects detected: 10
+1751363732.8025877 [pp_infer-1] TIME: doinfer: 5.52403 ms.
+1751363732.8027382 [pp_infer-1] [INFO] [1751363732.802630415] [minimal_publisher]: TIME: 5.711872 ms, Objects detected: 10
+1751363732.9058847 [pp_infer-1] TIME: doinfer: 5.50883 ms.
+1751363732.9061313 [pp_infer-1] [INFO] [1751363732.905974022] [minimal_publisher]: TIME: 5.710080 ms, Objects detected: 11
+1751363733.0027480 [pp_infer-1] TIME: doinfer: 5.53965 ms.
+1751363733.0029130 [pp_infer-1] [INFO] [1751363733.002817116] [minimal_publisher]: TIME: 5.766048 ms, Objects detected: 12
+1751363733.1074417 [pp_infer-1] TIME: doinfer: 5.55709 ms.
+1751363733.1076393 [pp_infer-1] [INFO] [1751363733.107531448] [minimal_publisher]: TIME: 5.796096 ms, Objects detected: 11
+1751363733.2069197 [pp_infer-1] TIME: doinfer: 5.66365 ms.
+1751363733.2080112 [pp_infer-1] [INFO] [1751363733.207527261] [minimal_publisher]: TIME: 6.776800 ms, Objects detected: 11
+1751363733.3080752 [pp_infer-1] TIME: doinfer: 5.64019 ms.
+1751363733.3091545 [pp_infer-1] [INFO] [1751363733.308779616] [minimal_publisher]: TIME: 6.867648 ms, Objects detected: 10
+1751363733.4080682 [pp_infer-1] TIME: doinfer: 5.6535 ms.
+1751363733.4092953 [pp_infer-1] [INFO] [1751363733.408772190] [minimal_publisher]: TIME: 6.868512 ms, Objects detected: 10
+1751363733.5081954 [pp_infer-1] TIME: doinfer: 5.65658 ms.
+1751363733.5094106 [pp_infer-1] [INFO] [1751363733.508888478] [minimal_publisher]: TIME: 6.898688 ms, Objects detected: 12
+1751363733.6081750 [pp_infer-1] TIME: doinfer: 5.64838 ms.
+1751363733.6091206 [pp_infer-1] [INFO] [1751363733.608703355] [minimal_publisher]: TIME: 6.719680 ms, Objects detected: 10
+1751363733.7079680 [pp_infer-1] TIME: doinfer: 5.65453 ms.
+1751363733.7092218 [pp_infer-1] [INFO] [1751363733.708697874] [minimal_publisher]: TIME: 6.892544 ms, Objects detected: 12
+1751363733.8057418 [pp_infer-1] TIME: doinfer: 5.6832 ms.
+1751363733.8069880 [pp_infer-1] [INFO] [1751363733.806504188] [minimal_publisher]: TIME: 6.945376 ms, Objects detected: 14
+1751363733.9080415 [pp_infer-1] TIME: doinfer: 5.67197 ms.
+1751363733.9093018 [pp_infer-1] [INFO] [1751363733.908934685] [minimal_publisher]: TIME: 7.068672 ms, Objects detected: 16
+1751363734.0072305 [pp_infer-1] TIME: doinfer: 5.64941 ms.
+1751363734.0088561 [pp_infer-1] [INFO] [1751363734.008368134] [minimal_publisher]: TIME: 7.326720 ms, Objects detected: 19
+1751363734.1076326 [pp_infer-1] TIME: doinfer: 5.54598 ms.
+1751363734.1078720 [pp_infer-1] [INFO] [1751363734.107763374] [minimal_publisher]: TIME: 5.807328 ms, Objects detected: 15
+1751363734.2082562 [pp_infer-1] TIME: doinfer: 5.67898 ms.
+1751363734.2095883 [pp_infer-1] [INFO] [1751363734.209110092] [minimal_publisher]: TIME: 7.049344 ms, Objects detected: 14
+1751363734.3056219 [pp_infer-1] TIME: doinfer: 5.68915 ms.
+1751363734.3067980 [pp_infer-1] [INFO] [1751363734.306316071] [minimal_publisher]: TIME: 6.875136 ms, Objects detected: 14
+1751363734.4060552 [pp_infer-1] TIME: doinfer: 5.52243 ms.
+1751363734.4065657 [pp_infer-1] [INFO] [1751363734.406368158] [minimal_publisher]: TIME: 6.172448 ms, Objects detected: 13
+1751363734.5076945 [pp_infer-1] TIME: doinfer: 5.67901 ms.
+1751363734.5086963 [pp_infer-1] [INFO] [1751363734.508281219] [minimal_publisher]: TIME: 6.777856 ms, Objects detected: 13
+1751363734.6073649 [pp_infer-1] TIME: doinfer: 5.70547 ms.
+1751363734.6084473 [pp_infer-1] [INFO] [1751363734.608066504] [minimal_publisher]: TIME: 7.021376 ms, Objects detected: 13
+1751363734.7094023 [pp_infer-1] TIME: doinfer: 5.67283 ms.
+1751363734.7106204 [pp_infer-1] [INFO] [1751363734.710123122] [minimal_publisher]: TIME: 6.991872 ms, Objects detected: 11
+1751363734.8076756 [pp_infer-1] TIME: doinfer: 5.58672 ms.
+1751363734.8078582 [pp_infer-1] [INFO] [1751363734.807758635] [minimal_publisher]: TIME: 5.849088 ms, Objects detected: 12
+1751363734.9015930 [pp_infer-1] TIME: doinfer: 5.52534 ms.
+1751363734.9017754 [pp_infer-1] [INFO] [1751363734.901640905] [minimal_publisher]: TIME: 5.750912 ms, Objects detected: 11
+1751363735.0068028 [pp_infer-1] TIME: doinfer: 5.55824 ms.
+1751363735.0069768 [pp_infer-1] [INFO] [1751363735.006869041] [minimal_publisher]: TIME: 5.803008 ms, Objects detected: 12
+1751363735.1050265 [pp_infer-1] TIME: doinfer: 5.54086 ms.
+1751363735.1052995 [pp_infer-1] [INFO] [1751363735.105221220] [minimal_publisher]: TIME: 5.922944 ms, Objects detected: 13
+1751363735.2061930 [pp_infer-1] TIME: doinfer: 6.10416 ms.
+1751363735.2065461 [pp_infer-1] [INFO] [1751363735.206365874] [minimal_publisher]: TIME: 6.532096 ms, Objects detected: 12
+1751363735.3040721 [pp_infer-1] TIME: doinfer: 6.00371 ms.
+1751363735.3042624 [pp_infer-1] [INFO] [1751363735.304182462] [minimal_publisher]: TIME: 6.293504 ms, Objects detected: 14
+1751363735.4065340 [pp_infer-1] TIME: doinfer: 6.08051 ms.
+1751363735.4077072 [pp_infer-1] [INFO] [1751363735.407209500] [minimal_publisher]: TIME: 7.380128 ms, Objects detected: 12
+1751363735.5080791 [pp_infer-1] TIME: doinfer: 5.68627 ms.
+1751363735.5093617 [pp_infer-1] [INFO] [1751363735.508822990] [minimal_publisher]: TIME: 6.994848 ms, Objects detected: 13
+1751363735.6063087 [pp_infer-1] TIME: doinfer: 6.10202 ms.
+1751363735.6077714 [pp_infer-1] [INFO] [1751363735.607281359] [minimal_publisher]: TIME: 7.680416 ms, Objects detected: 15
+1751363735.7072985 [pp_infer-1] TIME: doinfer: 5.67664 ms.
+1751363735.7084136 [pp_infer-1] [INFO] [1751363735.708024458] [minimal_publisher]: TIME: 6.990080 ms, Objects detected: 13
+1751363735.8094821 [pp_infer-1] TIME: doinfer: 5.68627 ms.
+1751363735.8108091 [pp_infer-1] [INFO] [1751363735.810319407] [minimal_publisher]: TIME: 7.142112 ms, Objects detected: 14
+1751363735.9085586 [pp_infer-1] TIME: doinfer: 5.96992 ms.
+1751363735.9097631 [pp_infer-1] [INFO] [1751363735.909278318] [minimal_publisher]: TIME: 7.294240 ms, Objects detected: 11
+1751363736.0090675 [pp_infer-1] TIME: doinfer: 6.30579 ms.
+1751363736.0101621 [pp_infer-1] [INFO] [1751363736.009759776] [minimal_publisher]: TIME: 7.540736 ms, Objects detected: 12
+1751363736.1082814 [pp_infer-1] TIME: doinfer: 5.68422 ms.
+1751363736.1093237 [pp_infer-1] [INFO] [1751363736.108897955] [minimal_publisher]: TIME: 6.912000 ms, Objects detected: 9
+1751363736.2086325 [pp_infer-1] TIME: doinfer: 5.57363 ms.
+1751363736.2089114 [pp_infer-1] [INFO] [1751363736.208815104] [minimal_publisher]: TIME: 5.975968 ms, Objects detected: 12
+1751363736.3056593 [pp_infer-1] TIME: doinfer: 5.68832 ms.
+1751363736.3068571 [pp_infer-1] [INFO] [1751363736.306366696] [minimal_publisher]: TIME: 6.956160 ms, Objects detected: 13
+1751363736.4083173 [pp_infer-1] TIME: doinfer: 5.69242 ms.
+1751363736.4093807 [pp_infer-1] [INFO] [1751363736.408996907] [minimal_publisher]: TIME: 6.960256 ms, Objects detected: 11
+1751363736.5057390 [pp_infer-1] TIME: doinfer: 5.55622 ms.
+1751363736.5063536 [pp_infer-1] [INFO] [1751363736.506098483] [minimal_publisher]: TIME: 6.234112 ms, Objects detected: 13
+1751363736.6068349 [pp_infer-1] TIME: doinfer: 5.68278 ms.
+1751363736.6077101 [pp_infer-1] [INFO] [1751363736.607356512] [minimal_publisher]: TIME: 6.769344 ms, Objects detected: 10
+1751363736.7085266 [pp_infer-1] TIME: doinfer: 5.96547 ms.
+1751363736.7099411 [pp_infer-1] [INFO] [1751363736.709452004] [minimal_publisher]: TIME: 7.518208 ms, Objects detected: 12
+1751363736.8078313 [pp_infer-1] TIME: doinfer: 5.59923 ms.
+1751363736.8080363 [pp_infer-1] [INFO] [1751363736.807917135] [minimal_publisher]: TIME: 5.879456 ms, Objects detected: 11
+1751363736.9054482 [pp_infer-1] TIME: doinfer: 5.96563 ms.
+1751363736.9057889 [pp_infer-1] [INFO] [1751363736.905591019] [minimal_publisher]: TIME: 6.301888 ms, Objects detected: 16
+1751363737.0051053 [pp_infer-1] TIME: doinfer: 5.82861 ms.
+1751363737.0052738 [pp_infer-1] [INFO] [1751363737.005187325] [minimal_publisher]: TIME: 6.068224 ms, Objects detected: 12
+1751363737.1051543 [pp_infer-1] TIME: doinfer: 5.57539 ms.
+1751363737.1054020 [pp_infer-1] [INFO] [1751363737.105279196] [minimal_publisher]: TIME: 5.855232 ms, Objects detected: 14
+1751363737.2084551 [pp_infer-1] TIME: doinfer: 5.97683 ms.
+1751363737.2102633 [pp_infer-1] [INFO] [1751363737.209752062] [minimal_publisher]: TIME: 7.873248 ms, Objects detected: 19
+1751363737.3063905 [pp_infer-1] TIME: doinfer: 5.64915 ms.
+1751363737.3075411 [pp_infer-1] [INFO] [1751363737.307121840] [minimal_publisher]: TIME: 6.833152 ms, Objects detected: 14
+1751363737.4056857 [pp_infer-1] TIME: doinfer: 5.71363 ms.
+1751363737.4071605 [pp_infer-1] [INFO] [1751363737.406656842] [minimal_publisher]: TIME: 7.187904 ms, Objects detected: 15
+1751363737.5051122 [pp_infer-1] TIME: doinfer: 5.62381 ms.
+1751363737.5062008 [pp_infer-1] [INFO] [1751363737.505748728] [minimal_publisher]: TIME: 6.647904 ms, Objects detected: 14
+1751363737.6070032 [pp_infer-1] TIME: doinfer: 5.68627 ms.
+1751363737.6083546 [pp_infer-1] [INFO] [1751363737.607983012] [minimal_publisher]: TIME: 7.162144 ms, Objects detected: 15
+1751363737.7081392 [pp_infer-1] TIME: doinfer: 5.6647 ms.
+1751363737.7091184 [pp_infer-1] [INFO] [1751363737.708751123] [minimal_publisher]: TIME: 6.832000 ms, Objects detected: 11
+1751363737.8024924 [pp_infer-1] TIME: doinfer: 5.53149 ms.
+1751363737.8026712 [pp_infer-1] [INFO] [1751363737.802610336] [minimal_publisher]: TIME: 5.787232 ms, Objects detected: 12
+1751363737.9075923 [pp_infer-1] TIME: doinfer: 5.55798 ms.
+1751363737.9078100 [pp_infer-1] [INFO] [1751363737.907660852] [minimal_publisher]: TIME: 5.791744 ms, Objects detected: 13
+1751363738.0089996 [pp_infer-1] TIME: doinfer: 5.67184 ms.
+1751363738.0099058 [pp_infer-1] [INFO] [1751363738.009553343] [minimal_publisher]: TIME: 6.742848 ms, Objects detected: 10
+1751363738.1080039 [pp_infer-1] TIME: doinfer: 5.67277 ms.
+1751363738.1090701 [pp_infer-1] [INFO] [1751363738.108719563] [minimal_publisher]: TIME: 6.914944 ms, Objects detected: 13
+1751363738.2080641 [pp_infer-1] TIME: doinfer: 5.65965 ms.
+1751363738.2093329 [pp_infer-1] [INFO] [1751363738.208947495] [minimal_publisher]: TIME: 7.037952 ms, Objects detected: 15
+1751363738.3090558 [pp_infer-1] TIME: doinfer: 5.65408 ms.
+1751363738.3100605 [pp_infer-1] [INFO] [1751363738.309716377] [minimal_publisher]: TIME: 6.837344 ms, Objects detected: 12
+1751363738.4090433 [pp_infer-1] TIME: doinfer: 5.66272 ms.
+1751363738.4099255 [pp_infer-1] [INFO] [1751363738.409483751] [minimal_publisher]: TIME: 6.607872 ms, Objects detected: 7
+1751363738.5078459 [pp_infer-1] TIME: doinfer: 5.63814 ms.
+1751363738.5089142 [pp_infer-1] [INFO] [1751363738.508426285] [minimal_publisher]: TIME: 6.720416 ms, Objects detected: 12
+1751363738.6079195 [pp_infer-1] TIME: doinfer: 5.67091 ms.
+1751363738.6087575 [pp_infer-1] [INFO] [1751363738.608382030] [minimal_publisher]: TIME: 6.630816 ms, Objects detected: 8
+1751363738.7090709 [pp_infer-1] TIME: doinfer: 5.67206 ms.
+1751363738.7102184 [pp_infer-1] [INFO] [1751363738.709831324] [minimal_publisher]: TIME: 6.937984 ms, Objects detected: 12
+1751363738.8073719 [pp_infer-1] TIME: doinfer: 5.55584 ms.
+1751363738.8075914 [pp_infer-1] [INFO] [1751363738.807435522] [minimal_publisher]: TIME: 5.746592 ms, Objects detected: 10
+1751363738.9082205 [pp_infer-1] TIME: doinfer: 5.68115 ms.
+1751363738.9094133 [pp_infer-1] [INFO] [1751363738.909051697] [minimal_publisher]: TIME: 7.047936 ms, Objects detected: 13
+1751363739.0055923 [pp_infer-1] TIME: doinfer: 5.67795 ms.
+1751363739.0067303 [pp_infer-1] [INFO] [1751363739.006241155] [minimal_publisher]: TIME: 6.812608 ms, Objects detected: 10
+1751363739.1078403 [pp_infer-1] TIME: doinfer: 5.68598 ms.
+1751363739.1088998 [pp_infer-1] [INFO] [1751363739.108410759] [minimal_publisher]: TIME: 6.755584 ms, Objects detected: 11
+1751363739.2081344 [pp_infer-1] TIME: doinfer: 5.67299 ms.
+1751363739.2089870 [pp_infer-1] [INFO] [1751363739.208626364] [minimal_publisher]: TIME: 6.704224 ms, Objects detected: 11
+1751363739.3082063 [pp_infer-1] TIME: doinfer: 5.68278 ms.
+1751363739.3090630 [pp_infer-1] [INFO] [1751363739.308564115] [minimal_publisher]: TIME: 6.591488 ms, Objects detected: 8
+1751363739.4079556 [pp_infer-1] TIME: doinfer: 5.67062 ms.
+1751363739.4089093 [pp_infer-1] [INFO] [1751363739.408533221] [minimal_publisher]: TIME: 6.753152 ms, Objects detected: 11
+1751363739.5090363 [pp_infer-1] TIME: doinfer: 5.68589 ms.
+1751363739.5101285 [pp_infer-1] [INFO] [1751363739.509754863] [minimal_publisher]: TIME: 6.927008 ms, Objects detected: 10
+1751363739.6074073 [pp_infer-1] TIME: doinfer: 5.58182 ms.
+1751363739.6076131 [pp_infer-1] [INFO] [1751363739.607487874] [minimal_publisher]: TIME: 5.806784 ms, Objects detected: 13
+1751363739.7056456 [pp_infer-1] TIME: doinfer: 5.68947 ms.
+1751363739.7065120 [pp_infer-1] [INFO] [1751363739.706179120] [minimal_publisher]: TIME: 6.731392 ms, Objects detected: 11
+1751363739.8068376 [pp_infer-1] TIME: doinfer: 5.67194 ms.
+1751363739.8079147 [pp_infer-1] [INFO] [1751363739.807433381] [minimal_publisher]: TIME: 6.768640 ms, Objects detected: 10
+1751363739.9047058 [pp_infer-1] TIME: doinfer: 5.51936 ms.
+1751363739.9049246 [pp_infer-1] [INFO] [1751363739.904751280] [minimal_publisher]: TIME: 5.696512 ms, Objects detected: 9
+1751363740.0056939 [pp_infer-1] TIME: doinfer: 5.52416 ms.
+1751363740.0058515 [pp_infer-1] [INFO] [1751363740.005778087] [minimal_publisher]: TIME: 5.740864 ms, Objects detected: 12
+1751363740.1080494 [pp_infer-1] TIME: doinfer: 5.67398 ms.
+1751363740.1092410 [pp_infer-1] [INFO] [1751363740.108726946] [minimal_publisher]: TIME: 6.867104 ms, Objects detected: 11
+1751363740.2082119 [pp_infer-1] TIME: doinfer: 5.68605 ms.
+1751363740.2093678 [pp_infer-1] [INFO] [1751363740.208977559] [minimal_publisher]: TIME: 7.019936 ms, Objects detected: 12
+1751363740.3088040 [pp_infer-1] TIME: doinfer: 5.63814 ms.
+1751363740.3099337 [pp_infer-1] [INFO] [1751363740.309456657] [minimal_publisher]: TIME: 6.795264 ms, Objects detected: 12
+1751363740.4079549 [pp_infer-1] TIME: doinfer: 5.68013 ms.
+1751363740.4094708 [pp_infer-1] [INFO] [1751363740.408949938] [minimal_publisher]: TIME: 7.184544 ms, Objects detected: 17
+1751363740.5090528 [pp_infer-1] TIME: doinfer: 5.66448 ms.
+1751363740.5103760 [pp_infer-1] [INFO] [1751363740.509842805] [minimal_publisher]: TIME: 6.946048 ms, Objects detected: 13
+1751363740.6080194 [pp_infer-1] TIME: doinfer: 5.69856 ms.
+1751363740.6093774 [pp_infer-1] [INFO] [1751363740.608836312] [minimal_publisher]: TIME: 7.006592 ms, Objects detected: 12
+1751363740.7084970 [pp_infer-1] TIME: doinfer: 5.61632 ms.
+1751363740.7087424 [pp_infer-1] [INFO] [1751363740.708633222] [minimal_publisher]: TIME: 5.896320 ms, Objects detected: 14
+1751363740.8057132 [pp_infer-1] TIME: doinfer: 5.6361 ms.
+1751363740.8059962 [pp_infer-1] [INFO] [1751363740.805932742] [minimal_publisher]: TIME: 6.280192 ms, Objects detected: 11
+1751363740.9090419 [pp_infer-1] TIME: doinfer: 5.70163 ms.
+1751363740.9101722 [pp_infer-1] [INFO] [1751363740.909806992] [minimal_publisher]: TIME: 6.981984 ms, Objects detected: 10
+1751363741.0087509 [pp_infer-1] TIME: doinfer: 5.68218 ms.
+1751363741.0089643 [pp_infer-1] [INFO] [1751363741.008869437] [minimal_publisher]: TIME: 6.082688 ms, Objects detected: 13
+1751363741.1041439 [pp_infer-1] TIME: doinfer: 5.95475 ms.
+1751363741.1043313 [pp_infer-1] [INFO] [1751363741.104263196] [minimal_publisher]: TIME: 6.277152 ms, Objects detected: 12
+1751363741.2067606 [pp_infer-1] TIME: doinfer: 5.688 ms.
+1751363741.2081161 [pp_infer-1] [INFO] [1751363741.207614513] [minimal_publisher]: TIME: 7.036928 ms, Objects detected: 12
+1751363741.3078773 [pp_infer-1] TIME: doinfer: 5.66067 ms.
+1751363741.3092980 [pp_infer-1] [INFO] [1751363741.308769266] [minimal_publisher]: TIME: 7.074400 ms, Objects detected: 12
+1751363741.4089956 [pp_infer-1] TIME: doinfer: 5.68422 ms.
+1751363741.4103022 [pp_infer-1] [INFO] [1751363741.409896759] [minimal_publisher]: TIME: 7.080352 ms, Objects detected: 14
+1751363741.5059233 [pp_infer-1] TIME: doinfer: 5.68691 ms.
+1751363741.5071270 [pp_infer-1] [INFO] [1751363741.506613511] [minimal_publisher]: TIME: 6.886400 ms, Objects detected: 13
+1751363741.6079724 [pp_infer-1] TIME: doinfer: 5.67795 ms.
+1751363741.6092422 [pp_infer-1] [INFO] [1751363741.608714308] [minimal_publisher]: TIME: 6.913056 ms, Objects detected: 12
+1751363741.7075191 [pp_infer-1] TIME: doinfer: 5.57466 ms.
+1751363741.7077227 [pp_infer-1] [INFO] [1751363741.707605073] [minimal_publisher]: TIME: 5.805056 ms, Objects detected: 13
+1751363741.8080325 [pp_infer-1] TIME: doinfer: 5.69242 ms.
+1751363741.8093457 [pp_infer-1] [INFO] [1751363741.808980011] [minimal_publisher]: TIME: 7.134144 ms, Objects detected: 14
+1751363741.9080281 [pp_infer-1] TIME: doinfer: 5.69446 ms.
+1751363741.9093151 [pp_infer-1] [INFO] [1751363741.908940926] [minimal_publisher]: TIME: 7.097632 ms, Objects detected: 13
+1751363742.0068750 [pp_infer-1] TIME: doinfer: 5.65146 ms.
+1751363742.0080085 [pp_infer-1] [INFO] [1751363742.007524375] [minimal_publisher]: TIME: 6.837312 ms, Objects detected: 12
+1751363742.3792870 [pp_infer-1] TIME: doinfer: 5.85011 ms.
+1751363742.3795369 [pp_infer-1] [INFO] [1751363742.379323944] [minimal_publisher]: TIME: 6.078880 ms, Objects detected: 11
+1751363742.8219583 [pp_infer-1] TIME: doinfer: 6.33344 ms.
+1751363742.8222878 [pp_infer-1] [INFO] [1751363742.822180968] [minimal_publisher]: TIME: 6.754432 ms, Objects detected: 9
+1751363743.2479215 [pp_infer-1] TIME: doinfer: 6.23514 ms.
+1751363743.2492013 [pp_infer-1] [INFO] [1751363743.248833437] [minimal_publisher]: TIME: 7.732224 ms, Objects detected: 12
+1751363743.6630285 [pp_infer-1] TIME: doinfer: 5.57773 ms.
+1751363743.6632862 [pp_infer-1] [INFO] [1751363743.663051479] [minimal_publisher]: TIME: 5.799744 ms, Objects detected: 9
+1751363744.0566635 [pp_infer-1] TIME: doinfer: 6.2976 ms.
+1751363744.0575378 [pp_infer-1] [INFO] [1751363744.057209331] [minimal_publisher]: TIME: 7.433216 ms, Objects detected: 11
+1751363744.4377642 [pp_infer-1] TIME: doinfer: 6.14784 ms.
+1751363744.4389060 [pp_infer-1] [INFO] [1751363744.438432905] [minimal_publisher]: TIME: 7.397984 ms, Objects detected: 11
+1751363744.8329756 [pp_infer-1] TIME: doinfer: 5.66458 ms.
+1751363744.8337932 [pp_infer-1] [INFO] [1751363744.833214171] [minimal_publisher]: TIME: 6.481120 ms, Objects detected: 7
+1751363745.2165320 [pp_infer-1] TIME: doinfer: 5.67939 ms.
+1751363745.2178528 [pp_infer-1] [INFO] [1751363745.217370506] [minimal_publisher]: TIME: 7.129984 ms, Objects detected: 12
+1751363745.5731974 [pp_infer-1] TIME: doinfer: 6.04774 ms.
+1751363745.5734823 [pp_infer-1] [INFO] [1751363745.573408089] [minimal_publisher]: TIME: 6.480192 ms, Objects detected: 13
+1751363745.9538267 [pp_infer-1] TIME: doinfer: 5.64762 ms.
+1751363745.9550653 [pp_infer-1] [INFO] [1751363745.954591057] [minimal_publisher]: TIME: 6.995616 ms, Objects detected: 13
+1751363746.2808530 [pp_infer-1] TIME: doinfer: 5.89517 ms.
+1751363746.2810516 [pp_infer-1] [INFO] [1751363746.280866319] [minimal_publisher]: TIME: 6.100192 ms, Objects detected: 11
+1751363746.6536946 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363746.6545579 [pp_infer-1] [INFO] [1751363746.654121126] [minimal_publisher]: TIME: 6.678528 ms, Objects detected: 8
+1751363747.0115163 [pp_infer-1] TIME: doinfer: 5.86035 ms.
+1751363747.0118008 [pp_infer-1] [INFO] [1751363747.011734545] [minimal_publisher]: TIME: 6.317472 ms, Objects detected: 9
+1751363747.3660071 [pp_infer-1] TIME: doinfer: 5.96467 ms.
+1751363747.3668859 [pp_infer-1] [INFO] [1751363747.366378196] [minimal_publisher]: TIME: 6.913472 ms, Objects detected: 9
+1751363747.6693096 [pp_infer-1] TIME: doinfer: 5.69485 ms.
+1751363747.6701870 [pp_infer-1] [INFO] [1751363747.669799740] [minimal_publisher]: TIME: 6.820864 ms, Objects detected: 10
+1751363748.0206590 [pp_infer-1] TIME: doinfer: 5.68627 ms.
+1751363748.0215423 [pp_infer-1] [INFO] [1751363748.021194504] [minimal_publisher]: TIME: 6.806528 ms, Objects detected: 11
+1751363748.3222358 [pp_infer-1] TIME: doinfer: 5.82438 ms.
+1751363748.3224890 [pp_infer-1] [INFO] [1751363748.322399211] [minimal_publisher]: TIME: 6.177792 ms, Objects detected: 13
+1751363748.6676712 [pp_infer-1] TIME: doinfer: 5.70672 ms.
+1751363748.6689119 [pp_infer-1] [INFO] [1751363748.668422541] [minimal_publisher]: TIME: 7.030816 ms, Objects detected: 12
+1751363748.9586668 [pp_infer-1] TIME: doinfer: 5.87674 ms.
+1751363748.9588437 [pp_infer-1] [INFO] [1751363748.958689124] [minimal_publisher]: TIME: 6.087680 ms, Objects detected: 8
+1751363749.2849824 [pp_infer-1] TIME: doinfer: 5.99642 ms.
+1751363749.2859201 [pp_infer-1] [INFO] [1751363749.285570325] [minimal_publisher]: TIME: 7.165056 ms, Objects detected: 10
+1751363749.6024833 [pp_infer-1] TIME: doinfer: 5.6832 ms.
+1751363749.6036167 [pp_infer-1] [INFO] [1751363749.603133771] [minimal_publisher]: TIME: 6.986784 ms, Objects detected: 11
+1751363749.9174979 [pp_infer-1] TIME: doinfer: 5.5337 ms.
+1751363749.9177103 [pp_infer-1] [INFO] [1751363749.917564152] [minimal_publisher]: TIME: 5.787936 ms, Objects detected: 13
+1751363750.2337341 [pp_infer-1] TIME: doinfer: 5.56346 ms.
+1751363750.2339256 [pp_infer-1] [INFO] [1751363750.233758431] [minimal_publisher]: TIME: 5.780704 ms, Objects detected: 11
+1751363750.5004659 [pp_infer-1] TIME: doinfer: 5.97696 ms.
+1751363750.5016928 [pp_infer-1] [INFO] [1751363750.501212476] [minimal_publisher]: TIME: 7.351584 ms, Objects detected: 11
+1751363750.8235338 [pp_infer-1] TIME: doinfer: 6.32387 ms.
+1751363750.8248940 [pp_infer-1] [INFO] [1751363750.824421683] [minimal_publisher]: TIME: 7.820288 ms, Objects detected: 11
+1751363751.1312428 [pp_infer-1] TIME: doinfer: 5.65453 ms.
+1751363751.1326556 [pp_infer-1] [INFO] [1751363751.132122879] [minimal_publisher]: TIME: 7.139424 ms, Objects detected: 15
+1751363762.3055129 [pp_infer-1] TIME: doinfer: 6.18986 ms.
+1751363762.3058374 [pp_infer-1] [INFO] [1751363762.305701490] [minimal_publisher]: TIME: 6.569984 ms, Objects detected: 7
+1751363762.7478652 [pp_infer-1] TIME: doinfer: 5.68406 ms.
+1751363762.7491622 [pp_infer-1] [INFO] [1751363762.748656382] [minimal_publisher]: TIME: 7.056384 ms, Objects detected: 12
+1751363763.1741295 [pp_infer-1] TIME: doinfer: 6.68979 ms.
+1751363763.1751249 [pp_infer-1] [INFO] [1751363763.174841685] [minimal_publisher]: TIME: 7.779872 ms, Objects detected: 10
+1751363763.5796218 [pp_infer-1] TIME: doinfer: 6.09926 ms.
+1751363763.5808694 [pp_infer-1] [INFO] [1751363763.580386443] [minimal_publisher]: TIME: 7.492992 ms, Objects detected: 10
+1751363763.9813414 [pp_infer-1] TIME: doinfer: 6.26381 ms.
+1751363763.9816031 [pp_infer-1] [INFO] [1751363763.981481273] [minimal_publisher]: TIME: 6.596864 ms, Objects detected: 11
+1751363764.3836412 [pp_infer-1] TIME: doinfer: 6.23517 ms.
+1751363764.3838656 [pp_infer-1] [INFO] [1751363764.383763590] [minimal_publisher]: TIME: 6.550080 ms, Objects detected: 9
+1751363764.7401905 [pp_infer-1] TIME: doinfer: 6.38054 ms.
+1751363764.7409313 [pp_infer-1] [INFO] [1751363764.740763669] [minimal_publisher]: TIME: 7.236192 ms, Objects detected: 11
+1751363765.1172185 [pp_infer-1] TIME: doinfer: 5.51014 ms.
+1751363765.1174386 [pp_infer-1] [INFO] [1751363765.117215891] [minimal_publisher]: TIME: 5.725088 ms, Objects detected: 7
+1751363765.5014958 [pp_infer-1] TIME: doinfer: 6.49306 ms.
+1751363765.5017159 [pp_infer-1] [INFO] [1751363765.501638781] [minimal_publisher]: TIME: 6.828320 ms, Objects detected: 9
+1751363765.8809850 [pp_infer-1] TIME: doinfer: 5.79366 ms.
+1751363765.8812194 [pp_infer-1] [INFO] [1751363765.881111701] [minimal_publisher]: TIME: 6.114304 ms, Objects detected: 9
+1751363766.2411861 [pp_infer-1] TIME: doinfer: 6.39245 ms.
+1751363766.2414918 [pp_infer-1] [INFO] [1751363766.241373899] [minimal_publisher]: TIME: 6.812672 ms, Objects detected: 8
+1751363766.5695827 [pp_infer-1] TIME: doinfer: 5.97504 ms.
+1751363766.5712745 [pp_infer-1] [INFO] [1751363766.570754128] [minimal_publisher]: TIME: 7.777632 ms, Objects detected: 12
+1751363766.9409254 [pp_infer-1] TIME: doinfer: 6.29555 ms.
+1751363766.9425058 [pp_infer-1] [INFO] [1751363766.941996750] [minimal_publisher]: TIME: 7.982080 ms, Objects detected: 13
+1751363767.2545042 [pp_infer-1] TIME: doinfer: 6.33936 ms.
+1751363767.2547500 [pp_infer-1] [INFO] [1751363767.254612620] [minimal_publisher]: TIME: 6.633472 ms, Objects detected: 8
+1751363767.6171489 [pp_infer-1] TIME: doinfer: 5.68874 ms.
+1751363767.6184936 [pp_infer-1] [INFO] [1751363767.617776007] [minimal_publisher]: TIME: 6.962464 ms, Objects detected: 12
+1751363767.9218125 [pp_infer-1] TIME: doinfer: 5.5849 ms.
+1751363767.9220171 [pp_infer-1] [INFO] [1751363767.921829235] [minimal_publisher]: TIME: 5.801984 ms, Objects detected: 9
+1751363768.2812686 [pp_infer-1] TIME: doinfer: 5.97094 ms.
+1751363768.2823608 [pp_infer-1] [INFO] [1751363768.281987205] [minimal_publisher]: TIME: 7.311360 ms, Objects detected: 15
+1751363768.6106713 [pp_infer-1] TIME: doinfer: 6.45837 ms.
+1751363768.6109579 [pp_infer-1] [INFO] [1751363768.610800850] [minimal_publisher]: TIME: 6.816416 ms, Objects detected: 11
+1751363768.8922889 [pp_infer-1] TIME: doinfer: 5.81325 ms.
+1751363768.8926065 [pp_infer-1] [INFO] [1751363768.892487375] [minimal_publisher]: TIME: 6.263808 ms, Objects detected: 12
+1751363769.2211080 [pp_infer-1] TIME: doinfer: 6.40922 ms.
+1751363769.2216525 [pp_infer-1] [INFO] [1751363769.221544030] [minimal_publisher]: TIME: 7.029632 ms, Objects detected: 14
+1751363769.5367537 [pp_infer-1] TIME: doinfer: 6.36416 ms.
+1751363769.5371711 [pp_infer-1] [INFO] [1751363769.537002250] [minimal_publisher]: TIME: 6.817664 ms, Objects detected: 11
+1751363769.8207638 [pp_infer-1] TIME: doinfer: 6.59661 ms.
+1751363769.8209989 [pp_infer-1] [INFO] [1751363769.820934178] [minimal_publisher]: TIME: 6.957056 ms, Objects detected: 10
+1751363770.1492965 [pp_infer-1] TIME: doinfer: 6.66624 ms.
+1751363770.1498089 [pp_infer-1] [INFO] [1751363770.149691310] [minimal_publisher]: TIME: 7.264256 ms, Objects detected: 9
+1751363770.4559598 [pp_infer-1] TIME: doinfer: 5.56237 ms.
+1751363770.4562025 [pp_infer-1] [INFO] [1751363770.456003220] [minimal_publisher]: TIME: 5.803008 ms, Objects detected: 10
+1751363770.7351983 [pp_infer-1] TIME: doinfer: 6.28339 ms.
+1751363770.7364023 [pp_infer-1] [INFO] [1751363770.735433114] [minimal_publisher]: TIME: 7.308608 ms, Objects detected: 8
+1751363771.0391862 [pp_infer-1] TIME: doinfer: 5.49158 ms.
+1751363771.0394902 [pp_infer-1] [INFO] [1751363771.039126362] [minimal_publisher]: TIME: 5.705824 ms, Objects detected: 11
+1751363771.3011425 [pp_infer-1] TIME: doinfer: 5.7047 ms.
+1751363771.3024228 [pp_infer-1] [INFO] [1751363771.301746563] [minimal_publisher]: TIME: 7.091200 ms, Objects detected: 9
+1751363771.6026363 [pp_infer-1] TIME: doinfer: 6.34122 ms.
+1751363771.6028278 [pp_infer-1] [INFO] [1751363771.602754959] [minimal_publisher]: TIME: 6.647808 ms, Objects detected: 10
+1751363771.9019039 [pp_infer-1] TIME: doinfer: 5.66989 ms.
+1751363771.9027314 [pp_infer-1] [INFO] [1751363771.902130970] [minimal_publisher]: TIME: 6.474752 ms, Objects detected: 9
+1751363772.1455572 [pp_infer-1] TIME: doinfer: 5.86957 ms.
+1751363772.1461623 [pp_infer-1] [INFO] [1751363772.145851198] [minimal_publisher]: TIME: 6.489088 ms, Objects detected: 9
+1751363772.4423437 [pp_infer-1] TIME: doinfer: 5.54355 ms.
+1751363772.4426022 [pp_infer-1] [INFO] [1751363772.442382716] [minimal_publisher]: TIME: 5.830656 ms, Objects detected: 11
+1751363772.6981664 [pp_infer-1] TIME: doinfer: 6.47664 ms.
+1751363772.6994903 [pp_infer-1] [INFO] [1751363772.698986747] [minimal_publisher]: TIME: 7.898112 ms, Objects detected: 13
+1751363772.9891903 [pp_infer-1] TIME: doinfer: 5.66992 ms.
+1751363772.9900324 [pp_infer-1] [INFO] [1751363772.989668476] [minimal_publisher]: TIME: 6.756416 ms, Objects detected: 10
+1751363773.2454786 [pp_infer-1] TIME: doinfer: 5.86646 ms.
+1751363773.2457027 [pp_infer-1] [INFO] [1751363773.245571949] [minimal_publisher]: TIME: 6.146144 ms, Objects detected: 14
+1751363773.5159140 [pp_infer-1] TIME: doinfer: 6.42842 ms.
+1751363773.5168869 [pp_infer-1] [INFO] [1751363773.516538678] [minimal_publisher]: TIME: 7.634912 ms, Objects detected: 13
+1751363773.8038104 [pp_infer-1] TIME: doinfer: 6.32915 ms.
+1751363773.8047280 [pp_infer-1] [INFO] [1751363773.804382059] [minimal_publisher]: TIME: 7.474176 ms, Objects detected: 10
+1751363774.0396190 [pp_infer-1] TIME: doinfer: 6.272 ms.
+1751363774.0415440 [pp_infer-1] [INFO] [1751363774.040899839] [minimal_publisher]: TIME: 8.243200 ms, Objects detected: 13
+1751363774.3105049 [pp_infer-1] TIME: doinfer: 5.96474 ms.
+1751363774.3116927 [pp_infer-1] [INFO] [1751363774.310820087] [minimal_publisher]: TIME: 7.114464 ms, Objects detected: 10
+1751363774.5552931 [pp_infer-1] TIME: doinfer: 6.54336 ms.
+1751363774.5569134 [pp_infer-1] [INFO] [1751363774.556416798] [minimal_publisher]: TIME: 8.345600 ms, Objects detected: 13
+1751363774.8239307 [pp_infer-1] TIME: doinfer: 5.87469 ms.
+1751363774.8242073 [pp_infer-1] [INFO] [1751363774.824111793] [minimal_publisher]: TIME: 6.265856 ms, Objects detected: 11
+1751363775.0833707 [pp_infer-1] TIME: doinfer: 6.13171 ms.
+1751363775.0836930 [pp_infer-1] [INFO] [1751363775.083553824] [minimal_publisher]: TIME: 6.605376 ms, Objects detected: 10
+1751363775.3417685 [pp_infer-1] TIME: doinfer: 5.50298 ms.
+1751363775.3419790 [pp_infer-1] [INFO] [1751363775.341764940] [minimal_publisher]: TIME: 5.692416 ms, Objects detected: 9
+1751363775.5752442 [pp_infer-1] TIME: doinfer: 6.01805 ms.
+1751363775.5761321 [pp_infer-1] [INFO] [1751363775.575727083] [minimal_publisher]: TIME: 7.242176 ms, Objects detected: 9
+1751363775.8386495 [pp_infer-1] TIME: doinfer: 5.80403 ms.
+1751363775.8389876 [pp_infer-1] [INFO] [1751363775.838886159] [minimal_publisher]: TIME: 6.209664 ms, Objects detected: 12
+1751363776.0658658 [pp_infer-1] TIME: doinfer: 5.9351 ms.
+1751363776.0670416 [pp_infer-1] [INFO] [1751363776.066463514] [minimal_publisher]: TIME: 7.227104 ms, Objects detected: 14
+1751363776.3239613 [pp_infer-1] TIME: doinfer: 5.86336 ms.
+1751363776.3246357 [pp_infer-1] [INFO] [1751363776.324275680] [minimal_publisher]: TIME: 6.603424 ms, Objects detected: 13
+1751363776.5458608 [pp_infer-1] TIME: doinfer: 5.69235 ms.
+1751363776.5470395 [pp_infer-1] [INFO] [1751363776.546351684] [minimal_publisher]: TIME: 6.913440 ms, Objects detected: 10
+1751363776.8083806 [pp_infer-1] TIME: doinfer: 5.55302 ms.
+1751363776.8087194 [pp_infer-1] [INFO] [1751363776.808604920] [minimal_publisher]: TIME: 5.952288 ms, Objects detected: 14
+1751363777.0204794 [pp_infer-1] TIME: doinfer: 6.51469 ms.
+1751363777.0217733 [pp_infer-1] [INFO] [1751363777.021187795] [minimal_publisher]: TIME: 8.008544 ms, Objects detected: 14
+1751363777.2691536 [pp_infer-1] TIME: doinfer: 6.30346 ms.
+1751363777.2704360 [pp_infer-1] [INFO] [1751363777.269929845] [minimal_publisher]: TIME: 7.694304 ms, Objects detected: 15
+1751363777.5056164 [pp_infer-1] TIME: doinfer: 5.51514 ms.
+1751363777.5059140 [pp_infer-1] [INFO] [1751363777.505803019] [minimal_publisher]: TIME: 5.915008 ms, Objects detected: 17
+1751363777.7457008 [pp_infer-1] TIME: doinfer: 5.56646 ms.
+1751363777.7459226 [pp_infer-1] [INFO] [1751363777.745788398] [minimal_publisher]: TIME: 5.867360 ms, Objects detected: 15
+1751363777.9795401 [pp_infer-1] TIME: doinfer: 6.18358 ms.
+1751363777.9797282 [pp_infer-1] [INFO] [1751363777.979648396] [minimal_publisher]: TIME: 6.447904 ms, Objects detected: 13
+1751363778.1923938 [pp_infer-1] TIME: doinfer: 5.70573 ms.
+1751363778.1939566 [pp_infer-1] [INFO] [1751363778.193474591] [minimal_publisher]: TIME: 7.396192 ms, Objects detected: 15
+1751363778.4340334 [pp_infer-1] TIME: doinfer: 5.88595 ms.
+1751363778.4344015 [pp_infer-1] [INFO] [1751363778.434233159] [minimal_publisher]: TIME: 6.287296 ms, Objects detected: 14
+1751363778.6708579 [pp_infer-1] TIME: doinfer: 6.14915 ms.
+1751363778.6713011 [pp_infer-1] [INFO] [1751363778.671112525] [minimal_publisher]: TIME: 6.705632 ms, Objects detected: 11
+1751363778.8751817 [pp_infer-1] TIME: doinfer: 5.69914 ms.
+1751363778.8766119 [pp_infer-1] [INFO] [1751363778.876125141] [minimal_publisher]: TIME: 7.386016 ms, Objects detected: 13
+1751363779.1120727 [pp_infer-1] TIME: doinfer: 6.17882 ms.
+1751363779.1123595 [pp_infer-1] [INFO] [1751363779.112223383] [minimal_publisher]: TIME: 6.507744 ms, Objects detected: 13
+1751363779.3113818 [pp_infer-1] TIME: doinfer: 5.51398 ms.
+1751363779.3115773 [pp_infer-1] [INFO] [1751363779.311466567] [minimal_publisher]: TIME: 5.791360 ms, Objects detected: 16
+1751363779.5407414 [pp_infer-1] TIME: doinfer: 5.57021 ms.
+1751363779.5409777 [pp_infer-1] [INFO] [1751363779.540781706] [minimal_publisher]: TIME: 5.804032 ms, Objects detected: 11
+1751363779.7947330 [pp_infer-1] TIME: doinfer: 5.70768 ms.
+1751363779.7961590 [pp_infer-1] [INFO] [1751363779.795661871] [minimal_publisher]: TIME: 7.219200 ms, Objects detected: 11
+1751363779.9888415 [pp_infer-1] TIME: doinfer: 6.2167 ms.
+1751363779.9904571 [pp_infer-1] [INFO] [1751363779.989946193] [minimal_publisher]: TIME: 7.915520 ms, Objects detected: 14
+1751363780.2242048 [pp_infer-1] TIME: doinfer: 5.66698 ms.
+1751363780.2254581 [pp_infer-1] [INFO] [1751363780.224691739] [minimal_publisher]: TIME: 6.793568 ms, Objects detected: 10
+1751363780.4223366 [pp_infer-1] TIME: doinfer: 6.28262 ms.
+1751363780.4235933 [pp_infer-1] [INFO] [1751363780.422940759] [minimal_publisher]: TIME: 7.660544 ms, Objects detected: 12
+1751363780.6472571 [pp_infer-1] TIME: doinfer: 5.52141 ms.
+1751363780.6474378 [pp_infer-1] [INFO] [1751363780.647333101] [minimal_publisher]: TIME: 5.778432 ms, Objects detected: 12
+1751363780.8462782 [pp_infer-1] TIME: doinfer: 5.56614 ms.
+1751363780.8464565 [pp_infer-1] [INFO] [1751363780.846317845] [minimal_publisher]: TIME: 5.856128 ms, Objects detected: 12
+1751363781.0701878 [pp_infer-1] TIME: doinfer: 5.97702 ms.
+1751363781.0713735 [pp_infer-1] [INFO] [1751363781.071003105] [minimal_publisher]: TIME: 7.394624 ms, Objects detected: 12
+1751363781.2656958 [pp_infer-1] TIME: doinfer: 5.66989 ms.
+1751363781.2670500 [pp_infer-1] [INFO] [1751363781.266546106] [minimal_publisher]: TIME: 7.108608 ms, Objects detected: 13
+1751363781.4934132 [pp_infer-1] TIME: doinfer: 5.71485 ms.
+1751363781.4948442 [pp_infer-1] [INFO] [1751363781.494370385] [minimal_publisher]: TIME: 7.272448 ms, Objects detected: 12
+1751363781.7064643 [pp_infer-1] TIME: doinfer: 6.29248 ms.
+1751363781.7078569 [pp_infer-1] [INFO] [1751363781.707372466] [minimal_publisher]: TIME: 7.821120 ms, Objects detected: 15
+1751363781.9198301 [pp_infer-1] TIME: doinfer: 5.72381 ms.
+1751363781.9211707 [pp_infer-1] [INFO] [1751363781.920490788] [minimal_publisher]: TIME: 7.084256 ms, Objects detected: 12
+1751363782.1073897 [pp_infer-1] TIME: doinfer: 6.27174 ms.
+1751363782.1075680 [pp_infer-1] [INFO] [1751363782.107438790] [minimal_publisher]: TIME: 6.504064 ms, Objects detected: 10
+1751363782.3288033 [pp_infer-1] TIME: doinfer: 5.49786 ms.
+1751363782.3290052 [pp_infer-1] [INFO] [1751363782.328882031] [minimal_publisher]: TIME: 5.734240 ms, Objects detected: 11
+1751363782.5189245 [pp_infer-1] TIME: doinfer: 5.75264 ms.
+1751363782.5202053 [pp_infer-1] [INFO] [1751363782.519699370] [minimal_publisher]: TIME: 7.108224 ms, Objects detected: 11
+1751363782.7198570 [pp_infer-1] TIME: doinfer: 5.64387 ms.
+1751363782.7214425 [pp_infer-1] [INFO] [1751363782.720858875] [minimal_publisher]: TIME: 7.277984 ms, Objects detected: 12
+1751363782.9370532 [pp_infer-1] TIME: doinfer: 5.70982 ms.
+1751363782.9386318 [pp_infer-1] [INFO] [1751363782.938073480] [minimal_publisher]: TIME: 7.314400 ms, Objects detected: 15
+1751363783.1167579 [pp_infer-1] TIME: doinfer: 5.51795 ms.
+1751363783.1169457 [pp_infer-1] [INFO] [1751363783.116800279] [minimal_publisher]: TIME: 5.751488 ms, Objects detected: 12
+1751363783.3248503 [pp_infer-1] TIME: doinfer: 6.1393 ms.
+1751363783.3250382 [pp_infer-1] [INFO] [1751363783.324976277] [minimal_publisher]: TIME: 6.448800 ms, Objects detected: 12
+1751363783.5326631 [pp_infer-1] TIME: doinfer: 5.68179 ms.
+1751363783.5338790 [pp_infer-1] [INFO] [1751363783.533395428] [minimal_publisher]: TIME: 6.973408 ms, Objects detected: 12
+1751363783.7155540 [pp_infer-1] TIME: doinfer: 5.68218 ms.
+1751363783.7167947 [pp_infer-1] [INFO] [1751363783.715984275] [minimal_publisher]: TIME: 6.836224 ms, Objects detected: 11
+1751363783.9257956 [pp_infer-1] TIME: doinfer: 6.2935 ms.
+1751363783.9269438 [pp_infer-1] [INFO] [1751363783.926457750] [minimal_publisher]: TIME: 7.524352 ms, Objects detected: 10
+1751363784.1272473 [pp_infer-1] TIME: doinfer: 5.6791 ms.
+1751363784.1282384 [pp_infer-1] [INFO] [1751363784.127858934] [minimal_publisher]: TIME: 6.914048 ms, Objects detected: 14
+1751363784.3003995 [pp_infer-1] TIME: doinfer: 6.39488 ms.
+1751363784.3018394 [pp_infer-1] [INFO] [1751363784.301353429] [minimal_publisher]: TIME: 7.968672 ms, Objects detected: 16
+1751363784.5087802 [pp_infer-1] TIME: doinfer: 6.10918 ms.
+1751363784.5089626 [pp_infer-1] [INFO] [1751363784.508828223] [minimal_publisher]: TIME: 6.348928 ms, Objects detected: 14
+1751363784.6908760 [pp_infer-1] TIME: doinfer: 5.90746 ms.
+1751363784.6919672 [pp_infer-1] [INFO] [1751363784.691483789] [minimal_publisher]: TIME: 7.097056 ms, Objects detected: 11
+1751363784.8937914 [pp_infer-1] TIME: doinfer: 5.62893 ms.
+1751363784.8946753 [pp_infer-1] [INFO] [1751363784.894332273] [minimal_publisher]: TIME: 6.754144 ms, Objects detected: 9
+1751363785.0942943 [pp_infer-1] TIME: doinfer: 5.7856 ms.
+1751363785.0954773 [pp_infer-1] [INFO] [1751363785.094976779] [minimal_publisher]: TIME: 7.090240 ms, Objects detected: 11
+1751363785.2694619 [pp_infer-1] TIME: doinfer: 5.66854 ms.
+1751363785.2705727 [pp_infer-1] [INFO] [1751363785.270080981] [minimal_publisher]: TIME: 6.896704 ms, Objects detected: 12
+1751363785.4708643 [pp_infer-1] TIME: doinfer: 5.48646 ms.
+1751363785.4712219 [pp_infer-1] [INFO] [1751363785.471098786] [minimal_publisher]: TIME: 5.904064 ms, Objects detected: 13
+1751363785.6439831 [pp_infer-1] TIME: doinfer: 5.54582 ms.
+1751363785.6442463 [pp_infer-1] [INFO] [1751363785.644044445] [minimal_publisher]: TIME: 5.803008 ms, Objects detected: 13
+1751363785.8452442 [pp_infer-1] TIME: doinfer: 5.68458 ms.
+1751363785.8464141 [pp_infer-1] [INFO] [1751363785.845903427] [minimal_publisher]: TIME: 6.954400 ms, Objects detected: 13
+1751363786.0165443 [pp_infer-1] TIME: doinfer: 5.5593 ms.
+1751363786.0167582 [pp_infer-1] [INFO] [1751363786.016676576] [minimal_publisher]: TIME: 5.933984 ms, Objects detected: 12
+1751363786.2149987 [pp_infer-1] TIME: doinfer: 5.97299 ms.
+1751363786.2163689 [pp_infer-1] [INFO] [1751363786.215852189] [minimal_publisher]: TIME: 7.422976 ms, Objects detected: 12
+1751363786.4089096 [pp_infer-1] TIME: doinfer: 6.32832 ms.
+1751363786.4102678 [pp_infer-1] [INFO] [1751363786.409759830] [minimal_publisher]: TIME: 7.777280 ms, Objects detected: 12
+1751363786.5795722 [pp_infer-1] TIME: doinfer: 5.53472 ms.
+1751363786.5798273 [pp_infer-1] [INFO] [1751363786.579626183] [minimal_publisher]: TIME: 5.770400 ms, Objects detected: 10
+1751363786.7467883 [pp_infer-1] TIME: doinfer: 5.53357 ms.
+1751363786.7469814 [pp_infer-1] [INFO] [1751363786.746859717] [minimal_publisher]: TIME: 5.808736 ms, Objects detected: 14
+1751363786.9371986 [pp_infer-1] TIME: doinfer: 5.52342 ms.
+1751363786.9373832 [pp_infer-1] [INFO] [1751363786.937220492] [minimal_publisher]: TIME: 5.745376 ms, Objects detected: 11
+1751363787.1302209 [pp_infer-1] TIME: doinfer: 5.69242 ms.
+1751363787.1312006 [pp_infer-1] [INFO] [1751363787.130829639] [minimal_publisher]: TIME: 6.910304 ms, Objects detected: 12
+1751363787.2961261 [pp_infer-1] TIME: doinfer: 6.46554 ms.
+1751363787.2972865 [pp_infer-1] [INFO] [1751363787.296907872] [minimal_publisher]: TIME: 7.860000 ms, Objects detected: 14
+1751363787.4823244 [pp_infer-1] TIME: doinfer: 6.21466 ms.
+1751363787.4825125 [pp_infer-1] [INFO] [1751363787.482410464] [minimal_publisher]: TIME: 6.500064 ms, Objects detected: 12
+1751363787.6464689 [pp_infer-1] TIME: doinfer: 5.67808 ms.
+1751363787.6476772 [pp_infer-1] [INFO] [1751363787.647184383] [minimal_publisher]: TIME: 7.049312 ms, Objects detected: 12
+1751363787.8326805 [pp_infer-1] TIME: doinfer: 5.68525 ms.
+1751363787.8338981 [pp_infer-1] [INFO] [1751363787.833412180] [minimal_publisher]: TIME: 6.994496 ms, Objects detected: 12
+1751363788.0239577 [pp_infer-1] TIME: doinfer: 5.52858 ms.
+1751363788.0242696 [pp_infer-1] [INFO] [1751363788.024163773] [minimal_publisher]: TIME: 5.924512 ms, Objects detected: 16
+1751363788.1928194 [pp_infer-1] TIME: doinfer: 5.7129 ms.
+1751363788.1930745 [pp_infer-1] [INFO] [1751363788.193004945] [minimal_publisher]: TIME: 6.108224 ms, Objects detected: 15
+1751363788.3769755 [pp_infer-1] TIME: doinfer: 6.31398 ms.
+1751363788.3784518 [pp_infer-1] [INFO] [1751363788.377905545] [minimal_publisher]: TIME: 7.876608 ms, Objects detected: 13
+1751363788.5522401 [pp_infer-1] TIME: doinfer: 6.00096 ms.
+1751363788.5539079 [pp_infer-1] [INFO] [1751363788.553422818] [minimal_publisher]: TIME: 7.803904 ms, Objects detected: 16
+1751363788.7201328 [pp_infer-1] TIME: doinfer: 5.67194 ms.
+1751363788.7214065 [pp_infer-1] [INFO] [1751363788.721030129] [minimal_publisher]: TIME: 7.162880 ms, Objects detected: 15
+1751363788.8864801 [pp_infer-1] TIME: doinfer: 5.92282 ms.
+1751363788.8867400 [pp_infer-1] [INFO] [1751363788.886625135] [minimal_publisher]: TIME: 6.258368 ms, Objects detected: 12
+1751363789.0702169 [pp_infer-1] TIME: doinfer: 5.68509 ms.
+1751363789.0713015 [pp_infer-1] [INFO] [1751363789.070925754] [minimal_publisher]: TIME: 7.000128 ms, Objects detected: 12
+1751363789.2559774 [pp_infer-1] TIME: doinfer: 6.05286 ms.
+1751363789.2563930 [pp_infer-1] [INFO] [1751363789.256270891] [minimal_publisher]: TIME: 6.546432 ms, Objects detected: 13
+1751363789.4149907 [pp_infer-1] TIME: doinfer: 5.97466 ms.
+1751363789.4162843 [pp_infer-1] [INFO] [1751363789.415781258] [minimal_publisher]: TIME: 7.362048 ms, Objects detected: 14
+1751363789.5973485 [pp_infer-1] TIME: doinfer: 6.21629 ms.
+1751363789.5986457 [pp_infer-1] [INFO] [1751363789.598152246] [minimal_publisher]: TIME: 7.635712 ms, Objects detected: 12
+1751363789.7562571 [pp_infer-1] TIME: doinfer: 5.66963 ms.
+1751363789.7575500 [pp_infer-1] [INFO] [1751363789.757050868] [minimal_publisher]: TIME: 7.071648 ms, Objects detected: 14
+1751363789.9387741 [pp_infer-1] TIME: doinfer: 5.68934 ms.
+1751363789.9401464 [pp_infer-1] [INFO] [1751363789.939625826] [minimal_publisher]: TIME: 7.111680 ms, Objects detected: 15
+1751363790.0972738 [pp_infer-1] TIME: doinfer: 6.49318 ms.
+1751363790.0984721 [pp_infer-1] [INFO] [1751363790.097971542] [minimal_publisher]: TIME: 7.803904 ms, Objects detected: 12
+1751363790.2552555 [pp_infer-1] TIME: doinfer: 5.66144 ms.
+1751363790.2565031 [pp_infer-1] [INFO] [1751363790.256009253] [minimal_publisher]: TIME: 7.027488 ms, Objects detected: 13
+1751363790.4354451 [pp_infer-1] TIME: doinfer: 5.84054 ms.
+1751363790.4358914 [pp_infer-1] [INFO] [1751363790.435714795] [minimal_publisher]: TIME: 6.315808 ms, Objects detected: 13
+1751363790.6048651 [pp_infer-1] TIME: doinfer: 6.08141 ms.
+1751363790.6062386 [pp_infer-1] [INFO] [1751363790.605725392] [minimal_publisher]: TIME: 7.523584 ms, Objects detected: 15
+1751363790.7626235 [pp_infer-1] TIME: doinfer: 6.6209 ms.
+1751363790.7637513 [pp_infer-1] [INFO] [1751363790.763268896] [minimal_publisher]: TIME: 7.862688 ms, Objects detected: 10
+1751363790.9190426 [pp_infer-1] TIME: doinfer: 5.98323 ms.
+1751363790.9203157 [pp_infer-1] [INFO] [1751363790.919937947] [minimal_publisher]: TIME: 7.464544 ms, Objects detected: 12
+1751363791.0964742 [pp_infer-1] TIME: doinfer: 6.01782 ms.
+1751363791.0977466 [pp_infer-1] [INFO] [1751363791.097266784] [minimal_publisher]: TIME: 7.424256 ms, Objects detected: 12
+1751363791.2567666 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363791.2576382 [pp_infer-1] [INFO] [1751363791.257188656] [minimal_publisher]: TIME: 6.696128 ms, Objects detected: 10
+1751363791.4227006 [pp_infer-1] TIME: doinfer: 5.69754 ms.
+1751363791.4238148 [pp_infer-1] [INFO] [1751363791.423317155] [minimal_publisher]: TIME: 6.870016 ms, Objects detected: 12
+1751363791.5943265 [pp_infer-1] TIME: doinfer: 5.99754 ms.
+1751363791.5956409 [pp_infer-1] [INFO] [1751363791.595158327] [minimal_publisher]: TIME: 7.440384 ms, Objects detected: 12
+1751363791.7468169 [pp_infer-1] TIME: doinfer: 6.01088 ms.
+1751363791.7482131 [pp_infer-1] [INFO] [1751363791.747703960] [minimal_publisher]: TIME: 7.487040 ms, Objects detected: 14
+1751363791.9231200 [pp_infer-1] TIME: doinfer: 5.68909 ms.
+1751363791.9241123 [pp_infer-1] [INFO] [1751363791.923685164] [minimal_publisher]: TIME: 6.855680 ms, Objects detected: 11
+1751363792.0697615 [pp_infer-1] TIME: doinfer: 6.38771 ms.
+1751363792.0699830 [pp_infer-1] [INFO] [1751363792.069916788] [minimal_publisher]: TIME: 6.768768 ms, Objects detected: 10
+1751363792.2473989 [pp_infer-1] TIME: doinfer: 5.92794 ms.
+1751363792.2485638 [pp_infer-1] [INFO] [1751363792.248061837] [minimal_publisher]: TIME: 7.181504 ms, Objects detected: 11
+1751363792.3975594 [pp_infer-1] TIME: doinfer: 6.14093 ms.
+1751363792.3984210 [pp_infer-1] [INFO] [1751363792.398044351] [minimal_publisher]: TIME: 7.257088 ms, Objects detected: 9
+1751363792.5628424 [pp_infer-1] TIME: doinfer: 5.94739 ms.
+1751363792.5637205 [pp_infer-1] [INFO] [1751363792.563374173] [minimal_publisher]: TIME: 7.057056 ms, Objects detected: 10
+1751363792.7313094 [pp_infer-1] TIME: doinfer: 6.00986 ms.
+1751363792.7324765 [pp_infer-1] [INFO] [1751363792.731973437] [minimal_publisher]: TIME: 7.284736 ms, Objects detected: 12
+1751363792.8838248 [pp_infer-1] TIME: doinfer: 6.43584 ms.
+1751363792.8846869 [pp_infer-1] [INFO] [1751363792.884287808] [minimal_publisher]: TIME: 7.469024 ms, Objects detected: 11
+1751363793.0303819 [pp_infer-1] TIME: doinfer: 6.00371 ms.
+1751363793.0312500 [pp_infer-1] [INFO] [1751363793.030887604] [minimal_publisher]: TIME: 7.138304 ms, Objects detected: 11
+1751363793.1929374 [pp_infer-1] TIME: doinfer: 5.66886 ms.
+1751363793.1945212 [pp_infer-1] [INFO] [1751363793.194024523] [minimal_publisher]: TIME: 7.312032 ms, Objects detected: 13
+1751363793.3584254 [pp_infer-1] TIME: doinfer: 5.68218 ms.
+1751363793.3595788 [pp_infer-1] [INFO] [1751363793.359100277] [minimal_publisher]: TIME: 6.946528 ms, Objects detected: 14
+1751363793.5018704 [pp_infer-1] TIME: doinfer: 5.7047 ms.
+1751363793.5029979 [pp_infer-1] [INFO] [1751363793.502516413] [minimal_publisher]: TIME: 6.933504 ms, Objects detected: 12
+1751363793.6703451 [pp_infer-1] TIME: doinfer: 5.98214 ms.
+1751363793.6712146 [pp_infer-1] [INFO] [1751363793.670853683] [minimal_publisher]: TIME: 7.107520 ms, Objects detected: 9
+1751363793.8301439 [pp_infer-1] TIME: doinfer: 5.99859 ms.
+1751363793.8312945 [pp_infer-1] [INFO] [1751363793.830782951] [minimal_publisher]: TIME: 7.251968 ms, Objects detected: 11
+1751363793.9685173 [pp_infer-1] TIME: doinfer: 6.2761 ms.
+1751363793.9695821 [pp_infer-1] [INFO] [1751363793.969103867] [minimal_publisher]: TIME: 7.438592 ms, Objects detected: 12
+1751363794.1402295 [pp_infer-1] TIME: doinfer: 5.72099 ms.
+1751363794.1414816 [pp_infer-1] [INFO] [1751363794.140980723] [minimal_publisher]: TIME: 7.077568 ms, Objects detected: 14
+1751363794.2843506 [pp_infer-1] TIME: doinfer: 6.26253 ms.
+1751363794.2855942 [pp_infer-1] [INFO] [1751363794.285120530] [minimal_publisher]: TIME: 7.621632 ms, Objects detected: 14
+1751363794.4449227 [pp_infer-1] TIME: doinfer: 5.6767 ms.
+1751363794.4458473 [pp_infer-1] [INFO] [1751363794.445494292] [minimal_publisher]: TIME: 6.824640 ms, Objects detected: 13
+1751363794.5903475 [pp_infer-1] TIME: doinfer: 6.0545 ms.
+1751363794.5912144 [pp_infer-1] [INFO] [1751363794.590851915] [minimal_publisher]: TIME: 7.162272 ms, Objects detected: 12
+1751363794.7578368 [pp_infer-1] TIME: doinfer: 5.97677 ms.
+1751363794.7589910 [pp_infer-1] [INFO] [1751363794.758502118] [minimal_publisher]: TIME: 7.223168 ms, Objects detected: 11
+1751363794.9090691 [pp_infer-1] TIME: doinfer: 5.68627 ms.
+1751363794.9101915 [pp_infer-1] [INFO] [1751363794.909686869] [minimal_publisher]: TIME: 6.876160 ms, Objects detected: 11
+1751363795.0628994 [pp_infer-1] TIME: doinfer: 5.69344 ms.
+1751363795.0637622 [pp_infer-1] [INFO] [1751363795.063285048] [minimal_publisher]: TIME: 6.652928 ms, Objects detected: 10
+1751363795.1997011 [pp_infer-1] TIME: doinfer: 6.03722 ms.
+1751363795.2005792 [pp_infer-1] [INFO] [1751363795.200250718] [minimal_publisher]: TIME: 7.165216 ms, Objects detected: 10
+1751363795.3686614 [pp_infer-1] TIME: doinfer: 6.15994 ms.
+1751363795.3706651 [pp_infer-1] [INFO] [1751363795.370164663] [minimal_publisher]: TIME: 8.241600 ms, Objects detected: 16
+1751363795.5137696 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363795.5153618 [pp_infer-1] [INFO] [1751363795.514860524] [minimal_publisher]: TIME: 7.341056 ms, Objects detected: 18
+1751363795.6535556 [pp_infer-1] TIME: doinfer: 5.69936 ms.
+1751363795.6547468 [pp_infer-1] [INFO] [1751363795.654255296] [minimal_publisher]: TIME: 7.005184 ms, Objects detected: 13
+1751363795.8188121 [pp_infer-1] TIME: doinfer: 6.24771 ms.
+1751363795.8201816 [pp_infer-1] [INFO] [1751363795.819676169] [minimal_publisher]: TIME: 7.672704 ms, Objects detected: 16
+1751363795.9627810 [pp_infer-1] TIME: doinfer: 5.69206 ms.
+1751363795.9640417 [pp_infer-1] [INFO] [1751363795.963559349] [minimal_publisher]: TIME: 7.040000 ms, Objects detected: 13
+1751363796.1224873 [pp_infer-1] TIME: doinfer: 5.67808 ms.
+1751363796.1234503 [pp_infer-1] [INFO] [1751363796.123048824] [minimal_publisher]: TIME: 6.845568 ms, Objects detected: 15
+1751363796.2673635 [pp_infer-1] TIME: doinfer: 5.93101 ms.
+1751363796.2685993 [pp_infer-1] [INFO] [1751363796.268101879] [minimal_publisher]: TIME: 7.263104 ms, Objects detected: 12
+1751363796.4049208 [pp_infer-1] TIME: doinfer: 5.8839 ms.
+1751363796.4057887 [pp_infer-1] [INFO] [1751363796.405393263] [minimal_publisher]: TIME: 6.928384 ms, Objects detected: 10
+1751363796.5646150 [pp_infer-1] TIME: doinfer: 5.66387 ms.
+1751363796.5658286 [pp_infer-1] [INFO] [1751363796.565337828] [minimal_publisher]: TIME: 7.152704 ms, Objects detected: 13
+1751363796.7043633 [pp_infer-1] TIME: doinfer: 6.43994 ms.
+1751363796.7054114 [pp_infer-1] [INFO] [1751363796.705039995] [minimal_publisher]: TIME: 7.726720 ms, Objects detected: 14
+1751363796.8563704 [pp_infer-1] TIME: doinfer: 5.69018 ms.
+1751363796.8576024 [pp_infer-1] [INFO] [1751363796.857128003] [minimal_publisher]: TIME: 7.039872 ms, Objects detected: 14
+1751363796.9954588 [pp_infer-1] TIME: doinfer: 5.67808 ms.
+1751363796.9967151 [pp_infer-1] [INFO] [1751363796.996225936] [minimal_publisher]: TIME: 7.050112 ms, Objects detected: 12
+1751363797.1519182 [pp_infer-1] TIME: doinfer: 6.04979 ms.
+1751363797.1531341 [pp_infer-1] [INFO] [1751363797.152627078] [minimal_publisher]: TIME: 7.332896 ms, Objects detected: 11
+1751363797.2896278 [pp_infer-1] TIME: doinfer: 6.23309 ms.
+1751363797.2898703 [pp_infer-1] [INFO] [1751363797.289744483] [minimal_publisher]: TIME: 6.571968 ms, Objects detected: 14
+1751363797.4369810 [pp_infer-1] TIME: doinfer: 6.08323 ms.
+1751363797.4381497 [pp_infer-1] [INFO] [1751363797.437648730] [minimal_publisher]: TIME: 7.307648 ms, Objects detected: 12
+1751363797.5902448 [pp_infer-1] TIME: doinfer: 5.7113 ms.
+1751363797.5918727 [pp_infer-1] [INFO] [1751363797.591395179] [minimal_publisher]: TIME: 7.485184 ms, Objects detected: 11
+1751363797.7357969 [pp_infer-1] TIME: doinfer: 6.14195 ms.
+1751363797.7369654 [pp_infer-1] [INFO] [1751363797.736473827] [minimal_publisher]: TIME: 7.411072 ms, Objects detected: 11
+1751363797.8727484 [pp_infer-1] TIME: doinfer: 5.70573 ms.
+1751363797.8740361 [pp_infer-1] [INFO] [1751363797.873553584] [minimal_publisher]: TIME: 7.074112 ms, Objects detected: 12
+1751363798.0233595 [pp_infer-1] TIME: doinfer: 5.98179 ms.
+1751363798.0245621 [pp_infer-1] [INFO] [1751363798.023987573] [minimal_publisher]: TIME: 7.245728 ms, Objects detected: 10
+1751363798.1794319 [pp_infer-1] TIME: doinfer: 5.96579 ms.
+1751363798.1803005 [pp_infer-1] [INFO] [1751363798.179822903] [minimal_publisher]: TIME: 6.984864 ms, Objects detected: 8
+1751363798.2979069 [pp_infer-1] TIME: doinfer: 6.12515 ms.
+1751363798.2981133 [pp_infer-1] [INFO] [1751363798.297972110] [minimal_publisher]: TIME: 6.385440 ms, Objects detected: 13
+1751363798.4555256 [pp_infer-1] TIME: doinfer: 6.29674 ms.
+1751363798.4563813 [pp_infer-1] [INFO] [1751363798.455865716] [minimal_publisher]: TIME: 7.231136 ms, Objects detected: 9
+1751363798.5831699 [pp_infer-1] TIME: doinfer: 6.05654 ms.
+1751363798.5840135 [pp_infer-1] [INFO] [1751363798.583640549] [minimal_publisher]: TIME: 7.149696 ms, Objects detected: 9
+1751363798.7325778 [pp_infer-1] TIME: doinfer: 5.66579 ms.
+1751363798.7336998 [pp_infer-1] [INFO] [1751363798.733220583] [minimal_publisher]: TIME: 6.908768 ms, Objects detected: 12
+1751363798.8697281 [pp_infer-1] TIME: doinfer: 6.0496 ms.
+1751363798.8709455 [pp_infer-1] [INFO] [1751363798.870468953] [minimal_publisher]: TIME: 7.384128 ms, Objects detected: 12
+1751363799.0065022 [pp_infer-1] TIME: doinfer: 5.69059 ms.
+1751363799.0074110 [pp_infer-1] [INFO] [1751363799.007042535] [minimal_publisher]: TIME: 6.830464 ms, Objects detected: 10
+1751363799.1564708 [pp_infer-1] TIME: doinfer: 6.36682 ms.
+1751363799.1574292 [pp_infer-1] [INFO] [1751363799.157022459] [minimal_publisher]: TIME: 7.519040 ms, Objects detected: 12
+1751363799.3025825 [pp_infer-1] TIME: doinfer: 6.29331 ms.
+1751363799.3037322 [pp_infer-1] [INFO] [1751363799.303243629] [minimal_publisher]: TIME: 7.560672 ms, Objects detected: 10
+1751363799.4302969 [pp_infer-1] TIME: doinfer: 5.87043 ms.
+1751363799.4313521 [pp_infer-1] [INFO] [1751363799.430985351] [minimal_publisher]: TIME: 7.159808 ms, Objects detected: 14
+1751363799.5785823 [pp_infer-1] TIME: doinfer: 6.0928 ms.
+1751363799.5794477 [pp_infer-1] [INFO] [1751363799.579114777] [minimal_publisher]: TIME: 7.217856 ms, Objects detected: 11
+1751363799.7284601 [pp_infer-1] TIME: doinfer: 5.6689 ms.
+1751363799.7295673 [pp_infer-1] [INFO] [1751363799.729075698] [minimal_publisher]: TIME: 6.882112 ms, Objects detected: 11
+1751363799.8632159 [pp_infer-1] TIME: doinfer: 5.67091 ms.
+1751363799.8643553 [pp_infer-1] [INFO] [1751363799.863852817] [minimal_publisher]: TIME: 6.903808 ms, Objects detected: 13
+1751363799.9912877 [pp_infer-1] TIME: doinfer: 6.18598 ms.
+1751363799.9914660 [pp_infer-1] [INFO] [1751363799.991328174] [minimal_publisher]: TIME: 6.427648 ms, Objects detected: 11
+1751363800.1447277 [pp_infer-1] TIME: doinfer: 5.59693 ms.
+1751363800.1449013 [pp_infer-1] [INFO] [1751363800.144762792] [minimal_publisher]: TIME: 5.818720 ms, Objects detected: 10
+1751363800.2999358 [pp_infer-1] TIME: doinfer: 5.57056 ms.
+1751363800.3001256 [pp_infer-1] [INFO] [1751363800.299940656] [minimal_publisher]: TIME: 5.768192 ms, Objects detected: 9
+1751363800.4931324 [pp_infer-1] TIME: doinfer: 5.70765 ms.
+1751363800.4943383 [pp_infer-1] [INFO] [1751363800.493807483] [minimal_publisher]: TIME: 7.007232 ms, Objects detected: 8
+1751363800.6169574 [pp_infer-1] TIME: doinfer: 5.97914 ms.
+1751363800.6171420 [pp_infer-1] [INFO] [1751363800.616992614] [minimal_publisher]: TIME: 6.195104 ms, Objects detected: 11
+1751363800.7804568 [pp_infer-1] TIME: doinfer: 5.96989 ms.
+1751363800.7813070 [pp_infer-1] [INFO] [1751363800.780866068] [minimal_publisher]: TIME: 7.002496 ms, Objects detected: 9
+1751363800.9089611 [pp_infer-1] TIME: doinfer: 5.67808 ms.
+1751363800.9098303 [pp_infer-1] [INFO] [1751363800.909394603] [minimal_publisher]: TIME: 6.693024 ms, Objects detected: 11
+1751363801.0431747 [pp_infer-1] TIME: doinfer: 5.6832 ms.
+1751363801.0439985 [pp_infer-1] [INFO] [1751363801.043625086] [minimal_publisher]: TIME: 6.734560 ms, Objects detected: 11
+1751363801.1744356 [pp_infer-1] TIME: doinfer: 5.51424 ms.
+1751363801.1746175 [pp_infer-1] [INFO] [1751363801.174550598] [minimal_publisher]: TIME: 5.812128 ms, Objects detected: 12
+1751363801.3161910 [pp_infer-1] TIME: doinfer: 5.88362 ms.
+1751363801.3165765 [pp_infer-1] [INFO] [1751363801.316458239] [minimal_publisher]: TIME: 6.381248 ms, Objects detected: 12
+1751363801.4453962 [pp_infer-1] TIME: doinfer: 5.71187 ms.
+1751363801.4463840 [pp_infer-1] [INFO] [1751363801.446012485] [minimal_publisher]: TIME: 6.944640 ms, Objects detected: 14
+1751363801.5908618 [pp_infer-1] TIME: doinfer: 6.40752 ms.
+1751363801.5920277 [pp_infer-1] [INFO] [1751363801.591549963] [minimal_publisher]: TIME: 7.663296 ms, Objects detected: 11
+1751363801.7105896 [pp_infer-1] TIME: doinfer: 6.40067 ms.
+1751363801.7117946 [pp_infer-1] [INFO] [1751363801.711301388] [minimal_publisher]: TIME: 7.706624 ms, Objects detected: 12
+1751363801.8549232 [pp_infer-1] TIME: doinfer: 5.89478 ms.
+1751363801.8561080 [pp_infer-1] [INFO] [1751363801.855739829] [minimal_publisher]: TIME: 7.288832 ms, Objects detected: 12
+1751363801.9798715 [pp_infer-1] TIME: doinfer: 6.33242 ms.
+1751363801.9812741 [pp_infer-1] [INFO] [1751363801.980754942] [minimal_publisher]: TIME: 7.794624 ms, Objects detected: 12
+1751363802.1229150 [pp_infer-1] TIME: doinfer: 6.01395 ms.
+1751363802.1240106 [pp_infer-1] [INFO] [1751363802.123663380] [minimal_publisher]: TIME: 7.348288 ms, Objects detected: 12
+1751363802.2496049 [pp_infer-1] TIME: doinfer: 6.07846 ms.
+1751363802.2508309 [pp_infer-1] [INFO] [1751363802.250356011] [minimal_publisher]: TIME: 7.417696 ms, Objects detected: 12
+1751363802.3742604 [pp_infer-1] TIME: doinfer: 6.26278 ms.
+1751363802.3757050 [pp_infer-1] [INFO] [1751363802.375216537] [minimal_publisher]: TIME: 7.850592 ms, Objects detected: 12
+1751363802.5232236 [pp_infer-1] TIME: doinfer: 6.00749 ms.
+1751363802.5241761 [pp_infer-1] [INFO] [1751363802.523777897] [minimal_publisher]: TIME: 7.173120 ms, Objects detected: 11
+1751363802.6449091 [pp_infer-1] TIME: doinfer: 5.66886 ms.
+1751363802.6459885 [pp_infer-1] [INFO] [1751363802.645512087] [minimal_publisher]: TIME: 6.834176 ms, Objects detected: 13
+1751363802.7734895 [pp_infer-1] TIME: doinfer: 6.24128 ms.
+1751363802.7749784 [pp_infer-1] [INFO] [1751363802.774496261] [minimal_publisher]: TIME: 7.859200 ms, Objects detected: 13
+1751363802.9265220 [pp_infer-1] TIME: doinfer: 6.40819 ms.
+1751363802.9277253 [pp_infer-1] [INFO] [1751363802.927242288] [minimal_publisher]: TIME: 7.738368 ms, Objects detected: 13
+1751363803.0492811 [pp_infer-1] TIME: doinfer: 5.67808 ms.
+1751363803.0502396 [pp_infer-1] [INFO] [1751363803.049865474] [minimal_publisher]: TIME: 6.865920 ms, Objects detected: 14
+1751363803.1696897 [pp_infer-1] TIME: doinfer: 5.66989 ms.
+1751363803.1707945 [pp_infer-1] [INFO] [1751363803.170309454] [minimal_publisher]: TIME: 6.885504 ms, Objects detected: 13
+1751363803.3099074 [pp_infer-1] TIME: doinfer: 6.50829 ms.
+1751363803.3113220 [pp_infer-1] [INFO] [1751363803.310950395] [minimal_publisher]: TIME: 8.111104 ms, Objects detected: 15
+1751363803.4426310 [pp_infer-1] TIME: doinfer: 6.30054 ms.
+1751363803.4438679 [pp_infer-1] [INFO] [1751363803.443394814] [minimal_publisher]: TIME: 7.604576 ms, Objects detected: 14
+1751363803.5828366 [pp_infer-1] TIME: doinfer: 6.08915 ms.
+1751363803.5840435 [pp_infer-1] [INFO] [1751363803.583563255] [minimal_publisher]: TIME: 7.390464 ms, Objects detected: 15
+1751363803.7015717 [pp_infer-1] TIME: doinfer: 5.56442 ms.
+1751363803.7017477 [pp_infer-1] [INFO] [1751363803.701632577] [minimal_publisher]: TIME: 5.807776 ms, Objects detected: 11
+1751363803.8286529 [pp_infer-1] TIME: doinfer: 5.68832 ms.
+1751363803.8295629 [pp_infer-1] [INFO] [1751363803.829211429] [minimal_publisher]: TIME: 6.813600 ms, Objects detected: 11
+1751363803.9722016 [pp_infer-1] TIME: doinfer: 5.69344 ms.
+1751363803.9732809 [pp_infer-1] [INFO] [1751363803.972906991] [minimal_publisher]: TIME: 7.023616 ms, Objects detected: 15
+1751363804.0962806 [pp_infer-1] TIME: doinfer: 5.68499 ms.
+1751363804.0975082 [pp_infer-1] [INFO] [1751363804.096983484] [minimal_publisher]: TIME: 6.989088 ms, Objects detected: 15
+1751363804.2155943 [pp_infer-1] TIME: doinfer: 5.7009 ms.
+1751363804.2169521 [pp_infer-1] [INFO] [1751363804.216457243] [minimal_publisher]: TIME: 7.150816 ms, Objects detected: 16
+1751363804.3508334 [pp_infer-1] TIME: doinfer: 5.54701 ms.
+1751363804.3510077 [pp_infer-1] [INFO] [1751363804.350898572] [minimal_publisher]: TIME: 5.808992 ms, Objects detected: 12
+1751363804.4790270 [pp_infer-1] TIME: doinfer: 5.97606 ms.
+1751363804.4801247 [pp_infer-1] [INFO] [1751363804.479748272] [minimal_publisher]: TIME: 7.264960 ms, Objects detected: 14
+1751363804.6038797 [pp_infer-1] TIME: doinfer: 5.66989 ms.
+1751363804.6047516 [pp_infer-1] [INFO] [1751363804.604416554] [minimal_publisher]: TIME: 6.766592 ms, Objects detected: 12
+1751363804.7378490 [pp_infer-1] TIME: doinfer: 5.67184 ms.
+1751363804.7387190 [pp_infer-1] [INFO] [1751363804.738350765] [minimal_publisher]: TIME: 6.762240 ms, Objects detected: 10
+1751363804.8587444 [pp_infer-1] TIME: doinfer: 6.22362 ms.
+1751363804.8599277 [pp_infer-1] [INFO] [1751363804.859452709] [minimal_publisher]: TIME: 7.496288 ms, Objects detected: 10
+1751363805.0032651 [pp_infer-1] TIME: doinfer: 5.93715 ms.
+1751363805.0034418 [pp_infer-1] [INFO] [1751363805.003282005] [minimal_publisher]: TIME: 6.152896 ms, Objects detected: 11
+1751363805.1156099 [pp_infer-1] TIME: doinfer: 5.6977 ms.
+1751363805.1167834 [pp_infer-1] [INFO] [1751363805.116298593] [minimal_publisher]: TIME: 6.978432 ms, Objects detected: 9
+1751363805.2527502 [pp_infer-1] TIME: doinfer: 5.8368 ms.
+1751363805.2531266 [pp_infer-1] [INFO] [1751363805.253030289] [minimal_publisher]: TIME: 6.308800 ms, Objects detected: 11
+1751363805.3705454 [pp_infer-1] TIME: doinfer: 6.05811 ms.
+1751363805.3714106 [pp_infer-1] [INFO] [1751363805.371061914] [minimal_publisher]: TIME: 7.175424 ms, Objects detected: 10
+1751363805.5059566 [pp_infer-1] TIME: doinfer: 5.54906 ms.
+1751363805.5068707 [pp_infer-1] [INFO] [1751363805.506523085] [minimal_publisher]: TIME: 6.684672 ms, Objects detected: 10
+1751363805.6259761 [pp_infer-1] TIME: doinfer: 6.31811 ms.
+1751363805.6268482 [pp_infer-1] [INFO] [1751363805.626509733] [minimal_publisher]: TIME: 7.411712 ms, Objects detected: 9
+1751363805.7617812 [pp_infer-1] TIME: doinfer: 6.12237 ms.
+1751363805.7626073 [pp_infer-1] [INFO] [1751363805.762080800] [minimal_publisher]: TIME: 7.005312 ms, Objects detected: 10
+1751363805.8825622 [pp_infer-1] TIME: doinfer: 6.16653 ms.
+1751363805.8834088 [pp_infer-1] [INFO] [1751363805.883030388] [minimal_publisher]: TIME: 7.247168 ms, Objects detected: 12
+1751363806.0031095 [pp_infer-1] TIME: doinfer: 5.67501 ms.
+1751363806.0039411 [pp_infer-1] [INFO] [1751363806.003599074] [minimal_publisher]: TIME: 6.751680 ms, Objects detected: 12
+1751363806.1393964 [pp_infer-1] TIME: doinfer: 5.66538 ms.
+1751363806.1403899 [pp_infer-1] [INFO] [1751363806.140020095] [minimal_publisher]: TIME: 6.849536 ms, Objects detected: 12
+1751363806.2625301 [pp_infer-1] TIME: doinfer: 5.63507 ms.
+1751363806.2633827 [pp_infer-1] [INFO] [1751363806.263013608] [minimal_publisher]: TIME: 6.705376 ms, Objects detected: 10
+1751363806.3794677 [pp_infer-1] TIME: doinfer: 6.46346 ms.
+1751363806.3803196 [pp_infer-1] [INFO] [1751363806.379907254] [minimal_publisher]: TIME: 7.510176 ms, Objects detected: 11
+1751363806.4995978 [pp_infer-1] TIME: doinfer: 5.68003 ms.
+1751363806.5004780 [pp_infer-1] [INFO] [1751363806.500123137] [minimal_publisher]: TIME: 6.820800 ms, Objects detected: 12
+1751363806.6211867 [pp_infer-1] TIME: doinfer: 5.54899 ms.
+1751363806.6213586 [pp_infer-1] [INFO] [1751363806.621242028] [minimal_publisher]: TIME: 5.794464 ms, Objects detected: 10
+1751363806.8729188 [pp_infer-1] TIME: doinfer: 5.65555 ms.
+1751363806.8740804 [pp_infer-1] [INFO] [1751363806.873732276] [minimal_publisher]: TIME: 7.051264 ms, Objects detected: 13
+1751363807.0453012 [pp_infer-1] TIME: doinfer: 6.30989 ms.
+1751363807.0463266 [pp_infer-1] [INFO] [1751363807.045957707] [minimal_publisher]: TIME: 7.580288 ms, Objects detected: 14
+1751363807.2504158 [pp_infer-1] TIME: doinfer: 5.61664 ms.
+1751363807.2505944 [pp_infer-1] [INFO] [1751363807.250495307] [minimal_publisher]: TIME: 5.882880 ms, Objects detected: 17
+1751363807.4220259 [pp_infer-1] TIME: doinfer: 5.67091 ms.
+1751363807.4235101 [pp_infer-1] [INFO] [1751363807.423028625] [minimal_publisher]: TIME: 7.248800 ms, Objects detected: 20
+1751363807.6293368 [pp_infer-1] TIME: doinfer: 6.40307 ms.
+1751363807.6307974 [pp_infer-1] [INFO] [1751363807.630324643] [minimal_publisher]: TIME: 8.011776 ms, Objects detected: 16
+1751363807.8241742 [pp_infer-1] TIME: doinfer: 5.56422 ms.
+1751363807.8243868 [pp_infer-1] [INFO] [1751363807.824323906] [minimal_publisher]: TIME: 5.938528 ms, Objects detected: 14
+1751363807.9901602 [pp_infer-1] TIME: doinfer: 6.05562 ms.
+1751363807.9911537 [pp_infer-1] [INFO] [1751363807.990782865] [minimal_publisher]: TIME: 7.302528 ms, Objects detected: 13
+1751363808.2013700 [pp_infer-1] TIME: doinfer: 6.43005 ms.
+1751363808.2026036 [pp_infer-1] [INFO] [1751363808.202112326] [minimal_publisher]: TIME: 7.780288 ms, Objects detected: 15
+1751363808.3775659 [pp_infer-1] TIME: doinfer: 6.0064 ms.
+1751363808.3788016 [pp_infer-1] [INFO] [1751363808.378314732] [minimal_publisher]: TIME: 7.372704 ms, Objects detected: 13
+1751363808.5478370 [pp_infer-1] TIME: doinfer: 5.76541 ms.
+1751363808.5480497 [pp_infer-1] [INFO] [1751363808.547983925] [minimal_publisher]: TIME: 6.137216 ms, Objects detected: 15
+1751363808.7458131 [pp_infer-1] TIME: doinfer: 6.3232 ms.
+1751363808.7469530 [pp_infer-1] [INFO] [1751363808.746473700] [minimal_publisher]: TIME: 7.556320 ms, Objects detected: 12
+1751363808.9164312 [pp_infer-1] TIME: doinfer: 5.7088 ms.
+1751363808.9175925 [pp_infer-1] [INFO] [1751363808.917116474] [minimal_publisher]: TIME: 7.012416 ms, Objects detected: 13
+1751363809.0949585 [pp_infer-1] TIME: doinfer: 5.97504 ms.
+1751363809.0954375 [pp_infer-1] [INFO] [1751363809.095328490] [minimal_publisher]: TIME: 6.542496 ms, Objects detected: 11
+1751363809.2834508 [pp_infer-1] TIME: doinfer: 6.07437 ms.
+1751363809.2845809 [pp_infer-1] [INFO] [1751363809.284097902] [minimal_publisher]: TIME: 7.334048 ms, Objects detected: 12
+1751363809.4526513 [pp_infer-1] TIME: doinfer: 5.69446 ms.
+1751363809.4539697 [pp_infer-1] [INFO] [1751363809.453496607] [minimal_publisher]: TIME: 7.098240 ms, Objects detected: 14
+1751363809.6444314 [pp_infer-1] TIME: doinfer: 5.87059 ms.
+1751363809.6446424 [pp_infer-1] [INFO] [1751363809.644579748] [minimal_publisher]: TIME: 6.232416 ms, Objects detected: 12
+1751363809.8142946 [pp_infer-1] TIME: doinfer: 6.30477 ms.
+1751363809.8157454 [pp_infer-1] [INFO] [1751363809.815255343] [minimal_publisher]: TIME: 7.869024 ms, Objects detected: 14
+1751363810.0083418 [pp_infer-1] TIME: doinfer: 5.68525 ms.
+1751363810.0100243 [pp_infer-1] [INFO] [1751363810.009539838] [minimal_publisher]: TIME: 7.495296 ms, Objects detected: 12
+1751363810.1661625 [pp_infer-1] TIME: doinfer: 6.45734 ms.
+1751363810.1673615 [pp_infer-1] [INFO] [1751363810.166987691] [minimal_publisher]: TIME: 7.891264 ms, Objects detected: 14
+1751363810.3511810 [pp_infer-1] TIME: doinfer: 5.70755 ms.
+1751363810.3525093 [pp_infer-1] [INFO] [1751363810.352018603] [minimal_publisher]: TIME: 7.149568 ms, Objects detected: 15
+1751363810.5180590 [pp_infer-1] TIME: doinfer: 5.68506 ms.
+1751363810.5192125 [pp_infer-1] [INFO] [1751363810.518840950] [minimal_publisher]: TIME: 7.053536 ms, Objects detected: 14
+1751363810.7097363 [pp_infer-1] TIME: doinfer: 5.57242 ms.
+1751363810.7100282 [pp_infer-1] [INFO] [1751363810.709962773] [minimal_publisher]: TIME: 5.989376 ms, Objects detected: 13
+1751363810.8817852 [pp_infer-1] TIME: doinfer: 6.5833 ms.
+1751363810.8826497 [pp_infer-1] [INFO] [1751363810.882282543] [minimal_publisher]: TIME: 7.663232 ms, Objects detected: 10
+1751363811.0431509 [pp_infer-1] TIME: doinfer: 6.07949 ms.
+1751363811.0442793 [pp_infer-1] [INFO] [1751363811.043762220] [minimal_publisher]: TIME: 7.304224 ms, Objects detected: 11
+1751363811.2388997 [pp_infer-1] TIME: doinfer: 5.97094 ms.
+1751363811.2400460 [pp_infer-1] [INFO] [1751363811.239549115] [minimal_publisher]: TIME: 7.212032 ms, Objects detected: 9
+1751363811.3992155 [pp_infer-1] TIME: doinfer: 6.28771 ms.
+1751363811.3995950 [pp_infer-1] [INFO] [1751363811.399484478] [minimal_publisher]: TIME: 6.791456 ms, Objects detected: 12
+1751363811.5600638 [pp_infer-1] TIME: doinfer: 5.97875 ms.
+1751363811.5613518 [pp_infer-1] [INFO] [1751363811.560840814] [minimal_publisher]: TIME: 7.351936 ms, Objects detected: 13
+1751363811.7455115 [pp_infer-1] TIME: doinfer: 5.68816 ms.
+1751363811.7466040 [pp_infer-1] [INFO] [1751363811.746135384] [minimal_publisher]: TIME: 6.928128 ms, Objects detected: 11
+1751363811.9000123 [pp_infer-1] TIME: doinfer: 6.31808 ms.
+1751363811.9015296 [pp_infer-1] [INFO] [1751363811.901048522] [minimal_publisher]: TIME: 7.943296 ms, Objects detected: 13
+1751363812.0809906 [pp_infer-1] TIME: doinfer: 6.21466 ms.
+1751363812.0811834 [pp_infer-1] [INFO] [1751363812.081098828] [minimal_publisher]: TIME: 6.514688 ms, Objects detected: 11
+1751363812.2446158 [pp_infer-1] TIME: doinfer: 5.66477 ms.
+1751363812.2458754 [pp_infer-1] [INFO] [1751363812.245403515] [minimal_publisher]: TIME: 7.043968 ms, Objects detected: 11
+1751363812.4209065 [pp_infer-1] TIME: doinfer: 5.69139 ms.
+1751363812.4222121 [pp_infer-1] [INFO] [1751363812.421688106] [minimal_publisher]: TIME: 7.064192 ms, Objects detected: 11
+1751363812.5757575 [pp_infer-1] TIME: doinfer: 5.89312 ms.
+1751363812.5774646 [pp_infer-1] [INFO] [1751363812.576958052] [minimal_publisher]: TIME: 7.668704 ms, Objects detected: 16
+1751363812.7403219 [pp_infer-1] TIME: doinfer: 5.69344 ms.
+1751363812.7413738 [pp_infer-1] [INFO] [1751363812.741001747] [minimal_publisher]: TIME: 6.991424 ms, Objects detected: 12
+1751363812.9111598 [pp_infer-1] TIME: doinfer: 5.55302 ms.
+1751363812.9113405 [pp_infer-1] [INFO] [1751363812.911240706] [minimal_publisher]: TIME: 5.856288 ms, Objects detected: 14
+1751363813.0891402 [pp_infer-1] TIME: doinfer: 5.69037 ms.
+1751363813.0907819 [pp_infer-1] [INFO] [1751363813.090299733] [minimal_publisher]: TIME: 7.476064 ms, Objects detected: 19
+1751363813.2409835 [pp_infer-1] TIME: doinfer: 5.7088 ms.
+1751363813.2422531 [pp_infer-1] [INFO] [1751363813.241750084] [minimal_publisher]: TIME: 7.037984 ms, Objects detected: 14
+1751363813.4174056 [pp_infer-1] TIME: doinfer: 6.14502 ms.
+1751363813.4188070 [pp_infer-1] [INFO] [1751363813.418322506] [minimal_publisher]: TIME: 7.681600 ms, Objects detected: 18
+1751363813.5660126 [pp_infer-1] TIME: doinfer: 5.94544 ms.
+1751363813.5672860 [pp_infer-1] [INFO] [1751363813.566919371] [minimal_publisher]: TIME: 7.421952 ms, Objects detected: 14
+1751363813.7267807 [pp_infer-1] TIME: doinfer: 6.0823 ms.
+1751363813.7282529 [pp_infer-1] [INFO] [1751363813.727732009] [minimal_publisher]: TIME: 7.602176 ms, Objects detected: 16
+1751363813.9066525 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363813.9075232 [pp_infer-1] [INFO] [1751363813.907137046] [minimal_publisher]: TIME: 6.747136 ms, Objects detected: 11
+1751363814.0752292 [pp_infer-1] TIME: doinfer: 5.69958 ms.
+1751363814.0765271 [pp_infer-1] [INFO] [1751363814.076041214] [minimal_publisher]: TIME: 7.129792 ms, Objects detected: 12
+1751363814.2256420 [pp_infer-1] TIME: doinfer: 5.6953 ms.
+1751363814.2268775 [pp_infer-1] [INFO] [1751363814.226400891] [minimal_publisher]: TIME: 7.001088 ms, Objects detected: 13
+1751363814.3790050 [pp_infer-1] TIME: doinfer: 5.95866 ms.
+1751363814.3798809 [pp_infer-1] [INFO] [1751363814.379466324] [minimal_publisher]: TIME: 6.990016 ms, Objects detected: 10
+1751363814.5538497 [pp_infer-1] TIME: doinfer: 6.08426 ms.
+1751363814.5549951 [pp_infer-1] [INFO] [1751363814.554512207] [minimal_publisher]: TIME: 7.319488 ms, Objects detected: 14
+1751363814.7115617 [pp_infer-1] TIME: doinfer: 5.67814 ms.
+1751363814.7127261 [pp_infer-1] [INFO] [1751363814.712252639] [minimal_publisher]: TIME: 6.973632 ms, Objects detected: 14
+1751363814.8631878 [pp_infer-1] TIME: doinfer: 5.6759 ms.
+1751363814.8641827 [pp_infer-1] [INFO] [1751363814.863807806] [minimal_publisher]: TIME: 6.908224 ms, Objects detected: 12
+1751363815.0191083 [pp_infer-1] TIME: doinfer: 6.30374 ms.
+1751363815.0199502 [pp_infer-1] [INFO] [1751363815.019423355] [minimal_publisher]: TIME: 7.209120 ms, Objects detected: 7
+1751363815.1936839 [pp_infer-1] TIME: doinfer: 6.40512 ms.
+1751363815.1945527 [pp_infer-1] [INFO] [1751363815.194211184] [minimal_publisher]: TIME: 7.480192 ms, Objects detected: 12
+1751363815.3373952 [pp_infer-1] TIME: doinfer: 5.95046 ms.
+1751363815.3375690 [pp_infer-1] [INFO] [1751363815.337392778] [minimal_publisher]: TIME: 6.140928 ms, Objects detected: 8
+1751363815.4919052 [pp_infer-1] TIME: doinfer: 5.70778 ms.
+1751363815.4930158 [pp_infer-1] [INFO] [1751363815.492523457] [minimal_publisher]: TIME: 6.928352 ms, Objects detected: 11
+1751363815.6602612 [pp_infer-1] TIME: doinfer: 5.68525 ms.
+1751363815.6610785 [pp_infer-1] [INFO] [1751363815.660572438] [minimal_publisher]: TIME: 6.608928 ms, Objects detected: 10
+1751363815.8296602 [pp_infer-1] TIME: doinfer: 5.68422 ms.
+1751363815.8308325 [pp_infer-1] [INFO] [1751363815.830352366] [minimal_publisher]: TIME: 6.948640 ms, Objects detected: 12
+1751363815.9727957 [pp_infer-1] TIME: doinfer: 5.72109 ms.
+1751363815.9739051 [pp_infer-1] [INFO] [1751363815.973418893] [minimal_publisher]: TIME: 6.937600 ms, Objects detected: 11
+1751363816.1211228 [pp_infer-1] TIME: doinfer: 6.2975 ms.
+1751363816.1219497 [pp_infer-1] [INFO] [1751363816.121505803] [minimal_publisher]: TIME: 7.269728 ms, Objects detected: 11
+1751363816.2927217 [pp_infer-1] TIME: doinfer: 5.75968 ms.
+1751363816.2929173 [pp_infer-1] [INFO] [1751363816.292793491] [minimal_publisher]: TIME: 6.066848 ms, Objects detected: 12
+1751363816.4416127 [pp_infer-1] TIME: doinfer: 5.67501 ms.
+1751363816.4424233 [pp_infer-1] [INFO] [1751363816.441868504] [minimal_publisher]: TIME: 6.509568 ms, Objects detected: 7
+1751363816.5905344 [pp_infer-1] TIME: doinfer: 5.69037 ms.
+1751363816.5914006 [pp_infer-1] [INFO] [1751363816.590969018] [minimal_publisher]: TIME: 6.735456 ms, Objects detected: 11
+1751363816.7544308 [pp_infer-1] TIME: doinfer: 6.29248 ms.
+1751363816.7553685 [pp_infer-1] [INFO] [1751363816.754996640] [minimal_publisher]: TIME: 7.471104 ms, Objects detected: 10
+1751363816.9112573 [pp_infer-1] TIME: doinfer: 5.57034 ms.
+1751363816.9114401 [pp_infer-1] [INFO] [1751363816.911297117] [minimal_publisher]: TIME: 5.854432 ms, Objects detected: 12
+1751363817.0544159 [pp_infer-1] TIME: doinfer: 5.9609 ms.
+1751363817.0545909 [pp_infer-1] [INFO] [1751363817.054417810] [minimal_publisher]: TIME: 6.151232 ms, Objects detected: 10
+1751363817.2030752 [pp_infer-1] TIME: doinfer: 6.01293 ms.
+1751363817.2039857 [pp_infer-1] [INFO] [1751363817.203640124] [minimal_publisher]: TIME: 7.173248 ms, Objects detected: 10
+1751363817.3683352 [pp_infer-1] TIME: doinfer: 5.9095 ms.
+1751363817.3691413 [pp_infer-1] [INFO] [1751363817.368594129] [minimal_publisher]: TIME: 6.775584 ms, Objects detected: 9
+1751363817.5043645 [pp_infer-1] TIME: doinfer: 6.29414 ms.
+1751363817.5052493 [pp_infer-1] [INFO] [1751363817.504868523] [minimal_publisher]: TIME: 7.420224 ms, Objects detected: 12
+1751363817.6724334 [pp_infer-1] TIME: doinfer: 6.5577 ms.
+1751363817.6727676 [pp_infer-1] [INFO] [1751363817.672636473] [minimal_publisher]: TIME: 7.006304 ms, Objects detected: 12
+1751363817.8125734 [pp_infer-1] TIME: doinfer: 5.6832 ms.
+1751363817.8137815 [pp_infer-1] [INFO] [1751363817.813284853] [minimal_publisher]: TIME: 6.967232 ms, Objects detected: 13
+1751363817.9550371 [pp_infer-1] TIME: doinfer: 6.0631 ms.
+1751363817.9559407 [pp_infer-1] [INFO] [1751363817.955605683] [minimal_publisher]: TIME: 7.207040 ms, Objects detected: 12
+1751363818.1013331 [pp_infer-1] TIME: doinfer: 5.71254 ms.
+1751363818.1025956 [pp_infer-1] [INFO] [1751363818.102118311] [minimal_publisher]: TIME: 7.097280 ms, Objects detected: 14
+1751363818.2492731 [pp_infer-1] TIME: doinfer: 6.35085 ms.
+1751363818.2501309 [pp_infer-1] [INFO] [1751363818.249787169] [minimal_publisher]: TIME: 7.476224 ms, Objects detected: 12
+1751363818.4162211 [pp_infer-1] TIME: doinfer: 5.59104 ms.
+1751363818.4163976 [pp_infer-1] [INFO] [1751363818.416297331] [minimal_publisher]: TIME: 5.871872 ms, Objects detected: 12
+1751363818.5572360 [pp_infer-1] TIME: doinfer: 5.7089 ms.
+1751363818.5585907 [pp_infer-1] [INFO] [1751363818.558120287] [minimal_publisher]: TIME: 7.181312 ms, Objects detected: 14
+1751363818.6950083 [pp_infer-1] TIME: doinfer: 5.97197 ms.
+1751363818.6958861 [pp_infer-1] [INFO] [1751363818.695533819] [minimal_publisher]: TIME: 7.092992 ms, Objects detected: 9
+1751363818.8545322 [pp_infer-1] TIME: doinfer: 6.00986 ms.
+1751363818.8559031 [pp_infer-1] [INFO] [1751363818.855405514] [minimal_publisher]: TIME: 7.491552 ms, Objects detected: 12
+1751363818.9922278 [pp_infer-1] TIME: doinfer: 5.70432 ms.
+1751363818.9933763 [pp_infer-1] [INFO] [1751363818.993012853] [minimal_publisher]: TIME: 7.101536 ms, Objects detected: 13
+1751363819.1535304 [pp_infer-1] TIME: doinfer: 5.99142 ms.
+1751363819.1547208 [pp_infer-1] [INFO] [1751363819.154243963] [minimal_publisher]: TIME: 7.316480 ms, Objects detected: 12
+1751363819.2903068 [pp_infer-1] TIME: doinfer: 6.2679 ms.
+1751363819.2910070 [pp_infer-1] [INFO] [1751363819.290776802] [minimal_publisher]: TIME: 7.142400 ms, Objects detected: 12
+1751363819.4338999 [pp_infer-1] TIME: doinfer: 5.87581 ms.
+1751363819.4351847 [pp_infer-1] [INFO] [1751363819.434672576] [minimal_publisher]: TIME: 7.234208 ms, Objects detected: 11
+1751363819.5753176 [pp_infer-1] TIME: doinfer: 5.6873 ms.
+1751363819.5765803 [pp_infer-1] [INFO] [1751363819.576110663] [minimal_publisher]: TIME: 7.080288 ms, Objects detected: 13
+1751363819.7233717 [pp_infer-1] TIME: doinfer: 6.29002 ms.
+1751363819.7244668 [pp_infer-1] [INFO] [1751363819.723964271] [minimal_publisher]: TIME: 7.495744 ms, Objects detected: 14
+1751363819.8877211 [pp_infer-1] TIME: doinfer: 5.81718 ms.
+1751363819.8879735 [pp_infer-1] [INFO] [1751363819.887856786] [minimal_publisher]: TIME: 6.138880 ms, Objects detected: 14
+1751363820.0228739 [pp_infer-1] TIME: doinfer: 6.31565 ms.
+1751363820.0237868 [pp_infer-1] [INFO] [1751363820.023432409] [minimal_publisher]: TIME: 7.449600 ms, Objects detected: 13
+1751363820.1539562 [pp_infer-1] TIME: doinfer: 5.81325 ms.
+1751363820.1541796 [pp_infer-1] [INFO] [1751363820.154044362] [minimal_publisher]: TIME: 6.076416 ms, Objects detected: 13
+1751363820.3139582 [pp_infer-1] TIME: doinfer: 5.53741 ms.
+1751363820.3141978 [pp_infer-1] [INFO] [1751363820.314030831] [minimal_publisher]: TIME: 5.787808 ms, Objects detected: 13
+1751363820.4528325 [pp_infer-1] TIME: doinfer: 5.85318 ms.
+1751363820.4533684 [pp_infer-1] [INFO] [1751363820.453257532] [minimal_publisher]: TIME: 6.469632 ms, Objects detected: 12
+1751363820.5936430 [pp_infer-1] TIME: doinfer: 5.70957 ms.
+1751363820.5947981 [pp_infer-1] [INFO] [1751363820.594301502] [minimal_publisher]: TIME: 6.954944 ms, Objects detected: 11
+1751363820.7475920 [pp_infer-1] TIME: doinfer: 5.69958 ms.
+1751363820.7489450 [pp_infer-1] [INFO] [1751363820.748464348] [minimal_publisher]: TIME: 7.181312 ms, Objects detected: 10
+1751363820.8811188 [pp_infer-1] TIME: doinfer: 5.69952 ms.
+1751363820.8824286 [pp_infer-1] [INFO] [1751363820.881927692] [minimal_publisher]: TIME: 7.100736 ms, Objects detected: 13
+1751363821.0129859 [pp_infer-1] TIME: doinfer: 5.68013 ms.
+1751363821.0138457 [pp_infer-1] [INFO] [1751363821.013408927] [minimal_publisher]: TIME: 6.675520 ms, Objects detected: 9
+1751363821.1622474 [pp_infer-1] TIME: doinfer: 5.98528 ms.
+1751363821.1630712 [pp_infer-1] [INFO] [1751363821.162701552] [minimal_publisher]: TIME: 7.038400 ms, Objects detected: 11
+1751363821.2957458 [pp_infer-1] TIME: doinfer: 6.12717 ms.
+1751363821.2966115 [pp_infer-1] [INFO] [1751363821.296255679] [minimal_publisher]: TIME: 7.224320 ms, Objects detected: 11
+1751363821.4483495 [pp_infer-1] TIME: doinfer: 6.09485 ms.
+1751363821.4493010 [pp_infer-1] [INFO] [1751363821.448889285] [minimal_publisher]: TIME: 7.244800 ms, Objects detected: 8
+1751363821.5955698 [pp_infer-1] TIME: doinfer: 6.19213 ms.
+1751363821.5966513 [pp_infer-1] [INFO] [1751363821.596174747] [minimal_publisher]: TIME: 7.411744 ms, Objects detected: 12
+1751363821.7264709 [pp_infer-1] TIME: doinfer: 5.6911 ms.
+1751363821.7273233 [pp_infer-1] [INFO] [1751363821.726914727] [minimal_publisher]: TIME: 6.742144 ms, Objects detected: 12
+1751363821.8657532 [pp_infer-1] TIME: doinfer: 6.10509 ms.
+1751363821.8666277 [pp_infer-1] [INFO] [1751363821.866281872] [minimal_publisher]: TIME: 7.207936 ms, Objects detected: 12
+1751363822.0017695 [pp_infer-1] TIME: doinfer: 5.85728 ms.
+1751363822.0026343 [pp_infer-1] [INFO] [1751363822.002154695] [minimal_publisher]: TIME: 6.815744 ms, Objects detected: 12
+1751363822.1354153 [pp_infer-1] TIME: doinfer: 5.67398 ms.
+1751363822.1362588 [pp_infer-1] [INFO] [1751363822.135735056] [minimal_publisher]: TIME: 6.610848 ms, Objects detected: 9
+1751363822.2866631 [pp_infer-1] TIME: doinfer: 5.67501 ms.
+1751363822.2875714 [pp_infer-1] [INFO] [1751363822.287080515] [minimal_publisher]: TIME: 6.676736 ms, Objects detected: 9
+1751363822.4142389 [pp_infer-1] TIME: doinfer: 5.68218 ms.
+1751363822.4150238 [pp_infer-1] [INFO] [1751363822.414503744] [minimal_publisher]: TIME: 6.545408 ms, Objects detected: 10
+1751363822.5448701 [pp_infer-1] TIME: doinfer: 5.59616 ms.
+1751363822.5453565 [pp_infer-1] [INFO] [1751363822.545081570] [minimal_publisher]: TIME: 6.164416 ms, Objects detected: 9
+1751363822.6986616 [pp_infer-1] TIME: doinfer: 6.38976 ms.
+1751363822.6995280 [pp_infer-1] [INFO] [1751363822.699068780] [minimal_publisher]: TIME: 7.399424 ms, Objects detected: 11
+1751363822.8425252 [pp_infer-1] TIME: doinfer: 6.06186 ms.
+1751363822.8436563 [pp_infer-1] [INFO] [1751363822.843172720] [minimal_publisher]: TIME: 7.310080 ms, Objects detected: 14
+1751363822.9742773 [pp_infer-1] TIME: doinfer: 6.00054 ms.
+1751363822.9757230 [pp_infer-1] [INFO] [1751363822.975231484] [minimal_publisher]: TIME: 7.570432 ms, Objects detected: 11
+1751363823.1069641 [pp_infer-1] TIME: doinfer: 6.01994 ms.
+1751363823.1083746 [pp_infer-1] [INFO] [1751363823.107868558] [minimal_publisher]: TIME: 7.504352 ms, Objects detected: 8
+1751363823.2367644 [pp_infer-1] TIME: doinfer: 5.72925 ms.
+1751363823.2381020 [pp_infer-1] [INFO] [1751363823.237576825] [minimal_publisher]: TIME: 7.115968 ms, Objects detected: 9
+1751363823.3885560 [pp_infer-1] TIME: doinfer: 5.62278 ms.
+1751363823.3894458 [pp_infer-1] [INFO] [1751363823.389101591] [minimal_publisher]: TIME: 6.765376 ms, Objects detected: 11
+1751363823.5175362 [pp_infer-1] TIME: doinfer: 5.68525 ms.
+1751363823.5186167 [pp_infer-1] [INFO] [1751363823.518138013] [minimal_publisher]: TIME: 6.887424 ms, Objects detected: 12
+1751363823.6395717 [pp_infer-1] TIME: doinfer: 5.7393 ms.
+1751363823.6397858 [pp_infer-1] [INFO] [1751363823.639624612] [minimal_publisher]: TIME: 5.995968 ms, Objects detected: 11
+1751363823.7731688 [pp_infer-1] TIME: doinfer: 5.72128 ms.
+1751363823.7743657 [pp_infer-1] [INFO] [1751363823.773853893] [minimal_publisher]: TIME: 7.003584 ms, Objects detected: 12
+1751363823.9283025 [pp_infer-1] TIME: doinfer: 6.4151 ms.
+1751363823.9294047 [pp_infer-1] [INFO] [1751363823.928899860] [minimal_publisher]: TIME: 7.612416 ms, Objects detected: 10
+1751363824.0525827 [pp_infer-1] TIME: doinfer: 5.56851 ms.
+1751363824.0527658 [pp_infer-1] [INFO] [1751363824.052643095] [minimal_publisher]: TIME: 5.821056 ms, Objects detected: 14
+1751363851.2400522 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1751363851.2433295 [pp_infer-1] [INFO] [1751363851.239593112] [rclcpp]: signal_handler(signal_value=2)
+1751363852.0426106 [pp_infer-1] Unexpected Internal Error: [virtualMemoryBuffer.cpp::~StdVirtualMemoryBufferImpl::121] Error Code 1: Cuda Runtime (driver shutting down)
+1751363852.2578495 [INFO] [pp_infer-1]: process has finished cleanly [pid 411]

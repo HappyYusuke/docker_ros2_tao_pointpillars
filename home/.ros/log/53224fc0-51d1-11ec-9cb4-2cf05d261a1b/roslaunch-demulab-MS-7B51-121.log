@@ -1,0 +1,83 @@
+[roslaunch][INFO] 2021-11-30 11:33:22,724: Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+[roslaunch][INFO] 2021-11-30 11:33:22,726: Done checking log file disk usage. Usage is <1GB.
+[roslaunch][INFO] 2021-11-30 11:33:22,726: roslaunch starting with args ['roscore', '--core']
+[roslaunch][INFO] 2021-11-30 11:33:22,727: roslaunch env is {'ROS_DISTRO': 'melodic', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator20x1a6021154d881d', 'http_proxy': 'http://wwwproxy.kanazawa-it.ac.jp:8080', 'ROSLISP_PACKAGE_DIRECTORIES': '', 'PATH': '/opt/ros/melodic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'HOME': '/home/demulab', 'CMAKE_PREFIX_PATH': '/opt/ros/melodic', 'DISPLAY': ':1', 'TERM': 'xterm-256color', 'ROS_LOG_FILENAME': '/home/demulab/.ros/log/53224fc0-51d1-11ec-9cb4-2cf05d261a1b/roslaunch-demulab-MS-7B51-121.log', 'SHLVL': '2', 'TERMINATOR_UUID': 'urn:uuid:77b29a70-7984-4b55-af5b-5f8bde0bc337', 'LD_LIBRARY_PATH': '/opt/ros/melodic/lib', 'https_proxy': 'http://wwwproxy.kanazawa-it.ac.jp:8080', 'NVIDIA_VISIBLE_DEVICES': 'all', 'PYTHONPATH': '/opt/ros/melodic/lib/python2.7/dist-packages', 'ROS_MASTER_URI': 'http://localhost:11311', 'ROS_PYTHON_VERSION': '2', 'ROS_VERSION': '1', 'DEBIAN_FRONTEND': 'noninteractive', 'VTE_VERSION': '5202', 'ROS_ROOT': '/opt/ros/melodic/share/ros', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'PKG_CONFIG_PATH': '/opt/ros/melodic/lib/pkgconfig', 'ROS_PACKAGE_PATH': '/opt/ros/melodic/share', 'QT_X11_NO_MITSHM': '1', 'NVIDIA_DRIVER_CAPABILITIES': 'all', '_': '/opt/ros/melodic/bin/roscore', 'HOSTNAME': 'demulab-MS-7B51', 'PWD': '/home/demulab', 'ROS_ETC_DIR': '/opt/ros/melodic/etc/ros', 'COLORTERM': 'truecolor', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'}
+[roslaunch][INFO] 2021-11-30 11:33:22,727: starting in server mode
+[roslaunch.parent][INFO] 2021-11-30 11:33:22,727: starting roslaunch parent run
+[roslaunch][INFO] 2021-11-30 11:33:22,727: loading roscore config file /opt/ros/melodic/etc/ros/roscore.xml
+[roslaunch][INFO] 2021-11-30 11:33:23,008: Added core node of type [rosout/rosout] in namespace [/]
+[roslaunch.pmon][INFO] 2021-11-30 11:33:23,008: start_process_monitor: creating ProcessMonitor
+[roslaunch.pmon][INFO] 2021-11-30 11:33:23,008: created process monitor <ProcessMonitor(ProcessMonitor-1, initial daemon)>
+[roslaunch.pmon][INFO] 2021-11-30 11:33:23,008: start_process_monitor: ProcessMonitor started
+[roslaunch.parent][INFO] 2021-11-30 11:33:23,008: starting parent XML-RPC server
+[roslaunch.server][INFO] 2021-11-30 11:33:23,008: starting roslaunch XML-RPC server
+[roslaunch.server][INFO] 2021-11-30 11:33:23,008: waiting for roslaunch XML-RPC server to initialize
+[xmlrpc][INFO] 2021-11-30 11:33:23,008: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-11-30 11:33:23,008: Started XML-RPC server [http://demulab-MS-7B51:36487/]
+[xmlrpc][INFO] 2021-11-30 11:33:23,009: xml rpc node: starting XML-RPC server
+[roslaunch][INFO] 2021-11-30 11:33:23,019: started roslaunch server http://demulab-MS-7B51:36487/
+[roslaunch.parent][INFO] 2021-11-30 11:33:23,019: ... parent XML-RPC server started
+[roslaunch][INFO] 2021-11-30 11:33:23,019: master.is_running[http://demulab-MS-7B51:11311/]
+[roslaunch][INFO] 2021-11-30 11:33:23,021: auto-starting new master
+[roslaunch][INFO] 2021-11-30 11:33:23,021: create_master_process: rosmaster, /opt/ros/melodic/share/ros, 11311, 3, None, False
+[roslaunch][INFO] 2021-11-30 11:33:23,021: process[master]: launching with args [['rosmaster', '--core', '-p', '11311', '-w', '3']]
+[roslaunch.pmon][INFO] 2021-11-30 11:33:23,021: ProcessMonitor.register[master]
+[roslaunch.pmon][INFO] 2021-11-30 11:33:23,021: ProcessMonitor.register[master] complete
+[roslaunch][INFO] 2021-11-30 11:33:23,021: process[master]: starting os process
+[roslaunch][INFO] 2021-11-30 11:33:23,021: process[master]: start w/ args [['rosmaster', '--core', '-p', '11311', '-w', '3', '__log:=/home/demulab/.ros/log/53224fc0-51d1-11ec-9cb4-2cf05d261a1b/master.log']]
+[roslaunch][INFO] 2021-11-30 11:33:23,021: process[master]: cwd will be [/home/demulab/.ros]
+[roslaunch][INFO] 2021-11-30 11:33:23,093: process[master]: started with pid [131]
+[roslaunch][INFO] 2021-11-30 11:33:23,093: master.is_running[http://demulab-MS-7B51:11311/]
+[roslaunch][INFO] 2021-11-30 11:33:23,193: master.is_running[http://demulab-MS-7B51:11311/]
+[roslaunch][INFO] 2021-11-30 11:33:23,294: master.is_running[http://demulab-MS-7B51:11311/]
+[roslaunch][INFO] 2021-11-30 11:33:23,295: master.is_running[http://demulab-MS-7B51:11311/]
+[roslaunch][INFO] 2021-11-30 11:33:23,295: ROS_MASTER_URI=http://demulab-MS-7B51:11311/
+[roslaunch][INFO] 2021-11-30 11:33:23,296: setting /run_id to 53224fc0-51d1-11ec-9cb4-2cf05d261a1b
+[roslaunch][INFO] 2021-11-30 11:33:23,296: setting /roslaunch/uris/host_demulab_ms_7b51__36487' to http://demulab-MS-7B51:36487/
+[roslaunch][INFO] 2021-11-30 11:33:23,297: ... preparing to launch node of type [rosout/rosout]
+[roslaunch][INFO] 2021-11-30 11:33:23,298: create_node_process: package[rosout] type[rosout] machine[Machine(name[] env_loader[None] address[localhost] ssh_port[22] user[None] assignable[True] timeout[10.0])] master_uri[http://demulab-MS-7B51:11311/]
+[roslaunch][INFO] 2021-11-30 11:33:23,298: process[rosout-1]: env[{'ROS_DISTRO': 'melodic', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'http_proxy': 'http://wwwproxy.kanazawa-it.ac.jp:8080', 'ROSLISP_PACKAGE_DIRECTORIES': '', 'PATH': '/opt/ros/melodic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'HOME': '/home/demulab', 'CMAKE_PREFIX_PATH': '/opt/ros/melodic', 'ROS_LOG_FILENAME': '/home/demulab/.ros/log/53224fc0-51d1-11ec-9cb4-2cf05d261a1b/roslaunch-demulab-MS-7B51-121.log', 'TERM': 'xterm-256color', 'SHLVL': '2', 'TERMINATOR_UUID': 'urn:uuid:77b29a70-7984-4b55-af5b-5f8bde0bc337', 'LD_LIBRARY_PATH': '/opt/ros/melodic/lib', 'https_proxy': 'http://wwwproxy.kanazawa-it.ac.jp:8080', 'NVIDIA_VISIBLE_DEVICES': 'all', 'DEBIAN_FRONTEND': 'noninteractive', 'ROS_ETC_DIR': '/opt/ros/melodic/etc/ros', 'ROS_PYTHON_VERSION': '2', 'COLORTERM': 'truecolor', 'PYTHONPATH': '/opt/ros/melodic/lib/python2.7/dist-packages', 'VTE_VERSION': '5202', 'ROS_ROOT': '/opt/ros/melodic/share/ros', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator20x1a6021154d881d', 'PKG_CONFIG_PATH': '/opt/ros/melodic/lib/pkgconfig', 'ROS_PACKAGE_PATH': '/opt/ros/melodic/share', 'QT_X11_NO_MITSHM': '1', 'NVIDIA_DRIVER_CAPABILITIES': 'all', '_': '/opt/ros/melodic/bin/roscore', 'DISPLAY': ':1', 'HOSTNAME': 'demulab-MS-7B51', 'PWD': '/home/demulab', 'ROS_MASTER_URI': 'http://demulab-MS-7B51:11311/', 'ROS_VERSION': '1', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'}]
+[roslaunch][INFO] 2021-11-30 11:33:23,313: process[rosout-1]: args[[u'/opt/ros/melodic/lib/rosout/rosout', u'__name:=rosout']]
+[roslaunch][INFO] 2021-11-30 11:33:23,313: ... created process [rosout-1]
+[roslaunch.pmon][INFO] 2021-11-30 11:33:23,313: ProcessMonitor.register[rosout-1]
+[roslaunch.pmon][INFO] 2021-11-30 11:33:23,313: ProcessMonitor.register[rosout-1] complete
+[roslaunch][INFO] 2021-11-30 11:33:23,313: ... registered process [rosout-1]
+[roslaunch][INFO] 2021-11-30 11:33:23,313: process[rosout-1]: starting os process
+[roslaunch][INFO] 2021-11-30 11:33:23,314: process[rosout-1]: start w/ args [[u'/opt/ros/melodic/lib/rosout/rosout', u'__name:=rosout', u'__log:=/home/demulab/.ros/log/53224fc0-51d1-11ec-9cb4-2cf05d261a1b/rosout-1.log']]
+[roslaunch][INFO] 2021-11-30 11:33:23,314: process[rosout-1]: cwd will be [/home/demulab/.ros]
+[roslaunch][INFO] 2021-11-30 11:33:23,387: process[rosout-1]: started with pid [142]
+[roslaunch][INFO] 2021-11-30 11:33:23,387: ... successfully launched [rosout-1]
+[roslaunch][INFO] 2021-11-30 11:33:23,387: load_parameters starting ...
+[roslaunch][INFO] 2021-11-30 11:33:23,388: ... load_parameters complete
+[roslaunch][INFO] 2021-11-30 11:33:23,389: launch_nodes: launching local nodes ...
+[roslaunch][INFO] 2021-11-30 11:33:23,389: ... launch_nodes complete
+[roslaunch.pmon][INFO] 2021-11-30 11:33:23,389: registrations completed <ProcessMonitor(ProcessMonitor-1, started daemon 140607009437440)>
+[roslaunch.parent][INFO] 2021-11-30 11:33:23,389: ... roslaunch parent running, waiting for process exit
+[roslaunch][INFO] 2021-11-30 11:33:23,389: spin
+[roslaunch.pmon][INFO] 2021-11-30 11:33:32,776: ProcessMonitor.shutdown <ProcessMonitor(ProcessMonitor-1, started daemon 140607009437440)>
+[roslaunch.pmon][INFO] 2021-11-30 11:33:32,828: ProcessMonitor._post_run <ProcessMonitor(ProcessMonitor-1, started daemon 140607009437440)>
+[roslaunch.pmon][INFO] 2021-11-30 11:33:32,828: ProcessMonitor._post_run <ProcessMonitor(ProcessMonitor-1, started daemon 140607009437440)>: remaining procs are [<roslaunch.nodeprocess.LocalProcess object at 0x7fe19edc8910>, <roslaunch.nodeprocess.LocalProcess object at 0x7fe19edc8f50>]
+[roslaunch.pmon][INFO] 2021-11-30 11:33:32,829: ProcessMonitor exit: killing rosout-1
+[roslaunch][INFO] 2021-11-30 11:33:32,829: [rosout-1] killing on exit
+[roslaunch][INFO] 2021-11-30 11:33:32,829: process[rosout-1]: killing os process with pid[142] pgid[142]
+[roslaunch][INFO] 2021-11-30 11:33:32,829: [rosout-1] sending SIGINT to pgid [142]
+[roslaunch][INFO] 2021-11-30 11:33:32,829: [rosout-1] sent SIGINT to pgid [142]
+[roslaunch][INFO] 2021-11-30 11:33:33,030: process[rosout-1]: SIGINT killed with return value 0
+[roslaunch.pmon][INFO] 2021-11-30 11:33:33,030: ProcessMonitor exit: killing master
+[roslaunch][INFO] 2021-11-30 11:33:33,030: [master] killing on exit
+[roslaunch][INFO] 2021-11-30 11:33:33,030: process[master]: killing os process with pid[131] pgid[131]
+[roslaunch][INFO] 2021-11-30 11:33:33,030: [master] sending SIGINT to pgid [131]
+[roslaunch][INFO] 2021-11-30 11:33:33,030: [master] sent SIGINT to pgid [131]
+[roslaunch][INFO] 2021-11-30 11:33:33,231: process[master]: SIGINT killed with return value 0
+[roslaunch.pmon][INFO] 2021-11-30 11:33:33,231: ProcessMonitor exit: cleaning up data structures and signals
+[roslaunch.pmon][INFO] 2021-11-30 11:33:33,231: ProcessMonitor exit: pmon has shutdown
+[roslaunch][INFO] 2021-11-30 11:33:33,241: process monitor is done spinning, initiating full shutdown
+[roslaunch][INFO] 2021-11-30 11:33:33,241: runner.stop()
+[roslaunch][INFO] 2021-11-30 11:33:33,241: shutting down processing monitor...
+[roslaunch][INFO] 2021-11-30 11:33:33,241: shutting down processing monitor <ProcessMonitor(ProcessMonitor-1, stopped daemon 140607009437440)>
+[roslaunch.pmon][INFO] 2021-11-30 11:33:33,241: ProcessMonitor.shutdown <ProcessMonitor(ProcessMonitor-1, stopped daemon 140607009437440)>
+[roslaunch][INFO] 2021-11-30 11:33:33,241: ... shutting down processing monitor complete
+[roslaunch][INFO] 2021-11-30 11:33:33,241: done
+[roslaunch.pmon][INFO] 2021-11-30 11:33:33,242: ProcessMonitor.shutdown <ProcessMonitor(ProcessMonitor-1, stopped daemon 140607009437440)>
+[rospy.core][INFO] 2021-11-30 11:33:33,242: signal_shutdown [atexit]

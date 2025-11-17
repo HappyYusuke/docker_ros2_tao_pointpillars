@@ -1,0 +1,6 @@
+1750234599.2033746 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-06-18-08-16-39-197925-demulab-kohei-181
+1750234599.2035494 [INFO] [launch]: Default logging verbosity is set to INFO
+1750234599.2953520 [INFO] [livox_ros_driver2_node-1]: process started with pid [183]
+1750234599.2954872 [INFO] [rviz2-2]: process started with pid [185]
+1750234663.0320752 [ERROR] [livox_ros_driver2_node-1]: process has died [pid 183, exit code -11, cmd '/home/demulab-kohei/colcon_ws/install/livox_ros_driver2/lib/livox_ros_driver2/livox_ros_driver2_node --ros-args -r __node:=livox_lidar_publisher --params-file /tmp/launch_params_13nq7man --params-file /tmp/launch_params_lncq9a7t --params-file /tmp/launch_params_zh_qbzh0 --params-file /tmp/launch_params_wnsbj1ma --params-file /tmp/launch_params_m84gxrm6 --params-file /tmp/launch_params_3xijmnj0 --params-file /tmp/launch_params_h5jnro0k --params-file /tmp/launch_params_s2u16aal --params-file /tmp/launch_params_7uiy_334'].
+1750234663.0695734 [ERROR] [rviz2-2]: process has died [pid 185, exit code -11, cmd '/opt/ros/foxy/lib/rviz2/rviz2 --display-config /home/demulab-kohei/colcon_ws/src/livox_ros_driver2/launch_ROS2/../config/display_point_cloud_ROS2.rviz --ros-args'].

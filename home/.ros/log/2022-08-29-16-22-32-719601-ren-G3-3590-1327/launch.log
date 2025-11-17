@@ -1,0 +1,31 @@
+1661790152.7219682 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-29-16-22-32-719601-ren-G3-3590-1327
+1661790152.7221479 [INFO] [launch]: Default logging verbosity is set to INFO
+1661790153.0650117 [INFO] [gzserver-1]: process started with pid [1329]
+1661790153.0655468 [INFO] [gzclient-2]: process started with pid [1331]
+1661790153.0657005 [INFO] [robot_state_publisher-3]: process started with pid [1333]
+1661790153.0658238 [INFO] [rviz2-4]: process started with pid [1335]
+1661790153.0659332 [INFO] [map_server-5]: process started with pid [1337]
+1661790153.0660477 [INFO] [amcl-6]: process started with pid [1339]
+1661790153.0661631 [INFO] [lifecycle_manager-7]: process started with pid [1342]
+1661790153.0663054 [INFO] [controller_server-8]: process started with pid [1344]
+1661790153.0664179 [INFO] [planner_server-9]: process started with pid [1346]
+1661790153.0665216 [INFO] [recoveries_server-10]: process started with pid [1349]
+1661790153.0666668 [INFO] [bt_navigator-11]: process started with pid [1357]
+1661790153.0667796 [INFO] [waypoint_follower-12]: process started with pid [1360]
+1661790153.0668921 [INFO] [lifecycle_manager-13]: process started with pid [1373]
+1661790208.4584808 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661790208.4727714 [ERROR] [gzclient-2]: process has died [pid 1331, exit code -2, cmd 'gzclient'].
+1661790208.5420878 [ERROR] [lifecycle_manager-13]: process has died [pid 1373, exit code -6, cmd '/home/ren/colcon_ws/install/nav2_lifecycle_manager/lib/nav2_lifecycle_manager/lifecycle_manager --ros-args -r __node:=lifecycle_manager_navigation --params-file /tmp/launch_params_3p38wbq7 --params-file /tmp/launch_params_yge5d83t --params-file /tmp/launch_params_tvdcw3sr'].
+1661790208.5524089 [ERROR] [rviz2-4]: process has died [pid 1335, exit code -6, cmd '/opt/ros/foxy/lib/rviz2/rviz2 -d /home/ren/colcon_ws/install/nav2_bringup/share/nav2_bringup/rviz/nav2_default_view.rviz --ros-args -r __node:=rviz2'].
+1661790209.4657948 [INFO] [recoveries_server-10]: process has finished cleanly [pid 1349]
+1661790209.4702196 [INFO] [planner_server-9]: process has finished cleanly [pid 1346]
+1661790209.4712689 [INFO] [controller_server-8]: process has finished cleanly [pid 1344]
+1661790209.4742551 [INFO] [robot_state_publisher-3]: process has finished cleanly [pid 1333]
+1661790209.4760108 [INFO] [lifecycle_manager-7]: process has finished cleanly [pid 1342]
+1661790209.4766953 [INFO] [map_server-5]: process has finished cleanly [pid 1337]
+1661790209.4782679 [INFO] [waypoint_follower-12]: process has finished cleanly [pid 1360]
+1661790209.4813139 [INFO] [amcl-6]: process has finished cleanly [pid 1339]
+1661790209.4843817 [INFO] [bt_navigator-11]: process has finished cleanly [pid 1357]
+1661790213.4708514 [ERROR] [gzserver-1]: process[gzserver-1] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+1661790213.4763122 [INFO] [gzserver-1]: sending signal 'SIGTERM' to process[gzserver-1]
+1661790213.4952857 [ERROR] [gzserver-1]: process has died [pid 1329, exit code -15, cmd 'gzserver -s libgazebo_ros_init.so /home/ren/colcon_ws/install/nav2_bringup/share/nav2_bringup/worlds/waffle.model'].

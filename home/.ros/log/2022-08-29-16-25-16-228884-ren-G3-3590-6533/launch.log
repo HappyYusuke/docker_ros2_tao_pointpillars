@@ -1,0 +1,23 @@
+1661790316.2388692 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-29-16-25-16-228884-ren-G3-3590-6533
+1661790316.2392910 [INFO] [launch]: Default logging verbosity is set to INFO
+1661790317.7343252 [INFO] [map_server-1]: process started with pid [6604]
+1661790317.7348516 [INFO] [amcl-2]: process started with pid [6606]
+1661790317.7351236 [INFO] [lifecycle_manager-3]: process started with pid [6608]
+1661790317.7353621 [INFO] [controller_server-4]: process started with pid [6621]
+1661790317.7355883 [INFO] [planner_server-5]: process started with pid [6633]
+1661790317.7358203 [INFO] [recoveries_server-6]: process started with pid [6647]
+1661790317.7360888 [INFO] [bt_navigator-7]: process started with pid [6655]
+1661790317.7363331 [INFO] [waypoint_follower-8]: process started with pid [6664]
+1661790317.7365677 [INFO] [lifecycle_manager-9]: process started with pid [6687]
+1661790317.7368050 [INFO] [rviz2-10]: process started with pid [6691]
+1661790367.5287585 [ERROR] [bt_navigator-7]: process has died [pid 6655, exit code -11, cmd '/home/ren/colcon_ws/install/nav2_bt_navigator/lib/nav2_bt_navigator/bt_navigator --ros-args -r __node:=bt_navigator --params-file /tmp/tmp668dhfjy -r /tf:=tf -r /tf_static:=tf_static'].
+1661790793.7409616 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661790793.7475507 [INFO] [recoveries_server-6]: process has finished cleanly [pid 6647]
+1661790793.7532206 [INFO] [controller_server-4]: process has finished cleanly [pid 6621]
+1661790793.7537813 [INFO] [planner_server-5]: process has finished cleanly [pid 6633]
+1661790793.7569966 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 6664]
+1661790793.7571661 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 6608]
+1661790793.7572572 [INFO] [map_server-1]: process has finished cleanly [pid 6604]
+1661790793.7590530 [INFO] [lifecycle_manager-9]: process has finished cleanly [pid 6687]
+1661790793.7594299 [INFO] [amcl-2]: process has finished cleanly [pid 6606]
+1661790793.8018157 [INFO] [rviz2-10]: process has finished cleanly [pid 6691]

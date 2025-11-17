@@ -1,0 +1,23 @@
+1661629199.1533093 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-27-19-39-59-148651-ren-G3-3590-22575
+1661629199.1535175 [INFO] [launch]: Default logging verbosity is set to INFO
+1661629199.4716010 [INFO] [map_server-1]: process started with pid [22577]
+1661629199.4718635 [INFO] [amcl-2]: process started with pid [22579]
+1661629199.4720016 [INFO] [lifecycle_manager-3]: process started with pid [22581]
+1661629199.4721105 [INFO] [controller_server-4]: process started with pid [22583]
+1661629199.4722264 [INFO] [planner_server-5]: process started with pid [22585]
+1661629199.4723394 [INFO] [recoveries_server-6]: process started with pid [22587]
+1661629199.4724505 [INFO] [bt_navigator-7]: process started with pid [22589]
+1661629199.4725621 [INFO] [waypoint_follower-8]: process started with pid [22591]
+1661629199.4726820 [INFO] [lifecycle_manager-9]: process started with pid [22593]
+1661629199.4728203 [INFO] [rviz2-10]: process started with pid [22595]
+1661629711.9163153 [ERROR] [rviz2-10]: process has died [pid 22595, exit code -11, cmd '/opt/ros/foxy/lib/rviz2/rviz2 -d /opt/ros/foxy/share/nav2_bringup/rviz/nav2_default_view.rviz --ros-args -r __node:=rviz2 -r __node:=rviz2 --params-file /tmp/launch_params_ndlb8uie'].
+1661629720.9401348 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661629720.9480352 [INFO] [recoveries_server-6]: process has finished cleanly [pid 22587]
+1661629720.9534948 [INFO] [controller_server-4]: process has finished cleanly [pid 22583]
+1661629720.9536510 [INFO] [planner_server-5]: process has finished cleanly [pid 22585]
+1661629720.9663248 [INFO] [map_server-1]: process has finished cleanly [pid 22577]
+1661629720.9676394 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 22581]
+1661629720.9696710 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 22591]
+1661629720.9717705 [INFO] [amcl-2]: process has finished cleanly [pid 22579]
+1661629720.9745131 [INFO] [lifecycle_manager-9]: process has finished cleanly [pid 22593]
+1661629721.0671563 [ERROR] [bt_navigator-7]: process has died [pid 22589, exit code -6, cmd '/opt/ros/foxy/lib/nav2_bt_navigator/bt_navigator --ros-args -r __node:=bt_navigator --params-file /tmp/tmpnlq6dbwd -r /tf:=tf -r /tf_static:=tf_static'].

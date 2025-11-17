@@ -1,0 +1,23 @@
+1664360949.1187620 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-09-28-10-29-09-116484-ren-G3-3590-1574
+1664360949.1189599 [INFO] [launch]: Default logging verbosity is set to INFO
+1664360949.4397116 [INFO] [map_server-1]: process started with pid [1609]
+1664360949.4399114 [INFO] [amcl-2]: process started with pid [1611]
+1664360949.4400406 [INFO] [lifecycle_manager-3]: process started with pid [1613]
+1664360949.4401541 [INFO] [controller_server-4]: process started with pid [1615]
+1664360949.4402640 [INFO] [planner_server-5]: process started with pid [1617]
+1664360949.4403660 [INFO] [recoveries_server-6]: process started with pid [1619]
+1664360949.4404674 [INFO] [bt_navigator-7]: process started with pid [1621]
+1664360949.4405658 [INFO] [waypoint_follower-8]: process started with pid [1623]
+1664360949.4407115 [INFO] [lifecycle_manager-9]: process started with pid [1625]
+1664360949.4407899 [INFO] [rviz2-10]: process started with pid [1627]
+1664361554.7533734 [ERROR] [rviz2-10]: process has died [pid 1627, exit code -11, cmd '/opt/ros/foxy/lib/rviz2/rviz2 -d /home/ren/colcon_ws/install/nav2_bringup/share/nav2_bringup/rviz/nav2_default_view.rviz --ros-args -r __node:=rviz2 -r __node:=rviz2 --params-file /tmp/launch_params_wvcvmu4f'].
+1664361571.4711397 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1664361571.4805734 [INFO] [recoveries_server-6]: process has finished cleanly [pid 1619]
+1664361571.4816275 [INFO] [controller_server-4]: process has finished cleanly [pid 1615]
+1664361571.4857793 [INFO] [planner_server-5]: process has finished cleanly [pid 1617]
+1664361571.4930575 [INFO] [map_server-1]: process has finished cleanly [pid 1609]
+1664361571.4971657 [INFO] [lifecycle_manager-9]: process has finished cleanly [pid 1625]
+1664361571.4977298 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 1623]
+1664361571.4990067 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 1613]
+1664361571.5001178 [INFO] [amcl-2]: process has finished cleanly [pid 1611]
+1664361571.5044799 [INFO] [bt_navigator-7]: process has finished cleanly [pid 1621]

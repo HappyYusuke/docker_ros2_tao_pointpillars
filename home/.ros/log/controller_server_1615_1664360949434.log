@@ -1,0 +1,48 @@
+[INFO] [1664360949.843385383] [controller_server]: 
+	controller_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1664360949.848312088] [controller_server]: Creating controller server
+[INFO] [1664360949.872706503] [local_costmap.local_costmap]: 
+	local_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1664360949.876542244] [local_costmap.local_costmap]: Creating Costmap
+[INFO] [1664360949.923917463] [controller_server]: Configuring controller interface
+[INFO] [1664360949.924156396] [controller_server]: Controller frequency set to 20.0000Hz
+[INFO] [1664360949.924189838] [local_costmap.local_costmap]: Configuring
+[INFO] [1664360949.926343335] [local_costmap.local_costmap]: Using plugin "voxel_layer"
+[INFO] [1664360949.929295012] [local_costmap.local_costmap]: Subscribed to Topics: scan
+[INFO] [1664360949.934895501] [local_costmap.local_costmap]: Initialized plugin "voxel_layer"
+[INFO] [1664360949.934930826] [local_costmap.local_costmap]: Using plugin "inflation_layer"
+[INFO] [1664360949.935882995] [local_costmap.local_costmap]: Initialized plugin "inflation_layer"
+[INFO] [1664360949.942081143] [controller_server]: Created progress_checker : progress_checker of type nav2_controller::SimpleProgressChecker
+[INFO] [1664360949.942673668] [controller_server]: Created goal_checker : goal_checker of type nav2_controller::SimpleGoalChecker
+[INFO] [1664360949.946249995] [controller_server]: Created controller : FollowPath of type dwb_core::DWBLocalPlanner
+[INFO] [1664360949.946580552] [controller_server]: Setting transform_tolerance to 0.200000
+[INFO] [1664360949.957887982] [controller_server]: Using critic "RotateToGoal" (dwb_critics::RotateToGoalCritic)
+[INFO] [1664360949.958287473] [controller_server]: Critic plugin initialized
+[INFO] [1664360949.958547941] [controller_server]: Using critic "Oscillation" (dwb_critics::OscillationCritic)
+[INFO] [1664360949.959165614] [controller_server]: Critic plugin initialized
+[INFO] [1664360949.959600110] [controller_server]: Using critic "BaseObstacle" (dwb_critics::BaseObstacleCritic)
+[INFO] [1664360949.959983406] [controller_server]: Critic plugin initialized
+[INFO] [1664360949.960056500] [controller_server]: Using critic "GoalAlign" (dwb_critics::GoalAlignCritic)
+[INFO] [1664360949.960880964] [controller_server]: Critic plugin initialized
+[INFO] [1664360949.961093288] [controller_server]: Using critic "PathAlign" (dwb_critics::PathAlignCritic)
+[INFO] [1664360949.961833052] [controller_server]: Critic plugin initialized
+[INFO] [1664360949.962083211] [controller_server]: Using critic "PathDist" (dwb_critics::PathDistCritic)
+[INFO] [1664360949.962709577] [controller_server]: Critic plugin initialized
+[INFO] [1664360949.963199225] [controller_server]: Using critic "GoalDist" (dwb_critics::GoalDistCritic)
+[INFO] [1664360949.963568396] [controller_server]: Critic plugin initialized
+[INFO] [1664360949.963585951] [controller_server]: Controller Server has FollowPath  controllers available.
+[INFO] [1664360950.058666450] [controller_server]: Activating
+[INFO] [1664360950.058690499] [local_costmap.local_costmap]: Activating
+[INFO] [1664360950.058700044] [local_costmap.local_costmap]: Checking transform
+[INFO] [1664360950.058773559] [local_costmap.local_costmap]: start
+[INFO] [1664361553.108858152] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1664361554.159073473] [controller_server]: Passing new path to controller.
+[INFO] [1664361555.159140031] [controller_server]: Passing new path to controller.
+[INFO] [1664361556.209097319] [controller_server]: Passing new path to controller.
+[INFO] [1664361557.259143241] [controller_server]: Passing new path to controller.
+[INFO] [1664361557.720227100] [controller_server]: Reached the goal!
+[INFO] [1664361571.470806673] [rclcpp]: signal_handler(signal_value=2)

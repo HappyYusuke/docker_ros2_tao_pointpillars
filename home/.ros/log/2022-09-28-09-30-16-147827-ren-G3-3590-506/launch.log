@@ -1,0 +1,23 @@
+1664357416.1499248 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-09-28-09-30-16-147827-ren-G3-3590-506
+1664357416.1501267 [INFO] [launch]: Default logging verbosity is set to INFO
+1664357416.4777741 [INFO] [map_server-1]: process started with pid [510]
+1664357416.4779184 [INFO] [amcl-2]: process started with pid [512]
+1664357416.4779968 [INFO] [lifecycle_manager-3]: process started with pid [514]
+1664357416.4780619 [INFO] [controller_server-4]: process started with pid [516]
+1664357416.4781232 [INFO] [planner_server-5]: process started with pid [518]
+1664357416.4781849 [INFO] [recoveries_server-6]: process started with pid [520]
+1664357416.4782710 [INFO] [bt_navigator-7]: process started with pid [522]
+1664357416.4783418 [INFO] [waypoint_follower-8]: process started with pid [524]
+1664357416.4784014 [INFO] [lifecycle_manager-9]: process started with pid [526]
+1664357416.4784586 [INFO] [rviz2-10]: process started with pid [528]
+1664360612.6567135 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1664360612.6627839 [INFO] [recoveries_server-6]: process has finished cleanly [pid 520]
+1664360612.6629570 [INFO] [planner_server-5]: process has finished cleanly [pid 518]
+1664360612.6646309 [INFO] [controller_server-4]: process has finished cleanly [pid 516]
+1664360612.6692071 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 514]
+1664360612.6699643 [INFO] [map_server-1]: process has finished cleanly [pid 510]
+1664360612.6740930 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 524]
+1664360612.6756868 [INFO] [lifecycle_manager-9]: process has finished cleanly [pid 526]
+1664360612.6759264 [INFO] [amcl-2]: process has finished cleanly [pid 512]
+1664360612.6810284 [INFO] [bt_navigator-7]: process has finished cleanly [pid 522]
+1664360612.7610643 [INFO] [rviz2-10]: process has finished cleanly [pid 528]

@@ -1,0 +1,8 @@
+[INFO] [1661788326.602595661] [map_server]: 
+	map_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661788326.602845414] [map_server]: Creating
+[INFO] [1661788326.651225089] [map_server]: Configuring
+[INFO] [1661788326.806054152] [map_server]: Activating
+[INFO] [1661788329.393233127] [rclcpp]: signal_handler(signal_value=2)

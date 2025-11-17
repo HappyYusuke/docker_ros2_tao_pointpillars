@@ -1,0 +1,7 @@
+[INFO] [1664361572.949572296] [waypoint_follower]: 
+	waypoint_follower lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1664361572.949676580] [waypoint_follower]: Creating
+[INFO] [1664361573.878550662] [waypoint_follower]: Configuring
+[INFO] [1664361624.144570388] [rclcpp]: signal_handler(signal_value=2)

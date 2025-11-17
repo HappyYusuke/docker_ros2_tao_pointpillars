@@ -1,0 +1,15 @@
+[ERROR] [1664357653.218104052] [get_message_class]: Malformed msg message_type: nav2_msgs/action/FollowWaypoints_FeedbackMessage
+[ERROR] [1664357653.317474909] [get_message_class]: Malformed msg message_type: nav2_msgs/action/BackUp_FeedbackMessage
+[ERROR] [1664357653.319867404] [get_message_class]: Malformed msg message_type: nav2_msgs/action/ComputePathToPose_FeedbackMessage
+[ERROR] [1664357653.378489078] [get_message_class]: Malformed msg message_type: nav2_msgs/action/FollowPath_FeedbackMessage
+[ERROR] [1664357653.442271830] [get_message_class]: Malformed msg message_type: nav2_msgs/action/NavigateToPose_FeedbackMessage
+[ERROR] [1664357653.468046797] [get_message_class]: Malformed msg message_type: nav2_msgs/action/Spin_FeedbackMessage
+[ERROR] [1664357653.473119535] [get_message_class]: Malformed msg message_type: nav2_msgs/action/Wait_FeedbackMessage
+[ERROR] [1664358517.831434617] [get_message_class]: Malformed msg message_type: nav2_msgs/action/FollowWaypoints_FeedbackMessage
+[ERROR] [1664358517.842444620] [get_message_class]: Malformed msg message_type: nav2_msgs/action/BackUp_FeedbackMessage
+[ERROR] [1664358517.843882768] [get_message_class]: Malformed msg message_type: nav2_msgs/action/ComputePathToPose_FeedbackMessage
+[ERROR] [1664358517.844777125] [get_message_class]: Malformed msg message_type: nav2_msgs/action/FollowPath_FeedbackMessage
+[ERROR] [1664358517.848467792] [get_message_class]: Malformed msg message_type: nav2_msgs/action/NavigateToPose_FeedbackMessage
+[ERROR] [1664358517.851006632] [get_message_class]: Malformed msg message_type: nav2_msgs/action/Spin_FeedbackMessage
+[ERROR] [1664358517.851604354] [get_message_class]: Malformed msg message_type: nav2_msgs/action/Wait_FeedbackMessage
+[INFO] [1664360609.482956137] [rclcpp]: signal_handler(signal_value=2)

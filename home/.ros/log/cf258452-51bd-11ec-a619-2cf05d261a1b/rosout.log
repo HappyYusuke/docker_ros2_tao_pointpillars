@@ -1,0 +1,7 @@
+
+
+1638263621.425105176  Node Startup
+1638263623.025796929 INFO /rviz_1638263623020711303 [/tmp/binarydeb/ros-melodic-rviz-1.13.21/src/rviz/ogre_helpers/render_system.cpp:85(RenderSystem::forceGlVersion)] [topics: /rosout] Forcing OpenGl version 0.
+1638263623.530662465 INFO /rviz_1638263623020711303 [/tmp/binarydeb/ros-melodic-rviz-1.13.21/src/rviz/ogre_helpers/render_system.cpp:462(RenderWindow* rviz::RenderSystem::makeRenderWindow)] [topics: /rosout] Stereo is NOT SUPPORTED
+1638263623.530690806 INFO /rviz_1638263623020711303 [/tmp/binarydeb/ros-melodic-rviz-1.13.21/src/rviz/ogre_helpers/render_system.cpp:183(RenderSystem::detectGlVersion)] [topics: /rosout] OpenGL device: NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2
+1638263623.530701868 INFO /rviz_1638263623020711303 [/tmp/binarydeb/ros-melodic-rviz-1.13.21/src/rviz/ogre_helpers/render_system.cpp:230(RenderSystem::detectGlVersion)] [topics: /rosout] OpenGl version: 4.6 (GLSL 4.6).

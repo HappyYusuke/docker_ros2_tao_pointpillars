@@ -1,0 +1,2 @@
+[INFO] [1750161116.119983330] [rosbag2_storage]: Opened database '3dlaser_data//3dlaser_data_0.db3' for READ_ONLY.
+[INFO] [1750161122.720763692] [rclcpp]: signal_handler(signal_value=2)

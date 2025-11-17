@@ -1,0 +1,37 @@
+[INFO] [1661629199.535332567] [amcl]: 
+	amcl lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661629199.536045227] [amcl]: Creating
+[INFO] [1661629199.552661909] [amcl]: Configuring
+[INFO] [1661629199.552743082] [amcl]: initTransforms
+[INFO] [1661629199.563995977] [amcl]: initPubSub
+[INFO] [1661629199.568207784] [amcl]: Subscribed to map topic.
+[INFO] [1661629199.577542079] [amcl]: Received a 384 X 384 map @ 0.050 m/pix
+[INFO] [1661629199.580531388] [amcl]: Activating
+[WARN] [1661629199.580565226] [amcl]: Publishing the particle cloud as geometry_msgs/PoseArray msg is deprecated, will be published as nav2_msgs/ParticleCloud in the future
+[INFO] [1661629199.688574595] [amcl]: createLaserObject
+[WARN] [1661629201.700094082] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629203.712849466] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629205.901060194] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629207.920726026] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629209.947144450] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629211.964798817] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629213.990742504] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629216.188487086] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629218.208962350] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629220.215994778] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661629222.236995895] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[INFO] [1661629223.866825056] [amcl]: initialPoseReceived
+[WARN] [1661629223.866933115] [amcl]: Failed to transform initial pose in time (Lookup would require extrapolation into the future.  Requested time 1661629223.866851 but the latest data is at time 470.662000, when looking up transform from frame [base_footprint] to frame [odom])
+[INFO] [1661629223.866947103] [amcl]: Setting pose (1661629223.866947): -0.490 -0.364 0.157
+[INFO] [1661629240.388178042] [amcl]: initialPoseReceived
+[WARN] [1661629240.388247370] [amcl]: Failed to transform initial pose in time (Lookup would require extrapolation into the future.  Requested time 1661629240.388211 but the latest data is at time 488.041000, when looking up transform from frame [base_footprint] to frame [odom])
+[INFO] [1661629240.388260157] [amcl]: Setting pose (1661629240.388260): -1.909 -0.637 0.008
+[INFO] [1661629691.610201352] [amcl]: initialPoseReceived
+[WARN] [1661629691.610338771] [amcl]: Failed to transform initial pose in time (Lookup would require extrapolation into the future.  Requested time 1661629691.610265 but the latest data is at time 938.050000, when looking up transform from frame [base_footprint] to frame [odom])
+[INFO] [1661629691.610364758] [amcl]: Setting pose (1661629691.610364): 0.007 0.320 0.192
+[INFO] [1661629703.906758462] [amcl]: initialPoseReceived
+[WARN] [1661629703.906828739] [amcl]: Failed to transform initial pose in time (Lookup would require extrapolation into the future.  Requested time 1661629703.906791 but the latest data is at time 950.250000, when looking up transform from frame [base_footprint] to frame [odom])
+[INFO] [1661629703.906848882] [amcl]: Setting pose (1661629703.906849): -1.702 -1.439 -0.427
+[INFO] [1661629720.939852728] [rclcpp]: signal_handler(signal_value=2)

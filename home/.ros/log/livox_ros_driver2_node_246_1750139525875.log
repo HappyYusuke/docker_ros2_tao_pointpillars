@@ -1,0 +1,5 @@
+[INFO] [1750139525.880244211] [livox_lidar_publisher]: Livox Ros Driver2 Version: 1.2.4
+[INFO] [1750139525.880430498] [livox_lidar_publisher]: Data Source is raw lidar.
+[INFO] [1750139525.880441949] [livox_lidar_publisher]: Config file : /home/demulab-kohei/colcon_ws/install/livox_ros_driver2/share/livox_ros_driver2/launch_ROS2/../config/MID360_config.json
+[ERROR] [1750139525.881792650] [livox_lidar_publisher]: Init lds lidar fail!
+[INFO] [1750139549.268816044] [rclcpp]: signal_handler(signal_value=2)

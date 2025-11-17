@@ -1,0 +1,9 @@
+1676282552.6060491 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2023-02-13-10-02-32-601226-ren-G3-3590-534
+1676282552.6064086 [INFO] [launch]: Default logging verbosity is set to INFO
+1676282553.4845402 [INFO] [gzserver-1]: process started with pid [541]
+1676282553.4848373 [INFO] [gzclient   -2]: process started with pid [543]
+1676282553.4851274 [INFO] [robot_state_publisher-3]: process started with pid [545]
+1676282554.0695431 [ERROR] [gzserver-1]: process has died [pid 541, exit code 255, cmd 'gzserver /home/ren/colcon_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/worlds/turtlebot3_houses/burger.model                                                                      -s libgazebo_ros_init.so   -s libgazebo_ros_factory.so   -s libgazebo_ros_force_system.so       '].
+1676282557.8853896 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1676282557.8949261 [INFO] [robot_state_publisher-3]: process has finished cleanly [pid 545]
+1676282558.1577196 [ERROR] [gzclient   -2]: process has died [pid 543, exit code -2, cmd 'gzclient   '].

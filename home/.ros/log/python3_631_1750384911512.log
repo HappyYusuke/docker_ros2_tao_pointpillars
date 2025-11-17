@@ -1,0 +1,2 @@
+[INFO] [1750384911.516518002] [rosbag2_storage]: Opened database '/home/demulab-kohei/ros2_bags/lidar_data_three_person/lidar_data_three_person_0.db3' for READ_ONLY.
+[INFO] [1750384943.532023292] [rclcpp]: signal_handler(signal_value=2)

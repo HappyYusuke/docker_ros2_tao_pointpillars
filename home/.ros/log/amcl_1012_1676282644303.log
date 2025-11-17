@@ -1,0 +1,21 @@
+[INFO] [1676282644.391989494] [amcl]: 
+	amcl lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1676282644.393844618] [amcl]: Creating
+[INFO] [1676282644.463957575] [amcl]: Configuring
+[INFO] [1676282644.464725331] [amcl]: initTransforms
+[INFO] [1676282644.473109418] [amcl]: initPubSub
+[INFO] [1676282644.481341251] [amcl]: Subscribed to map topic.
+[INFO] [1676282644.491829556] [amcl]: Received a 384 X 384 map @ 0.050 m/pix
+[INFO] [1676282644.495155928] [amcl]: Activating
+[WARN] [1676282644.495211990] [amcl]: Publishing the particle cloud as geometry_msgs/PoseArray msg is deprecated, will be published as nav2_msgs/ParticleCloud in the future
+[INFO] [1676282644.536131631] [amcl]: createLaserObject
+[WARN] [1676282646.550864919] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1676282648.568212550] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1676282650.591149161] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1676282652.620636479] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[INFO] [1676282653.512242676] [amcl]: initialPoseReceived
+[WARN] [1676282653.512532388] [amcl]: Failed to transform initial pose in time (Lookup would require extrapolation into the future.  Requested time 1676282653.512339 but the latest data is at time 128.078000, when looking up transform from frame [base_footprint] to frame [odom])
+[INFO] [1676282653.512589164] [amcl]: Setting pose (1676282653.512589): -1.667 -0.609 -0.090
+[INFO] [1676282698.534007461] [rclcpp]: signal_handler(signal_value=2)

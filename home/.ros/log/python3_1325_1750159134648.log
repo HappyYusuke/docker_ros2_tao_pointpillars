@@ -1,0 +1,289 @@
+[INFO] [1750159136.222411158] [laser_data_loader]: 抽出された人物の点群数: 165
+[INFO] [1750159136.222886587] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 1/30
+[INFO] [1750159136.292983999] [laser_data_loader]: 抽出された人物の点群数: 174
+[INFO] [1750159136.293790386] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 2/30
+[INFO] [1750159136.397371378] [laser_data_loader]: 抽出された人物の点群数: 191
+[INFO] [1750159136.399530216] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 3/30
+[INFO] [1750159136.497879751] [laser_data_loader]: 抽出された人物の点群数: 177
+[INFO] [1750159136.500024801] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 4/30
+[INFO] [1750159136.597489623] [laser_data_loader]: 抽出された人物の点群数: 172
+[INFO] [1750159136.599647758] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 5/30
+[INFO] [1750159136.697314132] [laser_data_loader]: 抽出された人物の点群数: 182
+[INFO] [1750159136.699509025] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 6/30
+[INFO] [1750159136.797335184] [laser_data_loader]: 抽出された人物の点群数: 184
+[INFO] [1750159136.799463665] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 7/30
+[INFO] [1750159136.897368977] [laser_data_loader]: 抽出された人物の点群数: 174
+[INFO] [1750159136.899536976] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 8/30
+[INFO] [1750159136.995125688] [laser_data_loader]: 抽出された人物の点群数: 180
+[INFO] [1750159136.997304929] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 9/30
+[INFO] [1750159137.097509806] [laser_data_loader]: 抽出された人物の点群数: 191
+[INFO] [1750159137.099691439] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 10/30
+[INFO] [1750159137.198385533] [laser_data_loader]: 抽出された人物の点群数: 177
+[INFO] [1750159137.200541117] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 11/30
+[INFO] [1750159137.298324867] [laser_data_loader]: 抽出された人物の点群数: 178
+[INFO] [1750159137.300475924] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 12/30
+[INFO] [1750159137.398876356] [laser_data_loader]: 抽出された人物の点群数: 186
+[INFO] [1750159137.401041080] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 13/30
+[INFO] [1750159137.497146570] [laser_data_loader]: 抽出された人物の点群数: 177
+[INFO] [1750159137.499353788] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 14/30
+[INFO] [1750159137.595166118] [laser_data_loader]: 抽出された人物の点群数: 183
+[INFO] [1750159137.597334141] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 15/30
+[INFO] [1750159137.698473193] [laser_data_loader]: 抽出された人物の点群数: 179
+[INFO] [1750159137.700630050] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 16/30
+[INFO] [1750159137.796986300] [laser_data_loader]: 抽出された人物の点群数: 183
+[INFO] [1750159137.799163004] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 17/30
+[INFO] [1750159137.896704969] [laser_data_loader]: 抽出された人物の点群数: 181
+[INFO] [1750159137.897065709] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 18/30
+[INFO] [1750159137.994706357] [laser_data_loader]: 抽出された人物の点群数: 179
+[INFO] [1750159137.996808781] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 19/30
+[INFO] [1750159138.097996174] [laser_data_loader]: 抽出された人物の点群数: 182
+[INFO] [1750159138.100213173] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 20/30
+[INFO] [1750159138.198350332] [laser_data_loader]: 抽出された人物の点群数: 172
+[INFO] [1750159138.200530306] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 21/30
+[INFO] [1750159138.297368915] [laser_data_loader]: 抽出された人物の点群数: 176
+[INFO] [1750159138.299672933] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 22/30
+[INFO] [1750159138.394937171] [laser_data_loader]: 抽出された人物の点群数: 175
+[INFO] [1750159138.397061162] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 23/30
+[INFO] [1750159138.494844488] [laser_data_loader]: 抽出された人物の点群数: 180
+[INFO] [1750159138.496952382] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 24/30
+[INFO] [1750159138.597077864] [laser_data_loader]: 抽出された人物の点群数: 165
+[INFO] [1750159138.599295319] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 25/30
+[INFO] [1750159138.697200355] [laser_data_loader]: 抽出された人物の点群数: 183
+[INFO] [1750159138.699435467] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 26/30
+[INFO] [1750159138.797156723] [laser_data_loader]: 抽出された人物の点群数: 207
+[INFO] [1750159138.799388047] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 27/30
+[INFO] [1750159138.897455590] [laser_data_loader]: 抽出された人物の点群数: 178
+[INFO] [1750159138.899790521] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 28/30
+[INFO] [1750159138.994721052] [laser_data_loader]: 抽出された人物の点群数: 166
+[INFO] [1750159138.996859417] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 29/30
+[INFO] [1750159139.097157184] [laser_data_loader]: 抽出された人物の点群数: 187
+[INFO] [1750159139.099395044] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159139.101837447] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.597969177] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.599331918] [laser_data_loader]: 抽出された人物の点群数: 198
+[INFO] [1750159140.599728525] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.606669917] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.630711583] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.631872341] [laser_data_loader]: 抽出された人物の点群数: 178
+[INFO] [1750159140.632250487] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.639984319] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.662863265] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.664018490] [laser_data_loader]: 抽出された人物の点群数: 178
+[INFO] [1750159140.664375774] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.672119751] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.694990336] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.696183982] [laser_data_loader]: 抽出された人物の点群数: 175
+[INFO] [1750159140.696551488] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.704241931] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.726896955] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.728017946] [laser_data_loader]: 抽出された人物の点群数: 170
+[INFO] [1750159140.728381866] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.735389669] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.757098541] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.758216590] [laser_data_loader]: 抽出された人物の点群数: 178
+[INFO] [1750159140.758575383] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.765238588] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.787854887] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.788958402] [laser_data_loader]: 抽出された人物の点群数: 177
+[INFO] [1750159140.789314905] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.796009016] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.817872043] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.819002364] [laser_data_loader]: 抽出された人物の点群数: 172
+[INFO] [1750159140.819363119] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.826647599] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.848387016] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.849517856] [laser_data_loader]: 抽出された人物の点群数: 195
+[INFO] [1750159140.849885503] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.857088146] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.879003729] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.880134284] [laser_data_loader]: 抽出された人物の点群数: 175
+[INFO] [1750159140.880496169] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.887780090] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.909709854] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.910856593] [laser_data_loader]: 抽出された人物の点群数: 180
+[INFO] [1750159140.911223310] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.917882450] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.939621071] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.940734843] [laser_data_loader]: 抽出された人物の点群数: 178
+[INFO] [1750159140.941091512] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.947799279] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159140.970402366] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159140.971518730] [laser_data_loader]: 抽出された人物の点群数: 187
+[INFO] [1750159140.971878960] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159140.978588079] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.000498419] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.001634781] [laser_data_loader]: 抽出された人物の点群数: 182
+[INFO] [1750159141.001994446] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.009304839] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.031224813] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.091727985] [laser_data_loader]: 抽出された人物の点群数: 182
+[INFO] [1750159141.092215501] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.092714333] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.115381960] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.197551855] [laser_data_loader]: 抽出された人物の点群数: 186
+[INFO] [1750159141.199743338] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.201978303] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.237031371] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.297175777] [laser_data_loader]: 抽出された人物の点群数: 184
+[INFO] [1750159141.299524356] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.301877358] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.335080245] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.396891429] [laser_data_loader]: 抽出された人物の点群数: 183
+[INFO] [1750159141.399068998] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.401314431] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.435248496] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.496621528] [laser_data_loader]: 抽出された人物の点群数: 177
+[INFO] [1750159141.498795166] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.500935738] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.534947368] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.596713214] [laser_data_loader]: 抽出された人物の点群数: 180
+[INFO] [1750159141.598882587] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.601036287] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.635144237] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.693384095] [laser_data_loader]: 抽出された人物の点群数: 182
+[INFO] [1750159141.695399814] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.697541207] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.732203014] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.797320863] [laser_data_loader]: 抽出された人物の点群数: 172
+[INFO] [1750159141.799479016] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.801698836] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.835565243] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.896878232] [laser_data_loader]: 抽出された人物の点群数: 182
+[INFO] [1750159141.899236995] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159141.901482806] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159141.935034292] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159141.996637578] [laser_data_loader]: 抽出された人物の点群数: 186
+[INFO] [1750159141.998791638] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.000926301] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.035035886] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.096626181] [laser_data_loader]: 抽出された人物の点群数: 183
+[INFO] [1750159142.098805335] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.100973696] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.135140564] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.196761921] [laser_data_loader]: 抽出された人物の点群数: 180
+[INFO] [1750159142.198898243] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.201020047] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.235272047] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.293718625] [laser_data_loader]: 抽出された人物の点群数: 188
+[INFO] [1750159142.294116754] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.294527267] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.316165844] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.391255804] [laser_data_loader]: 抽出された人物の点群数: 181
+[INFO] [1750159142.391694799] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.392102609] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.413225053] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.492239405] [laser_data_loader]: 抽出された人物の点群数: 178
+[INFO] [1750159142.492668940] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.493064157] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.514654407] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.592905077] [laser_data_loader]: 抽出された人物の点群数: 185
+[INFO] [1750159142.594188559] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.595820970] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.622915189] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.691243112] [laser_data_loader]: 抽出された人物の点群数: 189
+[INFO] [1750159142.691620517] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.692006230] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.713104693] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.797289705] [laser_data_loader]: 抽出された人物の点群数: 182
+[INFO] [1750159142.799379680] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.801450752] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.835997419] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.897536525] [laser_data_loader]: 抽出された人物の点群数: 184
+[INFO] [1750159142.899658698] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159142.901737641] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159142.935641749] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159142.996647625] [laser_data_loader]: 抽出された人物の点群数: 185
+[INFO] [1750159142.998746578] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.000831899] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.036096592] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.096662696] [laser_data_loader]: 抽出された人物の点群数: 184
+[INFO] [1750159143.098790936] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.100882178] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.135358098] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.196695324] [laser_data_loader]: 抽出された人物の点群数: 174
+[INFO] [1750159143.198803182] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.200895311] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.235165089] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.296426961] [laser_data_loader]: 抽出された人物の点群数: 185
+[INFO] [1750159143.298511146] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.300564734] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.334893726] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.393144036] [laser_data_loader]: 抽出された人物の点群数: 190
+[INFO] [1750159143.394724925] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.395200930] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.417682895] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.491339295] [laser_data_loader]: 抽出された人物の点群数: 185
+[INFO] [1750159143.491704871] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.492083523] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.514103497] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.597262199] [laser_data_loader]: 抽出された人物の点群数: 182
+[INFO] [1750159143.599350926] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.601421424] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.636851212] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.697156638] [laser_data_loader]: 抽出された人物の点群数: 180
+[INFO] [1750159143.699238127] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.701294406] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.735488157] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.796309740] [laser_data_loader]: 抽出された人物の点群数: 177
+[INFO] [1750159143.798384249] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.800423532] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.834721882] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.896621365] [laser_data_loader]: 抽出された人物の点群数: 170
+[INFO] [1750159143.898696379] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159143.900776168] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159143.934765941] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159143.996539131] [laser_data_loader]: 抽出された人物の点群数: 176
+[INFO] [1750159143.998619815] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.000654384] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.034997814] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.097618707] [laser_data_loader]: 抽出された人物の点群数: 196
+[INFO] [1750159144.099715354] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.101806999] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.136939333] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.196548641] [laser_data_loader]: 抽出された人物の点群数: 181
+[INFO] [1750159144.198637679] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.200698664] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.234963797] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.296513814] [laser_data_loader]: 抽出された人物の点群数: 179
+[INFO] [1750159144.298573440] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.300632590] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.334873582] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.396624774] [laser_data_loader]: 抽出された人物の点群数: 178
+[INFO] [1750159144.398704043] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.400813803] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.435148044] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.496543676] [laser_data_loader]: 抽出された人物の点群数: 179
+[INFO] [1750159144.498621823] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.500658574] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.535100922] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.596452175] [laser_data_loader]: 抽出された人物の点群数: 174
+[INFO] [1750159144.598533184] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.600581410] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.634476472] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.693172636] [laser_data_loader]: 抽出された人物の点群数: 173
+[INFO] [1750159144.695007145] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.697043509] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.731883534] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.797230995] [laser_data_loader]: 抽出された人物の点群数: 181
+[INFO] [1750159144.799298992] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.801362202] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.835318080] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.896460066] [laser_data_loader]: 抽出された人物の点群数: 176
+[INFO] [1750159144.898536330] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159144.900617386] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159144.934765757] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159144.996375190] [laser_data_loader]: 抽出された人物の点群数: 188
+[INFO] [1750159144.998508614] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159145.000663757] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159145.034727421] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159145.094895595] [laser_data_loader]: 抽出された人物の点群数: 192
+[INFO] [1750159145.096979864] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159145.099041219] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159145.133501981] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159145.196343308] [laser_data_loader]: 抽出された人物の点群数: 172
+[INFO] [1750159145.198435334] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159145.200528433] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])
+[INFO] [1750159145.234656397] [laser_data_loader]: 推論成功！出力形状: dict_keys(['val_bn', 'val_t'])
+[INFO] [1750159145.296407453] [laser_data_loader]: 抽出された人物の点群数: 172
+[INFO] [1750159145.298509924] [laser_data_loader]: データキューにフレームを追加しました。現在の長さ: 30/30
+[INFO] [1750159145.300630274] [laser_data_loader]: シーケンスが完成！モデル入力形状: torch.Size([1, 30, 256, 3])

@@ -1,0 +1,23 @@
+1661629722.3197374 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-08-27-19-48-42-317765-ren-G3-3590-23008
+1661629722.3199558 [INFO] [launch]: Default logging verbosity is set to INFO
+1661629722.6430752 [INFO] [map_server-1]: process started with pid [23010]
+1661629722.6432958 [INFO] [amcl-2]: process started with pid [23012]
+1661629722.6434038 [INFO] [lifecycle_manager-3]: process started with pid [23014]
+1661629722.6435282 [INFO] [controller_server-4]: process started with pid [23016]
+1661629722.6436336 [INFO] [planner_server-5]: process started with pid [23018]
+1661629722.6437383 [INFO] [recoveries_server-6]: process started with pid [23020]
+1661629722.6438630 [INFO] [bt_navigator-7]: process started with pid [23022]
+1661629722.6440241 [INFO] [waypoint_follower-8]: process started with pid [23024]
+1661629722.6441765 [INFO] [lifecycle_manager-9]: process started with pid [23026]
+1661629722.6442804 [INFO] [rviz2-10]: process started with pid [23028]
+1661629771.8886850 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1661629771.9229987 [INFO] [recoveries_server-6]: process has finished cleanly [pid 23020]
+1661629771.9268119 [INFO] [planner_server-5]: process has finished cleanly [pid 23018]
+1661629771.9271054 [INFO] [controller_server-4]: process has finished cleanly [pid 23016]
+1661629771.9331319 [INFO] [map_server-1]: process has finished cleanly [pid 23010]
+1661629771.9412684 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 23024]
+1661629771.9451067 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 23014]
+1661629771.9453166 [INFO] [amcl-2]: process has finished cleanly [pid 23012]
+1661629771.9459360 [INFO] [bt_navigator-7]: process has finished cleanly [pid 23022]
+1661629772.0200691 [ERROR] [lifecycle_manager-9]: process has died [pid 23026, exit code -6, cmd '/opt/ros/foxy/lib/nav2_lifecycle_manager/lifecycle_manager --ros-args -r __node:=lifecycle_manager_navigation --params-file /tmp/launch_params_benfjf0r --params-file /tmp/launch_params_rx04b0dn --params-file /tmp/launch_params_htcjqefm'].
+1661629772.0307951 [ERROR] [rviz2-10]: process has died [pid 23028, exit code -6, cmd '/opt/ros/foxy/lib/rviz2/rviz2 -d /opt/ros/foxy/share/nav2_bringup/rviz/nav2_default_view.rviz --ros-args -r __node:=rviz2 -r __node:=rviz2 --params-file /tmp/launch_params_vs80kmch'].

@@ -1,0 +1,15 @@
+[INFO] [1661790798.325079422] [lifecycle_manager_navigation]: Creating
+[INFO] [1661790798.353122319] [lifecycle_manager_navigation]: [34m[1mCreating and initializing lifecycle service clients[0m[0m
+[INFO] [1661790798.377260583] [lifecycle_manager_navigation]: [34m[1mStarting managed nodes bringup...[0m[0m
+[INFO] [1661790798.377298611] [lifecycle_manager_navigation]: [34m[1mConfiguring controller_server[0m[0m
+[INFO] [1661790798.519904936] [lifecycle_manager_navigation]: [34m[1mConfiguring planner_server[0m[0m
+[INFO] [1661790798.553737041] [lifecycle_manager_navigation]: [34m[1mConfiguring recoveries_server[0m[0m
+[INFO] [1661790798.572585360] [lifecycle_manager_navigation]: [34m[1mConfiguring bt_navigator[0m[0m
+[INFO] [1661790798.611412628] [lifecycle_manager_navigation]: [34m[1mConfiguring waypoint_follower[0m[0m
+[INFO] [1661790798.624119545] [lifecycle_manager_navigation]: [34m[1mActivating controller_server[0m[0m
+[INFO] [1661790798.625548888] [lifecycle_manager_navigation]: [34m[1mActivating planner_server[0m[0m
+[INFO] [1661790812.677649483] [lifecycle_manager_navigation]: [34m[1mActivating recoveries_server[0m[0m
+[INFO] [1661790812.678498348] [lifecycle_manager_navigation]: [34m[1mActivating bt_navigator[0m[0m
+[INFO] [1661790812.679285042] [lifecycle_manager_navigation]: [34m[1mActivating waypoint_follower[0m[0m
+[INFO] [1661790812.680014171] [lifecycle_manager_navigation]: [34m[1mManaged nodes are active[0m[0m
+[INFO] [1661791098.164547384] [rclcpp]: signal_handler(signal_value=2)

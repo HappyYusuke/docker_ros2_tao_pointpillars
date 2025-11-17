@@ -1,0 +1,13 @@
+1750136618.7784095 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-06-17-05-03-38-773206-demulab-kohei-245
+1750136618.7785561 [INFO] [launch]: Default logging verbosity is set to INFO
+1750136618.8311291 [INFO] [livox_ros_driver2_node-1]: process started with pid [247]
+1750136618.8312662 [INFO] [rviz2-2]: process started with pid [249]
+1750136628.1205645 [INFO] [rviz2-2]: process has finished cleanly [pid 249]
+1750136629.3959932 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1750136630.3800037 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1750136630.5969090 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1750136630.7649212 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1750136630.9169016 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1750136634.4030185 [ERROR] [livox_ros_driver2_node-1]: process[livox_ros_driver2_node-1] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+1750136634.4035244 [INFO] [livox_ros_driver2_node-1]: sending signal 'SIGTERM' to process[livox_ros_driver2_node-1]
+1750136634.4057863 [ERROR] [livox_ros_driver2_node-1]: process has died [pid 247, exit code -15, cmd '/home/demulab-kohei/colcon_ws/install/livox_ros_driver2/lib/livox_ros_driver2/livox_ros_driver2_node --ros-args -r __node:=livox_lidar_publisher --params-file /tmp/launch_params_aeh4fkzs --params-file /tmp/launch_params_k8v2hayc --params-file /tmp/launch_params_o4r0ohgi --params-file /tmp/launch_params_a4qxz8gi --params-file /tmp/launch_params_addjurol --params-file /tmp/launch_params_2j3_7a4q --params-file /tmp/launch_params_2gmx8g28 --params-file /tmp/launch_params_1qol4p67 --params-file /tmp/launch_params_rnd2w7my'].

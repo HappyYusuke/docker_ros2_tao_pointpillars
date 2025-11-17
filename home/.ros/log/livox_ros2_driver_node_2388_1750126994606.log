@@ -1,0 +1,4 @@
+[INFO] [1750126994.613136150] [livox_lidar_publisher]: Livox Ros Driver Version: 0.0.1
+[INFO] [1750126994.613324524] [livox_lidar_publisher]: Data Source is raw lidar.
+[INFO] [1750126994.613336154] [livox_lidar_publisher]: Config file : /home/demulab-kohei/colcon_ws/src/livox_ros2_driver/livox_ros2_driver/launch/../config/livox_lidar_config.json
+[INFO] [1750126994.614123806] [livox_lidar_publisher]: Init lds lidar success!

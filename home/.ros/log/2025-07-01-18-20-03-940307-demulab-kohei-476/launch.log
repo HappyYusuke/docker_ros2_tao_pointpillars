@@ -1,0 +1,5 @@
+1751361603.9422865 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-07-01-18-20-03-940307-demulab-kohei-476
+1751361603.9424276 [INFO] [launch]: Default logging verbosity is set to INFO
+1751361603.9944487 [INFO] [pp_infer-1]: process started with pid [478]
+1751361604.0205734 [pp_infer-1] 1751361604.020320 [0]   pp_infer: using network interface enp3s0 (udp/202.13.162.116) selected arbitrarily from: enp3s0, docker0
+1751361604.0849357 [ERROR] [pp_infer-1]: process has died [pid 478, exit code -11, cmd '/home/demulab-kohei/colcon_ws/install/pp_infer/lib/pp_infer/pp_infer --ros-args --params-file /tmp/launch_params_8etx4u_v -r /point_cloud:=/livox/lidar'].

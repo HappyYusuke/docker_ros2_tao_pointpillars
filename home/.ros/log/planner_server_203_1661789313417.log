@@ -1,0 +1,25 @@
+[INFO] [1661789313.495893102] [planner_server]: 
+	planner_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661789313.498541543] [planner_server]: Creating
+[INFO] [1661789313.539719247] [global_costmap.global_costmap]: 
+	global_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661789313.540668579] [global_costmap.global_costmap]: Creating Costmap
+[INFO] [1661789313.564213526] [planner_server]: Configuring
+[INFO] [1661789313.564244413] [global_costmap.global_costmap]: Configuring
+[INFO] [1661789313.567493903] [global_costmap.global_costmap]: Using plugin "static_layer"
+[INFO] [1661789313.570744220] [global_costmap.global_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1661789313.571512768] [global_costmap.global_costmap]: Initialized plugin "static_layer"
+[INFO] [1661789313.571541806] [global_costmap.global_costmap]: Using plugin "obstacle_layer"
+[INFO] [1661789313.572504738] [global_costmap.global_costmap]: Subscribed to Topics: scan
+[INFO] [1661789313.575199771] [global_costmap.global_costmap]: Initialized plugin "obstacle_layer"
+[INFO] [1661789313.575236330] [global_costmap.global_costmap]: Using plugin "inflation_layer"
+[INFO] [1661789313.576100195] [global_costmap.global_costmap]: Initialized plugin "inflation_layer"
+[INFO] [1661789313.582500204] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 384 X 384 at 0.050000 m/pix
+[INFO] [1661789313.584110614] [planner_server]: Created global planner plugin GridBased of type nav2_navfn_planner/NavfnPlanner
+[INFO] [1661789313.584152541] [planner_server]: Configuring plugin GridBased of type NavfnPlanner
+[INFO] [1661789313.589796906] [planner_server]: Planner Server has GridBased  planners available.
+[INFO] [1661789325.786642190] [rclcpp]: signal_handler(signal_value=2)

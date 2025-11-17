@@ -1,0 +1,9 @@
+[INFO] [1661789379.568796057] [lifecycle_manager_localization]: Creating
+[INFO] [1661789379.593155397] [lifecycle_manager_localization]: [34m[1mCreating and initializing lifecycle service clients[0m[0m
+[INFO] [1661789379.608280136] [lifecycle_manager_localization]: [34m[1mStarting managed nodes bringup...[0m[0m
+[INFO] [1661789379.608317938] [lifecycle_manager_localization]: [34m[1mConfiguring map_server[0m[0m
+[INFO] [1661789379.640223340] [lifecycle_manager_localization]: [34m[1mConfiguring amcl[0m[0m
+[INFO] [1661789379.649272089] [lifecycle_manager_localization]: [34m[1mActivating map_server[0m[0m
+[INFO] [1661789379.650046887] [lifecycle_manager_localization]: [34m[1mActivating amcl[0m[0m
+[INFO] [1661789379.650461645] [lifecycle_manager_localization]: [34m[1mManaged nodes are active[0m[0m
+[INFO] [1661789561.362163781] [rclcpp]: signal_handler(signal_value=2)

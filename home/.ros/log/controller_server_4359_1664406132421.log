@@ -1,0 +1,67 @@
+[INFO] [1664406132.550061108] [controller_server]: 
+	controller_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1664406132.567138545] [controller_server]: Creating controller server
+[INFO] [1664406132.638421271] [local_costmap.local_costmap]: 
+	local_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1664406132.640915435] [local_costmap.local_costmap]: Creating Costmap
+[INFO] [1664406132.659876214] [controller_server]: Configuring controller interface
+[INFO] [1664406132.660320230] [controller_server]: Controller frequency set to 20.0000Hz
+[INFO] [1664406132.660364495] [local_costmap.local_costmap]: Configuring
+[INFO] [1664406132.669408651] [local_costmap.local_costmap]: Using plugin "voxel_layer"
+[INFO] [1664406132.676214678] [local_costmap.local_costmap]: Subscribed to Topics: scan
+[INFO] [1664406132.684633586] [local_costmap.local_costmap]: Initialized plugin "voxel_layer"
+[INFO] [1664406132.684680938] [local_costmap.local_costmap]: Using plugin "inflation_layer"
+[INFO] [1664406132.685076887] [local_costmap.local_costmap]: Initialized plugin "inflation_layer"
+[INFO] [1664406132.697101182] [controller_server]: Created progress_checker : progress_checker of type nav2_controller::SimpleProgressChecker
+[INFO] [1664406132.698215464] [controller_server]: Created goal_checker : goal_checker of type nav2_controller::SimpleGoalChecker
+[INFO] [1664406132.702731567] [controller_server]: Created controller : FollowPath of type dwb_core::DWBLocalPlanner
+[INFO] [1664406132.703280049] [controller_server]: Setting transform_tolerance to 0.200000
+[INFO] [1664406132.728653086] [controller_server]: Using critic "RotateToGoal" (dwb_critics::RotateToGoalCritic)
+[INFO] [1664406132.728852763] [controller_server]: Critic plugin initialized
+[INFO] [1664406132.729288868] [controller_server]: Using critic "Oscillation" (dwb_critics::OscillationCritic)
+[INFO] [1664406132.731657942] [controller_server]: Critic plugin initialized
+[INFO] [1664406132.731744902] [controller_server]: Using critic "BaseObstacle" (dwb_critics::BaseObstacleCritic)
+[INFO] [1664406132.733348128] [controller_server]: Critic plugin initialized
+[INFO] [1664406132.734062544] [controller_server]: Using critic "GoalAlign" (dwb_critics::GoalAlignCritic)
+[INFO] [1664406132.735330846] [controller_server]: Critic plugin initialized
+[INFO] [1664406132.735423277] [controller_server]: Using critic "PathAlign" (dwb_critics::PathAlignCritic)
+[INFO] [1664406132.736137182] [controller_server]: Critic plugin initialized
+[INFO] [1664406132.736257295] [controller_server]: Using critic "PathDist" (dwb_critics::PathDistCritic)
+[INFO] [1664406132.736361027] [controller_server]: Critic plugin initialized
+[INFO] [1664406132.736789936] [controller_server]: Using critic "GoalDist" (dwb_critics::GoalDistCritic)
+[INFO] [1664406132.736903820] [controller_server]: Critic plugin initialized
+[INFO] [1664406132.736929033] [controller_server]: Controller Server has FollowPath  controllers available.
+[INFO] [1664406132.916117359] [controller_server]: Activating
+[INFO] [1664406132.916159530] [local_costmap.local_costmap]: Activating
+[INFO] [1664406132.916179705] [local_costmap.local_costmap]: Checking transform
+[INFO] [1664406132.916298588] [local_costmap.local_costmap]: start
+[INFO] [1664406172.265464966] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1664406173.315879002] [controller_server]: Passing new path to controller.
+[INFO] [1664406174.315876577] [controller_server]: Passing new path to controller.
+[INFO] [1664406175.365898413] [controller_server]: Passing new path to controller.
+[INFO] [1664406176.365876153] [controller_server]: Passing new path to controller.
+[INFO] [1664406177.415912642] [controller_server]: Passing new path to controller.
+[INFO] [1664406178.465928256] [controller_server]: Passing new path to controller.
+[INFO] [1664406179.465915178] [controller_server]: Passing new path to controller.
+[INFO] [1664406180.515875081] [controller_server]: Passing new path to controller.
+[INFO] [1664406181.515874548] [controller_server]: Passing new path to controller.
+[INFO] [1664406182.565875602] [controller_server]: Passing new path to controller.
+[INFO] [1664406183.565886402] [controller_server]: Passing new path to controller.
+[INFO] [1664406184.615875106] [controller_server]: Passing new path to controller.
+[INFO] [1664406185.615873665] [controller_server]: Passing new path to controller.
+[INFO] [1664406186.665924226] [controller_server]: Passing new path to controller.
+[INFO] [1664406187.715904390] [controller_server]: Passing new path to controller.
+[INFO] [1664406188.715893279] [controller_server]: Passing new path to controller.
+[INFO] [1664406189.765876422] [controller_server]: Passing new path to controller.
+[INFO] [1664406190.765941180] [controller_server]: Passing new path to controller.
+[INFO] [1664406191.815953534] [controller_server]: Passing new path to controller.
+[INFO] [1664406192.815887614] [controller_server]: Passing new path to controller.
+[INFO] [1664406193.865874620] [controller_server]: Passing new path to controller.
+[INFO] [1664406194.865879423] [controller_server]: Passing new path to controller.
+[INFO] [1664406195.915877762] [controller_server]: Passing new path to controller.
+[INFO] [1664406196.872610839] [controller_server]: Reached the goal!
+[INFO] [1664406268.492242450] [rclcpp]: signal_handler(signal_value=2)

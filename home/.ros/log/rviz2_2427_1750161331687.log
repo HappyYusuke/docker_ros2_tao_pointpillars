@@ -1,0 +1,6 @@
+[INFO] [1750161332.201959396] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1750161332.202027028] [rviz2]: OpenGl version: 4.6 (GLSL 4.6)
+[INFO] [1750161332.352536407] [rviz2]: Stereo is NOT SUPPORTED
+[WARN] [1750161347.094626221] [rviz2]: topic '/livox/lidar' has more than one types associated, rviz will arbitrarily use the type 'livox_ros_driver2/msg/CustomMsg' -- all types for the topic: 'livox_ros_driver2/msg/CustomMsg' 'sensor_msgs/msg/PointCloud2'
+[WARN] [1750161395.140347545] [rviz2]: topic '/livox/lidar' has more than one types associated, rviz will arbitrarily use the type 'livox_ros_driver2/msg/CustomMsg' -- all types for the topic: 'livox_ros_driver2/msg/CustomMsg' 'sensor_msgs/msg/PointCloud2'
+[INFO] [1750161440.986286067] [rclcpp]: signal_handler(signal_value=2)

@@ -1,0 +1,17 @@
+1663397466.3436694 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-09-17-06-51-06-336806-ren-G3-3590-126
+1663397466.3441081 [INFO] [launch]: Default logging verbosity is set to INFO
+1663397467.4478524 [INFO] [gzserver-1]: process started with pid [128]
+1663397467.4480851 [INFO] [gzclient   -2]: process started with pid [130]
+1663397467.4482446 [INFO] [robot_state_publisher-3]: process started with pid [132]
+1663397795.7235267 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1663397795.7318709 [INFO] [robot_state_publisher-3]: process has finished cleanly [pid 132]
+1663397796.5676267 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1663397796.8367455 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1663397797.1104980 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1663397797.3571029 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT) again, ignoring...
+1663397800.7330697 [ERROR] [gzclient   -2]: process[gzclient   -2] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+1663397800.7345359 [ERROR] [gzserver-1]: process[gzserver-1] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+1663397800.7362175 [INFO] [gzclient   -2]: sending signal 'SIGTERM' to process[gzclient   -2]
+1663397800.7378280 [INFO] [gzserver-1]: sending signal 'SIGTERM' to process[gzserver-1]
+1663397800.7384305 [ERROR] [gzserver-1]: process has died [pid 128, exit code -15, cmd 'gzserver /home/ren/colcon_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/worlds/turtlebot3_houses/burger.model                                                                      -s libgazebo_ros_init.so   -s libgazebo_ros_factory.so   -s libgazebo_ros_force_system.so       '].
+1663397800.7386353 [ERROR] [gzclient   -2]: process has died [pid 130, exit code -15, cmd 'gzclient   '].

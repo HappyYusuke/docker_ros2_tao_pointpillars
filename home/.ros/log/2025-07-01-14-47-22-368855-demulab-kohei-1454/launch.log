@@ -1,0 +1,11 @@
+1751348842.3707824 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-07-01-14-47-22-368855-demulab-kohei-1454
+1751348842.3709691 [INFO] [launch]: Default logging verbosity is set to INFO
+1751348842.4227335 [INFO] [pp_infer-1]: process started with pid [1456]
+1751348842.4527979 [pp_infer-1] 1751348842.452557 [0]   pp_infer: using network interface enp3s0 (udp/202.13.162.116) selected arbitrarily from: enp3s0, docker0
+1751348842.6663375 [pp_infer-1] Loading Model: 
+1751348842.6664076 [pp_infer-1] Building TRT engine from the model.
+1751348843.3207281 [pp_infer-1] Could not open file 
+1751348843.3208528 [pp_infer-1] Could not open file 
+1751348843.3209403 [pp_infer-1] trt_infer: parsers/onnx/ModelImporter.cpp:753: Failed to parse ONNX model from file: 
+1751348843.3210375 [pp_infer-1] : Failed to parse onnx model file, please check the onnx version and trt support op!
+1751348843.4174619 [ERROR] [pp_infer-1]: process has died [pid 1456, exit code 255, cmd '/home/demulab-kohei/colcon_ws/install/pp_infer/lib/pp_infer/pp_infer --ros-args --params-file /tmp/launch_params_fnio47j1 -r /point_cloud:=/ns2/zvision_lidar_points'].

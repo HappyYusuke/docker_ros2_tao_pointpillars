@@ -1,0 +1,16 @@
+[INFO] [1751366339.624159850] [minimal_publisher]: TIME: 12.436480 ms, Objects detected: 69
+[INFO] [1751366340.066612290] [minimal_publisher]: TIME: 6.689472 ms, Objects detected: 86
+[INFO] [1751366340.478050783] [minimal_publisher]: TIME: 7.198560 ms, Objects detected: 76
+[INFO] [1751366340.881796671] [minimal_publisher]: TIME: 6.313984 ms, Objects detected: 68
+[INFO] [1751366341.314417077] [minimal_publisher]: TIME: 6.181888 ms, Objects detected: 57
+[INFO] [1751366341.704947016] [minimal_publisher]: TIME: 6.473728 ms, Objects detected: 76
+[INFO] [1751366342.053369316] [minimal_publisher]: TIME: 6.541056 ms, Objects detected: 76
+[INFO] [1751366342.437796287] [minimal_publisher]: TIME: 11.789184 ms, Objects detected: 69
+[INFO] [1751366342.799486069] [minimal_publisher]: TIME: 6.395104 ms, Objects detected: 67
+[INFO] [1751366343.204442124] [minimal_publisher]: TIME: 12.538048 ms, Objects detected: 78
+[INFO] [1751366343.557736082] [minimal_publisher]: TIME: 6.226944 ms, Objects detected: 59
+[INFO] [1751366343.921033978] [minimal_publisher]: TIME: 8.891232 ms, Objects detected: 50
+[INFO] [1751366344.254648850] [minimal_publisher]: TIME: 10.365632 ms, Objects detected: 62
+[INFO] [1751366344.598392476] [minimal_publisher]: TIME: 7.062400 ms, Objects detected: 69
+[INFO] [1751366344.919348837] [minimal_publisher]: TIME: 12.284000 ms, Objects detected: 78
+[INFO] [1751366345.108192885] [rclcpp]: signal_handler(signal_value=2)

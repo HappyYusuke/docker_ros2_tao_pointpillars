@@ -1,0 +1,8 @@
+[INFO] [1661628359.118676069] [turtlebot3_imu]: <initial_orientation_as_reference> is unset, using default value of false to comply with REP 145 (world as orientation reference)
+[INFO] [1661628359.148985247] [turtlebot3_diff_drive]: Wheel pair 1 separation set to [0.160000m]
+[INFO] [1661628359.149033057] [turtlebot3_diff_drive]: Wheel pair 1 diameter set to [0.066000m]
+[INFO] [1661628359.149973900] [turtlebot3_diff_drive]: Subscribed to [/cmd_vel]
+[INFO] [1661628359.150736845] [turtlebot3_diff_drive]: Advertise odometry on [/odom]
+[INFO] [1661628359.151541357] [turtlebot3_diff_drive]: Publishing odom transforms between [odom] and [base_footprint]
+[INFO] [1661628359.160052858] [turtlebot3_joint_state]: Going to publish joint [wheel_left_joint]
+[INFO] [1661628359.160087034] [turtlebot3_joint_state]: Going to publish joint [wheel_right_joint]

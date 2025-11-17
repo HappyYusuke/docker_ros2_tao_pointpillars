@@ -1,0 +1,23 @@
+1664361636.3096788 [INFO] [launch]: All log files can be found below /home/ren/.ros/log/2022-09-28-10-40-36-306957-ren-G3-3590-2816
+1664361636.3098850 [INFO] [launch]: Default logging verbosity is set to INFO
+1664361636.6247203 [INFO] [map_server-1]: process started with pid [2818]
+1664361636.6249487 [INFO] [amcl-2]: process started with pid [2820]
+1664361636.6250713 [INFO] [lifecycle_manager-3]: process started with pid [2822]
+1664361636.6251788 [INFO] [controller_server-4]: process started with pid [2824]
+1664361636.6252813 [INFO] [planner_server-5]: process started with pid [2826]
+1664361636.6253798 [INFO] [recoveries_server-6]: process started with pid [2828]
+1664361636.6254759 [INFO] [bt_navigator-7]: process started with pid [2830]
+1664361636.6255744 [INFO] [waypoint_follower-8]: process started with pid [2832]
+1664361636.6256721 [INFO] [lifecycle_manager-9]: process started with pid [2834]
+1664361636.6257710 [INFO] [rviz2-10]: process started with pid [2836]
+1664361673.9548080 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1664361673.9762530 [INFO] [recoveries_server-6]: process has finished cleanly [pid 2828]
+1664361673.9766920 [INFO] [planner_server-5]: process has finished cleanly [pid 2826]
+1664361673.9881866 [INFO] [controller_server-4]: process has finished cleanly [pid 2824]
+1664361673.9956427 [INFO] [waypoint_follower-8]: process has finished cleanly [pid 2832]
+1664361673.9958346 [INFO] [amcl-2]: process has finished cleanly [pid 2820]
+1664361673.9961464 [INFO] [lifecycle_manager-3]: process has finished cleanly [pid 2822]
+1664361673.9973972 [INFO] [map_server-1]: process has finished cleanly [pid 2818]
+1664361674.0006747 [INFO] [bt_navigator-7]: process has finished cleanly [pid 2830]
+1664361674.0668142 [ERROR] [lifecycle_manager-9]: process has died [pid 2834, exit code -6, cmd '/home/ren/colcon_ws/install/nav2_lifecycle_manager/lib/nav2_lifecycle_manager/lifecycle_manager --ros-args -r __node:=lifecycle_manager_navigation --params-file /tmp/launch_params_qjt_2fw0 --params-file /tmp/launch_params_am8ol5g4 --params-file /tmp/launch_params_9qdyjdre'].
+1664361674.0827549 [ERROR] [rviz2-10]: process has died [pid 2836, exit code -6, cmd '/opt/ros/foxy/lib/rviz2/rviz2 -d /home/ren/colcon_ws/install/nav2_bringup/share/nav2_bringup/rviz/nav2_default_view.rviz --ros-args -r __node:=rviz2 -r __node:=rviz2 --params-file /tmp/launch_params_o4c0da2w'].

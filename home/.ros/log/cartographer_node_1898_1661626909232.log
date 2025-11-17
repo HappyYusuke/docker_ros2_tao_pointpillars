@@ -1,0 +1,21 @@
+[INFO] [1661626909.232771572] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua' for 'turtlebot3_lds_2d.lua'.
+[INFO] [1661626909.233081547] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/map_builder.lua' for 'map_builder.lua'.
+[INFO] [1661626909.233146222] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/map_builder.lua' for 'map_builder.lua'.
+[INFO] [1661626909.233214586] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/pose_graph.lua' for 'pose_graph.lua'.
+[INFO] [1661626909.233234596] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/pose_graph.lua' for 'pose_graph.lua'.
+[INFO] [1661626909.233424185] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/trajectory_builder.lua' for 'trajectory_builder.lua'.
+[INFO] [1661626909.233454220] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/trajectory_builder.lua' for 'trajectory_builder.lua'.
+[INFO] [1661626909.233553123] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/trajectory_builder_2d.lua' for 'trajectory_builder_2d.lua'.
+[INFO] [1661626909.233580350] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/trajectory_builder_2d.lua' for 'trajectory_builder_2d.lua'.
+[INFO] [1661626909.233711921] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/trajectory_builder_3d.lua' for 'trajectory_builder_3d.lua'.
+[INFO] [1661626909.233734415] [cartographer_ros]: I0827 19:01:49.000000  1898 configuration_file_resolver.cc:41] Found '/opt/ros/foxy/share/cartographer/configuration_files/trajectory_builder_3d.lua' for 'trajectory_builder_3d.lua'.
+[INFO] [1661626909.247795999] [cartographer_ros]: I0827 19:01:49.000000  1898 submap_2d.cc:187] Added submap 1
+[INFO] [1661626909.247853313] [cartographer_ros]: I0827 19:01:49.000000  1898 map_builder_bridge.cc:132] Added trajectory with ID '0'.
+[INFO] [1661626909.359330995] [cartographer_ros]: I0827 19:01:49.000000  1898 ordered_multi_queue.cc:172] All sensor data for trajectory 0 is available starting at '621355968198000000'.
+[INFO] [1661626909.380779218] [cartographer_ros]: I0827 19:01:49.000000  1898 local_trajectory_builder_2d.cc:295] Extrapolator not yet initialized.
+[WARN] [1661626909.382954297] [cartographer_ros]: W0827 19:01:49.000000  1898 pose_extrapolator.cc:168] Queue too short for velocity estimation. Queue duration: 0 ms
+[INFO] [1661626924.412755132] [cartographer_ros]: I0827 19:02:04.000000  1898 collated_trajectory_builder.cc:72] odom rate: 29.41 Hz 3.40e-02 s +/- 2.43e-16 s (pulsed at 99.58% real time)
+[INFO] [1661626924.412878382] [cartographer_ros]: I0827 19:02:04.000000  1898 collated_trajectory_builder.cc:72] scan rate: 5.00 Hz 2.00e-01 s +/- 5.61e-04 s (pulsed at 99.73% real time)
+[INFO] [1661626939.489514606] [cartographer_ros]: I0827 19:02:19.000000  1898 collated_trajectory_builder.cc:72] odom rate: 29.41 Hz 3.40e-02 s +/- 2.43e-16 s (pulsed at 99.43% real time)
+[INFO] [1661626939.489595438] [cartographer_ros]: I0827 19:02:19.000000  1898 collated_trajectory_builder.cc:72] scan rate: 5.00 Hz 2.00e-01 s +/- 5.49e-04 s (pulsed at 99.56% real time)
+[INFO] [1661626952.726812343] [rclcpp]: signal_handler(signal_value=2)

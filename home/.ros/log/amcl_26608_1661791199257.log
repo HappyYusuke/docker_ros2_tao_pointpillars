@@ -1,0 +1,23 @@
+[INFO] [1661791199.297094811] [amcl]: 
+	amcl lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661791199.297202840] [amcl]: Creating
+[INFO] [1661791199.326234718] [amcl]: Configuring
+[INFO] [1661791199.326333118] [amcl]: initTransforms
+[INFO] [1661791199.330014133] [amcl]: initPubSub
+[INFO] [1661791199.332381711] [amcl]: Subscribed to map topic.
+[INFO] [1661791199.336266566] [amcl]: Received a 384 X 384 map @ 0.050 m/pix
+[INFO] [1661791199.338263573] [amcl]: Activating
+[WARN] [1661791199.338291600] [amcl]: Publishing the particle cloud as geometry_msgs/PoseArray msg is deprecated, will be published as nav2_msgs/ParticleCloud in the future
+[INFO] [1661791205.968553388] [amcl]: createLaserObject
+[WARN] [1661791205.981222950] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661791207.983989882] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661791210.170283672] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661791212.185081357] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661791214.203522786] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[WARN] [1661791216.232362127] [amcl]: ACML cannot publish a pose or update the transform. Please set the initial pose...
+[INFO] [1661791217.932981586] [amcl]: initialPoseReceived
+[WARN] [1661791217.933201573] [amcl]: Failed to transform initial pose in time (Lookup would require extrapolation into the future.  Requested time 1661791217.933066 but the latest data is at time 13.294000, when looking up transform from frame [base_footprint] to frame [odom])
+[INFO] [1661791217.933256425] [amcl]: Setting pose (1661791217.933256): -1.709 -0.423 -0.083
+[INFO] [1661791596.430074969] [rclcpp]: signal_handler(signal_value=2)

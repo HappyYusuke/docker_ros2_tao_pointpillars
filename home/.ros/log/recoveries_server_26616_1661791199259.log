@@ -1,0 +1,37 @@
+[INFO] [1661791199.285316348] [recoveries_server]: 
+	recoveries_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1661791199.383744612] [recoveries_server]: Configuring
+[INFO] [1661791199.386845187] [recoveries_server]: Creating recovery plugin spin of type nav2_recoveries/Spin
+[INFO] [1661791199.387987950] [recoveries_server]: Configuring spin
+[INFO] [1661791199.391089187] [recoveries_server]: Creating recovery plugin back_up of type nav2_recoveries/BackUp
+[INFO] [1661791199.392276840] [recoveries_server]: Configuring back_up
+[INFO] [1661791199.394674337] [recoveries_server]: Creating recovery plugin wait of type nav2_recoveries/Wait
+[INFO] [1661791199.395483747] [recoveries_server]: Configuring wait
+[INFO] [1661791219.483280788] [recoveries_server]: Activating
+[INFO] [1661791219.483325808] [recoveries_server]: Activating spin
+[INFO] [1661791219.483345820] [recoveries_server]: Activating back_up
+[INFO] [1661791219.483355089] [recoveries_server]: Activating wait
+[INFO] [1661791331.376964259] [recoveries_server]: Attempting spin
+[INFO] [1661791331.377105329] [recoveries_server]: Turning 1.57 for spin recovery.
+[WARN] [1661791332.177446761] [recoveries_server]: Collision Ahead - Exiting Spin
+[INFO] [1661791332.177472451] [recoveries_server]: spin completed successfully
+[INFO] [1661791332.206339794] [recoveries_server]: Attempting wait
+[INFO] [1661791333.206610952] [recoveries_server]: wait running...
+[INFO] [1661791334.206712935] [recoveries_server]: wait running...
+[INFO] [1661791335.206696510] [recoveries_server]: wait running...
+[INFO] [1661791336.206705983] [recoveries_server]: wait running...
+[INFO] [1661791337.206701440] [recoveries_server]: wait completed successfully
+[INFO] [1661791337.206768099] [recoveries_server]: wait running...
+[INFO] [1661791337.836510657] [recoveries_server]: Attempting spin
+[INFO] [1661791337.836564870] [recoveries_server]: Turning 1.57 for spin recovery.
+[INFO] [1661791338.836818935] [recoveries_server]: spin running...
+[INFO] [1661791339.736730876] [recoveries_server]: spin completed successfully
+[INFO] [1661791339.765976447] [recoveries_server]: Attempting wait
+[INFO] [1661791340.766170907] [recoveries_server]: wait running...
+[INFO] [1661791341.766251148] [recoveries_server]: wait running...
+[INFO] [1661791342.766286807] [recoveries_server]: wait running...
+[INFO] [1661791343.766298419] [recoveries_server]: wait running...
+[INFO] [1661791344.766099381] [recoveries_server]: wait completed successfully
+[INFO] [1661791596.430049318] [rclcpp]: signal_handler(signal_value=2)

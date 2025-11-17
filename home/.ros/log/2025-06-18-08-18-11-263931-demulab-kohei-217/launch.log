@@ -1,0 +1,7 @@
+1750234691.2691922 [INFO] [launch]: All log files can be found below /home/demulab-kohei/.ros/log/2025-06-18-08-18-11-263931-demulab-kohei-217
+1750234691.2693682 [INFO] [launch]: Default logging verbosity is set to INFO
+1750234691.3233597 [INFO] [livox_ros_driver2_node-1]: process started with pid [219]
+1750234691.3234816 [INFO] [rviz2-2]: process started with pid [221]
+1750234700.5622697 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1750234700.8561978 [INFO] [rviz2-2]: process has finished cleanly [pid 221]
+1750234701.7973039 [ERROR] [livox_ros_driver2_node-1]: process has died [pid 219, exit code -7, cmd '/home/demulab-kohei/colcon_ws/install/livox_ros_driver2/lib/livox_ros_driver2/livox_ros_driver2_node --ros-args -r __node:=livox_lidar_publisher --params-file /tmp/launch_params_lvr5csdb --params-file /tmp/launch_params_25rzue4f --params-file /tmp/launch_params_zertit1l --params-file /tmp/launch_params_0rhs41q1 --params-file /tmp/launch_params_19aya43w --params-file /tmp/launch_params_xgzpm4po --params-file /tmp/launch_params_wzy47cc3 --params-file /tmp/launch_params_cqnnd8yv --params-file /tmp/launch_params_0j0u43av'].

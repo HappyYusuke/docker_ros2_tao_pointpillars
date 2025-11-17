@@ -1,0 +1,1094 @@
+[INFO] [1661789380.272034080] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1661789380.272237287] [rviz2]: OpenGl version: 4.6 (GLSL 4.6)
+[INFO] [1661789380.308335305] [rviz2]: Stereo is NOT SUPPORTED
+[WARN] [1661789380.424892209] [rcl.logging_rosout]: Publisher already registered for provided node name. If this is due to multiple nodes with the same name then all logs for that logger name will go out over the existing publisher. As soon as any node with that name is destructed it will unregister the publisher, preventing any further logs for that name from being published on the rosout topic.
+[WARN] [1661789380.431086095] [rcl.logging_rosout]: Publisher already registered for provided node name. If this is due to multiple nodes with the same name then all logs for that logger name will go out over the existing publisher. As soon as any node with that name is destructed it will unregister the publisher, preventing any further logs for that name from being published on the rosout topic.
+[WARN] [1661789380.436794264] [rcl.logging_rosout]: Publisher already registered for provided node name. If this is due to multiple nodes with the same name then all logs for that logger name will go out over the existing publisher. As soon as any node with that name is destructed it will unregister the publisher, preventing any further logs for that name from being published on the rosout topic.
+[INFO] [1661789380.453872453] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789380.454092817] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789380.454682254] [rviz2]: Trying to create a map of size 384 x 384 using 1 swatches
+[INFO] [1661789381.454387696] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789381.454576439] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789382.454805662] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789382.455131019] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789383.455513241] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789383.455789833] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789384.456181556] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789384.456494922] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789385.456768826] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789385.457115172] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789386.457405447] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789386.457738168] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789387.458116818] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789387.458404366] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789388.458752662] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789388.458994927] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789389.459500135] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789389.459797174] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789390.460089009] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789390.460457692] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789391.460820205] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789391.460939267] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789392.461179509] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789392.461447204] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789393.461779459] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789393.462159348] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789394.462404448] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789394.462679527] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789395.463002603] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789395.463291871] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789396.463731411] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789396.464105860] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789397.464434852] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789397.464723483] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789398.465005233] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789398.465113747] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789399.465393561] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789399.465683574] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789400.466057633] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789400.466240346] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789401.466522805] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789401.466813342] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789402.467132524] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789402.467311039] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789403.467539807] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789403.467812559] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789404.468172474] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789404.468464455] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789405.468765712] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789405.469043426] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789406.469366106] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789406.469649889] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789407.469934677] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789407.470258756] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789408.470565155] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789408.470880100] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789409.471327795] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789409.471620084] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789410.471972750] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789410.472307781] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789411.472662918] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789411.472958755] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789412.473311653] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789412.473606742] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789413.473950914] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789413.474253689] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789414.474628988] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789414.474931301] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789415.475306544] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789415.475612663] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789416.475892639] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789416.476227390] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789417.476496552] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789417.476789350] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789418.477127019] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789418.477426652] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789419.477706295] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789419.477997459] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789420.478341287] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789420.478645309] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789421.479020737] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789421.479355718] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789422.479747370] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789422.480044412] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789423.480279228] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789423.480559625] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789424.480971319] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789424.481263500] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789425.481612190] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789425.481948700] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789426.482249092] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789426.482554430] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789427.482902247] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789427.483782206] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789428.484791145] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789428.485080912] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789429.485508254] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789429.485832103] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789430.486203751] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789430.486519220] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789431.486912400] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789431.487215451] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789432.487504161] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789432.487802796] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789433.488102498] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789433.488421158] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789434.488782874] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789434.489138442] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789435.489433334] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789435.489727092] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789436.490059976] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789436.490355600] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789437.490753301] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789437.491052923] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789438.491404702] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789438.491695923] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789439.492040553] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789439.492370125] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789440.492667292] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789440.492959952] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789441.493271708] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789441.493601398] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789442.494190028] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789442.494505398] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789443.494803379] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789443.495119058] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789444.495502487] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789444.495810272] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789445.496230204] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789445.496516521] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789446.496865759] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789446.497183765] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789447.497540793] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789447.497839305] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789448.498198475] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789448.498502972] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789449.498926890] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789449.499213860] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789450.499546222] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789450.499846099] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789451.500243549] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789451.500572155] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789452.500927170] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789452.501284297] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789453.501584281] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789453.501878875] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789454.502204666] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789454.502509883] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789455.502859738] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789455.503155479] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789456.503473724] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789456.503780945] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789457.504167762] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789457.504674004] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789458.505076685] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789458.505393144] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789459.505792460] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789459.506101775] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789460.506452637] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789460.506802346] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789461.507138135] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789461.507450790] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789462.507761565] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789462.508054622] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789463.508360463] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789463.508669516] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789464.509014867] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789464.509303122] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789465.509660472] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789465.509954648] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789466.510389628] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789466.510694167] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789467.511043420] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789467.511331991] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789468.511708246] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789468.512056808] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789469.512370280] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789469.512675927] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789470.513051469] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789470.513353749] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789471.513721805] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789471.514041710] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789472.514457866] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789472.514790444] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789473.515098117] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789473.515402835] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789474.515785085] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789474.516095911] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789475.516459458] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789475.516836265] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789476.517164889] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789476.517504927] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789477.517779524] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789477.518073816] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789478.518336163] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789478.518657689] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789479.518967127] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789479.519247961] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789480.519523903] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789480.519812293] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789481.520188685] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789481.520509877] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789482.520929541] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789482.521255104] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789483.521600076] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789483.521925103] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789484.522260877] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789484.522552569] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789485.522979654] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789485.523282567] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789486.523559220] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789486.523842061] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789487.524213007] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789487.524495016] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789488.524834729] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789488.525120613] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789489.525428565] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789489.525747713] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789490.526137048] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789490.526424625] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789491.526757942] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789491.527041783] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789492.527321154] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789492.527616963] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789493.527894455] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789493.528214434] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789494.528528253] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789494.528839355] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789495.529096775] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789495.529220137] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789496.529505548] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789496.529769440] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789497.530034083] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789497.530212665] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789498.530504328] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789498.530674687] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789498.612527236] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 0.200 for reason 'Unknown'
+[INFO] [1661789498.804104809] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 0.400 for reason 'Unknown'
+[INFO] [1661789498.804222395] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.347 for reason 'Unknown'
+[INFO] [1661789498.995985600] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 0.600 for reason 'Unknown'
+[INFO] [1661789499.028018317] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.548 for reason 'Unknown'
+[INFO] [1661789499.220063441] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 0.800 for reason 'Unknown'
+[INFO] [1661789499.220170980] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.748 for reason 'Unknown'
+[INFO] [1661789499.412087198] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 1.000 for reason 'Unknown'
+[INFO] [1661789499.412238570] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.949 for reason 'Unknown'
+[INFO] [1661789499.530840032] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789499.531085126] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789499.604746806] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 1.201 for reason 'Unknown'
+[INFO] [1661789499.604849064] [rviz2]: Message Filter dropping message: frame 'odom' at time 1.149 for reason 'Unknown'
+[INFO] [1661789499.796654705] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 1.400 for reason 'Unknown'
+[INFO] [1661789499.828268827] [rviz2]: Message Filter dropping message: frame 'odom' at time 1.349 for reason 'Unknown'
+[INFO] [1661789500.020068145] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 1.600 for reason 'Unknown'
+[INFO] [1661789500.020199403] [rviz2]: Message Filter dropping message: frame 'odom' at time 1.549 for reason 'Unknown'
+[INFO] [1661789500.212116756] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 1.800 for reason 'Unknown'
+[INFO] [1661789500.212239809] [rviz2]: Message Filter dropping message: frame 'odom' at time 1.750 for reason 'Unknown'
+[INFO] [1661789500.404160184] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 2.000 for reason 'Unknown'
+[INFO] [1661789500.404273492] [rviz2]: Message Filter dropping message: frame 'odom' at time 1.951 for reason 'Unknown'
+[INFO] [1661789500.531348874] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789500.531502650] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789500.627906857] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 2.200 for reason 'Unknown'
+[INFO] [1661789500.628007248] [rviz2]: Message Filter dropping message: frame 'odom' at time 2.152 for reason 'Unknown'
+[INFO] [1661789500.820022458] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 2.400 for reason 'Unknown'
+[INFO] [1661789500.820161672] [rviz2]: Message Filter dropping message: frame 'odom' at time 2.352 for reason 'Unknown'
+[INFO] [1661789501.012153301] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 2.600 for reason 'Unknown'
+[INFO] [1661789501.012255543] [rviz2]: Message Filter dropping message: frame 'odom' at time 2.552 for reason 'Unknown'
+[INFO] [1661789501.204690357] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 2.800 for reason 'Unknown'
+[INFO] [1661789501.205471414] [rviz2]: Message Filter dropping message: frame 'odom' at time 2.752 for reason 'Unknown'
+[INFO] [1661789501.427976527] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 3.000 for reason 'Unknown'
+[INFO] [1661789501.428066953] [rviz2]: Message Filter dropping message: frame 'odom' at time 2.953 for reason 'Unknown'
+[INFO] [1661789501.531756409] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789501.531921169] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789501.619877612] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 3.200 for reason 'Unknown'
+[INFO] [1661789501.619968622] [rviz2]: Message Filter dropping message: frame 'odom' at time 3.153 for reason 'Unknown'
+[INFO] [1661789501.811784855] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 3.400 for reason 'Unknown'
+[INFO] [1661789501.811900103] [rviz2]: Message Filter dropping message: frame 'odom' at time 3.353 for reason 'Unknown'
+[INFO] [1661789502.004029109] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 3.600 for reason 'Unknown'
+[INFO] [1661789502.004265075] [rviz2]: Message Filter dropping message: frame 'odom' at time 3.551 for reason 'Unknown'
+[INFO] [1661789502.228329006] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 3.800 for reason 'Unknown'
+[INFO] [1661789502.228401358] [rviz2]: Message Filter dropping message: frame 'odom' at time 3.746 for reason 'Unknown'
+[INFO] [1661789502.420183199] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 4.000 for reason 'Unknown'
+[INFO] [1661789502.420271194] [rviz2]: Message Filter dropping message: frame 'odom' at time 3.946 for reason 'Unknown'
+[INFO] [1661789502.532096270] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789502.532417108] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789502.612263514] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 4.200 for reason 'Unknown'
+[INFO] [1661789502.612354477] [rviz2]: Message Filter dropping message: frame 'odom' at time 4.148 for reason 'Unknown'
+[INFO] [1661789502.804630453] [rviz2]: Message Filter dropping message: frame 'odom' at time 4.348 for reason 'Unknown'
+[INFO] [1661789502.836322432] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 4.400 for reason 'Unknown'
+[INFO] [1661789503.028696233] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 4.600 for reason 'Unknown'
+[INFO] [1661789503.028815777] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789503.028862374] [rviz2]: Message Filter dropping message: frame 'odom' at time 4.548 for reason 'Unknown'
+[INFO] [1661789503.220754648] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 4.800 for reason 'Unknown'
+[INFO] [1661789503.220834579] [rviz2]: Message Filter dropping message: frame 'odom' at time 4.748 for reason 'Unknown'
+[INFO] [1661789503.412681622] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 5.000 for reason 'Unknown'
+[INFO] [1661789503.412748438] [rviz2]: Message Filter dropping message: frame 'odom' at time 4.949 for reason 'Unknown'
+[INFO] [1661789503.532773170] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789503.532939593] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789503.604430436] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789503.604541641] [rviz2]: Message Filter dropping message: frame 'odom' at time 5.151 for reason 'Unknown'
+[INFO] [1661789503.635897546] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 5.200 for reason 'Unknown'
+[INFO] [1661789503.828189396] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 5.400 for reason 'Unknown'
+[INFO] [1661789503.828330062] [rviz2]: Message Filter dropping message: frame 'odom' at time 5.354 for reason 'Unknown'
+[INFO] [1661789504.020508613] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 5.600 for reason 'Unknown'
+[INFO] [1661789504.020631355] [rviz2]: Message Filter dropping message: frame 'odom' at time 5.554 for reason 'Unknown'
+[INFO] [1661789504.212292751] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789504.212431432] [rviz2]: Message Filter dropping message: frame 'odom' at time 5.754 for reason 'Unknown'
+[INFO] [1661789504.244034745] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 5.800 for reason 'Unknown'
+[INFO] [1661789504.403802944] [rviz2]: Message Filter dropping message: frame 'odom' at time 5.954 for reason 'Unknown'
+[INFO] [1661789504.436210891] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 6.000 for reason 'Unknown'
+[INFO] [1661789504.533186841] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789504.533531111] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789504.627996047] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 6.200 for reason 'Unknown'
+[INFO] [1661789504.628079340] [rviz2]: Message Filter dropping message: frame 'odom' at time 6.152 for reason 'Unknown'
+[INFO] [1661789504.820274275] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 6.400 for reason 'Unknown'
+[INFO] [1661789504.820376482] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789504.820441354] [rviz2]: Message Filter dropping message: frame 'odom' at time 6.352 for reason 'Unknown'
+[INFO] [1661789505.012285288] [rviz2]: Message Filter dropping message: frame 'odom' at time 6.551 for reason 'Unknown'
+[INFO] [1661789505.044456949] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 6.600 for reason 'Unknown'
+[INFO] [1661789505.204119598] [rviz2]: Message Filter dropping message: frame 'odom' at time 6.751 for reason 'Unknown'
+[INFO] [1661789505.236269949] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 6.800 for reason 'Unknown'
+[INFO] [1661789505.428770361] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 7.000 for reason 'Unknown'
+[INFO] [1661789505.428888702] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789505.428945773] [rviz2]: Message Filter dropping message: frame 'odom' at time 6.951 for reason 'Unknown'
+[INFO] [1661789505.533779416] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789505.533905838] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789505.620638726] [rviz2]: Message Filter dropping message: frame 'odom' at time 7.153 for reason 'Unknown'
+[INFO] [1661789505.652399788] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 7.200 for reason 'Unknown'
+[INFO] [1661789505.812745997] [rviz2]: Message Filter dropping message: frame 'odom' at time 7.353 for reason 'Unknown'
+[INFO] [1661789505.844358039] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 7.400 for reason 'Unknown'
+[INFO] [1661789506.004579029] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789506.004696187] [rviz2]: Message Filter dropping message: frame 'odom' at time 7.553 for reason 'Unknown'
+[INFO] [1661789506.036062556] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 7.600 for reason 'Unknown'
+[INFO] [1661789506.228795435] [rviz2]: Message Filter dropping message: frame 'odom' at time 7.753 for reason 'Unknown'
+[INFO] [1661789506.259928142] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 7.800 for reason 'Unknown'
+[INFO] [1661789506.420075044] [rviz2]: Message Filter dropping message: frame 'odom' at time 7.953 for reason 'Unknown'
+[INFO] [1661789506.452354981] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 8.000 for reason 'Unknown'
+[INFO] [1661789506.534108004] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789506.534259753] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789506.612539033] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789506.612751456] [rviz2]: Message Filter dropping message: frame 'odom' at time 8.148 for reason 'Unknown'
+[INFO] [1661789506.644702458] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 8.200 for reason 'Unknown'
+[INFO] [1661789506.804568919] [rviz2]: Message Filter dropping message: frame 'odom' at time 8.348 for reason 'Unknown'
+[INFO] [1661789506.836747557] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 8.400 for reason 'Unknown'
+[INFO] [1661789507.028370834] [rviz2]: Message Filter dropping message: frame 'odom' at time 8.548 for reason 'Unknown'
+[INFO] [1661789507.059948563] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 8.600 for reason 'Unknown'
+[INFO] [1661789507.220443852] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789507.220542381] [rviz2]: Message Filter dropping message: frame 'odom' at time 8.749 for reason 'Unknown'
+[INFO] [1661789507.252196373] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 8.800 for reason 'Unknown'
+[INFO] [1661789507.412696258] [rviz2]: Message Filter dropping message: frame 'odom' at time 8.948 for reason 'Unknown'
+[INFO] [1661789507.443964687] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 9.000 for reason 'Unknown'
+[INFO] [1661789507.534484125] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789507.534683495] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789507.603987372] [rviz2]: Message Filter dropping message: frame 'odom' at time 9.144 for reason 'Unknown'
+[INFO] [1661789507.668108549] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 9.200 for reason 'Unknown'
+[INFO] [1661789507.828744585] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789507.828891168] [rviz2]: Message Filter dropping message: frame 'odom' at time 9.344 for reason 'Unknown'
+[INFO] [1661789507.860244017] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 9.400 for reason 'Unknown'
+[INFO] [1661789508.019968039] [rviz2]: Message Filter dropping message: frame 'odom' at time 9.545 for reason 'Unknown'
+[INFO] [1661789508.052240559] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 9.600 for reason 'Unknown'
+[INFO] [1661789508.212535603] [rviz2]: Message Filter dropping message: frame 'odom' at time 9.746 for reason 'Unknown'
+[INFO] [1661789508.243984371] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 9.800 for reason 'Unknown'
+[INFO] [1661789508.403883620] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789508.403954027] [rviz2]: Message Filter dropping message: frame 'odom' at time 9.947 for reason 'Unknown'
+[INFO] [1661789508.467959139] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 10.000 for reason 'Unknown'
+[INFO] [1661789508.534924849] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789508.535102512] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789508.628709878] [rviz2]: Message Filter dropping message: frame 'odom' at time 10.147 for reason 'Unknown'
+[INFO] [1661789508.660128536] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 10.200 for reason 'Unknown'
+[INFO] [1661789508.820693558] [rviz2]: Message Filter dropping message: frame 'odom' at time 10.347 for reason 'Unknown'
+[INFO] [1661789508.852035069] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 10.400 for reason 'Unknown'
+[INFO] [1661789509.012571972] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789509.012678664] [rviz2]: Message Filter dropping message: frame 'odom' at time 10.548 for reason 'Unknown'
+[INFO] [1661789509.044011535] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 10.600 for reason 'Unknown'
+[INFO] [1661789509.205021724] [rviz2]: Message Filter dropping message: frame 'odom' at time 10.744 for reason 'Unknown'
+[INFO] [1661789509.268034409] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 10.800 for reason 'Unknown'
+[INFO] [1661789509.427990188] [rviz2]: Message Filter dropping message: frame 'odom' at time 10.943 for reason 'Unknown'
+[INFO] [1661789509.460036410] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 11.000 for reason 'Unknown'
+[INFO] [1661789509.535364848] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789509.535575798] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789509.620244636] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789509.620360968] [rviz2]: Message Filter dropping message: frame 'odom' at time 11.143 for reason 'Unknown'
+[INFO] [1661789509.652002873] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 11.200 for reason 'Unknown'
+[INFO] [1661789509.812028505] [rviz2]: Message Filter dropping message: frame 'odom' at time 11.344 for reason 'Unknown'
+[INFO] [1661789509.876264380] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 11.400 for reason 'Unknown'
+[INFO] [1661789510.004823486] [rviz2]: Message Filter dropping message: frame 'odom' at time 11.544 for reason 'Unknown'
+[INFO] [1661789510.068060095] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 11.600 for reason 'Unknown'
+[INFO] [1661789510.228471139] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789510.228617999] [rviz2]: Message Filter dropping message: frame 'odom' at time 11.744 for reason 'Unknown'
+[INFO] [1661789510.260261387] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 11.800 for reason 'Unknown'
+[INFO] [1661789510.419950985] [rviz2]: Message Filter dropping message: frame 'odom' at time 11.945 for reason 'Unknown'
+[INFO] [1661789510.452132341] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 12.000 for reason 'Unknown'
+[INFO] [1661789510.535853679] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789510.536017960] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789510.612666479] [rviz2]: Message Filter dropping message: frame 'odom' at time 12.145 for reason 'Unknown'
+[INFO] [1661789510.676708047] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 12.200 for reason 'Unknown'
+[INFO] [1661789510.804602074] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789510.804688646] [rviz2]: Message Filter dropping message: frame 'odom' at time 12.345 for reason 'Unknown'
+[INFO] [1661789510.868663912] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 12.400 for reason 'Unknown'
+[INFO] [1661789511.028760473] [rviz2]: Message Filter dropping message: frame 'odom' at time 12.545 for reason 'Unknown'
+[INFO] [1661789511.060910022] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 12.600 for reason 'Unknown'
+[INFO] [1661789511.220527554] [rviz2]: Message Filter dropping message: frame 'odom' at time 12.745 for reason 'Unknown'
+[INFO] [1661789511.284729659] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 12.800 for reason 'Unknown'
+[INFO] [1661789511.412369737] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789511.412594298] [rviz2]: Message Filter dropping message: frame 'odom' at time 12.944 for reason 'Unknown'
+[INFO] [1661789511.475931193] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 13.000 for reason 'Unknown'
+[INFO] [1661789511.536273165] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789511.536427628] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789511.604363246] [rviz2]: Message Filter dropping message: frame 'odom' at time 13.143 for reason 'Unknown'
+[INFO] [1661789511.668176862] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 13.200 for reason 'Unknown'
+[INFO] [1661789511.828135455] [rviz2]: Message Filter dropping message: frame 'odom' at time 13.344 for reason 'Unknown'
+[INFO] [1661789511.859981138] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 13.400 for reason 'Unknown'
+[INFO] [1661789512.020393402] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789512.020515682] [rviz2]: Message Filter dropping message: frame 'odom' at time 13.544 for reason 'Unknown'
+[INFO] [1661789512.083977154] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 13.600 for reason 'Unknown'
+[INFO] [1661789512.212583262] [rviz2]: Message Filter dropping message: frame 'odom' at time 13.745 for reason 'Unknown'
+[INFO] [1661789512.276046642] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 13.800 for reason 'Unknown'
+[INFO] [1661789512.404761757] [rviz2]: Message Filter dropping message: frame 'odom' at time 13.946 for reason 'Unknown'
+[INFO] [1661789512.468343434] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 14.000 for reason 'Unknown'
+[INFO] [1661789512.536649460] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789512.536818936] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789512.628360498] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789512.628483489] [rviz2]: Message Filter dropping message: frame 'odom' at time 14.146 for reason 'Unknown'
+[INFO] [1661789512.660033636] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 14.200 for reason 'Unknown'
+[INFO] [1661789512.820460676] [rviz2]: Message Filter dropping message: frame 'odom' at time 14.342 for reason 'Unknown'
+[INFO] [1661789512.884042096] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 14.400 for reason 'Unknown'
+[INFO] [1661789513.012055477] [rviz2]: Message Filter dropping message: frame 'odom' at time 14.541 for reason 'Unknown'
+[INFO] [1661789513.076324131] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 14.600 for reason 'Unknown'
+[INFO] [1661789513.204740149] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789513.204887023] [rviz2]: Message Filter dropping message: frame 'odom' at time 14.742 for reason 'Unknown'
+[INFO] [1661789513.268432918] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 14.800 for reason 'Unknown'
+[INFO] [1661789513.427904800] [rviz2]: Message Filter dropping message: frame 'odom' at time 14.943 for reason 'Unknown'
+[INFO] [1661789513.491969805] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 15.000 for reason 'Unknown'
+[INFO] [1661789513.537079021] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789513.537251812] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789513.620669474] [rviz2]: Message Filter dropping message: frame 'odom' at time 15.043 for reason 'Unknown'
+[INFO] [1661789513.684591439] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 15.200 for reason 'Unknown'
+[INFO] [1661789513.812622574] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789513.812745996] [rviz2]: Message Filter dropping message: frame 'odom' at time 15.244 for reason 'Unknown'
+[INFO] [1661789513.876026441] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 15.400 for reason 'Unknown'
+[INFO] [1661789514.004733849] [rviz2]: Message Filter dropping message: frame 'odom' at time 15.445 for reason 'Unknown'
+[INFO] [1661789514.068112318] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 15.600 for reason 'Unknown'
+[INFO] [1661789514.228423077] [rviz2]: Message Filter dropping message: frame 'odom' at time 15.645 for reason 'Unknown'
+[INFO] [1661789514.292575313] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 15.800 for reason 'Unknown'
+[INFO] [1661789514.420526041] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789514.420628081] [rviz2]: Message Filter dropping message: frame 'odom' at time 15.846 for reason 'Unknown'
+[INFO] [1661789514.484887136] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 16.000 for reason 'Unknown'
+[INFO] [1661789514.537486316] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789514.537666956] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789514.612357781] [rviz2]: Message Filter dropping message: frame 'odom' at time 16.047 for reason 'Unknown'
+[INFO] [1661789514.675967559] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 16.200 for reason 'Unknown'
+[INFO] [1661789514.804451936] [rviz2]: Message Filter dropping message: frame 'odom' at time 16.247 for reason 'Unknown'
+[INFO] [1661789514.900321884] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 16.400 for reason 'Unknown'
+[INFO] [1661789515.028106258] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789515.028243782] [rviz2]: Message Filter dropping message: frame 'odom' at time 16.448 for reason 'Unknown'
+[INFO] [1661789515.092009930] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 16.600 for reason 'Unknown'
+[INFO] [1661789515.220013746] [rviz2]: Message Filter dropping message: frame 'odom' at time 16.648 for reason 'Unknown'
+[INFO] [1661789515.284691801] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 16.800 for reason 'Unknown'
+[INFO] [1661789515.411960835] [rviz2]: Message Filter dropping message: frame 'odom' at time 16.849 for reason 'Unknown'
+[INFO] [1661789515.476784354] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 17.000 for reason 'Unknown'
+[INFO] [1661789515.537900888] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789515.538080442] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789515.604477088] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789515.604586997] [rviz2]: Message Filter dropping message: frame 'odom' at time 17.050 for reason 'Unknown'
+[INFO] [1661789515.700767068] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 17.200 for reason 'Unknown'
+[INFO] [1661789515.827970517] [rviz2]: Message Filter dropping message: frame 'odom' at time 17.251 for reason 'Unknown'
+[INFO] [1661789515.892851565] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 17.400 for reason 'Unknown'
+[INFO] [1661789516.020228568] [rviz2]: Message Filter dropping message: frame 'odom' at time 17.451 for reason 'Unknown'
+[INFO] [1661789516.084553888] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 17.600 for reason 'Unknown'
+[INFO] [1661789516.212222053] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789516.212386833] [rviz2]: Message Filter dropping message: frame 'odom' at time 17.651 for reason 'Unknown'
+[INFO] [1661789516.276408197] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 17.800 for reason 'Unknown'
+[INFO] [1661789516.404530039] [rviz2]: Message Filter dropping message: frame 'odom' at time 17.847 for reason 'Unknown'
+[INFO] [1661789516.500241275] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 18.000 for reason 'Unknown'
+[INFO] [1661789516.538310532] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789516.538485988] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789516.628454850] [rviz2]: Message Filter dropping message: frame 'odom' at time 18.047 for reason 'Unknown'
+[INFO] [1661789516.692246157] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 18.200 for reason 'Unknown'
+[INFO] [1661789516.820272433] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789516.820379705] [rviz2]: Message Filter dropping message: frame 'odom' at time 18.249 for reason 'Unknown'
+[INFO] [1661789516.884104677] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 18.400 for reason 'Unknown'
+[INFO] [1661789517.012788748] [rviz2]: Message Filter dropping message: frame 'odom' at time 18.448 for reason 'Unknown'
+[INFO] [1661789517.076759178] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 18.600 for reason 'Unknown'
+[INFO] [1661789517.204066738] [rviz2]: Message Filter dropping message: frame 'odom' at time 18.648 for reason 'Unknown'
+[INFO] [1661789517.300361306] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 18.800 for reason 'Unknown'
+[INFO] [1661789517.428168735] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789517.428255503] [rviz2]: Message Filter dropping message: frame 'odom' at time 18.849 for reason 'Unknown'
+[INFO] [1661789517.492275943] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 19.000 for reason 'Unknown'
+[INFO] [1661789517.538796954] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789517.538971610] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789517.620682045] [rviz2]: Message Filter dropping message: frame 'odom' at time 19.050 for reason 'Unknown'
+[INFO] [1661789517.684709125] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 19.200 for reason 'Unknown'
+[INFO] [1661789517.811956162] [rviz2]: Message Filter dropping message: frame 'odom' at time 19.250 for reason 'Unknown'
+[INFO] [1661789517.876022272] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 19.400 for reason 'Unknown'
+[INFO] [1661789518.004311981] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789518.004414726] [rviz2]: Message Filter dropping message: frame 'odom' at time 19.450 for reason 'Unknown'
+[INFO] [1661789518.100438416] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 19.600 for reason 'Unknown'
+[INFO] [1661789518.228408267] [rviz2]: Message Filter dropping message: frame 'odom' at time 19.650 for reason 'Unknown'
+[INFO] [1661789518.292114821] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 19.800 for reason 'Unknown'
+[INFO] [1661789518.420194121] [rviz2]: Message Filter dropping message: frame 'odom' at time 19.851 for reason 'Unknown'
+[INFO] [1661789518.484516513] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 20.000 for reason 'Unknown'
+[INFO] [1661789518.539207587] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789518.539439783] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789518.612739471] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789518.612951243] [rviz2]: Message Filter dropping message: frame 'odom' at time 20.052 for reason 'Unknown'
+[INFO] [1661789518.708569377] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 20.200 for reason 'Unknown'
+[INFO] [1661789518.804007266] [rviz2]: Message Filter dropping message: frame 'odom' at time 20.252 for reason 'Unknown'
+[INFO] [1661789518.900665793] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 20.400 for reason 'Unknown'
+[INFO] [1661789519.028541444] [rviz2]: Message Filter dropping message: frame 'odom' at time 20.453 for reason 'Unknown'
+[INFO] [1661789519.092672596] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 20.600 for reason 'Unknown'
+[INFO] [1661789519.220154878] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789519.220282600] [rviz2]: Message Filter dropping message: frame 'odom' at time 20.654 for reason 'Unknown'
+[INFO] [1661789519.284564112] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 20.800 for reason 'Unknown'
+[INFO] [1661789519.412812793] [rviz2]: Message Filter dropping message: frame 'odom' at time 20.855 for reason 'Unknown'
+[INFO] [1661789519.508723609] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 21.000 for reason 'Unknown'
+[INFO] [1661789519.539700389] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789519.539866757] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789519.604019739] [rviz2]: Message Filter dropping message: frame 'odom' at time 21.056 for reason 'Unknown'
+[INFO] [1661789519.700550815] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 21.200 for reason 'Unknown'
+[INFO] [1661789519.828558059] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789519.828674900] [rviz2]: Message Filter dropping message: frame 'odom' at time 21.257 for reason 'Unknown'
+[INFO] [1661789519.892335866] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 21.400 for reason 'Unknown'
+[INFO] [1661789520.019961101] [rviz2]: Message Filter dropping message: frame 'odom' at time 21.458 for reason 'Unknown'
+[INFO] [1661789520.084764384] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 21.600 for reason 'Unknown'
+[INFO] [1661789520.212173147] [rviz2]: Message Filter dropping message: frame 'odom' at time 21.660 for reason 'Unknown'
+[INFO] [1661789520.308185158] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 21.800 for reason 'Unknown'
+[INFO] [1661789520.404697489] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789520.404843657] [rviz2]: Message Filter dropping message: frame 'odom' at time 21.861 for reason 'Unknown'
+[INFO] [1661789520.500030011] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 22.000 for reason 'Unknown'
+[INFO] [1661789520.540047695] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789520.540222763] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789520.627914192] [rviz2]: Message Filter dropping message: frame 'odom' at time 22.062 for reason 'Unknown'
+[INFO] [1661789520.692771745] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 22.200 for reason 'Unknown'
+[INFO] [1661789520.820398217] [rviz2]: Message Filter dropping message: frame 'odom' at time 22.262 for reason 'Unknown'
+[INFO] [1661789520.884407243] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 22.400 for reason 'Unknown'
+[INFO] [1661789521.012495180] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789521.013424156] [rviz2]: Message Filter dropping message: frame 'odom' at time 22.463 for reason 'Unknown'
+[INFO] [1661789521.108167752] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 22.600 for reason 'Unknown'
+[INFO] [1661789521.204089333] [rviz2]: Message Filter dropping message: frame 'odom' at time 22.664 for reason 'Unknown'
+[INFO] [1661789521.300398066] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 22.800 for reason 'Unknown'
+[INFO] [1661789521.428497223] [rviz2]: Message Filter dropping message: frame 'odom' at time 22.865 for reason 'Unknown'
+[INFO] [1661789521.491899051] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 23.000 for reason 'Unknown'
+[INFO] [1661789521.540461836] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789521.540627555] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789521.620374624] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789521.620474226] [rviz2]: Message Filter dropping message: frame 'odom' at time 23.065 for reason 'Unknown'
+[INFO] [1661789521.684475510] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 23.200 for reason 'Unknown'
+[INFO] [1661789521.812588904] [rviz2]: Message Filter dropping message: frame 'odom' at time 23.266 for reason 'Unknown'
+[INFO] [1661789521.908503220] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 23.400 for reason 'Unknown'
+[INFO] [1661789522.003988460] [rviz2]: Message Filter dropping message: frame 'odom' at time 23.466 for reason 'Unknown'
+[INFO] [1661789522.100186964] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 23.600 for reason 'Unknown'
+[INFO] [1661789522.228490832] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789522.228596010] [rviz2]: Message Filter dropping message: frame 'odom' at time 23.666 for reason 'Unknown'
+[INFO] [1661789522.292504422] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 23.801 for reason 'Unknown'
+[INFO] [1661789522.420537400] [rviz2]: Message Filter dropping message: frame 'odom' at time 23.867 for reason 'Unknown'
+[INFO] [1661789522.516667071] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 24.000 for reason 'Unknown'
+[INFO] [1661789522.540832880] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789522.541024924] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789522.612673459] [rviz2]: Message Filter dropping message: frame 'odom' at time 24.068 for reason 'Unknown'
+[INFO] [1661789522.708884514] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 24.200 for reason 'Unknown'
+[INFO] [1661789522.804436977] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789522.804534369] [rviz2]: Message Filter dropping message: frame 'odom' at time 24.268 for reason 'Unknown'
+[INFO] [1661789522.900382178] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 24.400 for reason 'Unknown'
+[INFO] [1661789523.028048487] [rviz2]: Message Filter dropping message: frame 'odom' at time 24.469 for reason 'Unknown'
+[INFO] [1661789523.092316945] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 24.600 for reason 'Unknown'
+[INFO] [1661789523.220625829] [rviz2]: Message Filter dropping message: frame 'odom' at time 24.669 for reason 'Unknown'
+[INFO] [1661789523.316298891] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 24.800 for reason 'Unknown'
+[INFO] [1661789523.412371270] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789523.412639464] [rviz2]: Message Filter dropping message: frame 'odom' at time 24.869 for reason 'Unknown'
+[INFO] [1661789523.508738103] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 25.000 for reason 'Unknown'
+[INFO] [1661789523.541261857] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789523.541428555] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789523.604682135] [rviz2]: Message Filter dropping message: frame 'odom' at time 25.071 for reason 'Unknown'
+[INFO] [1661789523.700353978] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 25.200 for reason 'Unknown'
+[INFO] [1661789523.828540284] [rviz2]: Message Filter dropping message: frame 'odom' at time 25.271 for reason 'Unknown'
+[INFO] [1661789523.924282595] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 25.400 for reason 'Unknown'
+[INFO] [1661789524.020798006] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789524.020925539] [rviz2]: Message Filter dropping message: frame 'odom' at time 25.471 for reason 'Unknown'
+[INFO] [1661789524.116200579] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 25.600 for reason 'Unknown'
+[INFO] [1661789524.212962242] [rviz2]: Message Filter dropping message: frame 'odom' at time 25.672 for reason 'Unknown'
+[INFO] [1661789524.308978781] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 25.800 for reason 'Unknown'
+[INFO] [1661789524.404251246] [rviz2]: Message Filter dropping message: frame 'odom' at time 25.871 for reason 'Unknown'
+[INFO] [1661789524.500363614] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 26.000 for reason 'Unknown'
+[INFO] [1661789524.541560043] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789524.541760886] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789524.628713440] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789524.628915844] [rviz2]: Message Filter dropping message: frame 'odom' at time 26.072 for reason 'Unknown'
+[INFO] [1661789524.724889839] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 26.200 for reason 'Unknown'
+[INFO] [1661789524.820383263] [rviz2]: Message Filter dropping message: frame 'odom' at time 26.273 for reason 'Unknown'
+[INFO] [1661789524.916564947] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 26.400 for reason 'Unknown'
+[INFO] [1661789525.012787598] [rviz2]: Message Filter dropping message: frame 'odom' at time 26.473 for reason 'Unknown'
+[INFO] [1661789525.108112522] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 26.600 for reason 'Unknown'
+[INFO] [1661789525.204310831] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789525.205106848] [rviz2]: Message Filter dropping message: frame 'odom' at time 26.674 for reason 'Unknown'
+[INFO] [1661789525.332164964] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 26.801 for reason 'Unknown'
+[INFO] [1661789525.429003212] [rviz2]: Message Filter dropping message: frame 'odom' at time 26.869 for reason 'Unknown'
+[INFO] [1661789525.524910133] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 27.000 for reason 'Unknown'
+[INFO] [1661789525.542073448] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789525.542239359] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789525.620106439] [rviz2]: Message Filter dropping message: frame 'odom' at time 27.068 for reason 'Unknown'
+[INFO] [1661789525.716381198] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 27.200 for reason 'Unknown'
+[INFO] [1661789525.812255604] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789525.812443135] [rviz2]: Message Filter dropping message: frame 'odom' at time 27.269 for reason 'Unknown'
+[INFO] [1661789525.908635419] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 27.400 for reason 'Unknown'
+[INFO] [1661789526.005000893] [rviz2]: Message Filter dropping message: frame 'odom' at time 27.470 for reason 'Unknown'
+[INFO] [1661789526.132131942] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 27.600 for reason 'Unknown'
+[INFO] [1661789526.228313557] [rviz2]: Message Filter dropping message: frame 'odom' at time 27.670 for reason 'Unknown'
+[INFO] [1661789526.324296233] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 27.800 for reason 'Unknown'
+[INFO] [1661789526.420891175] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789526.420992403] [rviz2]: Message Filter dropping message: frame 'odom' at time 27.869 for reason 'Unknown'
+[INFO] [1661789526.515973104] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 28.000 for reason 'Unknown'
+[INFO] [1661789526.542519844] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789526.542685348] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789526.612369484] [rviz2]: Message Filter dropping message: frame 'odom' at time 28.070 for reason 'Unknown'
+[INFO] [1661789526.740224357] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 28.201 for reason 'Unknown'
+[INFO] [1661789526.804035453] [rviz2]: Message Filter dropping message: frame 'odom' at time 28.268 for reason 'Unknown'
+[INFO] [1661789526.932233109] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 28.400 for reason 'Unknown'
+[INFO] [1661789527.028723816] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789527.028846948] [rviz2]: Message Filter dropping message: frame 'odom' at time 28.468 for reason 'Unknown'
+[INFO] [1661789527.124221373] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 28.600 for reason 'Unknown'
+[INFO] [1661789527.220620262] [rviz2]: Message Filter dropping message: frame 'odom' at time 28.668 for reason 'Unknown'
+[INFO] [1661789527.348476478] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 28.800 for reason 'Unknown'
+[INFO] [1661789527.412817239] [rviz2]: Message Filter dropping message: frame 'odom' at time 28.869 for reason 'Unknown'
+[INFO] [1661789527.541081732] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 29.000 for reason 'Unknown'
+[INFO] [1661789527.543010353] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789527.543280912] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789527.604397529] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789527.604528217] [rviz2]: Message Filter dropping message: frame 'odom' at time 29.068 for reason 'Unknown'
+[INFO] [1661789527.732919706] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 29.200 for reason 'Unknown'
+[INFO] [1661789527.828681654] [rviz2]: Message Filter dropping message: frame 'odom' at time 29.268 for reason 'Unknown'
+[INFO] [1661789527.924716553] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 29.400 for reason 'Unknown'
+[INFO] [1661789528.020491731] [rviz2]: Message Filter dropping message: frame 'odom' at time 29.468 for reason 'Unknown'
+[INFO] [1661789528.148859373] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 29.600 for reason 'Unknown'
+[INFO] [1661789528.212498794] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789528.213537846] [rviz2]: Message Filter dropping message: frame 'odom' at time 29.668 for reason 'Unknown'
+[INFO] [1661789528.339970904] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 29.800 for reason 'Unknown'
+[INFO] [1661789528.404968478] [rviz2]: Message Filter dropping message: frame 'odom' at time 29.868 for reason 'Unknown'
+[INFO] [1661789528.532949329] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 30.000 for reason 'Unknown'
+[INFO] [1661789528.543557265] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789528.543727155] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789528.628565713] [rviz2]: Message Filter dropping message: frame 'odom' at time 30.068 for reason 'Unknown'
+[INFO] [1661789528.724884393] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 30.200 for reason 'Unknown'
+[INFO] [1661789528.820076513] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789528.820224758] [rviz2]: Message Filter dropping message: frame 'odom' at time 30.263 for reason 'Unknown'
+[INFO] [1661789528.948552818] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 30.400 for reason 'Unknown'
+[INFO] [1661789529.012666314] [rviz2]: Message Filter dropping message: frame 'odom' at time 30.463 for reason 'Unknown'
+[INFO] [1661789529.140905040] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 30.600 for reason 'Unknown'
+[INFO] [1661789529.204057051] [rviz2]: Message Filter dropping message: frame 'odom' at time 30.664 for reason 'Unknown'
+[INFO] [1661789529.332633786] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 30.800 for reason 'Unknown'
+[INFO] [1661789529.428583381] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789529.428686005] [rviz2]: Message Filter dropping message: frame 'odom' at time 30.863 for reason 'Unknown'
+[INFO] [1661789529.544015150] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789529.544182699] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789529.556534899] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 31.000 for reason 'Unknown'
+[INFO] [1661789529.620025987] [rviz2]: Message Filter dropping message: frame 'odom' at time 31.063 for reason 'Unknown'
+[INFO] [1661789529.748072762] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 31.200 for reason 'Unknown'
+[INFO] [1661789529.812692564] [rviz2]: Message Filter dropping message: frame 'odom' at time 31.262 for reason 'Unknown'
+[INFO] [1661789529.940596836] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 31.400 for reason 'Unknown'
+[INFO] [1661789530.004588138] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789530.004717044] [rviz2]: Message Filter dropping message: frame 'odom' at time 31.462 for reason 'Unknown'
+[INFO] [1661789530.132631892] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 31.600 for reason 'Unknown'
+[INFO] [1661789530.228576516] [rviz2]: Message Filter dropping message: frame 'odom' at time 31.663 for reason 'Unknown'
+[INFO] [1661789530.356070723] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 31.800 for reason 'Unknown'
+[INFO] [1661789530.419993476] [rviz2]: Message Filter dropping message: frame 'odom' at time 31.863 for reason 'Unknown'
+[INFO] [1661789530.544444704] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789530.544634913] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789530.548765698] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 32.000 for reason 'Unknown'
+[INFO] [1661789530.612553914] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789530.613551127] [rviz2]: Message Filter dropping message: frame 'odom' at time 32.064 for reason 'Unknown'
+[INFO] [1661789530.740279920] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 32.200 for reason 'Unknown'
+[INFO] [1661789530.804020421] [rviz2]: Message Filter dropping message: frame 'odom' at time 32.264 for reason 'Unknown'
+[INFO] [1661789530.932466405] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 32.400 for reason 'Unknown'
+[INFO] [1661789531.028275920] [rviz2]: Message Filter dropping message: frame 'odom' at time 32.463 for reason 'Unknown'
+[INFO] [1661789531.156902912] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 32.600 for reason 'Unknown'
+[INFO] [1661789531.220280830] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789531.220410188] [rviz2]: Message Filter dropping message: frame 'odom' at time 32.664 for reason 'Unknown'
+[INFO] [1661789531.348557697] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 32.800 for reason 'Unknown'
+[INFO] [1661789531.412557662] [rviz2]: Message Filter dropping message: frame 'odom' at time 32.865 for reason 'Unknown'
+[INFO] [1661789531.541049818] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 33.000 for reason 'Unknown'
+[INFO] [1661789531.544908565] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789531.545108944] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789531.605099897] [rviz2]: Message Filter dropping message: frame 'odom' at time 33.064 for reason 'Unknown'
+[INFO] [1661789531.732385672] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 33.200 for reason 'Unknown'
+[INFO] [1661789531.828906097] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789531.828990398] [rviz2]: Message Filter dropping message: frame 'odom' at time 33.265 for reason 'Unknown'
+[INFO] [1661789531.956186903] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 33.400 for reason 'Unknown'
+[INFO] [1661789532.020273949] [rviz2]: Message Filter dropping message: frame 'odom' at time 33.465 for reason 'Unknown'
+[INFO] [1661789532.148089448] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 33.600 for reason 'Unknown'
+[INFO] [1661789532.212621235] [rviz2]: Message Filter dropping message: frame 'odom' at time 33.666 for reason 'Unknown'
+[INFO] [1661789532.340468573] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 33.800 for reason 'Unknown'
+[INFO] [1661789532.404127730] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789532.404229934] [rviz2]: Message Filter dropping message: frame 'odom' at time 33.866 for reason 'Unknown'
+[INFO] [1661789532.545327536] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789532.545515228] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789532.564691628] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 34.000 for reason 'Unknown'
+[INFO] [1661789532.628661298] [rviz2]: Message Filter dropping message: frame 'odom' at time 34.066 for reason 'Unknown'
+[INFO] [1661789532.756453716] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 34.200 for reason 'Unknown'
+[INFO] [1661789532.820325779] [rviz2]: Message Filter dropping message: frame 'odom' at time 34.267 for reason 'Unknown'
+[INFO] [1661789532.949099563] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 34.400 for reason 'Unknown'
+[INFO] [1661789533.012119439] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789533.012309264] [rviz2]: Message Filter dropping message: frame 'odom' at time 34.468 for reason 'Unknown'
+[INFO] [1661789533.172696394] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 34.600 for reason 'Unknown'
+[INFO] [1661789533.204309115] [rviz2]: Message Filter dropping message: frame 'odom' at time 34.668 for reason 'Unknown'
+[INFO] [1661789533.364725794] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 34.800 for reason 'Unknown'
+[INFO] [1661789533.428605952] [rviz2]: Message Filter dropping message: frame 'odom' at time 34.869 for reason 'Unknown'
+[INFO] [1661789533.545838622] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789533.546026390] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789533.556324693] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 35.000 for reason 'Unknown'
+[INFO] [1661789533.620495521] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789533.620624453] [rviz2]: Message Filter dropping message: frame 'odom' at time 34.969 for reason 'Unknown'
+[INFO] [1661789533.749020147] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 35.200 for reason 'Unknown'
+[INFO] [1661789533.812795619] [rviz2]: Message Filter dropping message: frame 'odom' at time 35.169 for reason 'Unknown'
+[INFO] [1661789533.973117359] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 35.400 for reason 'Unknown'
+[INFO] [1661789534.004231463] [rviz2]: Message Filter dropping message: frame 'odom' at time 35.369 for reason 'Unknown'
+[INFO] [1661789534.164543072] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 35.600 for reason 'Unknown'
+[INFO] [1661789534.228468661] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789534.228556983] [rviz2]: Message Filter dropping message: frame 'odom' at time 35.568 for reason 'Unknown'
+[INFO] [1661789534.356370677] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 35.800 for reason 'Unknown'
+[INFO] [1661789534.420987445] [rviz2]: Message Filter dropping message: frame 'odom' at time 35.766 for reason 'Unknown'
+[INFO] [1661789534.546301139] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789534.546494392] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789534.548824956] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 36.000 for reason 'Unknown'
+[INFO] [1661789534.612652596] [rviz2]: Message Filter dropping message: frame 'odom' at time 35.966 for reason 'Unknown'
+[INFO] [1661789534.772185520] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 36.200 for reason 'Unknown'
+[INFO] [1661789534.804514569] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789534.804649871] [rviz2]: Message Filter dropping message: frame 'odom' at time 36.167 for reason 'Unknown'
+[INFO] [1661789534.964939866] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 36.400 for reason 'Unknown'
+[INFO] [1661789535.028948049] [rviz2]: Message Filter dropping message: frame 'odom' at time 36.366 for reason 'Unknown'
+[INFO] [1661789535.156368707] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 36.600 for reason 'Unknown'
+[INFO] [1661789535.220999992] [rviz2]: Message Filter dropping message: frame 'odom' at time 36.567 for reason 'Unknown'
+[INFO] [1661789535.380640348] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 36.800 for reason 'Unknown'
+[INFO] [1661789535.412500504] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789535.413631209] [rviz2]: Message Filter dropping message: frame 'odom' at time 36.767 for reason 'Unknown'
+[INFO] [1661789535.546799513] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789535.546943891] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789535.572813064] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 37.000 for reason 'Unknown'
+[INFO] [1661789535.604963390] [rviz2]: Message Filter dropping message: frame 'odom' at time 36.968 for reason 'Unknown'
+[INFO] [1661789535.764803159] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 37.200 for reason 'Unknown'
+[INFO] [1661789535.828486107] [rviz2]: Message Filter dropping message: frame 'odom' at time 37.168 for reason 'Unknown'
+[INFO] [1661789535.956490752] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 37.400 for reason 'Unknown'
+[INFO] [1661789536.020372704] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789536.020503715] [rviz2]: Message Filter dropping message: frame 'odom' at time 37.368 for reason 'Unknown'
+[INFO] [1661789536.180661423] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 37.600 for reason 'Unknown'
+[INFO] [1661789536.212741078] [rviz2]: Message Filter dropping message: frame 'odom' at time 37.568 for reason 'Unknown'
+[INFO] [1661789536.372495988] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 37.800 for reason 'Unknown'
+[INFO] [1661789536.404108740] [rviz2]: Message Filter dropping message: frame 'odom' at time 37.769 for reason 'Unknown'
+[INFO] [1661789536.547173747] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789536.547359344] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789536.564678564] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 38.000 for reason 'Unknown'
+[INFO] [1661789536.628426821] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789536.628555175] [rviz2]: Message Filter dropping message: frame 'odom' at time 37.970 for reason 'Unknown'
+[INFO] [1661789536.756655510] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 38.200 for reason 'Unknown'
+[INFO] [1661789536.820766376] [rviz2]: Message Filter dropping message: frame 'odom' at time 38.170 for reason 'Unknown'
+[INFO] [1661789536.980497738] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 38.400 for reason 'Unknown'
+[INFO] [1661789537.012800762] [rviz2]: Message Filter dropping message: frame 'odom' at time 38.370 for reason 'Unknown'
+[INFO] [1661789537.172111736] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 38.600 for reason 'Unknown'
+[INFO] [1661789537.204488808] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789537.204650714] [rviz2]: Message Filter dropping message: frame 'odom' at time 38.571 for reason 'Unknown'
+[INFO] [1661789537.364869750] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 38.800 for reason 'Unknown'
+[INFO] [1661789537.428539567] [rviz2]: Message Filter dropping message: frame 'odom' at time 38.772 for reason 'Unknown'
+[INFO] [1661789537.547816015] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789537.548124138] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789537.588827790] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 39.000 for reason 'Unknown'
+[INFO] [1661789537.620847181] [rviz2]: Message Filter dropping message: frame 'odom' at time 38.970 for reason 'Unknown'
+[INFO] [1661789537.780325133] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 39.200 for reason 'Unknown'
+[INFO] [1661789537.812699677] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789537.812882719] [rviz2]: Message Filter dropping message: frame 'odom' at time 39.170 for reason 'Unknown'
+[INFO] [1661789537.972191248] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 39.400 for reason 'Unknown'
+[INFO] [1661789538.004066015] [rviz2]: Message Filter dropping message: frame 'odom' at time 39.370 for reason 'Unknown'
+[INFO] [1661789538.196180003] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 39.600 for reason 'Unknown'
+[INFO] [1661789538.228468141] [rviz2]: Message Filter dropping message: frame 'odom' at time 39.570 for reason 'Unknown'
+[INFO] [1661789538.388553707] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 39.800 for reason 'Unknown'
+[INFO] [1661789538.420735303] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789538.420901753] [rviz2]: Message Filter dropping message: frame 'odom' at time 39.770 for reason 'Unknown'
+[INFO] [1661789538.548413335] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789538.548643736] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789538.581153092] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 40.000 for reason 'Unknown'
+[INFO] [1661789538.612201839] [rviz2]: Message Filter dropping message: frame 'odom' at time 39.970 for reason 'Unknown'
+[INFO] [1661789538.773212147] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 40.200 for reason 'Unknown'
+[INFO] [1661789538.804547364] [rviz2]: Message Filter dropping message: frame 'odom' at time 40.170 for reason 'Unknown'
+[INFO] [1661789538.996499212] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 40.400 for reason 'Unknown'
+[INFO] [1661789539.028579824] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789539.028714240] [rviz2]: Message Filter dropping message: frame 'odom' at time 40.368 for reason 'Unknown'
+[INFO] [1661789539.188272093] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 40.600 for reason 'Unknown'
+[INFO] [1661789539.220707568] [rviz2]: Message Filter dropping message: frame 'odom' at time 40.569 for reason 'Unknown'
+[INFO] [1661789539.380760692] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 40.800 for reason 'Unknown'
+[INFO] [1661789539.412550649] [rviz2]: Message Filter dropping message: frame 'odom' at time 40.769 for reason 'Unknown'
+[INFO] [1661789539.548963362] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789539.549120683] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789539.604247053] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 41.001 for reason 'Unknown'
+[INFO] [1661789539.604355588] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789539.604420840] [rviz2]: Message Filter dropping message: frame 'odom' at time 40.968 for reason 'Unknown'
+[INFO] [1661789539.796409230] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 41.200 for reason 'Unknown'
+[INFO] [1661789539.828621657] [rviz2]: Message Filter dropping message: frame 'odom' at time 41.167 for reason 'Unknown'
+[INFO] [1661789539.988949825] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 41.400 for reason 'Unknown'
+[INFO] [1661789540.020498660] [rviz2]: Message Filter dropping message: frame 'odom' at time 41.363 for reason 'Unknown'
+[INFO] [1661789540.212296809] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 41.600 for reason 'Unknown'
+[INFO] [1661789540.212418950] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789540.212510303] [rviz2]: Message Filter dropping message: frame 'odom' at time 41.563 for reason 'Unknown'
+[INFO] [1661789540.404576547] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 41.800 for reason 'Unknown'
+[INFO] [1661789540.404700547] [rviz2]: Message Filter dropping message: frame 'odom' at time 41.764 for reason 'Unknown'
+[INFO] [1661789540.549345799] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789540.549547600] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789540.596419092] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 42.000 for reason 'Unknown'
+[INFO] [1661789540.628229402] [rviz2]: Message Filter dropping message: frame 'odom' at time 41.965 for reason 'Unknown'
+[INFO] [1661789540.788131602] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 42.200 for reason 'Unknown'
+[INFO] [1661789540.820546336] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789540.820657278] [rviz2]: Message Filter dropping message: frame 'odom' at time 42.166 for reason 'Unknown'
+[INFO] [1661789541.012614110] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 42.400 for reason 'Unknown'
+[INFO] [1661789541.013995007] [rviz2]: Message Filter dropping message: frame 'odom' at time 42.364 for reason 'Unknown'
+[INFO] [1661789541.204769258] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 42.600 for reason 'Unknown'
+[INFO] [1661789541.204849313] [rviz2]: Message Filter dropping message: frame 'odom' at time 42.563 for reason 'Unknown'
+[INFO] [1661789541.396443232] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 42.800 for reason 'Unknown'
+[INFO] [1661789541.428492749] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789541.428602663] [rviz2]: Message Filter dropping message: frame 'odom' at time 42.763 for reason 'Unknown'
+[INFO] [1661789541.549825274] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789541.550050922] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789541.588709810] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 43.000 for reason 'Unknown'
+[INFO] [1661789541.620618218] [rviz2]: Message Filter dropping message: frame 'odom' at time 42.962 for reason 'Unknown'
+[INFO] [1661789541.812462088] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 43.200 for reason 'Unknown'
+[INFO] [1661789541.813369275] [rviz2]: Message Filter dropping message: frame 'odom' at time 43.162 for reason 'Unknown'
+[INFO] [1661789542.004790382] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 43.400 for reason 'Unknown'
+[INFO] [1661789542.004925513] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789542.004996855] [rviz2]: Message Filter dropping message: frame 'odom' at time 43.362 for reason 'Unknown'
+[INFO] [1661789542.196618261] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 43.600 for reason 'Unknown'
+[INFO] [1661789542.228258978] [rviz2]: Message Filter dropping message: frame 'odom' at time 43.562 for reason 'Unknown'
+[INFO] [1661789542.421047995] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 43.800 for reason 'Unknown'
+[INFO] [1661789542.421197673] [rviz2]: Message Filter dropping message: frame 'odom' at time 43.762 for reason 'Unknown'
+[INFO] [1661789542.550759434] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789542.550935890] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789542.612722572] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 44.000 for reason 'Unknown'
+[INFO] [1661789542.613828626] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789542.613912227] [rviz2]: Message Filter dropping message: frame 'odom' at time 43.963 for reason 'Unknown'
+[INFO] [1661789542.804574809] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 44.200 for reason 'Unknown'
+[INFO] [1661789542.804697183] [rviz2]: Message Filter dropping message: frame 'odom' at time 44.163 for reason 'Unknown'
+[INFO] [1661789542.996448001] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 44.400 for reason 'Unknown'
+[INFO] [1661789543.028400092] [rviz2]: Message Filter dropping message: frame 'odom' at time 44.363 for reason 'Unknown'
+[INFO] [1661789543.220728064] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 44.600 for reason 'Unknown'
+[INFO] [1661789543.220890637] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789543.220944216] [rviz2]: Message Filter dropping message: frame 'odom' at time 44.564 for reason 'Unknown'
+[INFO] [1661789543.412400510] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 44.800 for reason 'Unknown'
+[INFO] [1661789543.412897856] [rviz2]: Message Filter dropping message: frame 'odom' at time 44.763 for reason 'Unknown'
+[INFO] [1661789543.551236343] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789543.551437510] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789543.605124652] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 45.000 for reason 'Unknown'
+[INFO] [1661789543.605302592] [rviz2]: Message Filter dropping message: frame 'odom' at time 44.963 for reason 'Unknown'
+[INFO] [1661789543.796823901] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 45.200 for reason 'Unknown'
+[INFO] [1661789543.828237262] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789543.828319070] [rviz2]: Message Filter dropping message: frame 'odom' at time 45.163 for reason 'Unknown'
+[INFO] [1661789544.020822657] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 45.400 for reason 'Unknown'
+[INFO] [1661789544.020936966] [rviz2]: Message Filter dropping message: frame 'odom' at time 45.363 for reason 'Unknown'
+[INFO] [1661789544.212624578] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 45.600 for reason 'Unknown'
+[INFO] [1661789544.213631082] [rviz2]: Message Filter dropping message: frame 'odom' at time 45.563 for reason 'Unknown'
+[INFO] [1661789544.404355403] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 45.800 for reason 'Unknown'
+[INFO] [1661789544.404472135] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789544.404529128] [rviz2]: Message Filter dropping message: frame 'odom' at time 45.763 for reason 'Unknown'
+[INFO] [1661789544.551672434] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789544.551836421] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789544.628362795] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 46.000 for reason 'Unknown'
+[INFO] [1661789544.628475321] [rviz2]: Message Filter dropping message: frame 'odom' at time 45.964 for reason 'Unknown'
+[INFO] [1661789544.820292782] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 46.200 for reason 'Unknown'
+[INFO] [1661789544.820408614] [rviz2]: Message Filter dropping message: frame 'odom' at time 46.165 for reason 'Unknown'
+[INFO] [1661789545.012223989] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 46.400 for reason 'Unknown'
+[INFO] [1661789545.012357576] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789545.012446321] [rviz2]: Message Filter dropping message: frame 'odom' at time 46.365 for reason 'Unknown'
+[INFO] [1661789545.204881203] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 46.600 for reason 'Unknown'
+[INFO] [1661789545.205007791] [rviz2]: Message Filter dropping message: frame 'odom' at time 46.565 for reason 'Unknown'
+[INFO] [1661789545.428132648] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 46.800 for reason 'Unknown'
+[INFO] [1661789545.428252215] [rviz2]: Message Filter dropping message: frame 'odom' at time 46.764 for reason 'Unknown'
+[INFO] [1661789545.552093449] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789545.552335697] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789545.620421300] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 47.000 for reason 'Unknown'
+[INFO] [1661789545.620583298] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789545.620671986] [rviz2]: Message Filter dropping message: frame 'odom' at time 46.964 for reason 'Unknown'
+[INFO] [1661789545.812843509] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 47.200 for reason 'Unknown'
+[INFO] [1661789545.814551372] [rviz2]: Message Filter dropping message: frame 'odom' at time 47.164 for reason 'Unknown'
+[INFO] [1661789546.004627222] [rviz2]: Message Filter dropping message: frame 'odom' at time 47.365 for reason 'Unknown'
+[INFO] [1661789546.037023587] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 47.400 for reason 'Unknown'
+[INFO] [1661789546.228348869] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 47.600 for reason 'Unknown'
+[INFO] [1661789546.228486579] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789546.228557181] [rviz2]: Message Filter dropping message: frame 'odom' at time 47.565 for reason 'Unknown'
+[INFO] [1661789546.420230799] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 47.800 for reason 'Unknown'
+[INFO] [1661789546.420361046] [rviz2]: Message Filter dropping message: frame 'odom' at time 47.764 for reason 'Unknown'
+[INFO] [1661789546.552648989] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789546.552828252] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789546.612316184] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 48.000 for reason 'Unknown'
+[INFO] [1661789546.612473098] [rviz2]: Message Filter dropping message: frame 'odom' at time 47.961 for reason 'Unknown'
+[INFO] [1661789546.804353221] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789546.804595687] [rviz2]: Message Filter dropping message: frame 'odom' at time 48.160 for reason 'Unknown'
+[INFO] [1661789546.836965482] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 48.200 for reason 'Unknown'
+[INFO] [1661789547.028463933] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 48.400 for reason 'Unknown'
+[INFO] [1661789547.028572727] [rviz2]: Message Filter dropping message: frame 'odom' at time 48.360 for reason 'Unknown'
+[INFO] [1661789547.220539638] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 48.600 for reason 'Unknown'
+[INFO] [1661789547.220656187] [rviz2]: Message Filter dropping message: frame 'odom' at time 48.562 for reason 'Unknown'
+[INFO] [1661789547.413027183] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 48.800 for reason 'Unknown'
+[INFO] [1661789547.413538067] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789547.413710974] [rviz2]: Message Filter dropping message: frame 'odom' at time 48.762 for reason 'Unknown'
+[INFO] [1661789547.553133802] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789547.553277782] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789547.605192861] [rviz2]: Message Filter dropping message: frame 'odom' at time 48.963 for reason 'Unknown'
+[INFO] [1661789547.636398934] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 49.000 for reason 'Unknown'
+[INFO] [1661789547.828299743] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 49.200 for reason 'Unknown'
+[INFO] [1661789547.828408208] [rviz2]: Message Filter dropping message: frame 'odom' at time 49.163 for reason 'Unknown'
+[INFO] [1661789548.021147492] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789548.021390540] [rviz2]: Message Filter dropping message: frame 'odom' at time 49.363 for reason 'Unknown'
+[INFO] [1661789548.052540635] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 49.400 for reason 'Unknown'
+[INFO] [1661789548.213074347] [rviz2]: Message Filter dropping message: frame 'odom' at time 49.564 for reason 'Unknown'
+[INFO] [1661789548.245007043] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 49.600 for reason 'Unknown'
+[INFO] [1661789548.404487742] [rviz2]: Message Filter dropping message: frame 'odom' at time 49.766 for reason 'Unknown'
+[INFO] [1661789548.436645334] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 49.800 for reason 'Unknown'
+[INFO] [1661789548.553556104] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789548.553736761] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789548.628318434] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 50.000 for reason 'Unknown'
+[INFO] [1661789548.628446197] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789548.628514161] [rviz2]: Message Filter dropping message: frame 'odom' at time 49.966 for reason 'Unknown'
+[INFO] [1661789548.820585674] [rviz2]: Message Filter dropping message: frame 'odom' at time 50.165 for reason 'Unknown'
+[INFO] [1661789548.852520227] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 50.200 for reason 'Unknown'
+[INFO] [1661789549.012417547] [rviz2]: Message Filter dropping message: frame 'odom' at time 50.365 for reason 'Unknown'
+[INFO] [1661789549.044500384] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 50.400 for reason 'Unknown'
+[INFO] [1661789549.204105592] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789549.204261655] [rviz2]: Message Filter dropping message: frame 'odom' at time 50.566 for reason 'Unknown'
+[INFO] [1661789549.236725645] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 50.600 for reason 'Unknown'
+[INFO] [1661789549.428304625] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 50.800 for reason 'Unknown'
+[INFO] [1661789549.428424504] [rviz2]: Message Filter dropping message: frame 'odom' at time 50.767 for reason 'Unknown'
+[INFO] [1661789549.553969212] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789549.554154047] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789549.620282563] [rviz2]: Message Filter dropping message: frame 'odom' at time 50.964 for reason 'Unknown'
+[INFO] [1661789549.653102712] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 51.001 for reason 'Unknown'
+[INFO] [1661789549.812704532] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789549.814280853] [rviz2]: Message Filter dropping message: frame 'odom' at time 51.158 for reason 'Unknown'
+[INFO] [1661789549.844167982] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 51.200 for reason 'Unknown'
+[INFO] [1661789550.004886158] [rviz2]: Message Filter dropping message: frame 'odom' at time 51.358 for reason 'Unknown'
+[INFO] [1661789550.037077308] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 51.401 for reason 'Unknown'
+[INFO] [1661789550.228688126] [rviz2]: Message Filter dropping message: frame 'odom' at time 51.558 for reason 'Unknown'
+[INFO] [1661789550.260900144] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 51.600 for reason 'Unknown'
+[INFO] [1661789550.420966767] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789550.421080500] [rviz2]: Message Filter dropping message: frame 'odom' at time 51.757 for reason 'Unknown'
+[INFO] [1661789550.452421406] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 51.800 for reason 'Unknown'
+[INFO] [1661789550.554407426] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789550.554571355] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789550.613017360] [rviz2]: Message Filter dropping message: frame 'odom' at time 51.957 for reason 'Unknown'
+[INFO] [1661789550.644717066] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 52.000 for reason 'Unknown'
+[INFO] [1661789550.805103595] [rviz2]: Message Filter dropping message: frame 'odom' at time 52.157 for reason 'Unknown'
+[INFO] [1661789550.836869668] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 52.200 for reason 'Unknown'
+[INFO] [1661789551.028336798] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789551.028473829] [rviz2]: Message Filter dropping message: frame 'odom' at time 52.358 for reason 'Unknown'
+[INFO] [1661789551.060828071] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 52.400 for reason 'Unknown'
+[INFO] [1661789551.220327441] [rviz2]: Message Filter dropping message: frame 'odom' at time 52.559 for reason 'Unknown'
+[INFO] [1661789551.252445486] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 52.600 for reason 'Unknown'
+[INFO] [1661789551.412759914] [rviz2]: Message Filter dropping message: frame 'odom' at time 52.761 for reason 'Unknown'
+[INFO] [1661789551.445031795] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 52.800 for reason 'Unknown'
+[INFO] [1661789551.554885479] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789551.555049083] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789551.605056483] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789551.605229831] [rviz2]: Message Filter dropping message: frame 'odom' at time 52.961 for reason 'Unknown'
+[INFO] [1661789551.668300485] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 53.000 for reason 'Unknown'
+[INFO] [1661789551.828911207] [rviz2]: Message Filter dropping message: frame 'odom' at time 53.162 for reason 'Unknown'
+[INFO] [1661789551.860826759] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 53.200 for reason 'Unknown'
+[INFO] [1661789552.020413848] [rviz2]: Message Filter dropping message: frame 'odom' at time 53.363 for reason 'Unknown'
+[INFO] [1661789552.052863409] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 53.400 for reason 'Unknown'
+[INFO] [1661789552.212134065] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789552.212259379] [rviz2]: Message Filter dropping message: frame 'odom' at time 53.565 for reason 'Unknown'
+[INFO] [1661789552.244501187] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 53.600 for reason 'Unknown'
+[INFO] [1661789552.404073927] [rviz2]: Message Filter dropping message: frame 'odom' at time 53.760 for reason 'Unknown'
+[INFO] [1661789552.468701327] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 53.800 for reason 'Unknown'
+[INFO] [1661789552.555272692] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789552.555448695] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789552.628442410] [rviz2]: Message Filter dropping message: frame 'odom' at time 53.960 for reason 'Unknown'
+[INFO] [1661789552.660341324] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 54.000 for reason 'Unknown'
+[INFO] [1661789552.820445768] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789552.820564938] [rviz2]: Message Filter dropping message: frame 'odom' at time 54.159 for reason 'Unknown'
+[INFO] [1661789552.852118879] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 54.200 for reason 'Unknown'
+[INFO] [1661789553.012957197] [rviz2]: Message Filter dropping message: frame 'odom' at time 54.360 for reason 'Unknown'
+[INFO] [1661789553.045089244] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 54.400 for reason 'Unknown'
+[INFO] [1661789553.204259408] [rviz2]: Message Filter dropping message: frame 'odom' at time 54.561 for reason 'Unknown'
+[INFO] [1661789553.267978310] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 54.600 for reason 'Unknown'
+[INFO] [1661789553.428672358] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789553.428831011] [rviz2]: Message Filter dropping message: frame 'odom' at time 54.760 for reason 'Unknown'
+[INFO] [1661789553.460809102] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 54.800 for reason 'Unknown'
+[INFO] [1661789553.555752752] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789553.555925666] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789553.620860672] [rviz2]: Message Filter dropping message: frame 'odom' at time 54.959 for reason 'Unknown'
+[INFO] [1661789553.652679743] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 55.000 for reason 'Unknown'
+[INFO] [1661789553.812723084] [rviz2]: Message Filter dropping message: frame 'odom' at time 55.159 for reason 'Unknown'
+[INFO] [1661789553.876836800] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 55.200 for reason 'Unknown'
+[INFO] [1661789554.004571041] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789554.004707407] [rviz2]: Message Filter dropping message: frame 'odom' at time 55.260 for reason 'Unknown'
+[INFO] [1661789554.069213963] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 55.400 for reason 'Unknown'
+[INFO] [1661789554.228943632] [rviz2]: Message Filter dropping message: frame 'odom' at time 55.461 for reason 'Unknown'
+[INFO] [1661789554.260823504] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 55.600 for reason 'Unknown'
+[INFO] [1661789554.420919179] [rviz2]: Message Filter dropping message: frame 'odom' at time 55.662 for reason 'Unknown'
+[INFO] [1661789554.452329003] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 55.800 for reason 'Unknown'
+[INFO] [1661789554.556106490] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789554.556282613] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789554.612450342] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789554.612588453] [rviz2]: Message Filter dropping message: frame 'odom' at time 55.861 for reason 'Unknown'
+[INFO] [1661789554.676361842] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 56.000 for reason 'Unknown'
+[INFO] [1661789554.804510139] [rviz2]: Message Filter dropping message: frame 'odom' at time 56.061 for reason 'Unknown'
+[INFO] [1661789554.868657358] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 56.200 for reason 'Unknown'
+[INFO] [1661789555.028320344] [rviz2]: Message Filter dropping message: frame 'odom' at time 56.261 for reason 'Unknown'
+[INFO] [1661789555.060327403] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 56.400 for reason 'Unknown'
+[INFO] [1661789555.220384123] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789555.220525144] [rviz2]: Message Filter dropping message: frame 'odom' at time 56.462 for reason 'Unknown'
+[INFO] [1661789555.284677194] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 56.600 for reason 'Unknown'
+[INFO] [1661789555.412423601] [rviz2]: Message Filter dropping message: frame 'odom' at time 56.663 for reason 'Unknown'
+[INFO] [1661789555.476474413] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 56.800 for reason 'Unknown'
+[INFO] [1661789555.556474097] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789555.556677888] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789555.604926864] [rviz2]: Message Filter dropping message: frame 'odom' at time 56.863 for reason 'Unknown'
+[INFO] [1661789555.668444889] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 57.000 for reason 'Unknown'
+[INFO] [1661789555.828740231] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789555.828877071] [rviz2]: Message Filter dropping message: frame 'odom' at time 57.064 for reason 'Unknown'
+[INFO] [1661789555.860607573] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 57.200 for reason 'Unknown'
+[INFO] [1661789556.021203346] [rviz2]: Message Filter dropping message: frame 'odom' at time 57.265 for reason 'Unknown'
+[INFO] [1661789556.084464376] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 57.400 for reason 'Unknown'
+[INFO] [1661789556.212539432] [rviz2]: Message Filter dropping message: frame 'odom' at time 57.464 for reason 'Unknown'
+[INFO] [1661789556.276308358] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 57.600 for reason 'Unknown'
+[INFO] [1661789556.404782955] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789556.404927683] [rviz2]: Message Filter dropping message: frame 'odom' at time 57.664 for reason 'Unknown'
+[INFO] [1661789556.468330312] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 57.800 for reason 'Unknown'
+[INFO] [1661789556.557043298] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789556.557229948] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789556.628467888] [rviz2]: Message Filter dropping message: frame 'odom' at time 57.863 for reason 'Unknown'
+[INFO] [1661789556.661050059] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 58.000 for reason 'Unknown'
+[INFO] [1661789556.820536697] [rviz2]: Message Filter dropping message: frame 'odom' at time 58.064 for reason 'Unknown'
+[INFO] [1661789556.884548956] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 58.201 for reason 'Unknown'
+[INFO] [1661789557.013624899] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789557.017291525] [rviz2]: Message Filter dropping message: frame 'odom' at time 58.262 for reason 'Unknown'
+[INFO] [1661789557.076069168] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 58.400 for reason 'Unknown'
+[INFO] [1661789557.204778918] [rviz2]: Message Filter dropping message: frame 'odom' at time 58.463 for reason 'Unknown'
+[INFO] [1661789557.268905825] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 58.600 for reason 'Unknown'
+[INFO] [1661789557.429654434] [rviz2]: Message Filter dropping message: frame 'odom' at time 58.663 for reason 'Unknown'
+[INFO] [1661789557.492591756] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 58.800 for reason 'Unknown'
+[INFO] [1661789557.557438207] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789557.557609524] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789557.620885164] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789557.620970266] [rviz2]: Message Filter dropping message: frame 'odom' at time 58.862 for reason 'Unknown'
+[INFO] [1661789557.684677722] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 59.000 for reason 'Unknown'
+[INFO] [1661789557.813124817] [rviz2]: Message Filter dropping message: frame 'odom' at time 59.061 for reason 'Unknown'
+[INFO] [1661789557.876414714] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 59.200 for reason 'Unknown'
+[INFO] [1661789558.004727698] [rviz2]: Message Filter dropping message: frame 'odom' at time 59.261 for reason 'Unknown'
+[INFO] [1661789558.100672862] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 59.400 for reason 'Unknown'
+[INFO] [1661789558.228832309] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789558.229022407] [rviz2]: Message Filter dropping message: frame 'odom' at time 59.461 for reason 'Unknown'
+[INFO] [1661789558.293065001] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 59.600 for reason 'Unknown'
+[INFO] [1661789558.420890302] [rviz2]: Message Filter dropping message: frame 'odom' at time 59.662 for reason 'Unknown'
+[INFO] [1661789558.485077708] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 59.800 for reason 'Unknown'
+[INFO] [1661789558.557901413] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789558.558094479] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789558.613293431] [rviz2]: Message Filter dropping message: frame 'odom' at time 59.862 for reason 'Unknown'
+[INFO] [1661789558.708699357] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 60.000 for reason 'Unknown'
+[INFO] [1661789558.804033668] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789558.804100537] [rviz2]: Message Filter dropping message: frame 'odom' at time 60.063 for reason 'Unknown'
+[INFO] [1661789558.900208380] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 60.200 for reason 'Unknown'
+[INFO] [1661789559.028610609] [rviz2]: Message Filter dropping message: frame 'odom' at time 60.263 for reason 'Unknown'
+[INFO] [1661789559.093168893] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 60.400 for reason 'Unknown'
+[INFO] [1661789559.220672601] [rviz2]: Message Filter dropping message: frame 'odom' at time 60.461 for reason 'Unknown'
+[INFO] [1661789559.285311559] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 60.601 for reason 'Unknown'
+[INFO] [1661789559.412824424] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789559.414224071] [rviz2]: Message Filter dropping message: frame 'odom' at time 60.659 for reason 'Unknown'
+[INFO] [1661789559.509161936] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 60.801 for reason 'Unknown'
+[INFO] [1661789559.558238407] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789559.558406744] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789559.604945855] [rviz2]: Message Filter dropping message: frame 'odom' at time 60.856 for reason 'Unknown'
+[INFO] [1661789559.700971384] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 61.000 for reason 'Unknown'
+[INFO] [1661789559.829149134] [rviz2]: Message Filter dropping message: frame 'odom' at time 61.054 for reason 'Unknown'
+[INFO] [1661789559.892492364] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 61.200 for reason 'Unknown'
+[INFO] [1661789560.020668171] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789560.020784106] [rviz2]: Message Filter dropping message: frame 'odom' at time 61.254 for reason 'Unknown'
+[INFO] [1661789560.084739168] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 61.400 for reason 'Unknown'
+[INFO] [1661789560.212982655] [rviz2]: Message Filter dropping message: frame 'odom' at time 61.454 for reason 'Unknown'
+[INFO] [1661789560.308442398] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 61.600 for reason 'Unknown'
+[INFO] [1661789560.404664490] [rviz2]: Message Filter dropping message: frame 'odom' at time 61.654 for reason 'Unknown'
+[INFO] [1661789560.500644576] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 61.800 for reason 'Unknown'
+[INFO] [1661789560.558584163] [rviz2]: Waiting for the lifecycle_manager_navigation/is_active service...
+[INFO] [1661789560.558702771] [rviz2]: Sending lifecycle_manager_navigation/is_active request
+[INFO] [1661789560.628314700] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789560.628454251] [rviz2]: Message Filter dropping message: frame 'odom' at time 61.854 for reason 'Unknown'
+[INFO] [1661789560.692958345] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 62.000 for reason 'Unknown'
+[INFO] [1661789560.820698977] [rviz2]: Message Filter dropping message: frame 'odom' at time 62.055 for reason 'Unknown'
+[INFO] [1661789560.884559782] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 62.200 for reason 'Unknown'
+[INFO] [1661789561.012779469] [rviz2]: Message Filter dropping message: frame 'odom' at time 62.254 for reason 'Unknown'
+[INFO] [1661789561.108755875] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 62.400 for reason 'Unknown'
+[INFO] [1661789561.205226978] [rviz2]: Message Filter dropping message: frame 'odom' at time 0.000 for reason 'Unknown'
+[INFO] [1661789561.205406714] [rviz2]: Message Filter dropping message: frame 'odom' at time 62.454 for reason 'Unknown'
+[INFO] [1661789561.300933123] [rviz2]: Message Filter dropping message: frame 'base_scan' at time 62.600 for reason 'Unknown'
+[INFO] [1661789561.362173038] [rclcpp]: signal_handler(signal_value=2)

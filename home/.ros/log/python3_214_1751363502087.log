@@ -1,0 +1,2 @@
+[INFO] [1751363502.096678768] [rosbag2_storage]: Opened database 'lidar_data_three_person//lidar_data_three_person_0.db3' for READ_ONLY.
+[INFO] [1751363503.416108507] [rclcpp]: signal_handler(signal_value=2)
