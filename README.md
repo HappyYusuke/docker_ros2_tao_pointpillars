@@ -6,17 +6,23 @@
 # Installation
 本リポジトリをクローンする。
 
-```
+```bash
 git clone https://github.com/HappyYusuke/docker_ros2_tao_pointpillars.git
 ```
 
 </br>
 
-テスト用のrosbagを以下URLからホームディレクトリへダウンロードする。</br>
-https://kanazawa-it.box.com/s/0aja3txig7wyjgq5p30m7gs3becye8k7
+zip形式のファイルを以下URLからダウンロードする。</br>
+https://kanazawa-it.box.com/s/tuikkndo4hfgks5x6o0am811my0cdz8g
 
-```
-mv ~/Downloads/large_files_docker_ReID3D2025.zip ~/
+解凍しホームディレクトリへ移動。
+```bash
+# 解凍
+cd ~/Downloads
+unzip ros2_bags.zip
+
+# ホームディレクトリへ移動
+mv ros2_bags.zip ~/
 ```
 
 </br>
@@ -103,31 +109,5 @@ ros2 bag play lidar_data_three_person
 ```
 
 </br>
-rviz2を起動。
 
-```
-rviz2
-```
-
-</br>
-
-rviz2を起動後、「Fixed Frame」を`livox_frame`に変更してください。
-
-<img src=fig/2.jpg width=500>
-
-</br>
-
-適宜トピックを追加してrviz2で認識できているか確認します。
-
-</br>
-
-# TODO
-* ~~本ブランチのREADMEのInstallationの再現性を検証する~~
-* 認識が不安定なので、[PointPillars](https://github.com/zhulf0804/PointPillars.git)も試す
-  - PointPillarsの環境構築
-  - PointPillarsで学習
-  - PointPillarsで推論
-  - ros2_tao_pointpillarsとPointPillarsの比較
-  - 精度が高い方を実装する
-* with_pointpillarsブランチにマージする
-* ReID3DとPointPillarsで再識別の精度を検証する
+以上の手順で、認識している様子を確認できます。
