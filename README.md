@@ -1,10 +1,5 @@
 # docker_ros2_tao_pointpillars
-本リポジトリは、3D-LiDAR（[LIVOX MID-360](https://www.livoxtech.com/jp/mid-360)）と[ReID3D](https://github.com/GWxuan/ReID3D.git)を用いて人追従を可能にしたDocker環境です。
-
-Branch features
-* TensorRTの環境が整備されたDocker ImageをベースにDockerfileを作成
-* ros2_tao_pointpillarsとfollow_me_by_3d_lidarのみ
-* with_pointpillarsブランチにマージ予定
+本リポジトリは、3D-LiDAR（[LIVOX MID-360](https://www.livoxtech.com/jp/mid-360)）と[ros2_tao_pointpillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git)を用いて人検出を提供するDocker環境です。
 
 </br>
 
@@ -12,12 +7,12 @@ Branch features
 本リポジトリをクローンする。
 
 ```
-git clone -b using_other_docker https://github.com/HappyYusuke/docker_ReID3D2025.git
+git clone https://github.com/HappyYusuke/docker_ros2_tao_pointpillars.git
 ```
 
 </br>
 
-zip形式のファイルを以下URLからホームディレクトリへダウンロードする。</br>
+テスト用のrosbagを以下URLからホームディレクトリへダウンロードする。</br>
 https://kanazawa-it.box.com/s/0aja3txig7wyjgq5p30m7gs3becye8k7
 
 ```
