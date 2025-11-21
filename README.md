@@ -33,6 +33,16 @@ Docker Imageをロードする。
 docker load < ~/docker_ros2_tao_pointpillars/docker_ros2_tao_pointpillars.tar.gz
 ```
 
+> [!NOTE]
+> Dockerがインストールされていない場合
+> ```bash
+> 本リポジトリに移動
+> cd ~/docker_ros2_tao_pointpillars
+>
+> # Dockerをインストール
+> ./install-docker.sh
+> ```
+
 </br>
 
 Dockerを起動する。
