@@ -27,11 +27,10 @@ mv ros2_bags.zip ~/
 
 </br>
 
-Dockerfileからビルドする。
+Docker Imageをロードする。
 
-```
-cd ~/docker_ReID3D2025/
-./build-docker-image.sh
+```bash
+docker load < docker_ros2_tao_pointpillars.tar.gz
 ```
 
 </br>
@@ -45,27 +44,27 @@ Dockerを起動すると、プロンプトの@以降がros2になる。
 
 </br>
 
-colcon_ws/srcに、[ros2_tao_pointpillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git)と[follow_me_by_3d_lidar](https://github.com/HappyYusuke/follow_me_by_3d_lidar.git)をクローンしビルドする。
+colcon_ws/srcに、[ros2_tao_pointpillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git)と[reid_pillar_hf](https://github.com/HappyYusuke/reid_pillar_hf.git)をクローンしビルドする。
 
 ```
 # リポジトリのクローン
 mkdir -p ~/colcon_ws/src && cd ~/colcon_ws/src
 git clone https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git
-git clone https://github.com/HappyYusuke/follow_me_by_3d_lidar.git
+git clone https://github.com/HappyYusuke/reid_pillar_hf.git
 
 # ファイルを置換
 rm ~/colcon_ws/src/ros2_tao_pointpillars/launch/pp_infer_launch.py
 rm ~/colcon_ws/src/ros2_tao_pointpillars/package.xml
-cp ~/colcon_ws/src/follow_me_by_3d_lidar/external_files/pp_infer_launch.py ~/colcon_ws/src/ros2_tao_pointpillars/launch/
-cp ~/colcon_ws/src/follow_me_by_3d_lidar/external_files/point_cloud2_iterator.hpp ~/colcon_ws/src/ros2_tao_pointpillars/include/pp_infer
-cp ~/colcon_ws/src/follow_me_by_3d_lidar/external_files/package.xml ~/colcon_ws/src/ros2_tao_pointpillars/
+cp ~/colcon_ws/src/reid_pillar_hf/external_files/pp_infer_launch.py ~/colcon_ws/src/ros2_tao_pointpillars/launch/
+cp ~/colcon_ws/src/reid_pillar_hf/external_files/point_cloud2_iterator.hpp ~/colcon_ws/src/ros2_tao_pointpillars/include/pp_infer
+cp ~/colcon_ws/src/reid_pillar_hf/external_files/package.xml ~/colcon_ws/src/ros2_tao_pointpillars/
 
 # 依存関係のパッケージをダウンロード
 cd ~/colcon_ws
 rosdep update
 rosdep install -i --from-path src --rosdistro foxy -y --ignore-src
 
-# 学習済みモデルをダウンロード
+# ros2_tao_pointpillarsの学習済みモデルをダウンロード
 wget --content-disposition 'https://api.ngc.nvidia.com/v2/models/org/nvidia/team/tao/pointpillarnet/deployable_v1.1/files?redirect=true&path=pointpillars_deployable.onnx' -O ~/colcon_ws/src/ros2_tao_pointpillars/include/pointpillars_deployable.onnx
 
 # ビルド
@@ -85,10 +84,10 @@ Dockerを起動。
 
 </br>
 
-follow_me_by_3d_lidarを起動。
+reid_pillar_hfを起動。
 
 ```
-ros2 run follow_me_by_3d_lidar detection_3d_array_rviz
+ros2 run reid_pillar_hf rviz_pointpillars_launch.py
 ```
 
 </br>
