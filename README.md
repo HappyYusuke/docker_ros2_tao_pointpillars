@@ -19,10 +19,10 @@ https://kanazawa-it.box.com/s/tuikkndo4hfgks5x6o0am811my0cdz8g
 ```bash
 # 解凍
 cd ~/Downloads
-unzip ros2_bags.zip
+unzip docker_ros2_tao_pointpillars.zip
 
 # ホームディレクトリへ移動
-mv ros2_bags.zip ~/
+mv docker_ros2_tao_pointpillars ~/
 ```
 
 </br>
@@ -30,7 +30,7 @@ mv ros2_bags.zip ~/
 Docker Imageをロードする。
 
 ```bash
-docker load < docker_ros2_tao_pointpillars.tar.gz
+docker load < ~/docker_ros2_tao_pointpillars/docker_ros2_tao_pointpillars.tar.gz
 ```
 
 </br>
@@ -78,15 +78,26 @@ source ~/colcon_ws/install/setup.bash
 ### ros2 bagを使ってros2_tao_pointpillarsを試す
 Dockerを起動。
 
-```
+```bash
 ./run-docker-containter.sh
 ```
 
 </br>
 
+`terminator`を起動
+```bash
+terminator
+```
+
+`terminator`は以下の通りターミナルを分割できます。
+- ctrl+shift+oで上下分割
+- ctrl+shift+eで左右分割
+- ctrl+shift+nや+pで画面間移動
+- ctrl+shift+wで画面を一つ閉じる
+
 reid_pillar_hfを起動。
 
-```
+```bash
 ros2 run reid_pillar_hf rviz_pointpillars_launch.py
 ```
 
@@ -94,15 +105,15 @@ ros2 run reid_pillar_hf rviz_pointpillars_launch.py
 
 pointpillarsを起動
 
-```
+```bash
 ros2 launch pp_infer pp_infer_launch.py
 ```
 
 </br>
 
-ros2bagを再生
+rosbag2を再生
 
-```
+```bash
 cd ros2_bags
 ros2 bag play lidar_data_three_person
 ```
