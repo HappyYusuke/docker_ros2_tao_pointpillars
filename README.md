@@ -39,7 +39,7 @@ mv ros2_bags ~/docker_ros2_tao_pointpillars/home
 
 </br>
 
-Dockerを起動する。
+Dockerを起動する。<br>
 Docker Imageのロードが始まり、コンテナが起動するとプロンプトの@以降がros2になる。
 
 ```
