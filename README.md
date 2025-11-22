@@ -125,3 +125,68 @@ ros2 bag play lidar_data_three_person
 </br>
 
 以上の手順で、認識している様子を確認できます。
+
+</br>
+
+### 実機を使ってros2_tao_pointpillrasを試す
+
+イーサネットを設定します。
+1. PCの設定を開き、「Network」を選択してください。
+2. 「Wired」の「＋」をクリックしてください。
+3. 「IPv4」タブを選択してください。
+4. 「IPv4 Method」の「Manual」を選択してください。
+5. 「Addresses」を以下のように設定してください。
+
+    - Address：192.168.1.50
+    - Netmask：255.255.255.0
+    - Gateway：192.168.1.1
+
+6. ウィンドウ右上の「Add」をクリックしてください。
+
+<img src=fig/1.jpg width=500>
+
+</br>
+
+`livox_ros_driver2`の設定ファイルを書き換えます。
+
+1. `./run-docker-containter.sh`でDockerを起動します。
+   
+3. `MID360_config.json`を開きます。
+```
+vim ~/docker_ReID3D2025/home/colcon_ws/src/livox_ros_driver2/config/MID360_config.json
+```
+2. `host_net_info`内のipを`192.168.1.50`に変更します。具体的な変更箇所は以下の通りです。
+
+    - `"cmd_data_ip" : "192.168.1.50",`
+    - `"push_msg_ip": "192.168.1.50",`
+    - `"point_data_ip": "192.168.1.50",`
+    - `"imu_data_ip" : "192.168.1.50",`
+
+3. `lidar_configs`のipを以下の手順で変更します。
+
+    - お手元のMID-360のシリアル番号末尾2桁をご確認ください（ここでは例として`15`とします）。
+    - MID-360は`192.168.1.1XX/24`のいずれかに設定されます。（`192.168.1.115`となります）。
+    - `ping 192.168.1.1XX`を実行し、応答があることを確認します。
+    - 応答が確認できたら、`lidar_configs`のipアドレスを変更してください。
+
+4. `./build.sh ROS2`でビルド後、`source ~/colcon_ws/install/setup.bash`を実行します。
+
+</br>
+
+MID-360のlaunchを実行します。
+
+```
+ros2 launch livox_ros_driver2 rviz_MID360_launch.py
+```
+
+</br>
+
+reid_pillar_hfを実行します。
+
+```
+ros2 launch reid_pillar_hf rviz_pointpillars_launch.py
+```
+
+</br>
+
+rviz2で適宜認識の様子を確認してください。
