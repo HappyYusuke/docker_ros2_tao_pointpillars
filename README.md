@@ -180,7 +180,7 @@ vim ~/colcon_ws/src/livox_ros_driver2/config/MID360_config.json
 
 MID-360のlaunchを実行します。
 
-```
+```bash
 ros2 launch livox_ros_driver2 rviz_MID360_launch.py
 ```
 
@@ -188,8 +188,16 @@ ros2 launch livox_ros_driver2 rviz_MID360_launch.py
 
 reid_pillar_hfを実行します。
 
-```
+```bash
 ros2 launch reid_pillar_hf rviz_pointpillars_launch.py
+```
+
+</br>
+
+ros2_tao_pointpillarsを実行します。
+
+```bash
+ros2 launch pp_infer pp_infer_launch.py
 ```
 
 </br>
