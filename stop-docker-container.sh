@@ -1,3 +1,3 @@
 #!/bin/bash
-DOCKER_CONTAINER_NAME=reid3d_ready
+DOCKER_CONTAINER_NAME=ros2_tao_pointpillars
 docker stop $DOCKER_CONTAINER_NAME
