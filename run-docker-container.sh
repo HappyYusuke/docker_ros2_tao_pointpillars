@@ -1,7 +1,7 @@
 #!/bin/bash
 xhost +
 DOCKER_IMAGE_NAME=nazawa28/ros2_tao_pointpillars:latest
-DOCKER_CONTAINER_NAME=ros2_tao_pointpillars:latest
+DOCKER_CONTAINER_NAME=ros2_tao_pointpillars
 
 #GPU
 if type nvidia-smi > /dev/null 2>&1 ; then
