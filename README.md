@@ -48,13 +48,17 @@ Docker Imageのロードが始まり、コンテナが起動するとプロン�
 
 </br>
 
-colcon_ws/srcに、[ros2_tao_pointpillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git)と[reid_pillar_hf](https://github.com/HappyYusuke/reid_pillar_hf.git)をクローンしビルドする。
+以下3つのリポジトリを使用します。
+* [ros2_tao_pointpillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git)
+* [reid_pillar_hf](https://github.com/HappyYusuke/reid_pillar_hf.git)
+* [livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2.git)
 
 ```
 # リポジトリのクローン
 mkdir -p ~/colcon_ws/src && cd ~/colcon_ws/src
 git clone https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git
 git clone https://github.com/HappyYusuke/reid_pillar_hf.git
+git clone https://github.com/Livox-SDK/livox_ros_driver2.git
 
 # ファイルを置換
 rm ~/colcon_ws/src/ros2_tao_pointpillars/launch/pp_infer_launch.py
@@ -72,7 +76,8 @@ rosdep install -i --from-path src --rosdistro foxy -y --ignore-src
 wget --content-disposition 'https://api.ngc.nvidia.com/v2/models/org/nvidia/team/tao/pointpillarnet/deployable_v1.1/files?redirect=true&path=pointpillars_deployable.onnx' -O ~/colcon_ws/src/ros2_tao_pointpillars/include/pointpillars_deployable.onnx
 
 # ビルド
-colcon build --symlink-install
+cd src/livox_ros_driver2
+./build.sh ROS2
 source ~/colcon_ws/install/setup.bash
 ```
 
@@ -153,7 +158,7 @@ ros2 bag play lidar_data_three_person
    
 3. `MID360_config.json`を開きます。
 ```
-vim ~/docker_ReID3D2025/home/colcon_ws/src/livox_ros_driver2/config/MID360_config.json
+vim ~/docker_ros2_tao_pointpillars/home/colcon_ws/src/livox_ros_driver2/config/MID360_config.json
 ```
 2. `host_net_info`内のipを`192.168.1.50`に変更します。具体的な変更箇所は以下の通りです。
 
