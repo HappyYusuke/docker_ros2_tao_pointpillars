@@ -158,7 +158,7 @@ ros2 bag play lidar_data_three_person
    
 3. `MID360_config.json`を開きます。
 ```
-vim ~/docker_ros2_tao_pointpillars/home/colcon_ws/src/livox_ros_driver2/config/MID360_config.json
+vim ~/colcon_ws/src/livox_ros_driver2/config/MID360_config.json
 ```
 2. `host_net_info`内のipを`192.168.1.50`に変更します。具体的な変更箇所は以下の通りです。
 
