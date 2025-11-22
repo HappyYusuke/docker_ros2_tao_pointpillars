@@ -45,5 +45,15 @@ RUN pip install torch==1.12.1+cu116 torchvision==0.13.1+cu116 --extra-index-url 
 RUN source /opt/ros/foxy/setup.bash
 RUN rosdep init
 
+# Livox MID 360
+WORKDIR /root
+RUN git clone https://github.com/Livox-SDK/Livox-SDK2
+# Build SDK
+WORKDIR /root/Livox-SDK2
+RUN mkdir build
+WORKDIR /root/Livox-SDK2/build
+RUN cmake .. && make -j
+RUN make install
+
 # aptのキャッシュを削除してイメージの容量削減
 RUN rm -rf /var/lib/apt/lists/
