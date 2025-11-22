@@ -12,26 +12,20 @@ git clone https://github.com/HappyYusuke/docker_ros2_tao_pointpillars.git
 
 </br>
 
-zip形式のファイルを以下URLからダウンロードする。</br>
+zip形式のrosbag2ファイルを以下URLからダウンロードする。</br>
 https://kanazawa-it.box.com/s/tuikkndo4hfgks5x6o0am811my0cdz8g
 
-解凍しホームディレクトリへ移動。
+解凍し移動。
 ```bash
 # 解凍
 cd ~/Downloads
-unzip docker_ros2_tao_pointpillars.zip
+unzip ros2_bags.zip
 
-# ホームディレクトリへ移動
-mv docker_ros2_tao_pointpillars ~/
+# 本リポジトリの`home`へ移動
+mv ros2_bags ~/docker_ros2_tao_pointpillars/home
 ```
 
 </br>
-
-Docker Imageをロードする。
-
-```bash
-docker load < ~/docker_ros2_tao_pointpillars/docker_ros2_tao_pointpillars.tar.gz
-```
 
 > [!NOTE]
 > Dockerがインストールされていない場合
@@ -46,7 +40,7 @@ docker load < ~/docker_ros2_tao_pointpillars/docker_ros2_tao_pointpillars.tar.gz
 </br>
 
 Dockerを起動する。
-Dockerを起動すると、プロンプトの@以降がros2になる。
+Docker Imageのロードが始まり、コンテナが起動するとプロンプトの@以降がros2になる。
 
 ```
 ./run-docker-container.sh
