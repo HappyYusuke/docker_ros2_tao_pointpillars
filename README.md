@@ -118,7 +118,7 @@ terminator
 reid_pillar_hfを起動。
 
 ```bash
-ros2 run reid_pillar_hf rviz_pointpillars_launch.py
+ros2 launch reid_pillar_hf rviz_pointpillars_launch.py
 ```
 
 </br>
