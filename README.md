@@ -46,6 +46,17 @@ Docker Imageのロードが始まり、コンテナが起動するとプロン�
 ./run-docker-container.sh
 ```
 
+> [!TIP]
+> インターネットが遅くてDocker ImageのPullに時間がかかる場合。<br>
+> 以下URLからImageをダウンロードしてください (金沢工業大学のメールアドレスのみ)。<br>
+> https://kanazawa-it.box.com/s/p2ntuh18y7193mk0oivdvf65bjf858bl
+>
+> ダウンロード完了後、ロードしてください。
+> ```bash
+> cd ~/Downloads
+> docker load < ros2_tao_pointpillars.tar.gz
+> ```
+
 </br>
 
 以下3つのリポジトリを使用します。
