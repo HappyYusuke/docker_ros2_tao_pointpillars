@@ -75,7 +75,7 @@ Docker Imageのロードが始まり、コンテナが起動するとプロン�
 * [livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2.git)
 
 ```bash
-setup.sh
+./setup.sh
 ```
 
 </br>
