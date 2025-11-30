@@ -61,22 +61,22 @@ Docker Imageのロードが始まり、コンテナが起動するとプロン�
 
 以下3つのリポジトリを使用します。
 * [ros2_tao_pointpillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git)
-* [reid_pillar_hf](https://github.com/HappyYusuke/reid_pillar_hf.git)
+* [harrp](https://github.com/HappyYusuke/harrp.git)
 * [livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2.git)
 
 ```
 # リポジトリのクローン
 mkdir -p ~/colcon_ws/src && cd ~/colcon_ws/src
 git clone https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git
-git clone https://github.com/HappyYusuke/reid_pillar_hf.git
+git clone https://github.com/HappyYusuke/harrp.git
 git clone https://github.com/Livox-SDK/livox_ros_driver2.git
 
 # ファイルを置換
 rm ~/colcon_ws/src/ros2_tao_pointpillars/launch/pp_infer_launch.py
 rm ~/colcon_ws/src/ros2_tao_pointpillars/package.xml
-cp ~/colcon_ws/src/reid_pillar_hf/external_files/pp_infer_launch.py ~/colcon_ws/src/ros2_tao_pointpillars/launch/
-cp ~/colcon_ws/src/reid_pillar_hf/external_files/point_cloud2_iterator.hpp ~/colcon_ws/src/ros2_tao_pointpillars/include/pp_infer
-cp ~/colcon_ws/src/reid_pillar_hf/external_files/package.xml ~/colcon_ws/src/ros2_tao_pointpillars/
+cp ~/colcon_ws/src/harrp/external_files/pp_infer_launch.py ~/colcon_ws/src/ros2_tao_pointpillars/launch/
+cp ~/colcon_ws/src/harrp/external_files/point_cloud2_iterator.hpp ~/colcon_ws/src/ros2_tao_pointpillars/include/pp_infer
+cp ~/colcon_ws/src/harrp/external_files/package.xml ~/colcon_ws/src/ros2_tao_pointpillars/
 
 # 依存関係のパッケージをダウンロード
 cd ~/colcon_ws
@@ -115,10 +115,10 @@ terminator
 - ctrl+shift+nや+pで画面間移動
 - ctrl+shift+wで画面を一つ閉じる
 
-reid_pillar_hfを起動。
+harrpを起動。
 
 ```bash
-ros2 launch reid_pillar_hf rviz_pointpillars_launch.py
+ros2 launch harrp rviz_pointpillars_launch.py
 ```
 
 </br>
@@ -197,10 +197,10 @@ ros2 launch livox_ros_driver2 rviz_MID360_launch.py
 
 </br>
 
-reid_pillar_hfを実行します。
+harrpを実行します。
 
 ```bash
-ros2 launch reid_pillar_hf rviz_pointpillars_launch.py
+ros2 launch harrp rviz_pointpillars_launch.py
 ```
 
 </br>
