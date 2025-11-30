@@ -135,5 +135,28 @@ alias d='setup_cw'
 export PATH=/usr/local/cuda/bin:$PATH
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
 
-# kitproxy
-alias kitproxy="export https_proxy '' && export http_proxy ''"
+# ==========================================================
+# KIT Proxy Settings
+# ==========================================================
+
+# Proxyを設定する関数 (setkitproxy)
+setkitproxy() {
+    export http_proxy='http://wwwproxy.kanazawa-it.ac.jp:8080'
+    export https_proxy='http://wwwproxy.kanazawa-it.ac.jp:8080'
+    export HTTP_PROXY='http://wwwproxy.kanazawa-it.ac.jp:8080'
+    export HTTPS_PROXY='http://wwwproxy.kanazawa-it.ac.jp:8080'
+    echo "✅ Proxy enabled: Kanazawa IT (setkitproxy)"
+}
+
+# Proxyを解除する関数 (unkitproxy)
+unkitproxy() {
+    unset http_proxy
+    unset https_proxy
+    unset HTTP_PROXY
+    unset HTTPS_PROXY
+    echo "🚫 Proxy disabled (unkitproxy)"
+}
+
+# --- 初期化処理 ---
+# Dockerコンテナ起動時(シェルログイン時)に自動でProxyを解除する
+unkitproxy
