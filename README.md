@@ -70,7 +70,7 @@ Docker Imageのロードが始まり、コンテナが起動するとプロン�
 > ```
 
 以下3つのリポジトリを使用するため、セットアップ用のシェルスクリプトを実行してください。
-* [ros2_tao_pointpillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars.git)
+* [ros2_tao_pointpillars](https://github.com/HappyYusuke/ros2_tao_pointpillars.git) (HARRP用に調整)
 * [harrp](https://github.com/HappyYusuke/harrp.git)
 * [livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2.git)
 
