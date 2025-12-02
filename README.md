@@ -132,7 +132,7 @@ ros2 bag play lidar_data_three_person
 
 ## 実機を使ってros2_tao_pointpillrasを試す
 
-イーサネットを設定します。
+### イーサネットを設定します。
 1. PCの設定を開き、「Network」を選択してください。
 2. 「Wired」の「＋」をクリックしてください。
 3. 「IPv4」タブを選択してください。
@@ -149,7 +149,7 @@ ros2 bag play lidar_data_three_person
 
 </br>
 
-`livox_ros_driver2`の設定ファイルを書き換えます。
+### `livox_ros_driver2`の設定ファイルを書き換えます。
 
 1. `./run-docker-containter.sh`でDockerを起動します。
    
@@ -171,7 +171,9 @@ vim ~/colcon_ws/src/livox_ros_driver2/config/MID360_config.json
     - `ping 192.168.1.1XX`を実行し、応答があることを確認します。
     - 応答が確認できたら、`lidar_configs`のipアドレスを変更してください。
 
-5. `launch_ROS2/msg_MID360_launch.py`のパラメータを変更します。
+<br>
+
+### `launch_ROS2/msg_MID360_launch.py`のパラメータを変更します。
 launchファイルを開きます。
 ```bash
 vim ~/colcon_ws/src/livox_ros_driver2/launch_ROS2/msg_MID360_launch.py
@@ -189,6 +191,8 @@ source ~/colcon_ws/install/setup.bash
 ```
 
 </br>
+
+### 起動
 
 MID-360のlaunchを実行します。
 
