@@ -171,7 +171,12 @@ vim ~/colcon_ws/src/livox_ros_driver2/config/MID360_config.json
     - `ping 192.168.1.1XX`を実行し、応答があることを確認します。
     - 応答が確認できたら、`lidar_configs`のipアドレスを変更してください。
 
-4. `./build.sh ROS2`でビルド後、`source ~/colcon_ws/install/setup.bash`を実行します。
+4. ビルド
+```bash
+cd ~/colcon_ws
+colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release
+source ~/colcon_ws/install/setup.bash
+```
 
 </br>
 
