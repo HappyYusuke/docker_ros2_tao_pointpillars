@@ -81,7 +81,7 @@ Docker Imageのロードが始まり、コンテナが起動するとプロン�
 </br>
 
 # Usage
-### ros2 bagを使ってros2_tao_pointpillarsを試す
+## ros2 bagを使ってros2_tao_pointpillarsを試す
 Dockerを起動。
 
 ```bash
@@ -130,7 +130,7 @@ ros2 bag play lidar_data_three_person
 
 </br>
 
-### 実機を使ってros2_tao_pointpillrasを試す
+## 実機を使ってros2_tao_pointpillrasを試す
 
 イーサネットを設定します。
 1. PCの設定を開き、「Network」を選択してください。
@@ -153,25 +153,35 @@ ros2 bag play lidar_data_three_person
 
 1. `./run-docker-containter.sh`でDockerを起動します。
    
-3. `MID360_config.json`を開きます。
+2. `MID360_config.json`を開きます。
 ```
 vim ~/colcon_ws/src/livox_ros_driver2/config/MID360_config.json
 ```
-2. `host_net_info`内のipを`192.168.1.50`に変更します。具体的な変更箇所は以下の通りです。
+3. `host_net_info`内のipを`192.168.1.50`に変更します。具体的な変更箇所は以下の通りです。
 
     - `"cmd_data_ip" : "192.168.1.50",`
     - `"push_msg_ip": "192.168.1.50",`
     - `"point_data_ip": "192.168.1.50",`
     - `"imu_data_ip" : "192.168.1.50",`
 
-3. `lidar_configs`のipを以下の手順で変更します。
+4. `lidar_configs`のipを以下の手順で変更します。
 
     - お手元のMID-360のシリアル番号末尾2桁をご確認ください（ここでは例として`15`とします）。
     - MID-360は`192.168.1.1XX/24`のいずれかに設定されます。（`192.168.1.115`となります）。
     - `ping 192.168.1.1XX`を実行し、応答があることを確認します。
     - 応答が確認できたら、`lidar_configs`のipアドレスを変更してください。
 
-4. ビルド
+5. `launch_ROS2/msg_MID360_launch.py`のパラメータを変更します。
+launchファイルを開きます。
+```bash
+vim ~/colcon_ws/src/livox_ros_driver2/launch_ROS2/msg_MID360_launch.py
+```
+
+`xfer_format   = 1`を`xfer_format   = 0`にしてください。
+
+<br>
+
+6. ビルド
 ```bash
 cd ~/colcon_ws
 colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release
@@ -183,7 +193,7 @@ source ~/colcon_ws/install/setup.bash
 MID-360のlaunchを実行します。
 
 ```bash
-ros2 launch livox_ros_driver2 rviz_MID360_launch.py
+ros2 launch livox_ros_driver2 msg_MID360_launch.py
 ```
 
 </br>
@@ -191,15 +201,7 @@ ros2 launch livox_ros_driver2 rviz_MID360_launch.py
 harrpを実行します。
 
 ```bash
-ros2 launch harrp rviz_pointpillars_launch.py
-```
-
-</br>
-
-ros2_tao_pointpillarsを実行します。
-
-```bash
-ros2 launch pp_infer pp_infer_launch.py
+ros2 launch harrp unified_rviz_pointpillars_launch.py
 ```
 
 </br>
