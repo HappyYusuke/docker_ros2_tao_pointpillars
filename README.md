@@ -12,7 +12,12 @@ git clone https://github.com/HappyYusuke/docker_ros2_tao_pointpillars.git
 
 </br>
 
-zip形式のrosbag2ファイルを以下URLからダウンロードする。</br>
+HARRP向けに学習された重みを使用する場合は以下からダウンロードしてください。</br>
+https://kanazawa-it.box.com/s/lxcm43tq1e1so6y4po3pkop96rxc5640
+
+</br>
+
+zip形式のrosbag2ファイルを以下URLからダウンロードする (必要な場合のみ)。</br>
 https://kanazawa-it.box.com/s/tuikkndo4hfgks5x6o0am811my0cdz8g
 
 解凍し移動。
