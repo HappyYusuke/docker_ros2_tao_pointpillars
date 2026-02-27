@@ -14,6 +14,9 @@ rosdep install -i --from-path src --rosdistro foxy -y --ignore-src
 # ros2_tao_pointpillarsの学習済みモデルをダウンロード
 wget --content-disposition 'https://api.ngc.nvidia.com/v2/models/org/nvidia/team/tao/pointpillarnet/deployable_v1.1/files?redirect=true&path=pointpillars_deployable.onnx' -O ~/colcon_ws/src/ros2_tao_pointpillars/include/pointpillars_deployable.onnx
 
+# HARRP向けの重みを移動
+mv ~/harrp_weight.onnx ~/colcon_ws/src/ros2_tao_pointpillars/include/
+
 # ビルド
 cd ~/colcon_ws/src/livox_ros_driver2/
 ./build.sh ROS2
