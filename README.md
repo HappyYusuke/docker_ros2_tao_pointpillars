@@ -12,7 +12,7 @@ git clone https://github.com/HappyYusuke/docker_ros2_tao_pointpillars.git
 
 </br>
 
-HARRP向けに学習された重みを使用する場合は以下からダウンロードしてください。</br>
+HARRP向けに学習された重みを使用する場合は以下からダウンロードする。</br>
 https://kanazawa-it.box.com/s/lxcm43tq1e1so6y4po3pkop96rxc5640
 
 Dockerコンテナのホームディレクトリに移動
