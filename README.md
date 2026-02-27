@@ -15,6 +15,11 @@ git clone https://github.com/HappyYusuke/docker_ros2_tao_pointpillars.git
 HARRP向けに学習された重みを使用する場合は以下からダウンロードしてください。</br>
 https://kanazawa-it.box.com/s/lxcm43tq1e1so6y4po3pkop96rxc5640
 
+Dockerコンテナのホームディレクトリに移動
+```bash
+mv ~/Downloads/harrp_weight.onnx ~/docker_ros2_tao_pointpillars/home
+```
+
 </br>
 
 zip形式のrosbag2ファイルを以下URLからダウンロードする (必要な場合のみ)。</br>
